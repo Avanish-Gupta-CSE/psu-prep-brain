@@ -1,0 +1,200 @@
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\usepackage{fontawesome5}
+\usepackage[hidelinks,pdfnewwindow=true]{hyperref}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.8in}
+\addtolength{\textheight}{1.6in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-3pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-9pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.00\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      #1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-9pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-7pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \scshape {Avanish Gupta}} \\
+    \vspace{0.1cm}
+    \href{https://www.linkedin.com/in/avanish-gupta/}{\raisebox{-0.2\height}\faLinkedin\ LinkedIn} ~
+    \href{https://github.com/Avanish-Gupta-CSE}{\raisebox{-0.2\height}\faGithub\ GitHub} ~
+    \raisebox{-0.1\height}\faPhone\ +91 8107432468 ~ 
+    \href{mailto:avanish.gupta.official1@gmail.com}{\raisebox{-0.2\height}\faEnvelope\ avanish.gupta.official1@gmail.com}
+\end{center}
+
+%-----------PROFESSIONAL SUMMARY-----------
+\section{PROFESSIONAL SUMMARY}
+\resumeItemListStart
+    \resumeItem{Full Stack MERN Developer with \textbf{1.5+ Years} of experience building production-grade web applications using \textbf{React.js}, \textbf{Node.js}, \textbf{Express.js}, and \textbf{MongoDB}, with proficiency in cross-team development and cloud deployments.}
+\resumeItemListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{TECHNICAL SKILLS}
+\resumeItemListStart
+    \resumeItem{\textbf{MERN Stack}{: MongoDB, Express.js, React.js, Node.js.}}
+    \resumeItem{\textbf{Languages}{: JavaScript, TypeScript.}}
+    \resumeItem{\textbf{Libraries \& Frameworks}{: Redux Toolkit, React Router, PrimeReact, React Hook Form, TailwindCSS, Vite, Yup, Axios.}}
+    \resumeItem{\textbf{Databases \& Search}{: MongoDB, PostgreSQL, Elasticsearch, MySQL.}}
+    \resumeItem{\textbf{Cloud \& DevOps}{: AWS (S3, EKS, ECR, SES), Azure DevOps, Docker, Kubernetes, CI/CD Pipelines.}}
+    \resumeItem{\textbf{Tools \& Testing}{: Git, Postman, Keycloak, Jest, React Testing Library, Kibana.}}
+\resumeItemListEnd
+
+%-----------WORK EXPERIENCE-----------
+\section{WORK EXPERIENCE}
+\resumeSubHeadingListStart
+
+    \resumeProjectHeading
+        {\textbf{Berkadia} $|$ Bengaluru, IN}
+        {\href{https://drive.google.com/file/d/1yrVaOmV1J4laQjglxUJJJVH6zrVVLhhf/view}{\textbf{Certificate} \faExternalLink*}}
+    \resumeProjectHeading
+        {\textbf{Associate Software Engineer}}{June 2024 -- Present}
+
+        \resumeProjectHeading
+            {\textit{ReservesAI -- AI-Powered Document Processing}}{\textit{ongoing}}
+        \resumeItemListStart
+            \resumeItem{Developing an AI-powered document processing platform using \textbf{React 19}, \textbf{Node.js}, and \textbf{Express}, integrating \textbf{Azure Document Intelligence} and IDP services for automated data extraction from Reserve Request Letters.}
+            \resumeItem{Implemented async job processing with \textbf{WebSocket}, built a test harness for bulk validation, and deployed via \textbf{CI/CD pipelines} using \textbf{Azure DevOps} with \textbf{Docker} and \textbf{Kubernetes (EKS)}.}
+        \resumeItemListEnd
+
+        \resumeProjectHeading
+            {\textit{DMS -- Document Management System}}{}
+        \resumeItemListStart
+            \resumeItem{Built a Document Management System using \textbf{React 18}, \textbf{TypeScript}, \textbf{Redux Toolkit}, and \textbf{PrimeReact}, featuring document upload, advanced search, bulk operations, and recycle bin for loan servicing workflows.}
+            \resumeItem{Designed \textbf{Node.js/Express} REST APIs with \textbf{PostgreSQL}, \textbf{Elasticsearch}, and \textbf{AWS S3} for document storage, integrating \textbf{Keycloak} SSO and \textbf{OpenFGA} for fine-grained role-based authorization across document classes.}
+        \resumeItemListEnd
+
+        \resumeProjectHeading
+            {\textit{CMS -- Cash Management Service}}{}
+        \resumeItemListStart
+            \resumeItem{Utilized \textbf{Microservices} to create \textbf{CQRS} based workflows and implemented schema migrations using \textbf{Elasticsearch}, while designing \textbf{REST APIs} using \textbf{Node.js} and \textbf{TypeScript}, with email notifications via \textbf{Amazon SES}.}
+            \resumeItem{Developed interactive dashboards using \textbf{React.js} with advanced filters, search, and sorting, utilizing \textbf{Redux} for state management, and achieved \textbf{85\%+} code coverage using \textbf{Jest} and \textbf{React Testing Library}.}
+        \resumeItemListEnd
+
+    \resumeProjectHeading
+        {\textbf{STMicroelectronics Pvt. Ltd.} $|$ Gr. Noida, IN}
+        {\href{https://drive.google.com/file/d/1wfKMSeUOJrb3yKr8ekMJOihSBozopkU0/view}{\textbf{Certificate} \faExternalLink*}}
+    \resumeProjectHeading
+        {\textbf{Project Trainee / SDE Intern}}{August 2023 -- May 2024}
+        \resumeItemListStart
+            \resumeItem{Built the \textbf{eRFP-NPI} application from the ground up, managing Technical Gap Analysis (TGA) and a product portfolio of \textbf{500+} semiconductor quotations for \textbf{20+} external manufacturing partners, slashing manual processing time by \textbf{70\%}.}
+            \resumeItem{Implemented low-level modules and relational schemas to support \textbf{1 million+} price-quote records, boosting complex-query performance by \textbf{45\%} and maintaining \textbf{99.8\%} data integrity.}
+            \resumeItem{Developed scalable services in \textbf{NodeJS} and dynamic UI dashboard in \textbf{ReactJS} to serve \textbf{200+} concurrent users within \textbf{300 ms} average API response times.}
+            \resumeItem{Resolved \textbf{30+} security findings using \textbf{BMC Helix} from the RMIS audit for FY 23–24—eliminating all critical and high-severity issues to achieve a \textbf{100\%} pass rate on follow-up penetration tests.}
+            \resumeItem{Implemented delivery pipelines with \textbf{Jenkins CI/CD} (cutting deploy time by \textbf{50\%}), managed \textbf{100+} Git branches, scheduled \textbf{50+} batch jobs via TWS, and implemented BDD in ALM to raise automated test coverage to \textbf{90\%}.}
+        \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{PROJECTS}
+\resumeSubHeadingListStart
+    \resumeProjectHeading
+        {\textbf{Codeial - Social Media Portfolio}}
+        {\href{https://codeial-social-app-avanish-gupta-cse.vercel.app/login}{\textbf{Live} \faExternalLink*} $|$ \href{https://github.com/Avanish-Gupta-CSE/Codeial-Social_App}{\textbf{GitHub} \faGithub}}
+        \resumeItemListStart
+            \resumeItem{Built Codeial, a Git-managed social platform for programmers, leveraging \textbf{ReactJS}, \textbf{Redux}, \textbf{Material-UI} and \textbf{OAuth} to deliver a secure, modular and visually consistent UI.}
+            \resumeItem{Implemented a scalable backend using \textbf{Node.js}, \textbf{Express}, \textbf{MongoDB} (via Mongoose) and MockBee to simulate RESTful APIs for authentication, posts, bookmarks, likes, search, and profile management.}
+        \resumeItemListEnd
+
+    \resumeProjectHeading
+        {\textbf{ShopKicks - E-commerce Platform}}
+        {\href{https://super-kicks.netlify.app/}{\textbf{Live} \faExternalLink*} $|$ \href{https://github.com/Avanish-Gupta-CSE/E-commerce-website-Super-Kicks}{\textbf{GitHub} \faGithub}}
+        \resumeItemListStart
+            \resumeItem{Devised a dynamic storefront with \textbf{ReactJS}, \textbf{React Router}, \textbf{Redux Toolkit}, and \textbf{Tailwind CSS}, implementing \textbf{JWT} authentication, \textbf{Fuse.js} instant search, and user dashboards for cart and wishlist management.}
+            \resumeItem{Engineered a robust API layer using \textbf{Node.js}, \textbf{Express}, and \textbf{MongoDB} (via Mongoose), integrating \textbf{Stripe} for secure payments and \textbf{Passport.js} for role-based access control across checkout, order history, and address management.}
+        \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{EDUCATION}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {KIIT Deemed to be University, Bhubaneswar}{CGPA: \textbf{9.60}}
+        {B.Tech. - Computer Science Engineering}{2020 - 2024}
+    \resumeSubheading
+        {Bhagat Public Sr. Sec. School, Kota}{Percentage: \textbf{77.40\%}}
+        {Intermediate}{}
+\resumeSubHeadingListEnd
+
+%-----------ACHIEVEMENTS-----------
+\section{ACHIEVEMENTS}
+\resumeItemListStart
+    \resumeItem{Received \textbf{HI5 Award} for exceptional project contributions at Berkadia.}
+    \resumeItem{Achieved \textbf{Runner-Up Award} at the STMicroelectronics Hackathon 2024.}
+\resumeItemListEnd
+
+%-----------INTERESTS-----------
+\section{INTERESTS}
+\small{• Badminton, Fitness, Cycling.}
+
+\end{document}
