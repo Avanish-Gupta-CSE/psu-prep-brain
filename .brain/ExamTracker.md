@@ -2,30 +2,34 @@
 
 ## Active / Upcoming Exams
 
-### MSTC MT -- Management Trainee
-| Field | Details |
-|-------|---------|
-| **Date** | 18 Mar 2026 (GD round) |
-| **Status** | QUALIFIED CBT -- GD next |
-| **Priority** | HIGH -- IMMEDIATE |
-| **Pattern** | CBT (done): 100 MCQs, 100 marks, 3 hrs, +1/-0.25. Now: GD + Interview |
-| **Posts** | 37 vacancies |
-| **Selection** | ~~CBT~~ -> GD -> Interview |
-| **Prep Focus** | Current affairs, company knowledge (MSTC profile), GD etiquette, common GD topics |
-
 ### HPCL -- Officer (Information Systems)
 | Field | Details |
 |-------|---------|
 | **Date** | 3 May 2026 |
-| **Status** | Applied |
-| **Priority** | HIGH |
+| **Status** | Applied -- CBT date confirmed on official HPCL job openings page |
+| **Priority** | HIGH -- CRITICAL PATH |
 | **Pattern** | CBT -> Group Task -> Personal Interview -> Skill Test |
 | **Posts** | 20 Officer (IS) posts |
 | **Eligibility** | B.E./B.Tech CS/IT, 65% (55% SC/ST/PwBD), age 25 + OBC relaxation |
-| **Syllabus** | Core CS: DSA, OS, DBMS, Networks, COA, Aptitude |
+| **Syllabus** | Official IS syllabus covers Digital Logic, COA, Programming Concepts, DSA, OS, DBMS, CN, Information Security / Cyber Laws, and Emerging Technologies |
 | **Bond** | 3-year service bond |
 | **Fee** | Rs 1,180 (OBC) |
-| **Prep Focus** | CS core deep dive -- this is the golden window |
+| **Prep Focus** | Finish the remaining breadth quickly, then shift to mixed mocks, weak areas, and exam execution |
+
+### IFFCO -- Officer / Senior Officer (IT)
+| Field | Details |
+|-------|---------|
+| **Date** | Application open till 28 Apr 2026; treat late May 2026 as the current planning window until a test date is confirmed |
+| **Status** | Application live |
+| **Priority** | HIGH -- SECONDARY |
+| **Pattern** | Online test or shortlisting based on qualification/experience, followed by personal interview and medical exam |
+| **Posts** | 7 |
+| **Qualification** | Bachelor's degree in IT / Computer Science / Artificial Intelligence |
+| **Eligibility** | General/OBC minimum 60%; SC/ST minimum 55%; age 21-27 as on 1 Apr 2026 with OBC relaxation |
+| **Experience** | Maximum up to 5 years post-qualification |
+| **Role Focus** | Oracle database, SQL, PL/SQL, database administration, Entity Framework Core, C, C#, Bootstrap, Node.js, React, and application-server concepts |
+| **Location** | New Delhi / NCR (04), Aonla Unit (02), Paradeep Unit (01) |
+| **Prep Focus** | Reuse shared CS core where possible and close the enterprise-stack gaps that are not covered by GATE-style prep |
 
 ### UPPSC Polytechnic Lecturer -- Computer Science
 | Field | Details |
@@ -52,6 +56,20 @@
 | **Syllabus** | Telecom, Wireless, IP/Data Networks, Wireline, Transmission, IoT/Blockchain/Cloud/AI, Project Management + Aptitude |
 | **Fee** | Rs 2,500 (OBC) |
 | **Prep Focus** | CS core (shared) + Telecom-specific sprint when date announced |
+
+## Awaiting Result / Interview Update
+
+### MSTC MT -- Management Trainee
+| Field | Details |
+|-------|---------|
+| **Date** | 18 Mar 2026 (GD round completed) |
+| **Status** | GD completed; awaiting result / interview update |
+| **Priority** | HIGH -- KEEP WARM |
+| **Pattern** | ~~CBT~~ -> ~~GD~~ -> Interview |
+| **Posts** | 37 vacancies |
+| **Prep Focus** | Build interview readiness: HR questions, career-story answers, MSTC fit, and behavioral responses |
+
+## Other Active Applications
 
 ### Bank of Baroda -- IT Officer / Specialist Officer
 | Field | Details |
@@ -131,9 +149,10 @@
 
 ## Priority Queue (Ordered by Date)
 
-1. **MSTC MT GD** -- 18 Mar 2026 (4 days)
-2. **HPCL** -- 3 May 2026 (7 weeks)
-3. **UPPSC Lecturer** -- 4 Jun 2026 (12 weeks)
-4. **BSNL SET** -- TBD (postponed, likely May+)
-5. **Bank of Baroda / STPI / HLL / CEL** -- TBD
-6. **SEBI IT / ECIL** -- waiting for results
+1. **HPCL Officer (IS)** -- 3 May 2026 CBT
+2. **IFFCO Officer / Senior Officer (IT)** -- application closes 28 Apr 2026; plan as a late-May target until the test date is confirmed
+3. **MSTC MT** -- awaiting GD result / interview update
+4. **UPPSC Lecturer** -- 4 Jun 2026
+5. **BSNL SET** -- TBD (postponed)
+6. **Bank of Baroda / STPI / HLL / CEL** -- TBD
+7. **SEBI IT / ECIL** -- waiting for results

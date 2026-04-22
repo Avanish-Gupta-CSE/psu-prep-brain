@@ -1,173 +1,95 @@
 # Study Plan
 
+## Current Planning Assumption (as of 22 Apr 2026)
+
+- `HPCL` is the critical path until the CBT on 3 May 2026.
+- `IFFCO` runs as a smaller parallel track focused on non-overlapping stack gaps.
+- `MSTC` stays warm only for interview readiness while waiting for a result update.
+- `UPPSC` and `BSNL` remain valid targets but are not the main daily planning drivers right now.
+
 ## Phase Overview
 
 | Phase | Period | Target Exam | Focus | Status |
 |-------|--------|-------------|-------|--------|
-| 1 | 14-18 Mar 2026 | MSTC MT GD | GD prep, company research, current affairs | ACTIVE |
-| 2 | 19 Mar - 3 May 2026 | HPCL Officer (IS) | CS Core Deep Dive: DSA, Algo, OS, DBMS, Networks, COA, Aptitude | UPCOMING |
-| 3 | 4 May - 4 Jun 2026 | UPPSC Lecturer | CS core (carries from Phase 2) + General Hindi + General Studies | UPCOMING |
-| 4 | When date announced | BSNL SET | Telecom-specific topics layered on CS core | UPCOMING |
+| 1 | 14-18 Mar 2026 | MSTC MT GD | GD prep, company research, current affairs | COMPLETED |
+| 2 | 22 Apr - 3 May 2026 | HPCL Officer (IS) | Compressed full-syllabus sprint + mixed mocks | ACTIVE |
+| 3 | 22 Apr - 31 May 2026 | IFFCO Officer / Senior Officer (IT) | Oracle/PLSQL + enterprise-stack gap closure + interview readiness | PARALLEL |
+| 4 | Waiting period | MSTC Interview Readiness | HR + behavioral + career-story readiness | WARM |
+| 5 | 4 May onward | UPPSC / BSNL carry-over | Extend shared-core into the next exam window | DEFERRED |
 
-## Phase 1: MSTC MT GD Prep (14-18 Mar 2026)
+## Phase 2: HPCL Critical Sprint (22 Apr - 3 May 2026)
 
-### GD Preparation Checklist
-- [ ] Research MSTC Ltd: what they do (e-commerce for metals/minerals/coal, Govt of India enterprise under Ministry of Steel)
-- [ ] Know MSTC's recent initiatives, financials, news
-- [ ] Practice 5 common GD topics (economic growth, digital India, PSU relevance, tech in governance, India's manufacturing push)
-- [ ] GD etiquette: how to enter discussion, how to build on others' points, how to conclude
-- [ ] Body language and communication tips
-- [ ] Current affairs: last 3 months headline topics
-- [ ] Practice self-introduction (30-second and 1-minute versions)
+Official HPCL sources already surfaced from the job openings page:
 
-### Daily Plan (14-18 Mar)
-| Day | Morning (6-7:30 AM) | Evening (9-11 PM) |
-|-----|---------------------|-------------------|
-| 14 Mar (Sat) | BARC CBT day | MSTC company research |
-| 15 Mar (Sun) | GD topic practice (2 topics) | Current affairs compilation |
-| 16 Mar (Mon) | GD topic practice (2 topics) | Mock GD points writing |
-| 17 Mar (Tue) | Self-intro polish + body language | Final revision of all GD topics |
-| 18 Mar (Wed) | Quick review before GD | **GD DAY** |
+- Official job openings page confirms the CBT is scheduled for `3 May 2026`.
+- The same page links the official `IS Officer Syllabus`, `Selection Methodology`, and `Mock Test` PDFs.
 
-## Phase 2: CS Core Deep Dive for HPCL (19 Mar - 3 May 2026)
+### Remaining-Day Topic Order
 
-This is the **golden preparation window**. BSNL SET postponed, HPCL on 3 May. Everything studied here directly applies to BSNL SET, UPPSC Lecturer, Bank of Baroda, and all future PSU exams.
+| Date | Primary Focus | Secondary Focus | Output |
+|------|---------------|-----------------|--------|
+| 22 Apr | DBMS + CN closure | SQL traps + IP addressing/routing | One concise revision note per topic |
+| 23 Apr | Digital Logic | Number systems + Boolean algebra + K-maps | Formula sheet + 15 MCQs |
+| 24 Apr | COA | Memory hierarchy + cache + pipelining | Dry-run numericals |
+| 25 Apr | Programming Concepts | Java/J2EE, Python, shell, APIs, React/Node quick review | Breadth checklist |
+| 26 Apr | Security + Emerging Tech | Crypto/auth/firewalls + cloud/IoT/AI/ML/blockchain | Fast factual revision sheet |
+| 27 Apr | DSA mixed revision | Trees, heaps, graphs, hashing | Mixed MCQ set |
+| 28 Apr | OS mixed revision | Scheduling, deadlocks, memory management | Mixed MCQ set |
+| 29 Apr | Mixed mock 1 | Analysis + weak area update | Mock review log |
+| 30 Apr | Mixed mock 2 | Weak areas | Final formula compression |
+| 1 May | Weak-area sweep | SQL/CN/COA/OS high-yield errors | Error notebook |
+| 2 May | Light revision only | Mock-test mistakes + calm execution | Final exam-day sheet |
+| 3 May | **HPCL CBT** | -- | Execute |
 
-### 6-Week Subject Plan
+### Time Allocation Rule
 
-| Week | Dates | Subject | Key Topics | Resource |
-|------|-------|---------|------------|----------|
-| 1 | 19-25 Mar | Data Structures | Arrays, Linked Lists, Stacks, Queues, Hashing | GO Classes |
-| 2 | 26 Mar - 1 Apr | Data Structures + Algorithms | Trees (BST, AVL, B/B+), Heaps, Graphs | GO Classes |
-| 3 | 2-8 Apr | Algorithms | Sorting, Searching, DP, Greedy, Graph Algos, Complexity Analysis | GO Classes |
-| 4 | 9-15 Apr | Operating Systems | Processes, Scheduling, Deadlocks, Memory Management (Paging, Segmentation) | GO Classes |
-| 5 | 16-22 Apr | DBMS + Computer Networks | ER model, Normalization, SQL, Transactions, OSI/TCP-IP, Routing, Transport Layer | GO Classes |
-| 6 | 23-29 Apr | COA + Revision + Mocks | Digital Logic, Pipelining, Cache, Memory Hierarchy + Full-length mock tests | GO Classes |
-| Buffer | 30 Apr - 2 May | Weak areas + Final mock | Revisit WeakAreas.md topics, 1-2 full mocks | Mixed |
+- `70%` of available study time goes to HPCL + shared-core.
+- `20%` goes to IFFCO stack-gap work.
+- `10%` goes to MSTC interview readiness.
 
-### Weekly Structure (Phase 2)
+### Weekly Structure
 
-**Weekdays (Mon-Fri):**
+- **Weekdays**
+	- `6:00 - 7:30 AM`: main concept block
+	- Work micro-slots: formulas, flash review, 5-10 quick MCQs
+	- `9:00 - 10:00 PM`: dry-run / MCQs with AI support
+	- `10:00 - 11:00 PM`: PYQs or mock review
+- **Weekends**
+	- Long block for full mock + remediation
+	- Short block for IFFCO gap closure
+	- Short block for MSTC interview answers
 
-| Slot | Time | Activity |
-|------|------|----------|
-| Morning | 6:00 - 7:30 AM | GO Classes recorded lecture (1 topic/day) |
-| Work breaks | Micro-slots (5-10 min) | Revise notes from morning, quick MCQs on phone |
-| Evening | 9:00 - 10:00 PM | Cursor AI session: dry-run problems + 5 MCQs on the day's topic |
-| Evening | 10:00 - 11:00 PM | PYQ practice from the week's subject |
+## Phase 3: IFFCO Parallel Track (22 Apr - 31 May 2026)
 
-**Weekends (Sat-Sun):**
+IFFCO is not just a CS-fundamentals exam for you. It adds stack-specific gaps that need deliberate coverage.
 
-| Slot | Time | Activity |
-|------|------|----------|
-| Morning | 6:00 - 9:00 AM | GO Classes: cover 2 topics or 1 complex topic in depth |
-| Afternoon | 2:00 - 4:00 PM | Mock test (subject-wise or mixed) + analysis |
-| Evening | 8:00 - 10:00 PM | Weak area remediation from mock analysis |
+### IFFCO Priority Areas
 
-**Weekly target:** ~25 hours (17.5 weekday + 8 weekend)
+1. Oracle SQL + PL/SQL
+2. Oracle database administration basics
+3. Entity Framework Core and C# awareness
+4. Application server concepts: Tomcat, IIS, Node.js
+5. Resume-to-role mapping for interview answers
 
-### Phase 2: Subject-Wise Topic Breakdown
+### Weekly Rhythm
 
-**Week 1-2: Data Structures**
-- Day 1: Arrays (traversal, rotation, searching, 2D arrays)
-- Day 2: Linked Lists (singly, doubly, circular, operations, reversal)
-- Day 3: Stacks (implementation, applications -- infix/postfix/prefix, balanced parentheses)
-- Day 4: Queues (circular queue, deque, priority queue)
-- Day 5: Hashing (collision resolution -- chaining, open addressing, load factor)
-- Day 6-7: Trees (BST operations, AVL rotations, B-Tree properties, B+ Tree, Red-Black basics)
-- Day 8: Heaps (min/max heap, heapify, heap sort, priority queue implementation)
-- Day 9-10: Graphs (BFS, DFS, representations, connected components, topological sort)
+- `3 to 4` short sessions per week on Oracle/PLSQL and enterprise stack
+- `1` weekend interview or role-fit session using `Resume-Berkadia.tex`
+- Reuse shared-core DBMS, API, and web-tech notes instead of duplicating them
 
-**Week 3: Algorithms**
-- Day 1: Sorting (Bubble, Selection, Insertion, Merge, Quick, Heap, Counting, Radix -- complexities)
-- Day 2: Searching (Binary search variants, interpolation, exponential)
-- Day 3: Dynamic Programming (0/1 Knapsack, LCS, LIS, Matrix Chain, Coin Change)
-- Day 4: Greedy (Activity Selection, Huffman, Fractional Knapsack, Job Sequencing)
-- Day 5: Graph Algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall, Prim, Kruskal)
-- Weekend: Complexity analysis practice, recurrence relations (Master theorem)
+## Phase 4: MSTC Waiting Period -> Interview Readiness
 
-**Week 4: Operating Systems**
-- Day 1: Process concepts (states, PCB, context switching, fork())
-- Day 2: CPU Scheduling (FCFS, SJF, SRTF, RR, Priority -- Gantt charts, waiting time, turnaround time)
-- Day 3: Process Synchronization (Critical section, Peterson's, Semaphores, Mutex)
-- Day 4: Deadlocks (conditions, RAG, Banker's algorithm, detection, recovery)
-- Day 5: Memory Management (Paging, page table, TLB, page replacement -- FIFO, LRU, Optimal, Belady's anomaly)
-- Weekend: Segmentation, virtual memory, thrashing, disk scheduling (SCAN, C-SCAN, SSTF)
+MSTC is no longer a daily-driver exam, but it should not go cold.
 
-**Week 5: DBMS + Networks**
-- Day 1: ER Model (entities, relationships, cardinality, weak entities)
-- Day 2: Normalization (1NF through BCNF, decomposition, lossless join, dependency preservation)
-- Day 3: SQL (joins, subqueries, GROUP BY, HAVING, aggregate functions, nested queries)
-- Day 4: Transactions (ACID, serializability, conflict/view, 2PL, timestamp ordering)
-- Day 5: OSI model, TCP/IP, IP addressing, subnetting, CIDR
-- Weekend: Routing (distance vector, link state), TCP vs UDP, sliding window, flow/congestion control
+### Warm-Maintenance Tasks
 
-**Week 6: COA + Revision**
-- Day 1: Number systems, Boolean algebra, K-maps
-- Day 2: Combinational circuits (adders, subtractors, MUX, DEMUX, encoders, decoders)
-- Day 3: Sequential circuits (flip-flops, counters, registers)
-- Day 4: Pipelining (hazards, stalls, forwarding)
-- Day 5: Cache memory (mapping -- direct, associative, set-associative, replacement policies, hit/miss)
-- Weekend: Full-length mixed mock + comprehensive weak area revision
+- Build HR question bank
+- Build behavioral question bank using PSU language, not startup language
+- Build career-story bank from `Resume-Berkadia.tex`
+- Keep MSTC company-fit notes and self-introduction current
 
-## Phase 3: UPPSC Lecturer Sprint (4 May - 4 Jun 2026)
+## Deferred Tracks
 
-CS core from Phase 2 carries forward. This phase adds:
-
-### Additional CS Topics (not in HPCL prep)
-- [ ] AI & ML basics (supervised/unsupervised, decision trees, neural networks, NLP basics)
-- [ ] Compiler Design (lexical analysis, parsing -- LL(1), LR(0), SLR, CLR, LALR, syntax-directed translation, code optimization)
-- [ ] Theory of Computation (FA, NFA to DFA, RE, pumping lemma, CFG, PDA, Turing machines, decidability)
-- [ ] Digital Signal Processing basics
-- [ ] Cyber Security fundamentals
-- [ ] Software Engineering (SDLC models, testing strategies)
-
-### General Hindi Prep
-- [ ] Hindi grammar: Sandhi, Samas, Upsarg, Pratyay
-- [ ] Muhavare and Lokoktiyan (idioms and proverbs)
-- [ ] Vocabulary: Paryayvachi, Vilom, Anekarthi
-- [ ] Comprehension passages
-
-### General Studies Prep
-- [ ] Current affairs (Jan-Jun 2026)
-- [ ] Indian Polity basics
-- [ ] Indian Geography basics
-- [ ] General Science
-- [ ] History highlights
-
-### Weekly Plan (4 weeks)
-| Week | CS Focus | Non-CS Focus |
-|------|----------|-------------|
-| 1 (4-10 May) | TOC + Compiler Design | Hindi grammar |
-| 2 (11-17 May) | AI/ML + Software Engineering | GS: Polity + Geography |
-| 3 (18-24 May) | Cyber Security + DSP | GS: Science + History |
-| 4 (25-31 May) | Full revision + mocks | Current affairs + Hindi revision |
-| Buffer (1-3 Jun) | Weak areas + final mock | Quick GS revision |
-
-## Phase 4: BSNL SET Sprint (When Date Announced)
-
-CS core already done. Sprint adds telecom-specific topics:
-
-- [ ] Telecom fundamentals (switching, signaling, PSTN)
-- [ ] Wireless communications (GSM, CDMA, LTE, 5G basics)
-- [ ] IP/Data Networks (routing protocols, MPLS, VPN, SDN/NFV)
-- [ ] Optical fiber and Transmission systems
-- [ ] IoT architecture and protocols
-- [ ] Cloud computing models and services
-- [ ] Blockchain basics
-- [ ] Project management fundamentals
-
-**Duration needed:** 10-14 days of focused telecom prep on top of CS core.
-
-## Continuous Prep (No Fixed Date)
-
-### Bank of Baroda IT Officer
-- CS core (shared) + Interview prep (leverage Berkadia experience heavily -- MERN stack, cloud, CI/CD directly relevant)
-- Practice quantitative aptitude and reasoning
-
-### STPI Scientist B
-- CS core (shared) + Interview preparation
-- Written exam focus on CS fundamentals
-
-### HLL MT / CEL GET
-- CS core (shared) -- prepare when dates announced
+- `UPPSC` remains the next major broad-CS carry-over after HPCL, especially because much of HPCL shared-core transfers directly.
+- `BSNL` remains paused until the date is announced again.
+- `MSTC-GD-Prep.md` remains the archive for the March GD phase; the live study plan is now driven by HPCL + IFFCO + MSTC interview readiness.

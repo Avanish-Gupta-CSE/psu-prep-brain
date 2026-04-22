@@ -36,6 +36,20 @@ BARC confirmed the same weaknesses identified from GATE, now with specific sub-t
 | Algorithms | Could not solve algorithm questions | 1 | GO Classes Algo playlist, focus on DP, greedy, and graph algorithms |
 | C Programming | Partially solved -- some gaps remain | 2 | Focus on pointer traps, fork() counting, macro expansion |
 
+### From April 2026 Exam Mapping (HPCL + IFFCO)
+
+These are immediate gaps identified by comparing the active exam syllabi with the current profile and prior performance. They are planning gaps, not yet mock-verified.
+
+| Area | Gap | Priority | Remediation |
+|------|-----|----------|-------------|
+| HPCL -- Digital Logic | Boolean algebra, K-maps, combinational and sequential circuit recall speed | 1 | Create one compact formula sheet + solve 30 factual/numerical MCQs |
+| HPCL -- Programming Concepts Breadth | Java/J2EE, Python, shell scripting, web stack breadth, API concepts | 1 | Use fast-recall revision notes instead of deep implementation study |
+| HPCL -- Information Security | Crypto/auth/firewalls/IDS/IPS/risk/data privacy basics | 2 | Build one exam-focused summary and drill definition-based MCQs |
+| HPCL -- Emerging Technologies | Cloud, virtualization, IoT, AI/ML, data mining, blockchain survey topics | 2 | Build high-level comparison notes and factual MCQ practice |
+| IFFCO -- Oracle / PL-SQL | Oracle SQL, PL/SQL syntax, stored objects, database administration concepts | 1 | Daily short-track on Oracle + PL/SQL output and concept questions |
+| IFFCO -- Enterprise Stack | C#, Entity Framework Core, IIS/Tomcat/app server concepts | 1 | Build awareness-level notes and interview-ready explanations |
+| IFFCO -- Role Framing | Mapping MERN/cloud-heavy experience to an Oracle/enterprise IT role | 1 | Prepare project-story answers using resume facts, not generic claims |
+
 ### From BEL MT CBT (Failed)
 
 | Area | Notes | Remediation |
@@ -66,19 +80,20 @@ _Topics that were weak but have been addressed and now score above 70% consisten
 
 ## Active Remediation Plan
 
-### Immediate (Phase 1: 14-18 Mar)
-1. GD preparation for MSTC MT (not a technical weakness, but needs attention)
+### Immediate (22 Apr - 3 May: HPCL Sprint)
+1. **Close the leftover HPCL breadth** -- Digital Logic, COA, Programming Concepts, Security, Emerging Tech
+2. **Keep core weak areas alive** -- SQL, CN, OS deadlocks, COA numericals, Algorithms
+3. **Start mixed mocks** -- shift from isolated topics to paper-style breadth before 3 May
 
-### Short-term (Phase 2: 19 Mar - 3 May)
-1. **DSA deep dive** -- the foundation. Solve at least 100 MCQs across all DS topics
-2. **Algorithm practice** -- focus on DP and greedy (most failed questions likely here)
-3. **OS numericals** -- scheduling and paging problems daily
-4. **SQL practice** -- write and predict output of queries
-5. **Subnetting drills** -- until it becomes second nature
+### Parallel (Late Apr - May: IFFCO Track)
+1. **Oracle + PL/SQL gap closure** -- practical syntax and concept familiarity
+2. **Enterprise-stack awareness** -- C#/Entity Framework Core, IIS/Tomcat, app-server concepts
+3. **Resume-to-role mapping** -- convert Berkadia and STMicro work into answers that fit the IFFCO role
 
-### Medium-term (Phase 3: 4 May - 4 Jun)
-1. TOC and Compiler Design (UPPSC-specific depth)
-2. General Hindi and GS (UPPSC-specific)
+### Warm Track (Waiting for MSTC update)
+1. HR and behavioral question bank
+2. Career-story bank from `Resume-Berkadia.tex`
+3. MSTC company-fit and PSU-motivation answers
 
 ## Session-Level Weak Spots
 

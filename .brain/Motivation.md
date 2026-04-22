@@ -2,26 +2,24 @@
 
 ## Current Streak
 
-**Study Streak: 1 day** (Day 1: 14 Mar 2026 -- BARC done, GD prep started)
+**Study Streak: 1 day** (Restarted on 22 Apr 2026 -- system sync and HPCL sprint restart)
 
 _A "study day" counts if you spent at least 30 minutes on exam-relevant material._
 
 | Longest Streak | Current Streak | Target Streak |
 |---------------|---------------|---------------|
-| 1 day | 1 day | 7 days (first milestone) |
+| 1 day | 1 day | 12 days (carry through HPCL CBT) |
 
-## Streak Calendar (March 2026)
+## Streak Calendar (April 2026)
 
 ```
 Mon Tue Wed Thu Fri Sat Sun
-                          1  2
- 3   4   5   6   7   8   9
-10  11  12  13  14X 15  16
-17  18  19  20  21  22  23
-24  25  26  27  28  29  30
-31
+     1   2   3   4   5
+ 6   7   8   9  10  11  12
+13  14  15  16  17  18  19
+20  21  22X 23  24  25  26
+27  28  29  30
 
-* = brain-complex setup day
 Mark each study day with [X], missed day with [ ]
 ```
 
@@ -30,15 +28,16 @@ Mark each study day with [X], missed day with [ ]
 ### Achieved
 - [x] Created brain-complex system (14 Mar 2026)
 - [x] Qualified MSTC MT CBT
+- [x] Completed MSTC MT GD (18 Mar 2026)
 - [x] Cleared SEBI Phase 1 (appeared for Phase 2)
 - [x] B.Tech CSE with 9.60 CGPA from KIIT
 - [x] 1.5+ years industry experience at Berkadia
 - [x] Applied to 10+ PSU/Govt exams in 2025-2026
 
 ### Next Milestones
-- [ ] Complete 7-day study streak
-- [ ] Complete MSTC MT GD (18 Mar)
-- [ ] Finish DS topic in Phase 2 (Week 1)
+- [ ] Carry the streak through HPCL CBT day
+- [ ] Submit / finalize IFFCO IT application before 28 Apr 2026
+- [ ] Build MSTC interview answer bank while waiting for result
 - [ ] First mock test score logged
 - [ ] Score 50%+ in a subject-wise mock
 - [ ] Complete 30-day study streak
@@ -98,6 +97,7 @@ You went from "I can't manage all these exams" to having a system that:
 | Mar 2026 | BEL MT: Failed CBT | Added to frustration |
 | Mar 2026 | BDL MT: Failed CBT | Added to frustration |
 | 14 Mar 2026 | BARC OCES: attempted ~60/100, couldn't solve CN/TOC/COA/Algo | "I felt violated." BUT: immediately pivoted to MSTC GD prep. No wallowing. That's the mindset. "If you don't burn like the sun, you won't shine like it." |
+| 22 Apr 2026 | Brain state went stale after the March phase | Restarted cleanly, reprioritized around HPCL, kept IFFCO in parallel, and preserved MSTC as an interview-readiness track instead of abandoning it. |
 
 ## Weekly Reflection
 

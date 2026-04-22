@@ -4,13 +4,23 @@
 
 | Field | Value |
 |-------|-------|
-| **Active Phase** | Phase 1: MSTC MT GD Prep (Now - 18 Mar 2026) |
-| **Next Phase** | Phase 2: CS Core Deep Dive for HPCL (19 Mar - 3 May 2026) |
-| **Study Streak** | 1 day (Day 1: 14 Mar 2026) |
-| **Last Session** | 14 Mar 2026 -- BARC CBT done + GD prep started |
-| **Overall Mood** | BARC was tough but MSTC GD is the real shot -- locked in |
+| **Active Phase** | Phase 2: HPCL Officer (IS) Critical Sprint (22 Apr - 3 May 2026) |
+| **Secondary Track** | IFFCO Officer / Senior Officer (IT) parallel track (late Apr - May 2026 planning window) |
+| **MSTC Status** | GD completed; awaiting result / interview update |
+| **Study Streak** | 1 day (restart on 22 Apr 2026) |
+| **Last Session** | 22 Apr 2026 -- system sync + implementation start |
+| **Overall Mood** | High urgency; HPCL is the critical path, IFFCO is next, MSTC stays warm for interview |
 
 ## Session Log
+
+### Session 3 -- 22 Apr 2026
+- **Type:** Planning + System Sync
+- **What happened:** Reactivated the prep system after the March MSTC phase. Confirmed MSTC GD is done and pending result, HPCL CBT on 3 May is now the active sprint, IFFCO IT is the next target, and repository/Copilot structure work started to keep all prep tracks synchronized.
+- **Topics covered:** HPCL reprioritization, IFFCO role mapping, MSTC interview-readiness planning
+- **Questions attempted:** 0
+- **Accuracy:** N/A
+- **Weak areas identified:** Oracle/PLSQL and enterprise-stack gaps for IFFCO; HPCL digital logic/programming breadth still needs structured coverage
+- **Next goals:** finish repo prep structure, build shared-core notes, and start the remaining HPCL sprint plus IFFCO stack-gap track
 
 ### Session 2 -- 14 Mar 2026 (Evening)
 - **Type:** Exam Debrief + GD Prep Start
@@ -48,31 +58,34 @@ _New sessions are appended above this line. Each entry follows the format:_
 
 | Date | Hours | Topics | Questions | Accuracy |
 |------|-------|--------|-----------|----------|
-| 14 Mar | 2 | BARC CBT + GD prep start | 60 (BARC) | Low |
-| 13 Mar | 0 | -- | 0 | -- |
-| 12 Mar | 0 | -- | 0 | -- |
-| 11 Mar | 0 | -- | 0 | -- |
-| 10 Mar | 0 | -- | 0 | -- |
-| 9 Mar | 0 | -- | 0 | -- |
-| 8 Mar | 0 | -- | 0 | -- |
+| 22 Apr | 2 | System sync + implementation start | 0 | N/A |
+| 21 Apr | Not logged | -- | -- | -- |
+| 20 Apr | Not logged | -- | -- | -- |
+| 19 Apr | Not logged | -- | -- | -- |
+| 18 Apr | Not logged | -- | -- | -- |
+| 17 Apr | Not logged | -- | -- | -- |
+| 16 Apr | Not logged | -- | -- | -- |
 
 ## Streak History
 
 | Streak | Start | End | Days | Notes |
 |--------|-------|-----|------|-------|
-| #1 | 14 Mar 2026 | ongoing | 1 | Day 1: BARC done, pivoted to MSTC GD prep |
+| #2 | 22 Apr 2026 | ongoing | 1 | Restarted with HPCL critical sprint, IFFCO parallel planning, and repo sync |
+| #1 | 14 Mar 2026 | 14 Mar 2026 | 1 | Day 1: BARC done, pivoted to MSTC GD prep |
 
 ## Phase Progress
 
 | Phase | Period | Target Exam | Status | Completion |
 |-------|--------|-------------|--------|------------|
-| Phase 1 | Now - 18 Mar | MSTC MT GD | ACTIVE | 0% |
-| Phase 2 | 19 Mar - 3 May | HPCL | UPCOMING | 0% |
-| Phase 3 | 4 May - 4 Jun | UPPSC Lecturer | UPCOMING | 0% |
-| Phase 4 | When announced | BSNL SET | UPCOMING | 0% |
+| Phase 1 | 14 Mar - 18 Mar | MSTC MT GD | COMPLETED | 100% |
+| Phase 2 | 22 Apr - 3 May | HPCL Officer (IS) | ACTIVE | 0% |
+| Phase 3 | Late Apr - May | IFFCO Officer / Senior Officer (IT) | PARALLEL | 0% |
+| Phase 4 | 4 May - 4 Jun | UPPSC Lecturer | DEFERRED | 0% |
+| Phase 5 | When announced | BSNL SET | DEFERRED | 0% |
 
 ## Blockers and Concerns
 
-- Recovering from 1-1.5 month study slump post-GATE failure
-- Multiple exams create analysis paralysis -- phase-locked approach should fix this
-- Working 11 AM - 8 PM limits daily study to ~3.5 hours on weekdays
+- Logged study continuity is broken between 15 Mar and 21 Apr, so the tracker is being restarted cleanly from 22 Apr
+- HPCL breadth is large for the time left: digital logic, COA, programming concepts, security, and emerging tech need disciplined compression
+- IFFCO introduces enterprise-stack gaps beyond the usual GATE-style syllabus: Oracle, PL/SQL, C#/Entity Framework, and application-server concepts
+- Working 11 AM - 8 PM still limits weekday study to ~3.5 hours, so time allocation must stay strict

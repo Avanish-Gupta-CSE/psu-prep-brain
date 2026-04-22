@@ -162,3 +162,54 @@ Legend:
 | General Science | 0% | L | -- | UPPSC only |
 | Current Affairs (2026) | 0% | L | -- | UPPSC, MSTC GD, Bank of Baroda |
 | Indian History highlights | 0% | L | -- | UPPSC only |
+
+## 13. Programming Concepts & Full-Stack Breadth [Priority: 1]
+
+| Sub-Topic | Completion | Confidence | Last Studied | Exam Relevance |
+|-----------|-----------|------------|-------------|----------------|
+| Java / J2EE fundamentals | 0% | L | -- | HPCL, IFFCO |
+| Python programming basics | 0% | L | -- | HPCL |
+| OOP principles | 0% | L | -- | HPCL, IFFCO, interviews |
+| HTML / CSS / JavaScript | 0% | M | -- | HPCL, IFFCO |
+| PHP / XML awareness | 0% | L | -- | HPCL |
+| Unix / Linux shell programming | 0% | L | -- | HPCL |
+| Database programming SQL / PL-SQL | 0% | L | -- | HPCL, IFFCO |
+| Application servers (Tomcat, IIS, Node.js) | 0% | L | -- | HPCL, IFFCO |
+| React frameworks and REST APIs | 0% | M | -- | HPCL, IFFCO |
+
+## 14. Information Security & Cyber Laws [Priority: 2]
+
+| Sub-Topic | Completion | Confidence | Last Studied | Exam Relevance |
+|-----------|-----------|------------|-------------|----------------|
+| Cryptography basics | 0% | L | -- | HPCL, UPPSC |
+| Authentication mechanisms | 0% | L | -- | HPCL, IFFCO |
+| Firewalls / IDS / IPS | 0% | L | -- | HPCL |
+| Malware and attack basics | 0% | L | -- | HPCL |
+| Secure coding practices | 0% | L | -- | HPCL, IFFCO, interviews |
+| Risk management | 0% | L | -- | HPCL |
+| Cyber laws and ethical hacking concepts | 0% | L | -- | HPCL |
+| Data privacy and compliance | 0% | L | -- | HPCL, IFFCO |
+
+## 15. Emerging Technologies [Priority: 2]
+
+| Sub-Topic | Completion | Confidence | Last Studied | Exam Relevance |
+|-----------|-----------|------------|-------------|----------------|
+| Cloud service models (IaaS, PaaS, SaaS) | 0% | L | -- | HPCL, BSNL, IFFCO |
+| Virtualization and containerization | 0% | L | -- | HPCL, IFFCO |
+| Edge computing | 0% | L | -- | HPCL |
+| IoT architecture | 0% | L | -- | HPCL, BSNL |
+| Big Data analytics | 0% | L | -- | HPCL |
+| AI / ML survey | 0% | L | -- | HPCL, UPPSC |
+| Data mining techniques | 0% | L | -- | HPCL |
+| Blockchain concept | 0% | L | -- | HPCL, BSNL |
+
+## 16. IFFCO-Specific Enterprise Stack [Priority: 1 while IFFCO is active]
+
+| Sub-Topic | Completion | Confidence | Last Studied | Exam Relevance |
+|-----------|-----------|------------|-------------|----------------|
+| Oracle database administration basics | 0% | L | -- | IFFCO only |
+| PL/SQL procedures, functions, triggers | 0% | L | -- | IFFCO only |
+| Entity Framework Core awareness | 0% | L | -- | IFFCO only |
+| C / C# basics | 0% | L | -- | IFFCO only |
+| Bootstrap and related UI stack | 0% | L | -- | IFFCO only |
+| Resume-to-role interview mapping | 0% | L | -- | IFFCO, MSTC interviews |
