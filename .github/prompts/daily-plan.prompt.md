@@ -4,7 +4,7 @@ description: Create today's study plan across HPCL, IFFCO, and MSTC using the cu
 agent: plan
 ---
 
-Read [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../.brain/StudyPlan.md](../../.brain/StudyPlan.md) first.
+Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../.brain/StudyPlan.md](../../.brain/StudyPlan.md) first.
 
 Then create a one-day study plan that:
 

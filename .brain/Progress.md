@@ -8,10 +8,20 @@
 | **Secondary Track** | IFFCO Officer / Senior Officer (IT) parallel track (late Apr - May 2026 planning window) |
 | **MSTC Status** | GD completed; awaiting result / interview update |
 | **Study Streak** | 1 day (restart on 22 Apr 2026) |
-| **Last Session** | 22 Apr 2026 -- system sync + implementation start |
+| **Last Session** | 22 Apr 2026 -- workspace sync, GitHub push, and next-step continuity layer added |
+| **Resume From** | `.brain/NextSteps.md` |
 | **Overall Mood** | High urgency; HPCL is the critical path, IFFCO is next, MSTC stays warm for interview |
 
 ## Session Log
+
+### Session 4 -- 22 Apr 2026
+- **Type:** Planning + Continuity Hardening
+- **What happened:** Finished the GitHub-backed prep workspace setup, pushed it, and added a canonical `.brain/NextSteps.md` handoff so any future login or agent can recover the immediate next actions without rebuilding context from scratch.
+- **Topics covered:** continuity system, next-step tracking, repo synchronization
+- **Questions attempted:** 0
+- **Accuracy:** N/A
+- **Weak areas identified:** none new; existing HPCL digital logic/programming breadth and IFFCO Oracle/PLSQL gaps remain the active content risks
+- **Next goals:** start HPCL Digital Logic on 23 Apr, finish IFFCO application-readiness items before 28 Apr, and prepare MSTC self-introduction / why-PSU answers in a short maintenance block
 
 ### Session 3 -- 22 Apr 2026
 - **Type:** Planning + System Sync

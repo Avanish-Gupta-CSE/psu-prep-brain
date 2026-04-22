@@ -5,7 +5,7 @@ The workspace combines persistent prep memory in `.brain/`, source documents in 
 
 ## Start Here
 
-- Read `.brain/Progress.md` and `.brain/ExamTracker.md` at the start of every study or planning request.
+- Read `.brain/NextSteps.md`, `.brain/Progress.md`, and `.brain/ExamTracker.md` at the start of every study or planning request.
 - Compare the current date with exam dates before trusting the recorded active phase.
 - Use `.brain/StudyPlan.md`, `.brain/Syllabus.md`, and `.brain/WeakAreas.md` to determine what should be studied next.
 
@@ -20,6 +20,7 @@ The workspace combines persistent prep memory in `.brain/`, source documents in 
 ## Working Rules
 
 - Keep `.brain/` as the single shared memory system across all agents.
+- Treat `.brain/NextSteps.md` as the canonical immediate handoff file for future logins and agent resumes.
 - Store reusable subject notes once in `Shared-Core/` and reference them from exam folders instead of duplicating content.
 - In exam-specific files, separate official information from inferred question patterns or strategy notes.
 - When updating live prep state, keep `.brain/Progress.md`, `.brain/ExamTracker.md`, and `.brain/StudyPlan.md` internally consistent.

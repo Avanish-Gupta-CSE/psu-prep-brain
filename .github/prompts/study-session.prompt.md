@@ -4,7 +4,7 @@ description: Run a focused shared-core study session with compressed theory, tra
 agent: gate-core
 ---
 
-Use the active exam priority from [../../.brain/Progress.md](../../.brain/Progress.md) and [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md).
+Use the active exam priority from [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), and [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md).
 
 For the requested topic:
 

@@ -4,10 +4,11 @@ description: Synchronize the prep state after a planning, study, mock, or interv
 agent: plan
 ---
 
-Read [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), [../../.brain/StudyPlan.md](../../.brain/StudyPlan.md), [../../.brain/Syllabus.md](../../.brain/Syllabus.md), and [../../.brain/WeakAreas.md](../../.brain/WeakAreas.md).
+Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), [../../.brain/StudyPlan.md](../../.brain/StudyPlan.md), [../../.brain/Syllabus.md](../../.brain/Syllabus.md), and [../../.brain/WeakAreas.md](../../.brain/WeakAreas.md).
 
 Then determine what should be updated based on the session outcome.
 
 - Keep dates consistent.
 - Keep the active phase and exam priorities internally consistent.
+- Keep `.brain/NextSteps.md` aligned with the real immediate next action after the session.
 - Only suggest updates that are justified by the session evidence.

@@ -12,7 +12,7 @@ handoffs:
 
 Use this agent when the task is specific to IFFCO.
 
-- Read [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../IFFCO/README.md](../../IFFCO/README.md) first.
+- Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../IFFCO/README.md](../../IFFCO/README.md) first.
 - Use [../../IFFCO/CONFIRMED-DETAILS.md](../../IFFCO/CONFIRMED-DETAILS.md) for advertisement-backed facts.
 - Use [../../IFFCO/STACK-GAP-ANALYSIS.md](../../IFFCO/STACK-GAP-ANALYSIS.md) to compare the role with [../../Resume-Berkadia.tex](../../Resume-Berkadia.tex).
 - Keep confirmed facts and inferred exam-pattern guidance clearly separated.

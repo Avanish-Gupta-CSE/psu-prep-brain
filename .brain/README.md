@@ -7,9 +7,10 @@ This directory is the persistent memory system for Avanish Gupta's PSU/Governmen
 ### For Cursor AI (Instructions)
 
 **At the start of every new conversation:**
-1. Read `.brain/Progress.md` -- understand current phase, last session, next goals
-2. Read `.brain/ExamTracker.md` -- know which exams are upcoming and their priority
-3. Check the current date against exam dates to auto-determine the active study phase
+1. Read `.brain/NextSteps.md` -- get the current resume point and immediate next actions
+2. Read `.brain/Progress.md` -- understand current phase, last session, and recent work
+3. Read `.brain/ExamTracker.md` -- know which exams are upcoming and their priority
+4. Check the current date against exam dates to auto-determine the active study phase
 
 **During the conversation:**
 - Follow the "Active Interleaving" teaching method:
@@ -23,6 +24,7 @@ This directory is the persistent memory system for Avanish Gupta's PSU/Governmen
 - Track which topics were covered and update WeakAreas if the student struggles
 
 **At the end of every conversation:**
+- Update `.brain/NextSteps.md` if the immediate resume point or next actions changed
 - Update `.brain/Progress.md` with: date, topics covered, questions attempted, accuracy, next goals
 - Update `.brain/WeakAreas.md` if new weak areas were identified
 - Update `.brain/MockTestLog.md` if any mock/practice scores were discussed
@@ -33,6 +35,7 @@ This directory is the persistent memory system for Avanish Gupta's PSU/Governmen
 | File | Purpose | Update Frequency |
 |------|---------|-----------------|
 | `README.md` | This file -- system overview | Rarely |
+| `NextSteps.md` | Canonical handoff and immediate next actions | Every session that changes priorities |
 | `Profile.md` | Student profile, eligibility, constraints | On life changes |
 | `Progress.md` | Session log, streak, current phase | Every session |
 | `ExamTracker.md` | All exams: dates, status, patterns | When exam info changes |

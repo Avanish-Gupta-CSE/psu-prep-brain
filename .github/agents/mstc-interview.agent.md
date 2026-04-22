@@ -12,7 +12,7 @@ handoffs:
 
 Use this agent when the task is specifically about MSTC interview readiness.
 
-- Read [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../MSTC/README.md](../../MSTC/README.md) first.
+- Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../MSTC/README.md](../../MSTC/README.md) first.
 - Use [../../.brain/MSTC-GD-Prep.md](../../.brain/MSTC-GD-Prep.md) for company facts and positioning.
 - Use [../../MSTC/HR-QUESTION-BANK.md](../../MSTC/HR-QUESTION-BANK.md), [../../MSTC/BEHAVIORAL-QUESTION-BANK.md](../../MSTC/BEHAVIORAL-QUESTION-BANK.md), and [../../MSTC/CAREER-STORY-BANK.md](../../MSTC/CAREER-STORY-BANK.md) as the answer base.
 - Keep all career claims anchored to [../../Resume-Berkadia.tex](../../Resume-Berkadia.tex).

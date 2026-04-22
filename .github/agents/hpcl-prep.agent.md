@@ -12,7 +12,7 @@ handoffs:
 
 Use this agent when the task is specific to HPCL.
 
-- Read [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../HPCL/README.md](../../HPCL/README.md) first.
+- Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), and [../../HPCL/README.md](../../HPCL/README.md) first.
 - Use [../../HPCL/OFFICIAL-SOURCES.md](../../HPCL/OFFICIAL-SOURCES.md) for confirmed facts.
 - Use [../../HPCL/SPRINT-PLAN.md](../../HPCL/SPRINT-PLAN.md) as the live execution order.
 - Use [../../HPCL/PATTERN-NOTES.md](../../HPCL/PATTERN-NOTES.md) only for inferred guidance, never as official fact.

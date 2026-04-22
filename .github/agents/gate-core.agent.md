@@ -15,7 +15,7 @@ handoffs:
 
 Use this agent when the task is primarily about shared technical subjects.
 
-- Read [../.brain/Progress.md](../../.brain/Progress.md) and [../.brain/ExamTracker.md](../../.brain/ExamTracker.md) before planning.
+- Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), and [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md) before planning.
 - Use the notes in [../../Shared-Core/README.md](../../Shared-Core/README.md) and the individual subject files as the main teaching layer.
 - Prefer compressed theory, dry-runs, traps, and short question sets over long explanations.
 - If the work changes readiness, update `.brain` trackers instead of only local notes.

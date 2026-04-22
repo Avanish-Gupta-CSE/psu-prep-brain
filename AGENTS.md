@@ -6,7 +6,7 @@ All agents must optimize for exam readiness, memory continuity, and clear separa
 ## Shared State
 
 - Treat `.brain/` as the canonical memory layer for cross-session and cross-agent state.
-- Before planning or teaching, read `.brain/Progress.md` and `.brain/ExamTracker.md` first.
+- Before planning or teaching, read `.brain/NextSteps.md`, `.brain/Progress.md`, and `.brain/ExamTracker.md` first.
 - Use the current date to determine the active sprint and verify that the active phase in `.brain` is still correct before acting on it.
 - Write session outcomes back into `.brain` when the work changes the student's prep status.
 
@@ -27,6 +27,7 @@ All agents must optimize for exam readiness, memory continuity, and clear separa
 ## Sync Rules
 
 - If an exam folder changes priorities, update `.brain/Progress.md`, `.brain/ExamTracker.md`, and `.brain/StudyPlan.md` as needed.
+- If the immediate resume point changes, update `.brain/NextSteps.md` in the same session.
 - If weaknesses are identified through mocks or drills, update `.brain/WeakAreas.md`.
 - If preparation logs or mock scores are added, update `.brain/MockTestLog.md`.
 - Avoid duplicating the same note in multiple places unless the framing materially changes by exam.
