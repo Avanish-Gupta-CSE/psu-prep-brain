@@ -2,38 +2,35 @@
 
 ## Planning Assumption
 
-Use a one-month prep window until the exact written-test date is confirmed.
-If the date is announced earlier, compress this into a 14-day plan by merging adjacent weeks.
+The active track reset on `24 Apr 2026` because the earlier IT-specific notice was cancelled.
+The exact test dates are still unknown, so use this as a rolling plan anchored to the live `30 Apr 2026` application deadline.
 
-## Week 1
+## Phase 1: 24 Apr - 30 Apr
 
-- Finalize application and document readiness
-- Start Oracle SQL refresher
-- Start PL/SQL basics: procedures, functions, triggers, packages
-- Build one note: `current resume strengths vs IFFCO stack gaps`
+- Finalize the GET application and upload documents
+- Ensure photo and combined PDF meet the size rules
+- Build one rapid revision list from the most transferable shared-core subjects
+- Prepare one short `why IFFCO / why GET / why PSU` answer set
 
-## Week 2
+## Phase 2: Until HPCL CBT Ends
 
-- Oracle database administration basics
-- C# awareness
-- Entity Framework Core awareness
-- App-server concepts: Tomcat, IIS, Node.js positioning
+- Keep IFFCO to short maintenance slots so HPCL remains primary
+- Use shared-core quick revision only: DBMS, OS, CN, programming concepts, aptitude
+- Do not add speculative niche topics without an official source
 
-## Week 3
+## Phase 3: After 3 May If No IFFCO Test Date Is Announced
 
-- Mixed DBMS + Oracle practice
-- Interview-fit answers from `Resume-Berkadia.tex`
-- Short notes on why PSU / why IFFCO / why enterprise IT role
+- Shift to `3 to 4` short sessions per week on broad CS revision and aptitude
+- Add one interview-fit session per week using `Resume-Berkadia.tex`
+- Create one prelim-test execution checklist for device, internet, and quiet environment
 
-## Week 4
+## Compression Rule If Dates Arrive Early
 
-- Mixed revision
-- Technical interview question bank
-- HR / behavioral question bank
-- Final revision of Oracle, PL/SQL, and enterprise-stack vocabulary
+- If IFFCO publishes test dates early, compress this into a `10 to 14 day` plan.
+- Merge Phase 2 and Phase 3 into a single shared-core revision sprint.
 
 ## Weekly Allocation Rule
 
-- `60%` role-specific stack gaps
-- `25%` shared-core carry-over from DBMS / programming / security
+- `70%` shared-core carry-over from HPCL and the other CS exams
+- `15%` application / test-readiness admin work until submitted
 - `15%` interview-fit preparation

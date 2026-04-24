@@ -5,14 +5,23 @@
 | Field | Value |
 |-------|-------|
 | **Active Phase** | Phase 2: HPCL Officer (IS) Critical Sprint (22 Apr - 3 May 2026) |
-| **Secondary Track** | IFFCO Officer / Senior Officer (IT) parallel track (late Apr - May 2026 planning window) |
-| **MSTC Status** | GD completed; awaiting result / interview update |
-| **Study Streak** | 1 day (restart on 22 Apr 2026) |
-| **Last Session** | 22 Apr 2026 -- workspace sync, GitHub push, and next-step continuity layer added |
+| **Secondary Track** | IFFCO GET 2026 application + shared-core maintenance track |
+| **MSTC Status** | Interview shortlisted; slot fixed for 21 May 2026 at 9.00 A.M. |
+| **Study Streak** | 1 logged study day (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
+| **Last Session** | 24 Apr 2026 -- MSTC interview shortlist sync + IFFCO GET notification reset |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | High urgency; HPCL is the critical path, IFFCO is next, MSTC stays warm for interview |
+| **Overall Mood** | HPCL remains the critical path; IFFCO has an urgent application deadline; MSTC is now a scheduled interview track |
 
 ## Session Log
+
+### Session 5 -- 24 Apr 2026
+- **Type:** Official Update + Planning Sync
+- **What happened:** MSTC interview shortlist was confirmed with a `21 May 2026, 9.00 A.M.` slot. The active IFFCO track was reset from the cancelled IT-specific notice to the live `GET 2026` notification with a `30 Apr 2026` application deadline. The workspace and brain files were updated to reflect the new official state.
+- **Topics covered:** MSTC interview-stage planning, IFFCO GET application reset, next-step reprioritization
+- **Questions attempted:** 0
+- **Accuracy:** N/A
+- **Weak areas identified:** IFFCO no longer needs Oracle / C# role-specific prep from the cancelled notice; the active gap is fast broad-CS recall plus application/test readiness. MSTC now needs interview-story fluency and call-letter/doc readiness.
+- **Next goals:** execute the `24 Apr` HPCL COA block, submit the IFFCO GET application before `30 Apr`, and keep MSTC on a short maintenance block until HPCL is done
 
 ### Session 4 -- 22 Apr 2026
 - **Type:** Planning + Continuity Hardening
@@ -68,6 +77,7 @@ _New sessions are appended above this line. Each entry follows the format:_
 
 | Date | Hours | Topics | Questions | Accuracy |
 |------|-------|--------|-----------|----------|
+| 24 Apr | 0 (admin sync) | MSTC shortlist + IFFCO GET reset | 0 | N/A |
 | 22 Apr | 2 | System sync + implementation start | 0 | N/A |
 | 21 Apr | Not logged | -- | -- | -- |
 | 20 Apr | Not logged | -- | -- | -- |
@@ -89,13 +99,15 @@ _New sessions are appended above this line. Each entry follows the format:_
 |-------|--------|-------------|--------|------------|
 | Phase 1 | 14 Mar - 18 Mar | MSTC MT GD | COMPLETED | 100% |
 | Phase 2 | 22 Apr - 3 May | HPCL Officer (IS) | ACTIVE | 0% |
-| Phase 3 | Late Apr - May | IFFCO Officer / Senior Officer (IT) | PARALLEL | 0% |
-| Phase 4 | 4 May - 4 Jun | UPPSC Lecturer | DEFERRED | 0% |
-| Phase 5 | When announced | BSNL SET | DEFERRED | 0% |
+| Phase 3 | 24 Apr - TBD | IFFCO GET 2026 | APPLICATION + PARALLEL | 0% |
+| Phase 4 | 4 May - 21 May | MSTC Interview | SCHEDULED | 0% |
+| Phase 5 | 4 May - 4 Jun | UPPSC Lecturer | DEFERRED | 0% |
+| Phase 6 | When announced | BSNL SET | DEFERRED | 0% |
 
 ## Blockers and Concerns
 
 - Logged study continuity is broken between 15 Mar and 21 Apr, so the tracker is being restarted cleanly from 22 Apr
 - HPCL breadth is large for the time left: digital logic, COA, programming concepts, security, and emerging tech need disciplined compression
-- IFFCO introduces enterprise-stack gaps beyond the usual GATE-style syllabus: Oracle, PL/SQL, C#/Entity Framework, and application-server concepts
+- IFFCO exact GET test syllabus is still unclear, so prep must stay broad and evidence-based
+- MSTC call letter and final document checklist are still pending even though the slot is confirmed
 - Working 11 AM - 8 PM still limits weekday study to ~3.5 hours, so time allocation must stay strict

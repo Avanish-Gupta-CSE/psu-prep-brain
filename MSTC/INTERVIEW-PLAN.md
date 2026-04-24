@@ -4,14 +4,37 @@
 
 Stay interview-ready without spending so much time here that HPCL suffers.
 
-## Warm-Maintenance Plan
+## Current Situation
+
+- Interview shortlist is confirmed.
+- Interview slot is `21 May 2026` at `9.00 A.M.` for the Systems discipline.
+- Official instructions are summarized in `OFFICIAL-INTERVIEW-UPDATE.md`.
+
+## Warm-Maintenance Plan Until HPCL CBT
 
 1. Build and refine the self-introduction
 2. Build MSTC-specific `why company / why PSU / why you` answers
 3. Convert resume bullets into interview stories
 4. Prepare behavioral answers for ownership, pressure, conflict, and learning
 
-## 48-Hour Drill If Interview Call Arrives
+## Post-HPCL Interview Sprint
+
+### 4 May - 10 May
+- Re-read `.brain/MSTC-GD-Prep.md`
+- Rehearse self-introduction, `why MSTC`, `why PSU`, and `why should we hire you`
+- Turn `CAREER-STORY-BANK.md` into spoken 90-second answers
+
+### 11 May - 17 May
+- Run at least `2` HR mocks and `2` mixed HR + behavioral mocks
+- Prepare crisp answers for relocation, compensation expectations, private-to-PSU transition, and long-term intent
+- Review MSTC business lines, current digital initiatives, and recent company context
+
+### 18 May - 20 May
+- Confirm call letter, reporting time, venue route, and documents
+- Run one final calm mock, not a stress-heavy one
+- Keep technical review light and interview-focused
+
+## 48-Hour Drill If Something Changes Late
 
 ### Block 1
 - Re-read `.brain/MSTC-GD-Prep.md`

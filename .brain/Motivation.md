@@ -36,8 +36,8 @@ Mark each study day with [X], missed day with [ ]
 
 ### Next Milestones
 - [ ] Carry the streak through HPCL CBT day
-- [ ] Submit / finalize IFFCO IT application before 28 Apr 2026
-- [ ] Build MSTC interview answer bank while waiting for result
+- [ ] Submit / finalize IFFCO GET application before 30 Apr 2026
+- [ ] Build MSTC interview answer bank before 21 May 2026
 - [ ] First mock test score logged
 - [ ] Score 50%+ in a subject-wise mock
 - [ ] Complete 30-day study streak
@@ -45,7 +45,7 @@ Mark each study day with [X], missed day with [ ]
 - [ ] Receive positive result from SEBI/ECIL
 
 ### Dream Milestones
-- [ ] Get interview call from any PSU
+- [x] Get interview call from any PSU
 - [ ] Clear a PSU interview
 - [ ] Receive PSU joining letter
 

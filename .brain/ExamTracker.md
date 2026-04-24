@@ -16,20 +16,20 @@
 | **Fee** | Rs 1,180 (OBC) |
 | **Prep Focus** | Finish the remaining breadth quickly, then shift to mixed mocks, weak areas, and exam execution |
 
-### IFFCO -- Officer / Senior Officer (IT)
+### IFFCO -- Graduate Engineer Trainee (GET)
 | Field | Details |
 |-------|---------|
-| **Date** | Application open till 28 Apr 2026; treat late May 2026 as the current planning window until a test date is confirmed |
-| **Status** | Application live |
-| **Priority** | HIGH -- SECONDARY |
-| **Pattern** | Online test or shortlisting based on qualification/experience, followed by personal interview and medical exam |
-| **Posts** | 7 |
-| **Qualification** | Bachelor's degree in IT / Computer Science / Artificial Intelligence |
-| **Eligibility** | General/OBC minimum 60%; SC/ST minimum 55%; age 21-27 as on 1 Apr 2026 with OBC relaxation |
-| **Experience** | Maximum up to 5 years post-qualification |
-| **Role Focus** | Oracle database, SQL, PL/SQL, database administration, Entity Framework Core, C, C#, Bootstrap, Node.js, React, and application-server concepts |
-| **Location** | New Delhi / NCR (04), Aonla Unit (02), Paradeep Unit (01) |
-| **Prep Focus** | Reuse shared CS core where possible and close the enterprise-stack gaps that are not covered by GATE-style prep |
+| **Date** | Application open till 30 Apr 2026; prelim and final test dates still TBD |
+| **Status** | Application live -- active notification reset to GET 2026 |
+| **Priority** | HIGH -- SECONDARY / ADMIN URGENT |
+| **Pattern** | Preliminary online test in open environment on own device -> Final online test in controlled environment -> Personal interview -> Medical exam |
+| **Posts** | Not stated in the advertisement |
+| **Qualification** | Engineering degree in IT / Computer Science or Bachelor in Artificial Intelligence also eligible under the active GET notice |
+| **Eligibility** | General/OBC minimum 60%; SC/ST minimum 55%; upper age limit 30 as on 30 Apr 2026 with relaxations |
+| **Experience** | Fresher / recent-pass-out oriented GET track; passed in 2023 and thereafter eligible, with final semester results up to Aug 2026 also allowed |
+| **Role Focus** | Broad GET track rather than a niche enterprise-IT posting |
+| **Location** | Any IFFCO plant in India; transferable across establishments and subsidiaries |
+| **Prep Focus** | Reuse shared-core CS, protect the application deadline, and prepare for broad timed online-test execution |
 
 ### UPPSC Polytechnic Lecturer -- Computer Science
 | Field | Details |
@@ -57,17 +57,17 @@
 | **Fee** | Rs 2,500 (OBC) |
 | **Prep Focus** | CS core (shared) + Telecom-specific sprint when date announced |
 
-## Awaiting Result / Interview Update
+## Scheduled Interview Track
 
 ### MSTC MT -- Management Trainee
 | Field | Details |
 |-------|---------|
-| **Date** | 18 Mar 2026 (GD round completed) |
-| **Status** | GD completed; awaiting result / interview update |
-| **Priority** | HIGH -- KEEP WARM |
+| **Date** | Interview scheduled on 21 May 2026 at 9.00 A.M. |
+| **Status** | Interview shortlisted |
+| **Priority** | HIGH -- SCHEDULED |
 | **Pattern** | ~~CBT~~ -> ~~GD~~ -> Interview |
 | **Posts** | 37 vacancies |
-| **Prep Focus** | Build interview readiness: HR questions, career-story answers, MSTC fit, and behavioral responses |
+| **Prep Focus** | Build interview readiness: HR questions, career-story answers, MSTC fit, behavioral responses, and call-letter/document readiness |
 
 ## Other Active Applications
 
@@ -150,8 +150,8 @@
 ## Priority Queue (Ordered by Date)
 
 1. **HPCL Officer (IS)** -- 3 May 2026 CBT
-2. **IFFCO Officer / Senior Officer (IT)** -- application closes 28 Apr 2026; plan as a late-May target until the test date is confirmed
-3. **MSTC MT** -- awaiting GD result / interview update
+2. **IFFCO GET 2026** -- application closes 30 Apr 2026; written stages TBD
+3. **MSTC MT** -- interview on 21 May 2026
 4. **UPPSC Lecturer** -- 4 Jun 2026
 5. **BSNL SET** -- TBD (postponed)
 6. **Bank of Baroda / STPI / HLL / CEL** -- TBD

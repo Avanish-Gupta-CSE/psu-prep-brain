@@ -1,41 +1,38 @@
 # Confirmed Details
 
-## Confirmed From The Provided Advertisement Image
+## Notification Reset
+
+- The earlier `Officer / Senior Officer (IT)` notification is no longer the active track for this folder.
+- The active notice is now `Graduate Engineer Trainee (GET) - 2026`.
+
+## Confirmed From The Active Advertisement
 
 | Field | Detail |
 |------|--------|
 | Organization | Indian Farmers Fertiliser Cooperative Limited (IFFCO) |
-| Post | Officer / Senior Officer (IT) |
-| Number of Posts | 7 |
-| Qualification | Bachelor's Degree in Engineering in IT / Computer Science or Bachelor in Artificial Intelligence |
-| Eligibility | General/OBC minimum 60%; SC/ST minimum 55% |
-| Experience | Maximum up to 5 years post-qualification |
-| Age | 21 to 27 years as on 1 Apr 2026, relaxable by 5 years for SC/ST and 3 years for OBC |
-| Locations | New Delhi / NCR (04), Aonla Unit (02), Paradeep Unit (01) |
-| Selection Procedure | Computer-based online test or as decided by IFFCO depending on number of candidates; personal interview for shortlisted candidates |
-| Medical | Shortlisted candidates after PI will be medically examined as per IFFCO standards |
+| Post | Graduate Engineer Trainee (`GET`) |
+| Eligible disciplines | Chemical, Mechanical, Electrical, Instrumentation & Electronics, Civil, IT, Computer Science, and Bachelor in Artificial Intelligence |
+| Qualification timing | Candidates who passed in `2023` and thereafter can apply; candidates whose final semester result is expected by `Aug 2026` can also apply |
+| Eligibility marks | General/OBC minimum aggregate `60%`; SC/ST minimum `55%` |
+| Age | Upper age limit `30 years` as on `30 Apr 2026`; relaxations `5 years` for SC/ST and `3 years` for OBC (non-creamy layer) |
+| Training period | `1 year` |
+| Location | At any IFFCO plant in India; transferable across existing or future establishments and subsidiaries |
+| Stipend / benefits | Approximately `Rs. 65,000` per month during training, along with allowances |
+| Selection procedure | Preliminary computer-based online test in open environment using own device and internet, then final online test in controlled environment for shortlisted candidates, then personal interview |
+| Medical | Shortlisted candidates after interview will be medically examined as per IFFCO standards |
 | Language | Hindi and English |
-| Apply By | 28 Apr 2026 |
-
-## Confirmed Skill Signals From The Advertisement Image
-
-- Oracle database
-- SQL
-- PL/SQL
-- Database administration
-- Entity Framework Core
-- C
-- C#
-- Bootstrap and related technologies
+| Apply by | `30 Apr 2026` |
 
 ## Confirmed From The Live Application Form
 
-- The application form for `Officer / Senior Officer (IT) - 2026` is reachable.
-- The form asks for educational details from XII onward and professional details from the present job.
-- The form requires photo upload and a combined PDF of certificates and mark sheets.
+- The active application form is for `Graduate Engineer Trainee - 2026`.
+- The form asks for personal details, educational details from `XIIth` onward, and professional details from the present job if any.
+- A latest photograph must be uploaded in `jpg`, `jpeg`, or `png` format with a maximum size of `3 MB`.
+- Certificates, mark sheets, caste documents if applicable, government ID proof, and experience documents must be uploaded in a single PDF with a maximum size of `10 MB`.
+- The combined document upload explicitly mentions `Xth`, `XIIth`, and graduation documents.
 
 ## Still Unclear
 
-- Exact test date
-- Exact test duration and mark distribution
-- Whether all candidates will definitely sit the CBT or if some shortlisting happens before it
+- Exact dates for the preliminary and final tests
+- Exact syllabus and mark distribution for each test stage
+- Whether the preliminary test includes aptitude beyond discipline fundamentals

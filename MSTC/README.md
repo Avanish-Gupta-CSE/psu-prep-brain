@@ -4,12 +4,14 @@
 
 - CBT: cleared
 - GD: completed
-- Current state: awaiting result / interview update
-- Priority mode: keep warm, do not let this displace HPCL
+- Interview shortlist: confirmed
+- Interview slot: `21 May 2026`, `9.00 A.M.`
+- Priority mode: keep warm until HPCL, then switch to a focused interview sprint
 
 ## Source Set
 
 - Official recruitment PDFs in this folder
+- `OFFICIAL-INTERVIEW-UPDATE.md` for the confirmed shortlist and instruction summary
 - Company dossier and GD context in `.brain/MSTC-GD-Prep.md`
 - Career facts in `../Resume-Berkadia.tex`
 
@@ -20,7 +22,7 @@
 - Career-story preparation based only on real resume facts
 - Mock interview tracking
 
-## Time Rule Until An Update Arrives
+## Time Rule Before And After HPCL
 
-- Keep MSTC to one short maintenance block per week
-- If an interview call arrives, switch immediately to an intensified 3 to 5 day interview sprint
+- Until `3 May 2026`, keep MSTC to one short maintenance block per week plus call-letter monitoring
+- From `4 May 2026`, switch to a focused interview-prep sprint because the interview slot is already fixed

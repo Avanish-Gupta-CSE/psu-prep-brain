@@ -4,51 +4,47 @@
 
 ### Strong Matches
 
-- React and Node.js application development
-- REST API design
-- Database-backed applications
-- CI/CD, deployment discipline, production-facing development
-- OOP and modern web stack familiarity
+- B.Tech CSE background with strong academics
+- Production software experience in a structured engineering environment
+- Problem-solving comfort across frontend, backend, APIs, databases, and delivery workflows
+- Ability to explain real project work clearly using resume-backed examples
 
 ### Medium Matches
 
-- Java exposure from STMicro work
-- SQL logic and database concepts from PostgreSQL / MySQL work
-- Role-based access, enterprise workflows, and operational software experience
+- CS fundamentals that overlap with objective-test preparation
+- Programming and database concepts carried over from work and prior exam prep
+- Professional maturity that can help in the interview stage
 
 ### Clear Gaps
 
-- Oracle database administration
-- PL/SQL stored objects and Oracle-specific habits
-- C#
-- Entity Framework Core
-- IIS / Tomcat / enterprise application-server framing
+- Rapid recall under timed objective-test conditions
+- Clean coverage of the shared-core subjects most likely to transfer into a CS/IT GET test
+- Interview framing for `why IFFCO`, `why GET`, and `why PSU/cooperative sector`
+- Prelim test execution setup on your own laptop and connection
 
 ## Interpretation Rule
 
-Do not try to become a deep Oracle or .NET specialist in one month.
-The goal is to become interview-safe and written-test-safe.
+Do not keep preparing for the cancelled enterprise-IT role.
+The active goal is to become application-safe, prelim-test-safe, and interview-safe for the GET track.
 
 ## What Needs Real Depth
 
-- Oracle SQL + PL/SQL basics
-- Database administration vocabulary and concepts
+- Shared-core CS fundamentals that are already common across HPCL and other exams
+- Speed and accuracy in objective solving
 
 ## What Needs Awareness-Level Prep
 
-- Entity Framework Core
-- C# syntax and ecosystem vocabulary
-- IIS vs Tomcat vs Node.js framing
-- Bootstrap-related UI terminology
+- Cooperative / PSU motivation framing
+- IFFCO business context and why the GET route fits your profile
+- Remote-test discipline: device readiness, internet stability, and calm execution
 
 ## Interview Framing Rule
 
-Always translate current work into enterprise value:
+Always translate current work into engineering value and trainability:
 
-- production systems
-- secure workflows
-- document-heavy business processes
-- deployment discipline
-- database-backed applications
+- disciplined execution
+- ability to learn fast
+- problem-solving under pressure
+- willingness to relocate and work across India
 
-Avoid pretending you already have hands-on Oracle or C# production experience if you do not.
+Avoid overfitting your stories to a stack that belonged to the cancelled notice.

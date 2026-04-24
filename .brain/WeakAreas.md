@@ -38,7 +38,9 @@ BARC confirmed the same weaknesses identified from GATE, now with specific sub-t
 
 ### From April 2026 Exam Mapping (HPCL + IFFCO)
 
-These are immediate gaps identified by comparing the active exam syllabi with the current profile and prior performance. They are planning gaps, not yet mock-verified.
+These are immediate gaps identified by comparing the active exam paths with the current profile and prior performance. They are planning gaps, not yet mock-verified.
+
+The earlier IFFCO Officer / Senior Officer (IT) notification was cancelled, so the old Oracle / C# / Entity Framework-specific assumptions are no longer the active planning baseline.
 
 | Area | Gap | Priority | Remediation |
 |------|-----|----------|-------------|
@@ -46,9 +48,11 @@ These are immediate gaps identified by comparing the active exam syllabi with th
 | HPCL -- Programming Concepts Breadth | Java/J2EE, Python, shell scripting, web stack breadth, API concepts | 1 | Use fast-recall revision notes instead of deep implementation study |
 | HPCL -- Information Security | Crypto/auth/firewalls/IDS/IPS/risk/data privacy basics | 2 | Build one exam-focused summary and drill definition-based MCQs |
 | HPCL -- Emerging Technologies | Cloud, virtualization, IoT, AI/ML, data mining, blockchain survey topics | 2 | Build high-level comparison notes and factual MCQ practice |
-| IFFCO -- Oracle / PL-SQL | Oracle SQL, PL/SQL syntax, stored objects, database administration concepts | 1 | Daily short-track on Oracle + PL/SQL output and concept questions |
-| IFFCO -- Enterprise Stack | C#, Entity Framework Core, IIS/Tomcat/app server concepts | 1 | Build awareness-level notes and interview-ready explanations |
-| IFFCO -- Role Framing | Mapping MERN/cloud-heavy experience to an Oracle/enterprise IT role | 1 | Prepare project-story answers using resume facts, not generic claims |
+| IFFCO GET -- Broad CS Recall | Timed recall across DBMS, OS, CN, programming, and aptitude under uncertain test pattern | 1 | Reuse shared-core quick revision and short timed sets instead of speculative niche prep |
+| IFFCO GET -- Remote Test Readiness | Open-environment prelim means device, internet, and calm execution are part of the risk | 1 | Prepare a device/internet checklist and practice at least one short timed session on your own setup |
+| IFFCO GET -- Application Readiness | Form and upload requirements can cause avoidable deadline risk | 1 | Finish photo and combined document PDF early and submit before 30 Apr |
+| IFFCO GET -- Motivation Framing | Explaining `why IFFCO / why GET / why PSU` credibly | 1 | Prepare concise answers from real career intent, not generic security language |
+| MSTC -- Interview Fluency | Self-introduction, company-fit, and resume-story smoothness | 1 | Convert `CAREER-STORY-BANK.md` into spoken 60-90 second answers and run mocks after HPCL |
 
 ### From BEL MT CBT (Failed)
 
@@ -85,15 +89,15 @@ _Topics that were weak but have been addressed and now score above 70% consisten
 2. **Keep core weak areas alive** -- SQL, CN, OS deadlocks, COA numericals, Algorithms
 3. **Start mixed mocks** -- shift from isolated topics to paper-style breadth before 3 May
 
-### Parallel (Late Apr - May: IFFCO Track)
-1. **Oracle + PL/SQL gap closure** -- practical syntax and concept familiarity
-2. **Enterprise-stack awareness** -- C#/Entity Framework Core, IIS/Tomcat, app-server concepts
-3. **Resume-to-role mapping** -- convert Berkadia and STMicro work into answers that fit the IFFCO role
+### Parallel (Late Apr - May: IFFCO GET Track)
+1. **Application completion** -- eliminate avoidable deadline and upload failures
+2. **Broad shared-core readiness** -- stay fast across DBMS, OS, CN, programming, and aptitude
+3. **GET / PSU fit answers** -- explain intent and trainability cleanly
 
-### Warm Track (Waiting for MSTC update)
-1. HR and behavioral question bank
-2. Career-story bank from `Resume-Berkadia.tex`
-3. MSTC company-fit and PSU-motivation answers
+### Scheduled Interview Track (MSTC)
+1. HR and behavioral answer rehearsal
+2. Career-story bank from `Resume-Berkadia.tex` turned into spoken answers
+3. Call-letter, document, and travel readiness once released
 
 ## Session-Level Weak Spots
 
