@@ -1,6 +1,6 @@
 # Official Interview Update
 
-Last updated: 24 Apr 2026
+Last updated: 09 May 2026
 
 ## Confirmed
 
@@ -27,6 +27,6 @@ Last updated: 24 Apr 2026
 
 ## Working Implication
 
-- `HPCL` remains the primary daily prep target until `3 May 2026`.
-- `MSTC` should stay on a short maintenance block until HPCL is done, then move into a focused interview sprint.
+- `MSTC` is the only active prep track until `21 May 2026`.
+- Treat the call letter as the final source of truth for reporting time + full document checklist.
 - Keep the PDF files in this folder as the official source set for interview-stage decisions.
