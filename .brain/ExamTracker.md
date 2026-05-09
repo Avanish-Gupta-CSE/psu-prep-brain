@@ -2,12 +2,24 @@
 
 ## Active / Upcoming Exams
 
+### MSTC MT -- Management Trainee (Final Interview, Systems)
+| Field | Details |
+|-------|---------|
+| **Date** | 21 May 2026 |
+| **Time** | 9.00 A.M. |
+| **Venue** | MSTC Limited, Corporate Office (World Trade Centre, Nauroji Nagar, New Delhi) |
+| **Status** | Interview shortlisted; discipline confirmed: Systems |
+| **Priority** | CRITICAL -- ACTIVE |
+| **Pattern** | ~~CBT~~ -> ~~GD~~ -> Interview |
+| **Posts** | 37 vacancies |
+| **Prep Focus** | HR + company-fit + resume deep-dive + MT(Systems) technical drills + document/logistics readiness |
+
 ### HPCL -- Officer (Information Systems)
 | Field | Details |
 |-------|---------|
 | **Date** | 3 May 2026 |
 | **Status** | Applied -- CBT date confirmed on official HPCL job openings page |
-| **Priority** | HIGH -- CRITICAL PATH |
+| **Priority** | TRACKED (not active) |
 | **Pattern** | CBT -> Group Task -> Personal Interview -> Skill Test |
 | **Posts** | 20 Officer (IS) posts |
 | **Eligibility** | B.E./B.Tech CS/IT, 65% (55% SC/ST/PwBD), age 25 + OBC relaxation |
@@ -19,24 +31,20 @@
 ### IFFCO -- Graduate Engineer Trainee (GET)
 | Field | Details |
 |-------|---------|
-| **Date** | Application open till 30 Apr 2026; prelim and final test dates still TBD |
-| **Status** | Application live -- active notification reset to GET 2026 |
-| **Priority** | HIGH -- SECONDARY / ADMIN URGENT |
-| **Pattern** | Preliminary online test in open environment on own device -> Final online test in controlled environment -> Personal interview -> Medical exam |
+| **Date** | Application deadline was 30 Apr 2026; written stages TBD |
+| **Status** | Tracked (confirm current status from the latest IFFCO notice) |
+| **Priority** | TRACKED (not active) |
+| **Pattern** | Preliminary online test (own device) -> Final online test (controlled) -> Interview -> Medical |
 | **Posts** | Not stated in the advertisement |
-| **Qualification** | Engineering degree in IT / Computer Science or Bachelor in Artificial Intelligence also eligible under the active GET notice |
-| **Eligibility** | General/OBC minimum 60%; SC/ST minimum 55%; upper age limit 30 as on 30 Apr 2026 with relaxations |
-| **Experience** | Fresher / recent-pass-out oriented GET track; passed in 2023 and thereafter eligible, with final semester results up to Aug 2026 also allowed |
-| **Role Focus** | Broad GET track rather than a niche enterprise-IT posting |
-| **Location** | Any IFFCO plant in India; transferable across establishments and subsidiaries |
-| **Prep Focus** | Reuse shared-core CS, protect the application deadline, and prepare for broad timed online-test execution |
+| **Qualification** | Engineering degree in IT / Computer Science (AI-eligible per notice) |
+| **Prep Focus** | No active prep until MSTC interview is done; track announcements only |
 
 ### UPPSC Polytechnic Lecturer -- Computer Science
 | Field | Details |
 |-------|---------|
 | **Date** | 4 Jun 2026 |
 | **Status** | Applied |
-| **Priority** | HIGH |
+| **Priority** | TRACKED (not active) |
 | **Pattern** | 2 papers, 2.5 hrs each. Each paper: 25 Q (Hindi/GS) + 100 Q (CS) = 125 Q, 375 marks. Total: 250 Q, 750 marks, +3/-1 |
 | **Posts** | 513 posts |
 | **Age Limit** | 21-40 (as of 1 Jul 2025) |
@@ -49,25 +57,13 @@
 |-------|---------|
 | **Date** | POSTPONED (was 29 Mar 2026, new date TBD). Registration extended to 31 Mar 2026 |
 | **Status** | Applied -- Exam Postponed |
-| **Priority** | MEDIUM (date unknown) |
+| **Priority** | TRACKED (not active) |
 | **Pattern** | CBT: 200 MCQs, 200 marks, 3 hrs, -0.25 per wrong. Part I: 40 Q (Aptitude), Part II: 160 Q (Technical) |
 | **Posts** | 95 Telecom + 25 Finance = 120 posts |
 | **Age Limit** | 33 (OBC), as of 7 Mar 2026 |
 | **Syllabus** | Telecom, Wireless, IP/Data Networks, Wireline, Transmission, IoT/Blockchain/Cloud/AI, Project Management + Aptitude |
 | **Fee** | Rs 2,500 (OBC) |
 | **Prep Focus** | CS core (shared) + Telecom-specific sprint when date announced |
-
-## Scheduled Interview Track
-
-### MSTC MT -- Management Trainee
-| Field | Details |
-|-------|---------|
-| **Date** | Interview scheduled on 21 May 2026 at 9.00 A.M. |
-| **Status** | Interview shortlisted |
-| **Priority** | HIGH -- SCHEDULED |
-| **Pattern** | ~~CBT~~ -> ~~GD~~ -> Interview |
-| **Posts** | 37 vacancies |
-| **Prep Focus** | Build interview readiness: HR questions, career-story answers, MSTC fit, behavioral responses, and call-letter/document readiness |
 
 ## Other Active Applications
 
@@ -149,9 +145,9 @@
 
 ## Priority Queue (Ordered by Date)
 
-1. **HPCL Officer (IS)** -- 3 May 2026 CBT
-2. **IFFCO GET 2026** -- application closes 30 Apr 2026; written stages TBD
-3. **MSTC MT** -- interview on 21 May 2026
+1. **MSTC MT (Systems) Final Interview** -- 21 May 2026
+2. **HPCL Officer (IS)** -- 3 May 2026 CBT (tracked)
+3. **IFFCO GET 2026** -- deadline passed; track updates only
 4. **UPPSC Lecturer** -- 4 Jun 2026
 5. **BSNL SET** -- TBD (postponed)
 6. **Bank of Baroda / STPI / HLL / CEL** -- TBD

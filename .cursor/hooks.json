@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionEnd": [
+      {
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File .cursor/hooks/brain-sync.ps1",
+        "timeout": 180
+      }
+    ]
+  }
+}

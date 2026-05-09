@@ -541,13 +541,15 @@ These topics could come up specifically because you're interviewing at MSTC.
 
 ### 30-Second Version (Quick Round)
 
-> "Good morning. I'm Avanish Gupta. I hold a B.Tech in Computer Science from KIIT University with a 9.60 CGPA. I currently work as a Software Engineer at Berkadia, where I develop full-stack applications using React, Java, and cloud technologies. I'm passionate about using technology for nation-building, which is why I'm excited about MSTC -- a company that sits at the intersection of digital transformation and sustainable development."
+> "Good morning. I'm Avanish Gupta. I hold a B.Tech in Computer Science from KIIT University with a 9.60 CGPA. I currently work as an Associate Software Engineer at Berkadia, where I build production web applications using React, Node.js/Express, and TypeScript, with cloud and DevOps exposure (AWS, Docker, Kubernetes, Azure DevOps). I'm excited about MSTC because it is a technology-led PSU building digital platforms for transparent public e-commerce and sustainability."
 
 ### 1-Minute Version (Detailed)
 
-> "Good morning. I'm Avanish Gupta, a Computer Science graduate from KIIT University with a 9.60 CGPA. I currently work as an Associate Software Engineer at Berkadia, a US-based financial services company, where I've built real-time data processing systems using React, Java, Spring Boot, and AWS.
+> "Good morning. I'm Avanish Gupta, a Computer Science graduate from KIIT University with a 9.60 CGPA. I currently work as an Associate Software Engineer at Berkadia, where I've built production systems using React, Node.js/Express, and TypeScript.
 >
-> What excites me about MSTC is the scale of its digital impact -- handling over INR 525 billion in e-auctions, building India's first EPR Certificate Exchange for CPCB, and driving the vehicle scrapping ecosystem through MMRPL. This is technology directly serving national interests.
+> In my current role, I’m developing an AI-powered document processing platform integrating Azure Document Intelligence with async job processing using WebSocket. I’ve also built a Document Management System with React + TypeScript and Node/Express APIs backed by PostgreSQL, Elasticsearch, and AWS S3, integrating Keycloak SSO and OpenFGA for fine-grained authorization.
+>
+> What excites me about MSTC is the scale of its digital impact through government e-auctions, new digital platforms like EPR certificate exchange, and the vehicle scrapping ecosystem through MMRPL. This is technology directly serving national interests.
 >
 > I want to bring my industry experience in building scalable software systems to MSTC's growing digital platforms. My strength is combining technical depth with clear communication -- which I believe is exactly what a Management Trainee role demands."
 
@@ -569,11 +571,11 @@ These topics could come up specifically because you're interviewing at MSTC.
 
 ### Q4: Your biggest achievement?
 
-> "At Berkadia, I built a real-time data processing system that handled [specific metric]. But more importantly, I learned to deliver under pressure with tight deadlines -- skills directly transferable to a fast-paced PSU environment."
+> "One of my biggest achievements was at STMicroelectronics, where I built the eRFP-NPI application from the ground up, managing 500+ semiconductor quotations for 20+ external manufacturing partners and cutting manual processing time by 70%. I also implemented modules and schemas supporting 1 million+ records, improving complex-query performance by 45% while maintaining 99.8% data integrity."
 
 ### Q5: How do you handle pressure?
 
-> "I break the problem into smaller pieces and prioritize ruthlessly. During a production deployment at Berkadia, we had a critical bug 2 hours before release. I isolated the component, identified the root cause, and we shipped on time. Pressure doesn't paralyze me -- it focuses me."
+> "I stay calm under pressure by breaking the problem down, prioritizing the highest-risk items first, and communicating clearly. For example, at STMicroelectronics I owned resolution of 30+ security findings from an audit and drove it to closure, eliminating all critical and high-severity issues and achieving a 100% pass rate on follow-up penetration tests."
 
 ### Q6: What's your weakness?
 
@@ -585,7 +587,7 @@ These topics could come up specifically because you're interviewing at MSTC.
 
 ### Q8: Why should we select you?
 
-> "I bring a rare combination: Computer Science fundamentals with a 9.60 CGPA, real-world software engineering experience at a multinational company, proficiency in modern technologies like React, Java, AWS, and Docker, and most importantly -- a genuine desire to apply these skills for nation-building through MSTC's platforms."
+> "I bring a strong combination of academics (9.60 CGPA) and real-world software engineering experience building production systems. My primary stack is React, Node.js/Express, and TypeScript, with experience across PostgreSQL, Elasticsearch, AWS, Docker, Kubernetes, and SSO/authorization systems. Most importantly, I’m motivated to apply these skills to build trustworthy digital platforms that serve public-sector outcomes — which aligns directly with MSTC’s mission."
 
 ### Q9: Are you comfortable relocating to Kolkata?
 
