@@ -28,6 +28,7 @@ If a new system needs the full picture quickly, read files in this order:
 ### 1. Lock the “opening 90 seconds”
 - Finalize: 30-sec + 60-sec self-introduction
 - Finalize: `why MSTC`, `why PSU`, `why you`, `strengths/weakness` (resume-true, no extra claims)
+- By-heart: MSTC **Vision / Mission / Objectives** using `GDR – THIPP – ICPWJRB` (`MSTC/MISSION-VISION.md`, `MSTC/Company-MSTC-Research/MSTC_VMO_Mnemonics.md`)
 - Use: `MSTC/HR-QUESTION-BANK.md`, `MSTC/CAREER-STORY-BANK.md`
 
 ### 2. Technical interview readiness (MT Systems)
