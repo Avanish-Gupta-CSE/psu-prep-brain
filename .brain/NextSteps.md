@@ -1,13 +1,13 @@
 # Next Steps & Handoff
 
-Last updated: 09 May 2026
+Last updated: 11 May 2026
 
 This is the canonical resume-point file for any future login, agent, or chat system.
 Read this file first when the goal is to understand what to do next without reconstructing context from multiple logs.
 
 ## Immediate Situation
 
-- Current date context: `09 May 2026`
+- Current date context: `11 May 2026`
 - Critical path: `MSTC MT (Systems)` interview scheduled on `21 May 2026` at `9.00 A.M.` (New Delhi)
 - Focus rule: `MSTC only` unless explicitly requested otherwise
 - Official source set: `MSTC/OFFICIAL-INTERVIEW-UPDATE.md` + PDFs in `MSTC/`
@@ -24,6 +24,23 @@ If a new system needs the full picture quickly, read files in this order:
 5. the active MSTC track README (`../MSTC/README.md`)
 
 ## Immediate Next Actions
+
+### 0. 10-day countdown plan (11 May -> 20 May)
+
+Use the quick-revision notes as the “compressed theory” layer: `MSTC/Quick Revision Ebook/revision-ebook-glm.md`.
+
+| Date | Primary Technical Focus | Mentor snap-interview trigger |
+|------|--------------------------|------------------------------|
+| 11 May | DBMS (SQL traps, joins, indexes, transactions) | If you can answer 10 DBMS rapid-fire Qs without pausing |
+| 12 May | OS-1 (process/thread, scheduling, deadlocks) | If you can explain deadlock + one fix clearly |
+| 13 May | OS-2 (memory/paging, sync basics, race conditions) | If you can answer 8 OS rapid-fire Qs |
+| 14 May | Data Structures-1 (arrays/LL/stack/queue, hashing, Big-O talk) | If you can explain hashing collisions + tradeoffs |
+| 15 May | Data Structures-2 (trees/graphs, BFS/DFS, heaps) | If you can answer 10 DS rapid-fire Qs |
+| 16 May | OOP + design clarity (examples in TypeScript) | If you can do 40s + 2 follow-ups for each OOP pillar |
+| 17 May | Networks + Web (DNS/HTTP/TLS + REST vs SOAP) | If you can explain “type URL → page load” end-to-end |
+| 18 May | Security + DevOps/Cloud (OWASP basics, Docker/K8s, CI/CD, monitoring) | If you can explain incident triage steps credibly |
+| 19 May | MSTC Systems scenarios (load, audit logs, DDoS, fake bids, dispute handling) | Full mixed mock with mentor (recommended) |
+| 20 May | Final consolidation (2 mixed mocks + logistics checklist + calm revision) | Final mixed mock (HR + technical) |
 
 ### 1. Lock the “opening 90 seconds”
 - Finalize: 30-sec + 60-sec self-introduction
