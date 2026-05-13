@@ -18,14 +18,28 @@ try {
     exit 0
   }
 
-  # Only act when there are changes under .brain/ or MSTC/
-  $changed = & git status --porcelain=v1 -- .brain MSTC 2>$null
-  if (-not $changed -or $changed.Count -eq 0) {
+  # Sync only notes/config (avoid committing large binaries by accident).
+  $modified = & git diff --name-only -- .brain MSTC .cursor/hooks .cursor/hooks.json 2>$null
+  $untracked = & git ls-files --others --exclude-standard -- .brain MSTC .cursor/hooks .cursor/hooks.json 2>$null
+  $candidates = @($modified + $untracked) | Where-Object { $_ -and $_.Trim().Length -gt 0 } | Sort-Object -Unique
+
+  $filesToStage = @(
+    $candidates | Where-Object {
+      ($_ -like ".brain/*") -or
+      ($_ -like ".cursor/hooks.json") -or
+      ($_ -like ".cursor/hooks/*") -or
+      (($_ -like "MSTC/*") -and $_.ToLower().EndsWith(".md"))
+    }
+  )
+
+  if (-not $filesToStage -or $filesToStage.Count -eq 0) {
     Write-Json @{}
     exit 0
   }
 
-  & git add -A -- .brain MSTC | Out-Null
+  foreach ($path in $filesToStage) {
+    & git add -- $path | Out-Null
+  }
 
   # If nothing ended up staged, exit quietly.
   $staged = & git diff --cached --name-only -- .brain MSTC 2>$null

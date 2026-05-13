@@ -8,11 +8,20 @@
 | **Secondary Track** | Tracked only (not active) |
 | **MSTC Status** | Shortlisted; interview on `21 May 2026` at `9.00 A.M.` (New Delhi) |
 | **Study Streak** | 1 logged study day (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 09 May 2026 -- MSTC-only pivot + interview sprint setup |
+| **Last Session** | 12 May 2026 -- catch-up plan (DBMS + OS-1) + 8pm HR class |
 | **Resume From** | `.brain/NextSteps.md` |
 | **Overall Mood** | Focused; MSTC final interview is the only priority |
 
 ## Session Log
+
+### Session 7 -- 12 May 2026
+- **Type:** Catch-up Plan (missed 11 May)
+- **What happened:** Missed 11 May study due to fatigue; plan is to finish both **DBMS (11 May)** and **OS-1 (12 May)** today with a hard stop at `2.00 A.M.` on 13 May. HR class at `8.00 P.M.` today.
+- **Topics planned:** DBMS (SQL traps, joins, indexes, transactions/isolation), OS-1 (process/thread, scheduling, deadlocks)
+- **Questions attempted:** 0 (plan)
+- **Accuracy:** N/A
+- **Weak areas identified:** TBD (update after drills)
+- **Next goals:** complete DBMS + OS-1 drills + 2 mini-mocks (DBMS + OS) and log repair targets
 
 ### Session 6 -- 09 May 2026
 - **Type:** MSTC Interview Sprint Setup
