@@ -7,6 +7,17 @@
 
 ## Identified Weak Areas
 
+### MSTC Final Interview Sprint (16 May - 21 May 2026) — Core-4 “basic mastery” (ACTIVE)
+
+Target: be able to answer **basic** questions fast under short panel timing (intro → DBMS/CN/OS/DSA).
+
+| Subject | Must-win basics (interview) | Daily drill (primary) | Lecture fallback (only if stuck) | Practice source (quick) |
+|---|---|---|---|---|
+| DBMS/SQL | keys, 1NF→3NF (what it prevents), JOINs + NULL traps, indexing basics, ACID + 1 anomaly | `MSTC/TECHNICAL-QUESTION-BANK.md` + “7-minute lightning mode” | [Gate Smashers DBMS Lec-1 (syllabus)](https://www.youtube.com/watch?v=kBdlM6hNDAE) | [GateOverflow — Transaction & Concurrency control](https://gateoverflow.in/505837/gate-cs-practice-transaction-concurrency-control-dbms) |
+| OS | process vs thread, scheduling goals, deadlock (4 conditions + 1 prevention), paging/virtual memory, mutex vs semaphore | `MSTC/TECHNICAL-QUESTION-BANK.md` + “7-minute lightning mode” | [Neso Academy — Operating System](https://nesoacademy.org/cs/03-operating-system) | [GateOverflow — Deadlock tag](https://gateoverflow.in/442017/deadlock) |
+| Computer Networks | TCP vs UDP, handshake, DNS, HTTP vs HTTPS/TLS, NAT, common ports | `MSTC/TECHNICAL-QUESTION-BANK.md` + “7-minute lightning mode” | [Neso Academy — Computer Networks playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&feature=shared) | (use the MSTC Q-bank; add subnetting only if asked) |
+| DSA | Big‑O talk, stack vs queue, hashing collisions, BFS vs DFS, BST basics | `MSTC/TECHNICAL-QUESTION-BANK.md` + “7-minute lightning mode” | [Abdul Bari — DSA playlist](https://www.youtube.com/playlist?list=PL03of0rPCur_NZ9Rr4w1a5RDMU2qegBQl&cbrd=1&ucbcb=1) | (use the MSTC Q-bank; keep it basic) |
+
 ### From GATE 2026 (CS: 21/100, DA: 28/100)
 
 The GATE scores indicate broad weakness across the CS syllabus. Based on typical GATE question distribution and a score of 21, the following areas likely need the most work:

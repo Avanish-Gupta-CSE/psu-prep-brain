@@ -3,6 +3,17 @@
 ## Core Questions
 
 ### 1. Tell us about yourself.
+- **Final 30–40 sec script (mentor snap: positive feedback)**
+  > "Thank you, Ma'am and Sir, for giving me this opportunity. I am Avanish, and I hail from Bareilly, Uttar Pradesh.
+  >
+  > I graduated with a B.Tech in Computer Science and Engineering from KIIT, Bhubaneswar in 2024.
+  >
+  > My professional journey started with a year-long internship as a Project Trainee at STMicroelectronics. Following that, I joined Berkadia, where I have been working as an Associate Software Engineer for nearly two years. In my current role, I focus heavily on software development, honing my hands-on skills in technologies like Java and the MERN stack.
+  >
+  > I am now eager to bring my technical background and problem-solving experience to MSTC, and I look forward to the opportunity to contribute to your Systems division as a Management Trainee."
+
+- **Resume-safe swap (use this if you don’t want “Java grilling”)**
+  - Replace the line **“Java and the MERN stack”** with: **“React, Node.js/Express, and TypeScript (MERN-style web development)”**
 - B.Tech CSE from KIIT with 9.60 CGPA
 - 1.5+ years of software engineering experience
 - Current role at Berkadia building production systems

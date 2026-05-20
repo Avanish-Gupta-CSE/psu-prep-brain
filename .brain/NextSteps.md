@@ -1,17 +1,19 @@
 # Next Steps & Handoff
 
-Last updated: 11 May 2026
+Last updated: 18 May 2026
 
 This is the canonical resume-point file for any future login, agent, or chat system.
 Read this file first when the goal is to understand what to do next without reconstructing context from multiple logs.
 
 ## Immediate Situation
 
-- Current date context: `11 May 2026`
-- Critical path: `MSTC MT (Systems)` interview scheduled on `21 May 2026` at `9.00 A.M.` (New Delhi)
-- Focus rule: `MSTC only` unless explicitly requested otherwise
-- Official source set: `MSTC/OFFICIAL-INTERVIEW-UPDATE.md` + PDFs in `MSTC/`
-- Repo state: `.brain/` is the memory layer; MSTC work lives in `MSTC/`; important updates must be committed and pushed to `main`
+- Current date context: `20 May 2026`
+- Critical path: `MSTC MT (Systems)` interview **TOMORROW** on `21 May 2026` at `9.00 A.M.` (New Delhi)  
+- Focus rule: `MSTC only` - final 24 hour preparation window
+- **URGENT**: Second mock at 8:30 AM today, then final prep
+- Mock feedback gaps: PK vs UK, OS definition, Dijkstra algorithm, HAVING clause, IPv4 vs IPv6
+- Status: Advanced DSA + OS notes completed, technical gaps repair sheet created
+- Office leave: Today + tomorrow approved for final preparation
 
 ## Resume Order
 
@@ -24,6 +26,17 @@ If a new system needs the full picture quickly, read files in this order:
 5. the active MSTC track README (`../MSTC/README.md`)
 
 ## Immediate Next Actions
+
+### 🚨 FINAL 24 HOURS (20-21 May) — EMERGENCY MODE
+
+**TODAY'S CRITICAL SEQUENCE:**
+1. **8:30 AM**: Second mock interview (last chance to identify gaps)
+2. **9:30-10:30 AM**: Process mock feedback + repair any new weak areas
+3. **11:00 AM-12:00 PM**: Emergency drill - fix 8 technical gaps from `MSTC/TECHNICAL-GAPS-REPAIR.md`
+4. **2:00-4:00 PM**: Lightning rounds - 7-minute simulations (3 cycles minimum)
+5. **Evening**: Light revision + logistics check + early sleep
+
+**TOMORROW (21 May)**: Follow interview morning micro-plan from `MSTC/MASTER-PLAN-2026-05-15-to-21.md`
 
 ### 0. 10-day countdown plan (11 May -> 20 May)
 

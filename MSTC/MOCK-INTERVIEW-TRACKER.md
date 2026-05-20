@@ -20,6 +20,33 @@
 - Day 2: Technical-only (MT Systems fundamentals + projects)
 - Day 3: Mixed (HR + technical + follow-ups)
 
+## MOCK RESULTS
+
+### 19 May 2026 — First Mock (YourPedia)
+- **Interview type**: Mixed (HR + Technical)
+- **Scorecard (1-5)**: Structure 4 | Specificity (resume-true) 4 | PSU-fit 3 | Technical correctness 2 | Clarity/Confidence 2
+- **HR Performance**: ✅ Good - answered all questions, only feedback was "explaining a lot" (need to be more concise)
+- **Technical Performance**: ❌ Poor (40% good, 60% bad)
+
+**CRITICAL GAPS IDENTIFIED:**
+1. **❌ IS clause in DBMS** → need to clarify (likely meant EXISTS/IN clause?)
+2. **❌ Primary Key vs Unique Key difference** → MAJOR BASIC GAP
+3. **❌ Technical definition of Operating System** → couldn't give proper definition
+4. **❌ Eigenvalues** → mathematics topic, low priority for Systems role
+5. **❌ Multiplexer** → digital logic, should know for Systems
+6. **❌ HAVING clause usage** → SQL aggregation, should know
+7. **❌ IPv4 vs IPv6 difference** → networking fundamental
+8. **❌ Dijkstra Algorithm** → WRONG explanation (said doesn't work on directed graphs)
+
+**Confidence Loss Trigger**: Wrong Dijkstra explanation → cascaded confidence issues
+
+**Accommodation Issues (19 May)**:
+- Lost ₹5,800 due to unsafe Airbnb location
+- AC not working in hotel → room change at 9:30 PM
+- Significant time/energy loss affecting preparation
+
+**Next repair target**: Fix all 8 technical gaps + practice concise HR answers
+
 ## Mock Template
 
 ### DD Mon YYYY

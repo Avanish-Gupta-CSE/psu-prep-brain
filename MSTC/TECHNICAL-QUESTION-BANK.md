@@ -10,6 +10,105 @@ Reference for role signals (desirable areas like networking, Java/J2EE, REST/SOA
 - **Pass 2 (follow-ups)**: pick 2 follow-ups and go 60–90 seconds.
 - **Rule**: if you can’t explain it clearly, you don’t know it yet. Write the weak topic into `MSTC/MOCK-INTERVIEW-TRACKER.md`.
 
+## 0A) 7-minute lightning mode (Systems)
+
+Use this when panel time is short (intro → rapid fundamentals → done).
+
+**Structure (7 minutes):**
+
+- 0:00–0:30: self-intro (30–40 seconds)
+- 0:30–6:30: ~10 questions (aim **15–20 seconds** per answer; expand only if asked)
+- 6:30–7:00: close (“Thank you”)
+
+**Rules:**
+
+- Start with **definition**, add **one key tradeoff**, give **one example**.
+- Stop talking after your core answer. Let them ask follow-ups.
+- If you don’t know: say so quickly, then offer a safe reasoning attempt (“I don’t recall the exact term, but the idea is …”).
+
+**Core lightning set (pick any 10 daily, rotate):**
+
+- **DBMS**
+  - PK vs UK vs FK (with 1 example)
+  - 1NF→3NF: what it prevents (one-liner)
+  - JOIN types + a LEFT JOIN trap (WHERE vs ON)
+  - Index: speeds reads, slows writes (why)
+  - ACID + one isolation anomaly (dirty/non-repeatable/phantom)
+- **OS**
+  - Process vs thread (1 real example)
+  - Context switch: what is “saved/restored” (high-level)
+  - Scheduling: goal of RR vs SJF (1 tradeoff)
+  - Deadlock: 4 conditions + 1 prevention
+  - Paging/virtual memory: what it solves
+- **Computer Networks**
+  - TCP vs UDP (when to use each)
+  - TCP 3-way handshake (why it exists)
+  - DNS: what happens when you type a URL (high-level)
+  - HTTP vs HTTPS + what TLS gives you
+  - Common ports: 80/443/22/53 (what they are)
+- **DSA**
+  - Big-O: what it means (time vs space)
+  - Stack vs queue (use cases)
+  - Hashing: collision handling (chaining vs open addressing)
+  - BFS vs DFS (when/why)
+  - BST property + lookup complexity (average vs worst-case)
+
+### Lightning answer scripts (15–20 seconds each)
+
+Memorize this structure: **Definition → 1 tradeoff → 1 example**. Then stop talking.
+
+**DBMS**
+- **PK vs UK vs FK**: “Primary key uniquely identifies a row and can’t be NULL; a unique constraint also enforces uniqueness and you can have multiple unique keys; a foreign key references a primary/unique key to enforce relationships. Example: `users.id` PK, `users.email` unique, `orders.user_id` FK.”
+- **1NF→3NF**: “1NF = atomic values; 2NF removes partial dependency on a composite key; 3NF removes transitive dependencies. Goal is to reduce redundancy and update anomalies.”
+- **JOIN + LEFT JOIN trap**: “INNER gives matches only; LEFT keeps all left rows. Trap: filtering right table columns in WHERE turns LEFT into INNER; put that filter inside the ON clause.”
+- **Index basics**: “An index is an extra data structure that maps key → row location; it speeds reads/joins but slows writes and uses space. Example: index on email speeds login lookup.”
+- **ACID + anomaly**: “Atomicity all-or-nothing, Consistency keeps constraints valid, Isolation behaves like serial execution, Durability persists after commit. Example anomaly: dirty read = reading uncommitted data.”
+
+**OS**
+- **Process vs thread**: “A process has its own address space; threads are multiple execution units within a process sharing memory. Threads are cheaper to context switch. Example: one app process with UI + worker threads.”
+- **Context switch**: “OS saves current thread’s CPU state (PC, registers, stack pointer) and restores another’s; this overhead is why too many threads can hurt performance.”
+- **RR vs SJF**: “Round-robin improves fairness/response time with time slices; SJF minimizes average waiting time but can starve long jobs. Interactive → RR, batch → SJF.”
+- **Deadlock**: “Deadlock needs mutual exclusion, hold-and-wait, no preemption, circular wait. Prevent by breaking one—e.g., enforce global resource ordering.”
+- **Paging/virtual memory**: “Virtual memory gives each process the illusion of large memory; paging maps virtual pages to physical frames, enabling isolation and using disk on demand via page faults.”
+
+**Computer Networks**
+- **TCP vs UDP**: “TCP is reliable and ordered with congestion control; UDP is best-effort and low overhead. TCP for web/files; UDP for streaming/VoIP/DNS.”
+- **3-way handshake**: “SYN, SYN-ACK, ACK establishes a connection and initial sequence numbers so both sides agree on state before sending data.”
+- **Type URL (high-level)**: “DNS resolves name to IP, then TCP handshake, then TLS handshake for HTTPS, then HTTP request/response, then browser renders.”
+- **HTTP vs HTTPS/TLS**: “HTTP is plain text; HTTPS is HTTP over TLS. TLS provides encryption, integrity, and server authentication via certificates.”
+- **Ports**: “80=HTTP, 443=HTTPS, 22=SSH, 53=DNS.”
+
+**DSA**
+- **Big‑O**: “Big‑O describes how time/space grows with input size—an upper bound used to compare algorithms.”
+- **Stack vs queue**: “Stack is LIFO (call stack, undo); queue is FIFO (scheduling, BFS).”
+- **Hash collisions**: “Collisions happen when two keys map to same bucket. Handle with chaining (list per bucket) or open addressing (probe next slots).”
+- **BFS vs DFS**: “BFS uses a queue and finds shortest paths in unweighted graphs; DFS uses recursion/stack and is good for traversal/connectivity. Both are O(V+E).”
+- **BST**: “BST keeps left < node < right. Average search is O(log n) if balanced; worst is O(n) if skewed.”
+
+### Lecture patch rule (only when you blank out)
+
+If you cannot deliver the 15–20s script, do **20 minutes lecture** on that exact topic, then immediately retake the same script.
+
+- DBMS: [Gate Smashers DBMS playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+- OS: [Gate Smashers OS playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- CN: [Neso Academy CN playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&feature=shared) or [Gate Smashers CN playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+- DSA: [Abdul Bari DSA playlist](https://www.youtube.com/playlist?list=PL03of0rPCur_NZ9Rr4w1a5RDMU2qegBQl&cbrd=1&ucbcb=1)
+
+**MSTC lightning add-ons (1–2 questions, if they ask non-technical quickly):**
+
+- What is a **forward auction** vs **reverse auction**? (one-liner + example)
+- Name 1–2 **e-auction platform competitors** in India (one-liner only)
+- “In 1 line, what does MSTC do?” (PSU + e-auction/e-commerce services)
+- “Why MSTC?” (10–15 seconds: platforms + public impact + fit)
+
+**15-minute extension pack (if they keep going after basics):**
+
+- **DBMS follow-ups**: covering index (idea), DB deadlock (what happens), conflict vs view serializable (one-liner)
+- **OS follow-ups**: race condition example, mutex vs semaphore, page fault (high-level)
+- **CN follow-ups**: 502 vs 504 meaning (high-level), latency vs throughput (one-liner)
+- **DSA follow-ups**: why collisions happen, average vs worst-case lookup in hash table, BFS/DFS complexity
+- **1 project follow-up**: “Explain one system you built at Berkadia — what happens on failure and what you log.”
+
 ## 0) Opening: “What do you do?”
 
 - “I build production web applications using React + Node/Express + TypeScript, with PostgreSQL/Elasticsearch, AWS, CI/CD and security-aware workflows. I’m comfortable learning new stacks and I focus on reliability, auditability, and clean APIs.”
