@@ -1,17 +1,19 @@
 # Study Plan
 
-## Current Planning Assumption (as of 09 May 2026)
+## Current Planning Assumption (as of 29 May 2026)
 
-- `MSTC MT (Systems)` interview is scheduled on `21 May 2026` at `9.00 A.M.` (New Delhi).
-- MSTC final interview is the only active track until interview day.
-- Everything else is tracked only unless explicitly requested.
+- `MSTC MT (Systems)` interview has been completed on `21 May 2026`.
+- Active focus is shifted to the **Multi-Exam Super-Sprint** covering STPI exams (30 & 31 May), UCO Bank GD (01 June), form fillings (CNP, Balmer Lawrie, CIL, NFL), and the BSNL SET exam (first week of June).
+- The UPPSC Polytechnic Lecturer (CS) exam has been officially rescheduled to **06 September 2026** (per UPPSC Annual Calendar 2026). Preparation for it will reactivate as a dedicated sprint post-June.
 
 ## Phase Overview
 
 | Phase | Period | Target | Focus | Status |
 |-------|--------|--------|-------|--------|
 | 1 | 14-18 Mar 2026 | MSTC MT GD | GD prep, company research, current affairs | COMPLETED |
-| 2 | 09 May - 21 May 2026 | MSTC MT Final Interview (Systems) | HR + technical drills + resume deep-dive + mock loops + logistics | ACTIVE |
+| 2 | 09 May - 21 May 2026 | MSTC MT Final Interview (Systems) | HR + technical drills + resume deep-dive + mock loops + logistics | COMPLETED |
+| 3 | 22 May - 12 Jun 2026 | Multi-Exam Super-Sprint | STPI, UCO Bank GD, Form-Filling Campaign, BSNL SET | ACTIVE |
+| 4 | 13 Jun - 06 Sep 2026 | UPPSC Polytechnic Lecturer & Core CS Deep-Dive | General Hindi + UP General Studies + Advanced CSE Core | PLANNED |
 
 ## Phase 2: MSTC Final Interview Sprint (ACTIVE)
 

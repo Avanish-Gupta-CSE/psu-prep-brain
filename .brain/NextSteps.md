@@ -1,91 +1,111 @@
-# Next Steps & Handoff
+# Next Steps & Handoff (The Multi-Exam Super-Sprint)
 
-Last updated: 18 May 2026
+Last updated: 29 May 2026 (Evening)
 
-This is the canonical resume-point file for any future login, agent, or chat system.
-Read this file first when the goal is to understand what to do next without reconstructing context from multiple logs.
+This is the canonical resume-point file for any future login, agent, or chat system. 
+Read this file first to understand the current priority queue and the immediate day-by-day action plan.
 
-## Immediate Situation
+---
 
-- Current date context: `20 May 2026`
-- Critical path: `MSTC MT (Systems)` interview **TOMORROW** on `21 May 2026` at `9.00 A.M.` (New Delhi)  
-- Focus rule: `MSTC only` - final 24 hour preparation window
-- **URGENT**: Second mock at 8:30 AM today, then final prep
-- Mock feedback gaps: PK vs UK, OS definition, Dijkstra algorithm, HAVING clause, IPv4 vs IPv6
-- Status: Advanced DSA + OS notes completed, technical gaps repair sheet created
-- Office leave: Today + tomorrow approved for final preparation
+## 🚨 Immediate Situation: The Multi-Exam Super-Sprint
 
-## Resume Order
+We have entered a highly dense, extremely critical window containing **three major exams, one bank GD, and four important form-filling deadlines**. 
 
-If a new system needs the full picture quickly, read files in this order:
+**MAJOR CORRECTION**: The **UPPSC Polytechnic Lecturer (CS) exam** is NOT on 04 June. W.r.t the official UPPSC Exam Calendar 2026, the exam is officially scheduled for **06 September 2026**. This completely decompresses our June schedule and gives us a massive 3-month runway to master General Hindi, UP General Studies, and deep-dive technical concepts!
 
-1. `./NextSteps.md`
-2. `./Progress.md`
-3. `./ExamTracker.md`
-4. `./StudyPlan.md`
-5. the active MSTC track README (`../MSTC/README.md`)
+### 📅 The Master Timeline (29 May - 12 June 2026)
 
-## Immediate Next Actions
+| Date | Day | Event / Target | Key Actions |
+|---|---|---|---|
+| **29 May** | **Friday** | Preparation / Setup | Generic Aptitude brush-up + STPI admit cards printout. |
+| **30 May** | **Saturday** | **STPI Scientist B Exam** (09:30 AM) | **CBT Exam**. 150 Qs. 100% attempts (No negative marking!). |
+| **31 May** | **Sunday** | **STPI MTSS ES-IV Exam** (09:30 AM) | **CBT Exam**. 150 Qs. 100% attempts (No negative marking!). |
+| **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Video Conference GD** from Zonal Office, Bangalore. |
+| **02 June**| **Tuesday** | **CNP Nashik Form Filling** | **Submit Supervisor (IT) Application** (Extended deadline: 3 June). |
+| **03 June**| **Wednesday**| **Balmer Lawrie & CIL Forms** | Submit BL Executive Trainee (IT) & Coal India MT (Systems) applications. |
+| **05/07 Jun**| **Fri/Sun**| **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
+| **12 June**| **Friday** | **NFL MT (IT) Form Filling** | Submit NFL application (1 OBC-NCL backlog seat). |
+| **06 Sept** | **Sunday** | **UPPSC Polytechnic Lecturer** | **Objective Exam** (2 papers, CS + Hindi + GS). |
 
-### 🚨 FINAL 24 HOURS (20-21 May) — EMERGENCY MODE
+---
 
-**TODAY'S CRITICAL SEQUENCE:**
-1. **8:30 AM**: Second mock interview (last chance to identify gaps)
-2. **9:30-10:30 AM**: Process mock feedback + repair any new weak areas
-3. **11:00 AM-12:00 PM**: Emergency drill - fix 8 technical gaps from `MSTC/TECHNICAL-GAPS-REPAIR.md`
-4. **2:00-4:00 PM**: Lightning rounds - 7-minute simulations (3 cycles minimum)
-5. **Evening**: Light revision + logistics check + early sleep
+## 🎯 Target-Wise Precision Strategy
 
-**TOMORROW (21 May)**: Follow interview morning micro-plan from `MSTC/MASTER-PLAN-2026-05-15-to-21.md`
+### I. STPI Dual-Exam Weekend (30 & 31 May)
 
-### 0. 10-day countdown plan (11 May -> 20 May)
+You have two back-to-back exams at the **same venue in RT Nagar, Bengaluru**.
 
-Use the quick-revision notes as the “compressed theory” layer: `MSTC/Quick Revision Ebook/revision-ebook-glm.md`.
+#### 1. Core Execution Rules (No-Negative Strategy):
+* **100% Attempt Rule**: Neither exam has negative marking. **You must answer every single question.** In the final 10 minutes, randomly bubble/mark any unanswered questions. Leaving even one question blank is throwing away free marks.
+* **No Sectional Cutoffs**: You are free to maximize your score in your strongest areas.
+* **Time Management (150 minutes for 150 questions)**: Keep a steady pace of **1 minute per question**. Do not get stuck on tough quantitative aptitude questions. Mark them, guess, move on, and return if time permits.
 
-| Date | Primary Technical Focus | Mentor snap-interview trigger |
-|------|--------------------------|------------------------------|
-| 11 May | DBMS (SQL traps, joins, indexes, transactions) | If you can answer 10 DBMS rapid-fire Qs without pausing |
-| 12 May | OS-1 (process/thread, scheduling, deadlocks) | If you can explain deadlock + one fix clearly |
-| 13 May | OS-2 (memory/paging, sync basics, race conditions) | If you can answer 8 OS rapid-fire Qs |
-| 14 May | Data Structures-1 (arrays/LL/stack/queue, hashing, Big-O talk) | If you can explain hashing collisions + tradeoffs |
-| 15 May | Data Structures-2 (trees/graphs, BFS/DFS, heaps) | If you can answer 10 DS rapid-fire Qs |
-| 16 May | OOP + design clarity (examples in TypeScript) | If you can do 40s + 2 follow-ups for each OOP pillar |
-| 17 May | Networks + Web (DNS/HTTP/TLS + REST vs SOAP) | If you can explain “type URL → page load” end-to-end |
-| 18 May | Security + DevOps/Cloud (OWASP basics, Docker/K8s, CI/CD, monitoring) | If you can explain incident triage steps credibly |
-| 19 May | MSTC Systems scenarios (load, audit logs, DDoS, fake bids, dispute handling) | Full mixed mock with mentor (recommended) |
-| 20 May | Final consolidation (2 mixed mocks + logistics checklist + calm revision) | Final mixed mock (HR + technical) |
+#### 2. Test Structure:
+* **MTS E-I (Scientist B) - Saturday**:
+  * 75 Questions Generic (Quant, Reasoning, English, General Awareness)
+  * 75 Questions Technical (Core CS: DBMS, DSA, Networks, OS, Software Engg).
+* **MTSS ES-IV - Sunday**:
+  * 20 Reasoning + 20 GK + 20 Aptitude + 20 English (80 Questions Generic)
+  * 70 Questions Technical (Core CS & IT concepts).
 
-### 1. Lock the “opening 90 seconds”
-- Finalize: 30-sec + 60-sec self-introduction
-- Finalize: `why MSTC`, `why PSU`, `why you`, `strengths/weakness` (resume-true, no extra claims)
-- By-heart: MSTC **Vision / Mission / Objectives** using `GDR – THIPP – ICPWJRB` (`MSTC/MISSION-VISION.md`, `MSTC/Company-MSTC-Research/MSTC_VMO_Mnemonics.md`)
-- Use: `MSTC/HR-QUESTION-BANK.md`, `MSTC/CAREER-STORY-BANK.md`
+---
 
-### 2. Technical interview readiness (MT Systems)
-- Build fast-recall answers for: Networking, DBMS/SQL, OS basics, REST vs SOAP, auth basics, Docker/K8s, CI/CD, cloud fundamentals
-- Turn each resume project into a deep-dive: architecture, decisions, failure modes, security/reliability, measurable outcomes
-- Use: `.brain/MSTC-GD-Prep.md` (company context), `Resume-Berkadia.tex` (facts)
-- Drill sources: `MSTC/TECHNICAL-QUESTION-BANK.md`, `MSTC/PROJECT-DEEP-DIVE.md`
+### II. UCO Bank Software Developer JMGS-I GD (01 June, 02:30 PM)
 
-### 3. Mock cadence (until interview day)
-- Run alternating mocks: HR-only, Technical-only, Mixed
-- Log each mock in `MSTC/MOCK-INTERVIEW-TRACKER.md` with “weakest answer → repair target”
+* **Location**: UCO Bank Zonal Office, KG Road, Bangalore. (The GD is conducted via **Video Conference** with the head office panel).
+* **Experience Fit**: The role requires a minimum 1 year of post-qualification experience with Java/React/.net/APIs. Your solid ~2 years of experience at STMicroelectronics and Berkadia makes you highly competitive.
 
-### 4. Logistics (do once, then re-check when call letter arrives)
-- Confirm venue and reporting guidance from `MSTC/OFFICIAL-INTERVIEW-UPDATE.md`
-- Ensure: interview call letter print + valid original photo ID (ration card / learner DL not valid)
-- Plan travel so arrival is at least `30 minutes` before reporting time
+#### 1. Crucial Document Checklist (Compile on Sunday Evening!):
+* [ ] Printout of GD Call Letter with passport-size photo affixed and signed across.
+* [ ] Printout of online submitted Application Form.
+* [ ] Proof of Date of Birth (10th marksheet or Birth Certificate).
+* [ ] Original Valid Photo ID (Aadhaar / PAN Card) + 1 self-attested photocopy.
+* [ ] Original marksheets & certificates of B.Tech.
+* [ ] Original OBC-NCL Certificate issued **on or after 01.04.2025** in the Central Government format.
+* [ ] Original Experience Certificates from STMicroelectronics and Berkadia (must clearly show dates and technical domains).
 
-## Open Loops To Watch
+#### 2. Expected GD Topics & Quick Speaking Scripts (45-Second Anchors):
+* **Topic A: Cloud Migration and Cybersecurity in Public Sector Banking**
+  * *Script*: "In digital banking, cloud migration is no longer optional; it is the backbone of scalability. However, public sector banks must adopt a **hybrid cloud architecture**—keeping highly sensitive core-ledger database systems on-premise while leveraging public clouds for consumer-facing APIs and AI chatbots. To prevent data breaches, banks must implement **Zero Trust Network Architecture** and real-time fraud detection pipelines using machine learning."
+* **Topic B: Role of FinTech and UPI Innovations in Financial Inclusion**
+  * *Script*: "UPI has revolutionized the micropayments ecosystem in India. The next phase of banking IT lies in **UPI Lite offline payments** and **conversational banking**. As a software developer, I believe public sector banks can leverage open-source APIs and blockchain ledger networks to reduce transaction failure rates, lower merchant discount rates (MDR), and bring secure digital banking to rural populations without active internet connectivity."
+* **Topic C: AI/ML vs Legacy Rule-Based Fraud Detection in Core Banking**
+  * *Script*: "Legacy banking systems rely on rigid, rule-based alerts which generate high false-positive rates. Modern banking needs **AI-driven anomaly detection**. By analyzing transaction behavior, historical spending trends, and geo-location metadata in real-time, AI can instantly flags fraudulent transfers before the funds leave the sender's account. This proactive mitigation is crucial for maintaining customer trust."
 
-- Call letter release link and document checklist (final confirmation from the call letter)
-- Any interview-day changes (time/venue/mode)
+---
 
-## Update Rule
+### III. Form-Filling Campaign (02 - 12 June)
 
-Update this file whenever one of these changes:
+We have four outstanding applications. Complete them strictly on the designated days to avoid server bottlenecks.
 
-- the immediate next interview-prep block changes
-- the active track priority changes
-- a new interview update arrives
-- a mock reveals a new weakness that changes the next drill target
+1. **Currency Note Press (CNP) Nashik -- Supervisor (IT)** (Deadline: **03 June 2026**):
+   * *Why Apply?*: 2 UR seats. No interview! Pure CBT merit.
+   * *Fee*: ₹500 (OBC).
+2. **Balmer Lawrie -- Executive Trainee (IT)** (Deadline: **09 June 2026**):
+   * *Why Apply?*: 6 seats (2 OBC-NCL).
+   * *Unique Pattern*: Section 1 has 40 marks of **General Engineering** (physics, mechanics, basic electrical, chemistry, etc.). Section 2 is 60 marks of Aptitude. No domain CS section!
+3. **Coal India Limited (CIL) -- Management Trainee (Systems)** (Deadline: **11 June 2026**):
+   * *Why Apply?*: **43 vacancies** (11 OBC-NCL!). **CBT Only — NO INTERVIEW!** This is your best chance. Paper 1 (Non-tech) + Paper 2 (Tech).
+4. **National Fertilizers Limited (NFL) -- Management Trainee (IT)** (Deadline: **12 June 2026**):
+   * *Why Apply?*: **1 OBC-NCL backlog post**. Highly targeted seat. OMR test (80%) + Interview (20%).
+
+---
+
+### IV. BSNL SET (05/07 June) & UPPSC Lecturer (06 September)
+
+* **BSNL SET**: Focuses heavily on Telecom networks, IP routing, Cloud, and AI. Your existing Computer Networks notes are highly aligned.
+* **UPPSC Lecturer**: Relocated to September 06. This is a blessing—we will structure a dedicated, steady preparation plan for general Hindi and UP GK starting post-June super-sprints.
+
+---
+
+## 🛠️ Immediate Study Strategy (Today's Actions)
+
+1. **Keep it light**: Do not start any heavy technical topics. You have already built comprehensive notes for Advanced DSA, OS, DBMS, and Networks.
+2. **Review Aptitude Formulas**: Quickly scan through:
+   * Percentages, Profit & Loss, Time & Work, Speed & Distance formulas.
+   * Logical reasoning Syllogisms, Blood Relations, and Coding-Decoding patterns.
+3. **Logistics Checklist**:
+   * Printout of STPI Scientist B Admit Card.
+   * 2 Passport size photos.
+   * Valid original Aadhaar / PAN card.
+   * Double-check travel distance from your room to RT Nagar (arrive by 08:15 AM).

@@ -117,3 +117,23 @@ _Updated after each Cursor AI session when the student gets MCQs wrong._
 | Date | Topic | Sub-Topic | Question Type | Notes |
 |------|-------|-----------|---------------|-------|
 | -- | -- | -- | -- | No sessions yet |
+
+---
+
+## MOCK 1 GAPS — Added 20 May 2026
+
+**Source:** Mock Interview 1 (19 May 2026, 7 PM)
+**Score:** HR 4/5, Technical 2/5
+
+All 8 gaps now have 40-second repair scripts in `MSTC/TECHNICAL-GAPS-REPAIR.md`.
+
+| # | Gap Topic | Correct Answer Summary | Repair File |
+|---|---|---|---|
+| 1 | IS NULL / IS clause | `= NULL` returns 0 rows always. Use `IS NULL` because NULL comparisons return UNKNOWN | TECHNICAL-GAPS-REPAIR.md |
+| 2 | PK vs UK | PK: no null, one per table, clustered. UK: one null allowed, multiple per table, non-clustered | TECHNICAL-GAPS-REPAIR.md |
+| 3 | OS technical definition | Interface between hardware and user. Manages CPU, memory, I/O. Takes instructions → directs CPU → hardware. | OS/01-OS-BASICS-AND-PROCESSES.md |
+| 4 | Eigenvalues | Av = λv. Solve det(A - λI) = 0. Sum = trace, Product = determinant. | TECHNICAL-GAPS-REPAIR.md |
+| 5 | Multiplexer | n select lines → 2ⁿ inputs → 1 output. Data selector/router. | TECHNICAL-GAPS-REPAIR.md |
+| 6 | HAVING clause | WHERE = before GROUP BY (no aggregates). HAVING = after aggregation (aggregates ok). | TECHNICAL-GAPS-REPAIR.md |
+| 7 | IPv4 vs IPv6 | IPv4 = 32-bit, 4.3B addresses, needs NAT. IPv6 = 128-bit, unlimited, built-in IPSec. | TECHNICAL-GAPS-REPAIR.md |
+| 8 | Dijkstra (**WRONG ANSWER GIVEN**) | ✅ Works on BOTH directed AND undirected. ❌ Only fails on negative edge weights. | DSA/06-ADVANCED-ALGORITHMS.md |

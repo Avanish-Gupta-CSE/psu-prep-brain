@@ -1,192 +1,266 @@
-# MSTC Technical Gaps — Emergency Repair Sheet
+# Technical Gaps Repair Sheet
 
-> 🚨 **URGENT**: Fix these 8 gaps before today's 8:30 AM mock
-> ⏱️ Study time: 45 minutes MAX (5-6 minutes per gap)
+> From: Mock Interview 1 (19 May 2026, 7 PM)
+> Technical score: 40% — 8 gaps identified
+> Each gap has a 40-second script + key points for rapid fire
+> Read this BEFORE every mock and before the final interview
 
 ---
 
-## ❌ GAP 1: PRIMARY KEY vs UNIQUE KEY ⚠️ **BASIC ERROR**
+## GAP 1 — IS Clause in DBMS ❌ (could not explain)
 
-### PRIMARY KEY
-- **Definition**: Column(s) that uniquely identifies each row in a table
-- **Properties**: UNIQUE + NOT NULL
-- **Limit**: Only **ONE** Primary Key per table
-- **Purpose**: Main identifier for table, used for relationships
+**What IS clause is:** In DBMS context, this likely referred to `IS NULL` and `IS NOT NULL`.
 
-### UNIQUE KEY  
-- **Definition**: Column(s) that ensures uniqueness but can have NULL values
-- **Properties**: UNIQUE but allows **ONE NULL** value
-- **Limit**: **Multiple** Unique Keys allowed per table
-- **Purpose**: Additional uniqueness constraints
+**The Rule:**
 
-**40s Script:**
-"Primary Key uniquely identifies each row and cannot be NULL - only one per table. Unique Key also ensures uniqueness but allows one NULL value - multiple unique keys allowed per table. PK is the main identifier used for foreign key relationships, UK provides additional uniqueness constraints."
+> `NULL = NULL` is NOT TRUE in SQL — it returns UNKNOWN. You must use `IS NULL`.
 
-**Example:**
+**Wrong:**
+
 ```sql
--- Employee table can have:
-emp_id INT PRIMARY KEY        -- Only one PK
-email VARCHAR(50) UNIQUE      -- UK 1: allows one NULL
-phone VARCHAR(15) UNIQUE      -- UK 2: allows one NULL
+WHERE col = NULL    -- always returns 0 rows
+WHERE col != NULL   -- always returns 0 rows
 ```
 
+**Correct:**
+
+```sql
+WHERE col IS NULL
+WHERE col IS NOT NULL
+```
+
+**Why:** SQL uses 3-valued logic: TRUE / FALSE / UNKNOWN. Any comparison with NULL → UNKNOWN → row dropped by WHERE.
+
+**40s Script:**
+
+> *"In SQL, you cannot use = or != to check for NULL because NULL represents absence of value, not a value itself. Any comparison with NULL returns UNKNOWN — not TRUE. The IS NULL operator was specifically designed for this. So we use WHERE col IS NULL to find rows where a column has no value."*
+
 ---
 
-## ❌ GAP 2: OPERATING SYSTEM DEFINITION ⚠️ **INTERVIEW KILLER**
+## GAP 2 — PK vs UK ❌ (confused them)
+
+**The Key Differences:**
+
+
+| Feature      | Primary Key | Unique Key            |
+| ------------ | ----------- | --------------------- |
+| Uniqueness   | ✅ Enforced  | ✅ Enforced            |
+| NULL allowed | ❌ NEVER     | ✅ ONE null per column |
+| Per table    | Only ONE PK | MULTIPLE UKs allowed  |
+| Index type   | Clustered   | Non-clustered         |
+
+
+**40s Script:**
+
+> *"Both Primary Key and Unique Key enforce uniqueness — no duplicates allowed. The difference: a Primary Key cannot be NULL under any circumstance, while a Unique Key allows one NULL. A table can have only one Primary Key, but can have multiple Unique Keys. Primary Key creates a clustered index, Unique Key creates a non-clustered index. Think of Unique Key as a backup identifier that's slightly more relaxed than the primary."*
+
+---
+
+## GAP 3 — Technical Definition of Operating System ❌ (gave informal definition)
 
 **Technical Definition:**
-"An Operating System is system software that acts as an interface between users and computer hardware. It manages and controls CPU, memory, files, I/O devices, and provides services through system calls."
+
+> *"An Operating System is system software that acts as an interface between computer hardware and the user. It manages and controls all hardware resources — CPU, memory, disk drives, and I/O devices. It takes instructions from the user, directs the CPU to execute them, and manages the flow of data, instructions, and information within the system."*
+
+**OS Functions (quick list):**
+Memory Management, Process Management, File Management, Device Management, Security, Networking, Communication, Job Accounting, Secondary Storage, Command Interpretation
 
 **40s Script:**
-"Operating System is system software that manages computer hardware and provides interface for users and applications. Key functions include process management, memory management, file system, and I/O control. It acts as a resource manager, allocating CPU time, memory space, and handling device drivers. Examples are Windows, Linux, macOS."
 
-**Key Functions (remember 5):**
-1. **Process Management** → scheduling, creation, termination
-2. **Memory Management** → allocation, virtual memory
-3. **File Management** → create, delete, organize files  
-4. **I/O Management** → device drivers, interrupts
-5. **Security & Protection** → user authentication, access control
+> *"An OS is system software that interfaces between hardware and user. It manages CPU scheduling, memory allocation, file systems, and I/O devices. Users interact via GUI or CLI — the OS translates those into hardware instructions. Without an OS, no application can run. Examples: Windows, Linux, Android."*
 
 ---
 
-## ❌ GAP 3: HAVING CLAUSE in SQL
+## GAP 4 — Eigenvalues ❌ (not covered)
 
-**Definition**: Used with GROUP BY to filter grouped records (like WHERE for groups)
+**What is an Eigenvalue:**
 
-**Key Rule**: 
-- **WHERE** → filters rows BEFORE grouping
-- **HAVING** → filters groups AFTER grouping and aggregation
+For a square matrix A, if `Av = λv` where:
 
-**40s Script:**
-"HAVING clause filters grouped records after aggregation, unlike WHERE which filters individual rows before grouping. Use HAVING with aggregate functions like COUNT, SUM, AVG. It's applied after GROUP BY processing."
+- v = non-zero vector (eigenvector)
+- λ = scalar (eigenvalue)
 
-**Example:**
-```sql
--- Find departments with more than 5 employees
-SELECT department, COUNT(*) 
-FROM employees 
-GROUP BY department 
-HAVING COUNT(*) > 5;
+Then λ is an eigenvalue of matrix A.
 
--- WHERE would fail here because COUNT(*) doesn't exist yet
-```
+**How to find eigenvalues:**
+Solve: `det(A - λI) = 0` (characteristic equation)
 
----
+**Example:** For matrix A = [[4, 1], [2, 3]]:
 
-## ❌ GAP 4: IPv4 vs IPv6
-
-### IPv4
-- **Address Length**: 32 bits (4 bytes)
-- **Format**: Dotted decimal (192.168.1.1)
-- **Address Space**: ~4.3 billion addresses
-- **Header Size**: 20-60 bytes (variable)
-- **Security**: IPSec optional
-
-### IPv6  
-- **Address Length**: 128 bits (16 bytes)
-- **Format**: Hexadecimal with colons (2001:db8::1)
-- **Address Space**: 3.4 × 10³⁸ addresses
-- **Header Size**: 40 bytes (fixed)
-- **Security**: IPSec mandatory
-
-**40s Script:**
-"IPv4 uses 32-bit addresses in dotted decimal format with ~4.3 billion possible addresses. IPv6 uses 128-bit addresses in hexadecimal format with vastly more address space. IPv6 has fixed 40-byte headers vs IPv4's variable 20-60 bytes, and includes mandatory security features."
-
----
-
-## ❌ GAP 5: DIJKSTRA ALGORITHM ⚠️ **YOU GOT THIS WRONG**
-
-**CORRECT FACTS:**
-- ✅ **Works on BOTH directed AND undirected graphs**
-- ✅ **Single-source shortest path** algorithm
-- ❌ **Does NOT work with negative weights**
-- ✅ **Greedy algorithm** using priority queue
-- ✅ **Time Complexity**: O((V+E) log V)
-
-**40s Script:**
-"Dijkstra's algorithm finds shortest paths from a single source to all vertices in weighted graphs. It works on both directed and undirected graphs but requires non-negative weights. Uses greedy approach with min-priority queue, repeatedly selecting vertex with minimum distance and relaxing its neighbors. Time complexity is O((V+E) log V) with heap."
-
-**Why No Negative Weights:**
-Greedy choice assumes once a vertex is processed, its shortest distance is final. Negative weights could create shorter paths later.
-
----
-
-## ❌ GAP 6: MULTIPLEXER (Digital Logic)
-
-**Definition**: Combinational circuit that selects one of many input signals and forwards it to single output line.
+- `det([[4-λ, 1], [2, 3-λ]]) = 0`
+- `(4-λ)(3-λ) - 2 = 0`
+- `λ² - 7λ + 10 = 0`
+- `λ = 5` or `λ = 2`
 
 **Properties:**
-- **n select lines** can choose from **2ⁿ input lines**
-- **1 output line**
-- **Data selector** or **MUX**
+
+- Sum of eigenvalues = Trace of matrix (sum of diagonal)
+- Product of eigenvalues = Determinant of matrix
 
 **40s Script:**
-"Multiplexer is a digital circuit that selects one input from multiple inputs using select lines and forwards it to output. With n select lines, we can choose from 2ⁿ inputs. It's like a digital switch - select lines act as control to choose which input reaches output."
 
-**Example**: 4:1 MUX has 4 inputs, 2 select lines, 1 output.
+> *"An eigenvalue λ of a matrix A is a scalar such that Av = λv — multiplying the matrix by its eigenvector v just scales the vector, it doesn't rotate it. To find eigenvalues, we solve the characteristic equation det(A - λI) = 0. For a 2×2 matrix this gives a quadratic. The sum of eigenvalues equals the trace, and the product equals the determinant."*
 
 ---
 
-## ❌ GAP 7: IS CLAUSE in DBMS (Context Needed)
+## GAP 5 — Multiplexer ❌ (not covered)
 
-**Most Likely Meant**: **EXISTS** clause or **IN** clause
+**What is a Multiplexer (MUX):**
 
-### EXISTS Clause
-```sql
--- Check if subquery returns any rows
-SELECT * FROM employees e 
-WHERE EXISTS (SELECT 1 FROM departments d WHERE d.dept_id = e.dept_id);
+A **combinational circuit** that selects one of several input signals and forwards it to a single output line based on select lines.
+
+- n select lines → 2ⁿ input lines → 1 output
+- Also called **Data Selector**
+
+**2-to-1 MUX:**
+
+```
+I0 ──┐
+     │──[MUX]── Output
+I1 ──┘
+      ↑
+      S (select)
+If S=0: Output = I0
+If S=1: Output = I1
 ```
 
-### IN Clause  
+**4-to-1 MUX:** 4 inputs, 2 select lines (S1, S0)
+
+**Truth Table (4-to-1):**
+
+
+| S1  | S0  | Output |
+| --- | --- | ------ |
+| 0   | 0   | I0     |
+| 0   | 1   | I1     |
+| 1   | 0   | I2     |
+| 1   | 1   | I3     |
+
+
+**Boolean Expression:** `Y = S1'S0'I0 + S1'S0I1 + S1S0'I2 + S1S0I3`
+
+**Applications:** Data routing, frequency selection, communication systems
+
+**40s Script:**
+
+> *"A Multiplexer is a combinational circuit that selects one of multiple input signals and routes it to a single output based on select lines. With n select lines, it can handle 2ⁿ inputs. It's essentially a data selector — used in data routing, communication systems, and implementing Boolean functions. The complement is a Demultiplexer which does the reverse — one input to multiple outputs."*
+
+---
+
+## GAP 6 — HAVING Clause ❌ (could not explain why we use it)
+
+**The Rule:**
+
+- `WHERE` → filters **rows** BEFORE `GROUP BY` — cannot use aggregate functions
+- `HAVING` → filters **groups** AFTER aggregation — aggregate functions allowed
+
+**Execution Order:**
+
+```
+FROM → JOIN → WHERE → GROUP BY → HAVING → SELECT → ORDER BY
+```
+
+**Wrong:**
+
 ```sql
--- Check if value exists in a list/subquery
-SELECT * FROM employees 
-WHERE dept_id IN (1, 2, 3);
+SELECT dept_id, COUNT(*)
+FROM employees
+WHERE COUNT(*) > 5    -- ❌ ERROR: aggregate not allowed in WHERE
+GROUP BY dept_id;
+```
+
+**Correct:**
+
+```sql
+SELECT dept_id, COUNT(*) AS headcount
+FROM employees
+WHERE active = true          -- filters rows BEFORE grouping
+GROUP BY dept_id
+HAVING COUNT(*) > 5;         -- filters GROUPS after aggregation
 ```
 
 **40s Script:**
-"EXISTS checks if a subquery returns any rows - returns TRUE/FALSE. IN checks if a value matches any value in a list or subquery result. EXISTS is generally more efficient for large subqueries because it stops at first match."
+
+> *"HAVING is used to filter groups after aggregation — WHERE can't do this because WHERE runs before GROUP BY and doesn't have access to aggregate results. We use HAVING when we want conditions on things like COUNT, SUM, or AVG. Example: WHERE filters out inactive employees first, then GROUP BY creates department groups, then HAVING COUNT > 5 keeps only large departments."*
 
 ---
 
-## ❌ GAP 8: EIGENVALUES (Low Priority for Systems)
+## GAP 7 — IPv4 vs IPv6 ❌ (not covered)
 
-**Definition**: Special scalars associated with linear transformations represented by matrices.
 
-**Formula**: Av = λv (where λ is eigenvalue, v is eigenvector)
+| Feature          | IPv4                                       | IPv6                                       |
+| ---------------- | ------------------------------------------ | ------------------------------------------ |
+| Address size     | **32-bit**                                 | **128-bit**                                |
+| Address notation | Dotted decimal: `192.168.1.1`              | Hexadecimal: `2001:0db8::1`                |
+| Total addresses  | ~4.3 billion (2³²)                         | ~340 undecillion (2¹²⁸)                    |
+| Header size      | 20-60 bytes                                | Fixed 40 bytes                             |
+| Configuration    | Manual / DHCP                              | Auto-configuration (SLAAC)                 |
+| NAT required?    | ✅ Yes (address shortage)                   | ❌ No (enough addresses)                    |
+| Security (IPSec) | Optional                                   | Built-in mandatory                         |
+| Checksum         | ✅ Has checksum field                       | ❌ No checksum (handled by transport layer) |
+| Fragmentation    | By routers and hosts                       | By source host only                        |
+| Broadcast        | ✅ Has broadcast                            | ❌ Uses multicast instead                   |
+| Speed            | Slightly faster routing (mature ecosystem) | More efficient header processing           |
+
+
+**Why we need IPv6:**
+
+> IPv4 is exhausted — only ~4.3 billion addresses, not enough for all devices. IPv6 provides virtually unlimited addresses.
 
 **40s Script:**
-"Eigenvalue is a scalar λ such that when matrix A multiplies eigenvector v, the result is λv - the vector is only scaled, not rotated. Used in machine learning for dimensionality reduction (PCA), stability analysis in systems, and Google's PageRank algorithm."
+
+> *"IPv4 uses 32-bit addresses in dotted decimal format like 192.168.1.1, giving about 4.3 billion addresses which are now exhausted. IPv6 uses 128-bit addresses in hexadecimal, providing 2¹²⁸ addresses — effectively unlimited. IPv6 has a fixed 40-byte header for faster processing, has IPSec built-in for security, doesn't need NAT, and uses multicast instead of broadcast. The main driver for IPv6 is address space exhaustion in IPv4."*
 
 ---
 
-## 🎯 EMERGENCY DRILL PLAN (Next 30 Minutes)
+## GAP 8 — Dijkstra Algorithm (gave WRONG explanation) ❌
 
-**Sequence (6 minutes each):**
-1. **Primary vs Unique Key** → Write 3 examples, practice 40s script
-2. **Operating System Definition** → Memorize technical definition + 5 functions
-3. **HAVING clause** → Write 2 SQL examples with GROUP BY
-4. **Dijkstra Algorithm** → Correct the wrong facts, practice explanation
-5. **IPv4 vs IPv6** → Make comparison table, memorize address formats
+**What you said wrong:** "Dijkstra does not work on directed graphs"
 
-**Before 8:30 AM Mock:**
-- Practice each 40s script aloud 2 times
-- Write key points on paper without looking
-- Test yourself: "What's the difference between PK and UK?" → immediate answer
+**CORRECT FACTS:**
+
+- ✅ Dijkstra works on **both directed AND undirected** graphs
+- ❌ The only restriction: **no negative edge weights (use** Bellman-Ford algorithm**)**
+- Time complexity: O(E log V) with min-heap
+- Application: Google Maps, GPS routing
+
+**Algorithm in 3 lines:**
+
+1. Initialize d[source] = 0, d[all others] = ∞
+2. Extract vertex u with minimum distance. Relax all outgoing edges.
+3. If d[u] + w(u,v) < d[v], update d[v]. Repeat until all vertices processed.
+
+**Edge relaxation:** `if d[u] + w(u,v) < d[v]: d[v] = d[u] + w(u,v)`
+
+**40s Script:**
+
+> *"Dijkstra is a greedy algorithm for single-source shortest paths in weighted graphs. It works on BOTH directed and undirected graphs — the only restriction is no negative edge weights. We maintain a priority queue of unvisited vertices, always extracting the one with minimum current distance, then relaxing its neighbors. If a shorter path is found, we update the distance. Time complexity is O(E log V) with a min-heap. The classic application is Google Maps routing."*
 
 ---
 
-## 📝 CONFIDENCE RECOVERY STRATEGY
+## QUICK DRILL — Say Each Answer Aloud (30 seconds each)
 
-**When You Don't Know Something:**
-1. **Admit quickly**: "I don't recall the exact details of [topic]"
-2. **Show reasoning**: "But based on the principle of [related concept]..."
-3. **Stay confident**: Don't let one gap affect other answers
-4. **Move forward**: "Could you clarify what specific aspect you'd like me to explain?"
+1. What is `IS NULL` and why can't you use `= NULL`?
+2. PK vs UK — three key differences
+3. Technical definition of OS in one sentence
+4. What is an eigenvalue? How do you find it?
+5. What is a multiplexer and when do you use it?
+6. WHERE vs HAVING — one sentence + one example
+7. IPv4 vs IPv6 — address size + one key difference
+8. Dijkstra — works on directed? Any restriction?
 
-**Remember**: 
-- One wrong answer ≠ interview failure
-- Systems role focuses on practical knowledge
-- Your Berkadia experience is a strength
-- Stay calm and systematic
+> ⏱️ Target: 30 seconds per answer, cold, no notes.
+> If you hesitate > 5 seconds on any: re-read that gap and drill again.
+
+---
+
+## CONFIDENCE RECOVERY NOTE
+
+> If you get a question wrong in the interview: **don't let it cascade.**
+>
+> Strategy: "That's a good question. Let me think — [pause 3 seconds] — 
+> I'm not fully confident on that specific point, but here's what I know..."
+>
+> One wrong answer does not fail an interview. Confidence collapse after one wrong answer does.
+> Move on immediately. The next question is a fresh start.
+

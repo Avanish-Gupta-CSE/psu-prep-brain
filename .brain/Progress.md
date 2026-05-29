@@ -4,15 +4,83 @@
 
 | Field | Value |
 |-------|-------|
-| **Active Phase** | Phase 2: MSTC MT (Systems) Final Interview Sprint (09 May - 21 May 2026) |
-| **Secondary Track** | Tracked only (not active) |
-| **MSTC Status** | Shortlisted; interview on `21 May 2026` at `9.00 A.M.` (New Delhi) |
-| **Study Streak** | 1 logged study day (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 20 May 2026 -- Emergency preparation + mock feedback processing |
+| **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
+| **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
+| **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
+| **Study Streak** | 2 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
+| **Last Session** | 29 May 2026 -- Multi-Exam Super-Sprint planning and registration logging |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Focused; MSTC final interview is the only priority |
+| **Overall Mood** | Highly motivated, energized for a massive 10-day sprint! |
 
 ## Session Log
+
+### Session 16 -- 29 May 2026 (Evening)
+- **Type:** Multi-Exam Super-Sprint Setup & Form-Filling Roadmap
+- **What happened:**
+  - Formulated a 10-day precision plan covering STPI exams (30 & 31 May), UCO Bank GD (1 June), CNP Nashik registration (by 3 June), and BSNL SET exam (5 or 7 June).
+  - Verified and corrected the UPPSC Polytechnic Lecturer (CS) exam date: officially rescheduled to **06 September 2026** (not 04 June), completely decompressing our schedule and moving UPPSC to Phase 4.
+  - Logged all new exam patterns, syllabus breakdowns, vacancies, and application deadlines into `ExamTracker.md`.
+  - Created a day-by-day roadmap in `NextSteps.md` to optimize preparation time across these overlapping deadlines.
+  - Set up study priorities focusing on Non-Negative CBT strategies for STPI, and experience-focused communication for the UCO Bank VC-based GD.
+- **Topics covered:** STPI CBT pattern, UCO Bank experience requirements, CIL systems recruitment, NFL IT backlog, Balmer Lawrie general engineering syllabus, BSNL SET date context, UPPSC rescheduling verification.
+- **Questions attempted:** N/A (strategic planning and logging)
+- **Accuracy:** N/A
+- **Weak areas identified:** General Engineering concepts (Balmer Lawrie), general awareness/aptitude (STPI generic parts).
+- **Next goals:** Secure high performance on tomorrow's STPI Scientist B CBT, review generic aptitude today, then tackle STPI MTSS ES-IV on Sunday and prepare documentation for UCO Bank GD.
+
+### Session 15 -- 29 May 2026
+- **Type:** Selection Probability Analysis & Debriefing
+- **What happened:**
+  - Analyzed the actual interview transcript from 21 May 2026.
+  - Researched MSTC's official Executive Recruitment Rules and verified the exact weightages: **CBT (60%)**, **Group Discussion (25%)**, and **Interview (15%)**.
+  - Assessed selection probabilities as an OBC-NCL candidate against the reserved 4 seats out of 14 total posts in the General Cadre (with Systems being the largest cadre of 7 posts).
+  - Calculated selection prospects as highly favorable due to strong CBT/GD scores carrying 85% of total merit, combined with solid core technical performance and high professional integrity shown during the interview.
+- **Topics covered:** Selection probability calculation, interview debriefing, weightage research, next target mapping.
+- **Questions attempted:** N/A (debriefing & logging session)
+- **Accuracy:** N/A
+- **Weak areas identified:** Standard Java ecosystem differences (JRE/JDK), CIDR (networking), Cloud computing service types (concepts to keep warm for other exams).
+- **Next goals:** Transition study focus to UPPSC Polytechnic Lecturer (Exam on 4 Jun 2026) and HPCL updates. Maintain active tracking of SEBI IT Officer Grade A and ECIL MT results.
+
+### Session 14 -- 21 May 2026
+- **Type:** Actual MSTC MT (Systems) Interview
+- **What happened:**
+  - Traveled to MSTC Corporate Office, New Delhi. Was scheduled as the **first candidate of the day**.
+  - **CMD and MD (Commercial)** asked about candidate's professional background, focusing on STMicroelectronics and Berkadia experience.
+  - **MD (IT)** led a detailed technical grilling:
+    - Language check: Confirmed Javascript/Node.js frameworks. Tactfully disclaimed Java experience to avoid getting tangled in unfamiliar territory.
+    - OOPs pillars: Answered all 4 pillars and explained encapsulation correctly.
+    - Interpreter/Compiler & JVM: Answered correctly, but disclaimed JRE/JDK differences when prompted.
+    - Networking: Answered IPv4 vs IPv6 correctly. Disclaimed CIDR.
+    - AI vs Data Analytics: Defended the use of AI as providing active trends and "calculated inferred responses" versus static historical analytics. MD (IT) accepted the reasoning.
+    - Databases (SQL vs NoSQL): Explained database types and when to use them. For a use case of storing images and audio, proposed a hybrid bridge architecture (storing metadata in SQL, raw blobs in NoSQL/Object storage). MD was silent and satisfied.
+    - Cloud Computing & SQL: Disclaimed cloud types, confirmed SQL details.
+- **Topics covered:** Resume projects, OOPs, compiler/interpreter, database architecture, AI vs analytics, networking (IP protocol comparison).
+- **Questions attempted:** ~12 oral questions.
+- **Accuracy:** Solid core technical accuracy (OOPs, DB architecture, Networking, AI reasoning) and high marks for professional conduct/boundaries.
+
+### Session 13 -- 20 May 2026 (Morning)
+- **Type:** Advanced notes creation + OS folder setup + technical gaps repair + brain sync
+- **What happened:** 
+  - Created `DSA/06-ADVANCED-ALGORITHMS.md` (enhanced from ebook pages 21-27) covering Huffman Coding, Knapsack (both types), Multistage Graph, Dijkstra (with CORRECTION — works on directed graphs), Bellman-Ford, Floyd-Warshall, Kruskal's MST, Matrix Chain Multiplication, Divide & Conquer, TSP, Hamiltonian Cycle, Backtracking, Branch & Bound, NP-Hard/NP-Complete table
+  - Created `OS/` folder with `README.md`, `01-OS-BASICS-AND-PROCESSES.md`, `02-THREADS-AND-SCHEDULING.md` from ebook pages 86-88
+  - Created `MSTC/TECHNICAL-GAPS-REPAIR.md` with 40s scripts for all 8 mock gaps
+  - Second mock interview at 8:30 AM today (results TBD)
+  - Reviewed all DBMS, DSA, CN notes from previous agent — notes are comprehensive and good quality
+- **Topics covered:** Advanced DSA (Huffman, DP, Greedy, Graph algorithms, NP theory), OS (definition, types, process states, PCB, threads, ULT vs KLT, 3 multithreading models)
+- **Questions attempted:** 0 (notes creation session)
+- **Accuracy:** N/A
+- **Weak areas identified:** (from mock 1) IS NULL, PK vs UK, OS definition, eigenvalues, multiplexer, HAVING clause, IPv4 vs IPv6, Dijkstra (corrected)
+- **Next goals:** Drill 8 technical gaps from `MSTC/TECHNICAL-GAPS-REPAIR.md` before second mock at 8:30 AM. After mock: process feedback, fix new gaps, lightning rounds 2-4 PM. Final interview tomorrow 21 May 9 AM.
+
+### Session 13 -- 20 May 2026 (Final Day Analysis Complete)
+- **Type:** Complete mock analysis + final preparation strategy (Mock 1 + Mock 2 comprehensive review)
+- **What happened:** Analyzed both mock transcripts revealing REMARKABLE improvement trajectory. Mock 1 (19 May): 40% technical with major gaps (wrong Dijkstra explanation, rambling OS definition, DBMS confusion, unknown IPv4/IPv6). Mock 2 (20 May): 70% technical with MOST gaps fixed, new smaller gaps identified. Interviewer feedback evolution: "preparation not up to mark" → "everything is fine, just review basics." Improvement demonstrates rapid learning ability and interview readiness.
+- **Mock Comparison Results:** 75% gap closure in 24 hours, HR confidence from 3/5 → 4/5, technical accuracy 40% → 70%
+- **Key Insight:** FIXED major confidence killers (Dijkstra, OS definition, DBMS basics, IPv4/IPv6, multiplexer confusion)
+- **Remaining 4 gaps:** 2PL protocol, Selection sort (min swaps), Tree traversals, Node.js child processes - ALL fixable in 2 hours
+- **Final Day Schedule:** Technical gaps (11 AM-1 PM), Integration practice (2-4 PM), Strengths reinforcement (4-6 PM), Final logistics (6-8 PM), Early sleep (9 PM)
+- **Confidence Level:** HIGH - trajectory shows 85% performance achievable tomorrow
+- **Leave Decision:** CONFIRMED - taking leave to maximize final preparation window
 
 ### Session 12 -- 20 May 2026
 - **Type:** Emergency preparation + mock feedback processing + advanced notes completion
@@ -161,11 +229,11 @@ _New sessions are appended above this line. Each entry follows the format:_
 | Phase | Period | Target | Status | Completion |
 |-------|--------|--------|--------|------------|
 | Phase 1 | 14 Mar - 18 Mar | MSTC MT GD | COMPLETED | 100% |
-| Phase 2 | 09 May - 21 May | MSTC MT Final Interview (Systems) | ACTIVE | 0% |
+| Phase 2 | 09 May - 21 May | MSTC MT Final Interview (Systems) | COMPLETED | 100% |
+| Phase 3 | 22 May - 04 Jun | UPPSC Polytechnic Lecturer & Core CS Maintenance | ACTIVE | 20% |
 
 ## Blockers and Concerns
 
-- Call letter and final document checklist are still pending (treat the call letter as the final source of truth)
-- Travel + reporting discipline: arrive at least `30 minutes` before reporting time
-- Working 11 AM - 8 PM limits weekdays; keep drills short, high-yield, and repeatable
-- HR class notes + recordings backlog (capture key bullets daily so content doesn’t evaporate)
+- Back to Berkadia work shifts (11 AM - 8 PM) limiting study blocks to early mornings/late nights.
+- UPPSC Polytechnic Lecturer exam is scheduled for 4 Jun 2026 (in 6 days); requires a quick syllabus review, Hindi, and General Studies brush-up.
+- Staying focused and avoiding anxiety while waiting for the MSTC final merit list.

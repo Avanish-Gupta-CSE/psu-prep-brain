@@ -47,6 +47,40 @@
 
 **Next repair target**: Fix all 8 technical gaps + practice concise HR answers
 
+### 20 May 2026 — Second Mock (YourPedia) 8:30-9:00 AM
+- **Interview type**: Mixed (HR + Technical)  
+- **Scorecard (1-5)**: Structure 4 | Specificity (resume-true) 4 | PSU-fit 4 | Technical correctness 3 | Clarity/Confidence 3
+- **MAJOR IMPROVEMENT**: HR section much stronger, introduction professional, DBMS basics solid
+- **Technical Performance**: 70% good (up from 40% in Mock 1)
+
+**STRENGTHS DEMONSTRATED:**
+1. ✅ **Strong Introduction**: Professional, clear career progression
+2. ✅ **DBMS Fundamentals**: CREATE commands, FOREIGN KEY, ACID properties
+3. ✅ **Node.js Experience**: Promises, async/sync concepts, routing explanations
+4. ✅ **Networking**: IPv4 vs IPv6, TCP vs UDP - accurate answers
+5. ✅ **Data Structures**: BST properties, heap concepts, insertion sort explanation
+6. ✅ **HR Responses**: Much more structured and confident than Mock 1
+
+**NEW GAPS IDENTIFIED (4 critical areas):**
+1. **❌ 2PL (Two-Phase Locking)** → Database concurrency control protocol
+2. **❌ Minimum swaps in sorting** → Said "merge sort" (wrong) → Should be "selection sort"  
+3. **❌ Tree traversal techniques** → Couldn't recall inorder/preorder/postorder clearly
+4. **❌ Node.js advanced** → Child process fork vs spawn needs clarity
+
+**INTERVIEWER FEEDBACK:**
+- Technical: "Very good" on database answers, comfortable with Node.js experience
+- Suggestion: "Review small CS fundamentals - tree traversals, basic algorithms"
+- HR: Positive feedback on structure and content
+- Overall: "Everything is fine" - just need to cover basic CS gaps
+
+**CONFIDENCE INDICATORS:**
+- Significant improvement from Mock 1 (40% → 70% technical)
+- HR performance now solid (was the main weakness before)
+- Real experience (Node.js, Berkadia work) came across well
+- Communication was clear and systematic throughout
+
+**Final Day Strategy**: Fix 4 new gaps in 2 hours, light revision, early sleep
+
 ## Mock Template
 
 ### DD Mon YYYY
