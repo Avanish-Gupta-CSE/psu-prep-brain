@@ -1,0 +1,12 @@
+{
+  "name": "Load Brain Context on Prompt",
+  "version": "1.0.0",
+  "description": "Before every prompt, remind Kiro to read the canonical brain files so it always resumes from the correct state without manual instruction.",
+  "when": {
+    "type": "promptSubmit"
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "Before answering, read these files in order if you have not already done so this session:\n1. .brain/NextSteps.md\n2. .brain/Progress.md\n3. .brain/ExamTracker.md\n4. MSTC/README.md\n5. MSTC/INTERVIEW-PLAN.md\n\nConfirm the active phase against today's date, then proceed with the user's request."
+  }
+}

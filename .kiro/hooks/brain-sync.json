@@ -1,0 +1,12 @@
+{
+  "name": "Brain Sync on Session End",
+  "version": "1.0.0",
+  "description": "After every agent session, commit and push any changes under .brain/ or MSTC/ to main. Mirrors the Cursor sessionEnd hook.",
+  "when": {
+    "type": "agentStop"
+  },
+  "then": {
+    "type": "runCommand",
+    "command": "powershell -NoProfile -ExecutionPolicy Bypass -File .cursor/hooks/brain-sync.ps1"
+  }
+}

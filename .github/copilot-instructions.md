@@ -26,6 +26,50 @@ The workspace combines persistent prep memory in `.brain/`, source documents in 
 - When updating live prep state, keep `.brain/Progress.md`, `.brain/ExamTracker.md`, and `.brain/StudyPlan.md` internally consistent.
 - Use the current urgent priority unless the user explicitly changes it: HPCL first, IFFCO second, MSTC interview readiness third.
 
+## Note Creation Guidelines (Active Study Session)
+
+When creating study notes from ebook images, follow these standards consistently:
+
+### File Structure
+- Each file starts with: `> 🎯 Target: [what to achieve]` and `> ⏱️ Read time: X minutes`
+- Sections in order: Definition → Classification/Types → Key Rules → Examples → Mnemonic → Quick Cheat Sheet → 40s Script → Follow-up Questions
+- Mark high-priority topics with `★ HIGH PRIORITY` at the top
+
+### Diagrams
+- Use **Mermaid** (`\`\`\`mermaid`) for: hierarchies, classification trees, flowcharts, state machines. Renders on GitHub and VS Code with Mermaid extension.
+- Use **ASCII art** for: memory layout diagrams, before/after tables, stack/queue states
+- Use **Markdown tables** for: comparison tables, time complexity, feature differences
+- Never describe a diagram in words when you can draw it
+
+### Mnemonics — MANDATORY for memory-heavy topics
+- Every list of 4+ items MUST have a mnemonic
+- Prefer **Hinglish** (Hindi + English mix) — user's first language is Hindi, fluent in English
+- Format: bold the first letter of each word in the mnemonic
+- Examples of good Hinglish mnemonics:
+  - OSI layers: "**P**ehle **D**ata **N**ikalte **H**ain, **T**ransport **S**e **P**rapt **A**ata" (Physical, Data Link, Network, Transport, Session, Presentation, Application)
+  - Topologies: "**B**ahut **S**tar **R**ing **T**ree **M**esh **H**ybrid hai" (Bus, Star, Ring, Tree, Mesh, Hybrid)
+  - Data flow: "Simplex = Sirf ek taraf, Half Duplex = Baari baari, Full Duplex = Ek saath dono"
+- If Hinglish doesn't work naturally, use English mnemonics ("Please Do Not Throw Sausage Pizza Away")
+
+### Interview Scripts
+- Every major topic gets a **timed script**: 20s for simple topics, 40s for complex ones
+- Scripts are in first person, conversational, complete sentences
+- Scripts always end with a concrete example
+
+### Cross-references
+- If a topic is already covered in another file, add a `> See also: filename.md` note instead of duplicating
+- SQL/DB topics go in `DBMS/`, data structure topics in `DSA/`, network topics in `CN/`, OS topics in `OS/`
+
+### Time Estimates on README
+- Each README.md includes a `⏱️ Read time` per file
+- Includes a **Revision Order** section matching the ebook chapter order
+- Includes a **Master Cheat Sheet** at the end for day-before revision
+
+### What to ADD Beyond the Ebook
+- If ebook content is too thin to answer in 40s, add the gap
+- Always add: real-world analogy, the "why it matters" for PSU interview context, and at least 2 follow-up questions with answers
+- Flag any topic where ebook has an error or oversimplification with `> ⚠️ Note:`
+
 ## Validation
 
 - There is no conventional build or test pipeline for this repository.

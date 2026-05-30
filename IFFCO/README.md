@@ -2,10 +2,10 @@
 
 ## Current Status
 
-- Application window: live, latest date visible in the active advertisement is `30 Apr 2026`
+- Application status: `COMPLETED & SUBMITTED`
 - Role type: `Graduate Engineer Trainee (GET)`
-- Priority: `High secondary track`
-- Objective: protect the application deadline, then reuse shared CS core for the written stages and prepare a clean PSU-fit interview narrative
+- Priority: `Active target post-June sprints (Awaiting Exam Dates)`
+- Objective: Reuse shared CS core for the preliminary online test (own device) and final online test (controlled environment), and maintain a clean agrarian PSU-fit interview narrative.
 
 ## How This Folder Works
 
@@ -26,7 +26,7 @@
 
 ## Success Condition
 
-- application submitted before `30 Apr 2026`
+- application submitted successfully ✅
 - prelim-test setup ready on your own laptop and internet connection
 - one rapid revision loop completed across the most transferable shared-core CS areas
 - one clean `why IFFCO / why GET / why PSU` answer set prepared

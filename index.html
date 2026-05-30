@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PSU Prep Brain - Avanish Kumar Gupta</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Avanish's Personal PSU Preparation Notes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
+  
+  <!-- Main Stylesheets -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <style>
+    :root {
+      /* iPhone 15 Native UI & Safe Areas styling */
+      --safe-area-top: env(safe-area-inset-top, 0px);
+      --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+      --safe-area-left: env(safe-area-inset-left, 0px);
+      --safe-area-right: env(safe-area-inset-right, 0px);
+      
+      --theme-color: #42b983;
+    }
+
+    /* iOS System SF Pro Stack */
+    body, html {
+      font-family: -apple-system, "SF Pro Content", "SF Pro Display", BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      background-color: #ffffff;
+      color: #34495e;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Navigation Safe-Area Adjustments */
+    .app-nav {
+      top: calc(var(--safe-area-top) + 12px) !important;
+      right: calc(var(--safe-area-right) + 16px) !important;
+      margin: 0 !important;
+    }
+
+    /* Sidebar iPhone 15 Layout Optimizations */
+    .sidebar {
+      padding-top: calc(var(--safe-area-top) + 30px) !important;
+      padding-bottom: calc(var(--safe-area-bottom) + 20px) !important;
+      padding-left: calc(var(--safe-area-left) + 20px) !important;
+      padding-right: 15px !important;
+      background-color: #fcfcfc !important;
+      border-right: 1px solid #f0f0f0 !important;
+    }
+
+    /* Mobile Hamburger Sidebar Toggle (44px iOS standard) */
+    .sidebar-toggle {
+      bottom: auto !important;
+      top: calc(var(--safe-area-top) + 10px) !important;
+      left: calc(var(--safe-area-left) + 10px) !important;
+      width: 44px !important;
+      height: 44px !important;
+      padding: 0 !important;
+      background: rgba(255, 255, 255, 0.95) !important;
+      border-radius: 12px !important;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important;
+      display: flex !important;
+      align-items: center;
+      justify-content: center;
+      z-index: 99 !important;
+      border: 1px solid rgba(0,0,0,0.05) !important;
+    }
+    .sidebar-toggle .sidebar-toggle-button {
+      padding: 10px !important;
+      width: 100% !important;
+      height: 100% !important;
+      display: flex !important;
+      flex-direction: column !important;
+      justify-content: center !important;
+      align-items: center !important;
+    }
+    .sidebar-toggle span {
+      background-color: var(--theme-color) !important;
+      height: 3px !important;
+      width: 20px !important;
+      margin: 3px 0 !important;
+      border-radius: 2px !important;
+      display: block !important;
+    }
+
+    /* Main Content Area iOS Optimizations */
+    .content {
+      padding-top: calc(var(--safe-area-top) + 40px) !important;
+      padding-bottom: calc(var(--safe-area-bottom) + 60px) !important;
+      padding-left: calc(var(--safe-area-left) + 20px) !important;
+      padding-right: calc(var(--safe-area-right) + 20px) !important;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    /* Native Feeling Custom Search Input (44px Height & 16px Font prevents mobile auto-zoom) */
+    .search {
+      margin-bottom: 20px !important;
+      padding: 0 10px !important;
+    }
+    .search input {
+      height: 44px !important;
+      font-size: 16px !important; /* Absolute minimum on iOS to prevent automatic Safari scale-zoom */
+      border-radius: 10px !important;
+      background-color: #f1f1f1 !important;
+      border: none !important;
+      padding: 0 15px 0 35px !important;
+      box-sizing: border-box !important;
+      width: 100% !important;
+    }
+    .search input:focus {
+      background-color: #e5e5e5 !important;
+      box-shadow: none !important;
+    }
+    .search .clear-button {
+      top: 13px !important;
+      right: 20px !important;
+      width: 18px !important;
+      height: 18px !important;
+    }
+
+    /* Search results safe padding */
+    .search .results-panel {
+      padding-bottom: calc(var(--safe-area-bottom) + 20px) !important;
+    }
+
+    /* Floating Theme Switcher Button (48px circle) */
+    #dark-mode-toggle {
+      position: fixed;
+      bottom: calc(var(--safe-area-bottom) + 20px);
+      right: calc(var(--safe-area-right) + 20px);
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background-color: #ffffff;
+      color: #333333;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+      border: 1px solid rgba(0,0,0,0.05);
+      cursor: pointer;
+      z-index: 999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      outline: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+    #dark-mode-toggle:active {
+      transform: scale(0.9);
+    }
+
+    /* --- Custom Dark Mode Stylesheets --- */
+    body.dark {
+      background-color: #121212 !important;
+      color: #e0e0e0 !important;
+    }
+    body.dark .sidebar {
+      background-color: #1d1d1d !important;
+      border-right: 1px solid #2d2d2d !important;
+      color: #b0b0b0 !important;
+    }
+    body.dark .sidebar li a {
+      color: #b0b0b0 !important;
+    }
+    body.dark .sidebar li.active > a {
+      color: var(--theme-color) !important;
+    }
+    body.dark .sidebar-toggle {
+      background: rgba(30, 30, 30, 0.95) !important;
+      border-color: rgba(255, 255, 255, 0.05) !important;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;
+    }
+    body.dark #dark-mode-toggle {
+      background-color: #1d1d1d;
+      color: #ffeb3b;
+      border-color: rgba(255, 255, 255, 0.05);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    }
+    body.dark .search input {
+      background-color: #2d2d2d !important;
+      color: #ffffff !important;
+    }
+    body.dark .search input:focus {
+      background-color: #3d3d3d !important;
+    }
+    body.dark .markdown-section h1,
+    body.dark .markdown-section h2,
+    body.dark .markdown-section h3,
+    body.dark .markdown-section h4 {
+      color: #ffffff !important;
+    }
+    body.dark .markdown-section p,
+    body.dark .markdown-section li {
+      color: #cccccc !important;
+    }
+    body.dark .markdown-section code {
+      background-color: #242424 !important;
+      color: #ff8a80 !important;
+    }
+    body.dark .markdown-section pre {
+      background-color: #1a1a1a !important;
+      border-color: #2c2c2c !important;
+    }
+    body.dark .markdown-section pre code {
+      background-color: transparent !important;
+      color: #e0e0e0 !important;
+    }
+    body.dark .markdown-section blockquote {
+      background-color: #1a1a1a !important;
+      border-left-color: var(--theme-color) !important;
+      color: #a0a0a0 !important;
+    }
+    body.dark .markdown-section table th {
+      background-color: #1d1d1d !important;
+      border-color: #2c2c2c !important;
+    }
+    body.dark .markdown-section table td {
+      border-color: #2c2c2c !important;
+    }
+    body.dark .markdown-section tr:nth-child(2n) {
+      background-color: #1a1a1a !important;
+    }
+    body.dark .markdown-section hr {
+      border-top-color: #2c2c2c !important;
+    }
+    body.dark .docsify-copy-code-button {
+      background-color: #2d2d2d !important;
+      color: #cccccc !important;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading Avanish's Notes Portal...</div>
+
+  <!-- Floating Dark Mode Toggle -->
+  <button id="dark-mode-toggle" aria-label="Toggle Theme">🌓</button>
+
+  <script>
+    window.$docsify = {
+      name: 'PSU Prep Brain',
+      repo: 'https://github.com/Avanish-Gupta-CSE/psu-prep-brain',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: {
+        maxAge: 86400000, // 24 Hours Cache
+        paths: 'auto',
+        placeholder: 'Search notes (e.g. SQL, Dijkstra, Threads)...',
+        noData: 'No matching notes found!',
+        depth: 4,
+        hideOtherSidebarContent: false
+      },
+      copyCode: {
+        buttonText : 'Copy 📋',
+        errorText  : 'Error',
+        successText: 'Copied ✓'
+      }
+    }
+  </script>
+
+  <!-- Docsify Library -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
+  <!-- Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+  <!-- Mobile Swipe & Theme Handlers -->
+  <script>
+    const toggleBtn = document.getElementById('dark-mode-toggle');
+    const body = document.body;
+
+    // Load theme setting
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    if (savedTheme === 'dark') {
+      body.classList.add('dark');
+    }
+
+    toggleBtn.addEventListener('click', () => {
+      body.classList.toggle('dark');
+      const isDark = body.classList.contains('dark');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    });
+
+    // Touch tap feedback
+    toggleBtn.addEventListener('touchstart', function() {
+      this.style.transform = 'scale(0.9)';
+    }, {passive: true});
+    toggleBtn.addEventListener('touchend', function() {
+      this.style.transform = 'scale(1)';
+    }, {passive: true});
+  </script>
+</body>
+</html>

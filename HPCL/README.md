@@ -3,9 +3,9 @@
 ## Current Status
 
 - Exam: `3 May 2026`
-- Track status: `Active critical sprint`
-- Priority: `Highest`
-- Objective: finish breadth, convert weak areas into mixed-mock performance, and reach the CBT calm and executable
+- Track status: `INACTIVE / DEAD (Not Shortlisted for Group Task/Interview)`
+- Priority: `NONE (CBT result evaluated: 88.25/170. Cutoff: 117.5)`
+- Objective: Archived. Focus shifted 100% to active targets with higher selection margins (CIL, STPI, UCO Bank, Balmer Lawrie, NFL, IFFCO).
 
 ## How This Folder Works
 
