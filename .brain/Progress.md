@@ -8,11 +8,26 @@
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
 | **Study Streak** | 2 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 29 May 2026 -- Multi-Exam Super-Sprint planning and registration logging |
+| **Last Session** | 30 May 2026 -- STPI Exam Debriefing & Gaps Injection |
 | **Resume From** | `.brain/NextSteps.md` |
 | **Overall Mood** | Highly motivated, energized for a massive 10-day sprint! |
 
 ## Session Log
+
+### Session 17 -- 30 May 2026 (Evening)
+- **Type:** STPI Exam Debriefing & Gaps Injection
+- **What happened:**
+  - Returned from the first day of STPI exams (Scientist B). The exam was conducted by **NIELIT** (not TCS/IBPS), featuring direct, GATE-style questions where conceptual/formula recall guarantees points.
+  - Successfully used the Docsify mobile portal for rapid revision during the commute.
+  - Performed deep, focused web searches using Cursor's native capabilities on NIELIT exam question patterns, compiling specific patterns: Chomsky Hierarchy (Type-0 as most general phase-structured grammar, DTM=NDTM power), Compiler Design (SLR = LALR <= CLR state sizes, shift-reduce conflict definition), Databases (Strict 2PL, Thomas' Write Rule), and Computer Networks (Class B subnets, TCP pseudo-header checksum, congestion avoidance).
+  - Injected all identified exam gaps into `Shared-Core/APTITUDE.md` (Time & Work, Pipes & Cisterns, Trig table, Mensuration, and Calendar shortcuts), `Shared-Core/DIGITAL-LOGIC.md` (Full Adder gate counts, Shannon's Expansion, De Morgan simplifications, Sigma reduction), `Shared-Core/COMPUTER-ORGANIZATION.md` (Pipelining clock formulas, worked hazard example), `Shared-Core/OPERATING-SYSTEMS.md` (Paging size formulas, EMAT, fragmentation demystification), and `Shared-Core/DATA-STRUCTURES-ALGORITHMS.md` (Counting sort range limits, Merge vs. Quick sort selection matrix, Floyd-Warshall summaries).
+  - Created a brand-new file `Shared-Core/GENERAL-AWARENESS.md` containing the NIELIT pattern analysis, India's Kalpakkam nuclear milestone (first criticality on April 6, 2026), 2026 leadership appointments (NITI Aayog, RBI, SEBI), and an English spell-check checklist. 
+  - Linked the new General Awareness note to `_sidebar.md` for seamless on-the-go revision on the iPhone 15.
+- **Topics covered:** Quantitative Aptitude (LCM method, MDH, pipes, trig values, calendar Zeller's congruence), India's nuclear achievements (Kalpakkam PFBR, Stage-2, BHAVINI, SHANTI Act 2025), 2026 appointments (Modi, Lahiri, Chhibber, Malhotra, Buch), English spellings (etiquette, palatial, accommodate), Full Adder gate requirements, Shannon's Theorem, Boolean simplification proofs, pipelining hazards, virtual memory paging, EMAT with TLB, counting sort limits, Merge/Quick sort selection, Floyd-Warshall.
+- **Questions attempted:** 150 (all marked in STPI Scientist B CBT due to no negative marking).
+- **Accuracy:** Solid core technical accuracy; marked all questions to leverage zero-negative marking.
+- **Weak areas identified:** Formulas recall under strict timing (Time & Work, Pipes & Cisterns, Trigonometric standard values, Mensuration, and Calendars).
+- **Next goals:** Secure high performance on tomorrow's STPI MTSS ES-IV CBT, read through these newly created mobile notes on the phone tonight in bed, and prepare documents for the UCO Bank GD on Monday.
 
 ### Session 16 -- 29 May 2026 (Evening)
 - **Type:** Multi-Exam Super-Sprint Setup & Form-Filling Roadmap

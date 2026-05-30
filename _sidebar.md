@@ -47,4 +47,5 @@
   * [Security & Cyber Laws](Shared-Core/SECURITY-CYBER-LAWS.md)
   * [Emerging Technologies](Shared-Core/EMERGING-TECH.md)
   * [General Aptitude](Shared-Core/APTITUDE.md)
+  * [General GK & English](Shared-Core/GENERAL-AWARENESS.md)
   * [Overlap Matrix](Shared-Core/OVERLAP-MATRIX.md)

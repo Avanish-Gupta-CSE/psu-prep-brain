@@ -136,4 +136,32 @@ All 8 gaps now have 40-second repair scripts in `MSTC/TECHNICAL-GAPS-REPAIR.md`.
 | 5 | Multiplexer | n select lines → 2ⁿ inputs → 1 output. Data selector/router. | TECHNICAL-GAPS-REPAIR.md |
 | 6 | HAVING clause | WHERE = before GROUP BY (no aggregates). HAVING = after aggregation (aggregates ok). | TECHNICAL-GAPS-REPAIR.md |
 | 7 | IPv4 vs IPv6 | IPv4 = 32-bit, 4.3B addresses, needs NAT. IPv6 = 128-bit, unlimited, built-in IPSec. | TECHNICAL-GAPS-REPAIR.md |
-| 8 | Dijkstra (**WRONG ANSWER GIVEN**) | ✅ Works on BOTH directed AND undirected. ❌ Only fails on negative edge weights. | DSA/06-ADVANCED-ALGORITHMS.md |
+| 8 | Dijkstra (**WRONG ANSWER GIVEN**) | ✅ Works on BOTH directed AND undirected. ❌ Only fails on negative edge weights. | .../DSA/06-ADVANCED-ALGORITHMS.md |
+
+---
+
+## STPI SCIENTIST B GAPS — Added 30 May 2026
+
+**Source:** STPI Scientist B CBT Exam (30 May 2026)
+**Syllabus:** NIELIT Pattern (GATE-level CS + Quantitative Aptitude + General Awareness + English)
+
+All of these gaps have been injected directly into your shared-core revision notes for fast, mobile-friendly recall on your phone.
+
+| # | Gap Topic | Remediation Action & Concept Summary | Revision File |
+|---|---|---|---|
+| 1 | Time & Work / Pipes | LCM method, net inlets vs. outlets, alternate days, MDH formula | `Shared-Core/APTITUDE.md` |
+| 2 | Trig standard values | Trigonometric matrix (sin, cos, tan, cot, sec, csc) with tan(60) = sqrt(3) | `Shared-Core/APTITUDE.md` |
+| 3 | Mensuration Formulas | Area & Volume formulas for Cube, Cuboid, Cylinder, Cone, Sphere, Hemisphere | `Shared-Core/APTITUDE.md` |
+| 4 | Calendar Shortcuts | Day calculation using Key-Value Codes and Zeller's Congruence formula | `Shared-Core/APTITUDE.md` |
+| 5 | India's Nuclear Milestone | Kalpakkam PFBR (500 MWe, sodium-cooled, Stage-2, criticality on April 6, 2026) | `Shared-Core/GENERAL-AWARENESS.md` |
+| 6 | May 2026 Appointments | Niti Aayog (PM Modi, Lahiri, Chhibber), RBI Governor Malhotra, SEBI Buch | `Shared-Core/GENERAL-AWARENESS.md` |
+| 7 | English Spellings | Hard-to-spell word matrices (etiquette, palatial, accommodate, homogeneous) | `Shared-Core/GENERAL-AWARENESS.md` |
+| 8 | Chomsky hierarchy | Type-3 (Regular), Type-2 (CFG/PDA), Type-1 (CSG/LBA), Type-0 Unrestricted (TM) | `Shared-Core/GENERAL-AWARENESS.md` |
+| 9 | Full Adder gates | 2 HAs + 1 OR gate; 9 NAND gates; 9 NOR gates | `Shared-Core/DIGITAL-LOGIC.md` |
+| 10 | Shannon's Theorem | Boolean decomposition SOP (F = x.Fx + x'.Fx') and multiplexer synthesis | `Shared-Core/DIGITAL-LOGIC.md` |
+| 11 | Pipelining Cycles | K-stage, N instructions formula: Cycles = K + N - 1 + Stalls; Speedup = Tn/Tp | `Shared-Core/COMPUTER-ORGANIZATION.md` |
+| 12 | Virtual memory paging | VA = page+offset; PA = frame+offset; Page Table Size = N_pages * PTE_size | `Shared-Core/OPERATING-SYSTEMS.md` |
+| 13 | Counting Sort limits | Inefficient when key range k >> n (e.g., k = O(n^2)), degenerating to O(n^2) | `Shared-Core/DATA-STRUCTURES-ALGORITHMS.md` |
+| 14 | Merge vs. Quick Sort | Merge (lists, stable, guaranteed O(n log n)); Quick (arrays, in-place, unstable) | `Shared-Core/DATA-STRUCTURES-ALGORITHMS.md` |
+| 15 | Floyd-Warshall DP | All-pairs shortest path in O(V^3) time. Handles negative weights correctly. | `Shared-Core/DATA-STRUCTURES-ALGORITHMS.md` |
+
