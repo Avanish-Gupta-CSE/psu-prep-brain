@@ -16,7 +16,7 @@ handoffs:
 Use this agent when the task is primarily about shared technical subjects.
 
 - Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), and [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md) before planning.
-- Use the notes in [../../Shared-Core/README.md](../../Shared-Core/README.md) and the individual subject files as the main teaching layer.
+- Use the notes in [../../Notes/Shared-Core/README.md](../../Notes/Shared-Core/README.md) and the individual subject files as the main teaching layer.
 - Prefer compressed theory, dry-runs, traps, and short question sets over long explanations.
 - If the work changes readiness, update `.brain` trackers instead of only local notes.
 - Hand off to the exam-specific agent when the topic needs exam framing, role-fit framing, or interview preparation.

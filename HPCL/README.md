@@ -17,12 +17,12 @@
 
 ## Shared-Core Dependencies
 
-- Start in `../Shared-Core/DBMS.md`
-- Then `../Shared-Core/COMPUTER-NETWORKS.md`
-- Then `../Shared-Core/DIGITAL-LOGIC.md`
-- Then `../Shared-Core/COMPUTER-ORGANIZATION.md`
-- Then `../Shared-Core/PROGRAMMING-CONCEPTS.md`
-- Finish with `../Shared-Core/SECURITY-CYBER-LAWS.md` and `../Shared-Core/EMERGING-TECH.md`
+- Start in `../Notes/Shared-Core/DBMS.md`
+- Then `../Notes/Shared-Core/COMPUTER-NETWORKS.md`
+- Then `../Notes/Shared-Core/DIGITAL-LOGIC.md`
+- Then `../Notes/Shared-Core/COMPUTER-ORGANIZATION.md`
+- Then `../Notes/Shared-Core/PROGRAMMING-CONCEPTS.md`
+- Finish with `../Notes/Shared-Core/SECURITY-CYBER-LAWS.md` and `../Notes/Shared-Core/EMERGING-TECH.md`
 
 ## Success Condition Before 3 May
 

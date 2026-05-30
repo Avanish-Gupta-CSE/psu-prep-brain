@@ -12,14 +12,14 @@ All agents must optimize for exam readiness, memory continuity, and clear separa
 
 ## Current Priority Rules
 
-- Until the HPCL CBT on 3 May 2026, prioritize `HPCL/` and `Shared-Core/` over everything else.
+- Until the HPCL CBT on 3 May 2026, prioritize `HPCL/` and `Notes/Shared-Core/` over everything else.
 - Treat `IFFCO/` as the next major target and keep a parallel but smaller track running for it.
 - Treat `MSTC/` as an interview-readiness track while waiting for result updates.
 - Do not let MSTC interview prep displace the HPCL sprint unless a new MSTC result or interview event is added.
 
 ## Content Boundaries
 
-- Put reusable CS fundamentals in `Shared-Core/`.
+- Put reusable CS fundamentals in `Notes/Shared-Core/`.
 - Put exam-specific framing, schedules, and source tracking in that exam's folder.
 - Keep official facts and inferred patterns separate in every exam folder.
 - Use `Resume-Berkadia.tex` as the source of truth for career history and interview stories.

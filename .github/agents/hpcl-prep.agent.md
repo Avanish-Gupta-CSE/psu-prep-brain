@@ -16,4 +16,4 @@ Use this agent when the task is specific to HPCL.
 - Use [../../HPCL/OFFICIAL-SOURCES.md](../../HPCL/OFFICIAL-SOURCES.md) for confirmed facts.
 - Use [../../HPCL/SPRINT-PLAN.md](../../HPCL/SPRINT-PLAN.md) as the live execution order.
 - Use [../../HPCL/PATTERN-NOTES.md](../../HPCL/PATTERN-NOTES.md) only for inferred guidance, never as official fact.
-- Pull shared technical material from `Shared-Core` instead of recreating it inside HPCL files.
+- Pull shared technical material from `Notes/Shared-Core` instead of recreating it inside HPCL files.

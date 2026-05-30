@@ -78,7 +78,7 @@ Before ending any conversation where studying or interview prep happened:
 
 ## Content Boundaries
 
-- Reusable CS fundamentals → `Shared-Core/`
+- Reusable CS fundamentals → `Notes/Shared-Core/`
 - Exam-specific framing, schedules, source tracking → that exam's folder
 - Keep confirmed facts and inferred patterns clearly separated in every exam folder
 - `Resume-Berkadia.tex` is the single source of truth for career history and interview stories

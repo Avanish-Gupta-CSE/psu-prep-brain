@@ -4,15 +4,15 @@
 
 | Official Section | Shared-Core Anchor | Risk Level | Current Note |
 |------------------|--------------------|-----------|--------------|
-| Digital Logic | `../Shared-Core/DIGITAL-LOGIC.md` | High | Direct HPCL section, easy marks if revised cleanly |
-| Computer Organization and Architecture | `../Shared-Core/COMPUTER-ORGANIZATION.md` | High | Previously weak in BARC; needs active repair |
-| Programming Concepts | `../Shared-Core/PROGRAMMING-CONCEPTS.md` | High | Breadth-heavy; do not over-study implementation depth |
-| Data Structures and Algorithms | `../Shared-Core/DATA-STRUCTURES-ALGORITHMS.md` | Medium | Core strength-builder, but immediate need is mixed recall |
-| Operating System | `../Shared-Core/OPERATING-SYSTEMS.md` | High | Prior weak area; numericals and concepts both matter |
-| Databases | `../Shared-Core/DBMS.md` | High | High-return subject for both HPCL and IFFCO |
-| Computer Networks | `../Shared-Core/COMPUTER-NETWORKS.md` | High | Prior weak area; subnetting/routing/transport need correction |
-| Information Security / Cyber Laws | `../Shared-Core/SECURITY-CYBER-LAWS.md` | Medium | Survey-style revision should be enough |
-| Emerging Technologies | `../Shared-Core/EMERGING-TECH.md` | Medium | Breadth-first factual revision, not depth |
+| Digital Logic | `../Notes/Shared-Core/DIGITAL-LOGIC.md` | High | Direct HPCL section, easy marks if revised cleanly |
+| Computer Organization and Architecture | `../Notes/Shared-Core/COMPUTER-ORGANIZATION.md` | High | Previously weak in BARC; needs active repair |
+| Programming Concepts | `../Notes/Shared-Core/PROGRAMMING-CONCEPTS.md` | High | Breadth-heavy; do not over-study implementation depth |
+| Data Structures and Algorithms | `../Notes/Shared-Core/DATA-STRUCTURES-ALGORITHMS.md` | Medium | Core strength-builder, but immediate need is mixed recall |
+| Operating System | `../Notes/Shared-Core/OPERATING-SYSTEMS.md` | High | Prior weak area; numericals and concepts both matter |
+| Databases | `../Notes/Shared-Core/DBMS.md` | High | High-return subject for both HPCL and IFFCO |
+| Computer Networks | `../Notes/Shared-Core/COMPUTER-NETWORKS.md` | High | Prior weak area; subnetting/routing/transport need correction |
+| Information Security / Cyber Laws | `../Notes/Shared-Core/SECURITY-CYBER-LAWS.md` | Medium | Survey-style revision should be enough |
+| Emerging Technologies | `../Notes/Shared-Core/EMERGING-TECH.md` | Medium | Breadth-first factual revision, not depth |
 
 ## Compression Rule
 

@@ -13,7 +13,7 @@ The workspace combines persistent prep memory in `.brain/`, source documents in 
 
 - `.brain/` stores the canonical prep state, logs, syllabus tracking, weak areas, motivation, and reference notes.
 - `.cursor/rules/psu-prep.mdc` is the older Cursor-era operating contract and should be reflected in new Copilot customizations.
-- `Shared-Core/` is the reusable CS and GATE-style prep layer shared across exams.
+- `Notes/Shared-Core/` is the reusable CS and GATE-style prep layer shared across exams.
 - `HPCL/`, `IFFCO/`, and `MSTC/` hold exam-specific materials.
 - `Resume-Berkadia.tex` is the source file for career-history-based interview preparation.
 
@@ -21,7 +21,7 @@ The workspace combines persistent prep memory in `.brain/`, source documents in 
 
 - Keep `.brain/` as the single shared memory system across all agents.
 - Treat `.brain/NextSteps.md` as the canonical immediate handoff file for future logins and agent resumes.
-- Store reusable subject notes once in `Shared-Core/` and reference them from exam folders instead of duplicating content.
+- Store reusable subject notes once in `Notes/Shared-Core/` and reference them from exam folders instead of duplicating content.
 - In exam-specific files, separate official information from inferred question patterns or strategy notes.
 - When updating live prep state, keep `.brain/Progress.md`, `.brain/ExamTracker.md`, and `.brain/StudyPlan.md` internally consistent.
 - Use the current urgent priority unless the user explicitly changes it: HPCL first, IFFCO second, MSTC interview readiness third.
@@ -58,7 +58,7 @@ When creating study notes from ebook images, follow these standards consistently
 
 ### Cross-references
 - If a topic is already covered in another file, add a `> See also: filename.md` note instead of duplicating
-- SQL/DB topics go in `DBMS/`, data structure topics in `DSA/`, network topics in `CN/`, OS topics in `OS/`
+- SQL/DB topics go in `Notes/DBMS/`, data structure topics in `Notes/DSA/`, network topics in `Notes/CN/`, OS topics in `Notes/OS/`
 
 ### Time Estimates on README
 - Each README.md includes a `⏱️ Read time` per file

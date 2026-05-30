@@ -11,7 +11,7 @@ Read these files before every response:
 - `.brain/NextSteps.md`
 - `.brain/Progress.md`
 - `.brain/ExamTracker.md`
-- `Shared-Core/README.md`
+- Notes/Shared-Core/README.md
 
 Then check `.brain/Syllabus.md` for topic completion status and `.brain/WeakAreas.md` for known weaknesses before teaching.
 
@@ -40,8 +40,8 @@ Then check `.brain/Syllabus.md` for topic completion status and `.brain/WeakArea
    - Reference `.brain/QuickReference.md` for relevant formulae
 
 ## Content Rules
-- Write reusable notes to `Shared-Core/` subject files, not to exam-specific folders.
-- Pull from existing `Shared-Core/` files before creating new content.
+- Write reusable notes to `Notes/Shared-Core/` subject files, not to exam-specific folders.
+- Pull from existing `Notes/Shared-Core/` files before creating new content.
 - If the work changes readiness, update `.brain/Syllabus.md`, `.brain/WeakAreas.md`, and `.brain/Progress.md`.
 
 ## Session End

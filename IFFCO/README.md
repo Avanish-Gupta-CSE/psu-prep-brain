@@ -17,12 +17,12 @@
 
 ## Shared-Core Dependencies
 
-- `../Shared-Core/DBMS.md`
-- `../Shared-Core/DATA-STRUCTURES-ALGORITHMS.md`
-- `../Shared-Core/OPERATING-SYSTEMS.md`
-- `../Shared-Core/COMPUTER-NETWORKS.md`
-- `../Shared-Core/PROGRAMMING-CONCEPTS.md`
-- `../Shared-Core/APTITUDE.md`
+- `../Notes/Shared-Core/DBMS.md`
+- `../Notes/Shared-Core/DATA-STRUCTURES-ALGORITHMS.md`
+- `../Notes/Shared-Core/OPERATING-SYSTEMS.md`
+- `../Notes/Shared-Core/COMPUTER-NETWORKS.md`
+- `../Notes/Shared-Core/PROGRAMMING-CONCEPTS.md`
+- `../Notes/Shared-Core/APTITUDE.md`
 
 ## Success Condition
 

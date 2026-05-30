@@ -21,7 +21,7 @@ Read these files before every response:
 ## Source Rules
 - Use `HPCL/OFFICIAL-SOURCES.md` for confirmed facts (syllabus, pattern, eligibility).
 - Use `HPCL/PATTERN-NOTES.md` for inferred guidance only — never present as official fact.
-- Pull shared technical material from `Shared-Core/` instead of recreating it inside HPCL files.
+- Pull shared technical material from Notes/Shared-Core/ instead of recreating it inside HPCL files.
 - Keep confirmed and inferred content clearly separated in all HPCL notes.
 
 ## Planning Rules

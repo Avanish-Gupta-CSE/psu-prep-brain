@@ -14,31 +14,31 @@ Select any subject card below to jump straight to its master cheat sheets and re
   <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #e3f2fd, #bbdefb); border-left: 5px solid #2196f3; color: #0d47a1;">
     <h3 style="margin-top: 0;">🗄️ Database Management Systems (DBMS)</h3>
     <p style="margin-bottom: 8px; font-size: 14px;">ACID properties, 1NF to BCNF algorithms, Join structures, and aggregate functions.</p>
-    <a href="#/DBMS/README" style="font-weight: bold; color: #0d47a1; text-decoration: none;">Open DBMS Index →</a>
+    <a href="#/Notes/DBMS/README" style="font-weight: bold; color: #0d47a1; text-decoration: none;">Open DBMS Index →</a>
   </div>
 
   <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #e8f5e9, #c8e6c9); border-left: 5px solid #4caf50; color: #1b5e20;">
     <h3 style="margin-top: 0;">🌳 Data Structures & Algorithms (DSA)</h3>
     <p style="margin-bottom: 8px; font-size: 14px;">Linked Lists, Stack/Queue, Graphs, Heap/Hashing, and advanced Dynamic Programming.</p>
-    <a href="#/DSA/README" style="font-weight: bold; color: #1b5e20; text-decoration: none;">Open DSA Index →</a>
+    <a href="#/Notes/DSA/README" style="font-weight: bold; color: #1b5e20; text-decoration: none;">Open DSA Index →</a>
   </div>
 
   <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #fffde7, #fff9c4); border-left: 5px solid #fbc02d; color: #f57f17;">
     <h3 style="margin-top: 0;">🌐 Computer Networks (CN)</h3>
     <p style="margin-bottom: 8px; font-size: 14px;">OSI Layer-by-layer master tables, TCP/UDP handshakes, and network topologies.</p>
-    <a href="#/CN/README" style="font-weight: bold; color: #f57f17; text-decoration: none;">Open Networks Index →</a>
+    <a href="#/Notes/CN/README" style="font-weight: bold; color: #f57f17; text-decoration: none;">Open Networks Index →</a>
   </div>
 
   <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #f3e5f5, #e1bee7); border-left: 5px solid #9c27b0; color: #4a148c;">
     <h3 style="margin-top: 0;">💻 Operating Systems (OS)</h3>
     <p style="margin-bottom: 8px; font-size: 14px;">Process Control Blocks, CPU Scheduling Gantt-charts, and Threads (ULT vs KLT).</p>
-    <a href="#/OS/README" style="font-weight: bold; color: #4a148c; text-decoration: none;">Open OS Index →</a>
+    <a href="#/Notes/OS/README" style="font-weight: bold; color: #4a148c; text-decoration: none;">Open OS Index →</a>
   </div>
 
   <div style="padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #efebe9, #d7ccc8); border-left: 5px solid #795548; color: #3e2723;">
     <h3 style="margin-top: 0;">🛠️ Shared Core Fundamentals</h3>
     <p style="margin-bottom: 8px; font-size: 14px;">Digital Logic, Computer Organization, Cyber Laws, and Emerging Cloud Technologies.</p>
-    <a href="#/Shared-Core/README" style="font-weight: bold; color: #3e2723; text-decoration: none;">Open Core Index →</a>
+    <a href="#/Notes/Shared-Core/README" style="font-weight: bold; color: #3e2723; text-decoration: none;">Open Core Index →</a>
   </div>
 </div>
 
@@ -49,8 +49,8 @@ Select any subject card below to jump straight to its master cheat sheets and re
 Keep your immediate exam targets warm. Direct links to critical question banks and repair sheets:
 
 * **⚡ Emergency Technical Gaps**: [40-Second Rapid Speaking Scripts](/#/MSTC/TECHNICAL-GAPS-REPAIR) — Quick fixes for PK vs. UK, HAVING clause, and IPv4 vs. IPv6.
-* **🌳 Advanced Algorithms**: [Complex DSA Complexities & Formulas](/#/DSA/06-ADVANCED-ALGORITHMS) — Huffman Coding, Dijkstra, Knapsack bounds, and NP-Hard summaries.
-* **📈 Overlap Matrix**: [Shared Core Overlap Matrix](/#/Shared-Core/OVERLAP-MATRIX) — Maximize return-on-investment across BSNL SET, CIL, and IFFCO.
+* **🌳 Advanced Algorithms**: [Complex DSA Complexities & Formulas](/#/Notes/DSA/06-ADVANCED-ALGORITHMS) — Huffman Coding, Dijkstra, Knapsack bounds, and NP-Hard summaries.
+* **📈 Overlap Matrix**: [Shared Core Overlap Matrix](/#/Notes/Shared-Core/OVERLAP-MATRIX) — Maximize return-on-investment across BSNL SET, CIL, and IFFCO.
 
 ---
 
