@@ -48,4 +48,5 @@
   * [Emerging Technologies](Notes/Shared-Core/EMERGING-TECH.md)
   * [General Aptitude](Notes/Shared-Core/APTITUDE.md)
   * [General GK & English](Notes/Shared-Core/GENERAL-AWARENESS.md)
+  * [UCO Bank GD Prep](Notes/Shared-Core/UCO-GD-PREP.md)
   * [Overlap Matrix](Notes/Shared-Core/OVERLAP-MATRIX.md)

@@ -2,29 +2,7 @@
 
 ## Active / Upcoming Exams (Sorted by Date)
 
-### 1. STPI -- Member Technical Staff E-I (Scientist B)
-| Field | Details |
-|-------|---------|
-| **Date** | 30 May 2026 (Tomorrow, Saturday) |
-| **Reporting Time** | 08:00 AM (Gate closes at 09:00 AM) |
-| **Exam Time** | 09:30 AM to 12:00 PM (150 minutes) |
-| **Venue** | E Merit R.T. Nagar, Maruthi Complex No: 1, 2nd Floor, Opp. Post Office, RT Nagar, Bengaluru 560032 |
-| **Admit Card** | Downloaded (Registration No: 12010021393) |
-| **Syllabus / Pattern** | 150 MCQs total. **No negative marking!**<br>• Generic Area (75 questions): Logical, analytical reasoning, quantitative & qualitative abilities, general awareness, aptitude.<br>• Technical Area (75 questions): Specific to STPI / Computer Science core. |
-| **Priority** | **IMMEDIATE CRITICAL** |
-
-### 2. STPI -- Member Technical StaffS ES-IV (MTSS)
-| Field | Details |
-|-------|---------|
-| **Date** | 31 May 2026 (Sunday) |
-| **Reporting Time** | 08:00 AM (Gate closes at 09:00 AM) |
-| **Exam Time** | 09:30 AM to 12:00 PM (150 minutes) |
-| **Venue** | E Merit R.T. Nagar, Maruthi Complex No: 1, 2nd Floor, Opp. Post Office, RT Nagar, Bengaluru 560032 (Same Venue) |
-| **Admit Card** | Downloaded (Registration No: 12010021452) |
-| **Syllabus / Pattern** | 150 MCQs total. **No negative marking! No sectional cutoff!**<br>• General Intelligence & Reasoning: 20 Qs<br>• General Awareness: 20 Qs<br>• Numerical Aptitude: 20 Qs<br>• English Comprehension: 20 Qs<br>• Technical Area specific to STPI: 70 Qs |
-| **Priority** | **IMMEDIATE CRITICAL** |
-
-### 3. UCO Bank -- Software Developer in JMGS-I (Group Discussion)
+### 1. UCO Bank -- Software Developer in JMGS-I (Group Discussion)
 | Field | Details |
 |-------|---------|
 | **Date** | 01 June 2026 (Monday) |
@@ -36,7 +14,7 @@
 | **Docs Needed** | Printout of GD Call Letter with photo, Printout of Online App, Birth Certificate/10th Marksheet, Original Photo ID, Education Marksheets/Certificates, valid OBC-NCL Certificate issued after 01.04.2025, Experience Certificates (with clearly indicated joining/relieving dates and duties). |
 | **Priority** | **HIGH** |
 
-### 5. UPPSC Polytechnic Lecturer -- Computer Science
+### 3. UPPSC Polytechnic Lecturer -- Computer Science
 | Field | Details |
 |-------|---------|
 | **Date** | 06 September 2026 (Sunday) |
@@ -45,7 +23,7 @@
 | **Syllabus** | • Paper 1: COA, DSA, Algorithms, DBMS, Networks, Programming, Cyber Security.<br>• Paper 2: OS, AI/ML, Compiler Design, DSP, Communication Networks. Both papers contain General Hindi + General Studies. |
 | **Priority** | **TRACKED (Active Post-June)** |
 
-### 4. BSNL SET -- Senior Executive Trainee (Telecom)
+### 2. BSNL SET -- Senior Executive Trainee (Telecom)
 | Field | Details |
 |-------|---------|
 | **Date** | First week of June (Tentatively **05 June or 07 June 2026**) |
@@ -101,6 +79,12 @@
 
 ## Completed / Failed / Dead
 
+### STPI -- Member Technical Staff E-I (Scientist B)
+- **Status**: **COMPLETED (AWAITING RESULTS)**. CBT Exam taken on 30 May 2026. 150 questions attempted. No negative marking.
+
+### STPI -- Member Technical StaffS ES-IV (MTSS)
+- **Status**: **COMPLETED (AWAITING RESULTS)**. CBT Exam taken on 31 May 2026. 150 questions attempted. No negative marking.
+
 ### HPCL -- Officer (Information Systems)
 - **Status**: **DEAD / NOT SHORTLISTED**. Exam taken on 3 May 2026. Result received: Domain Score 48.0/85, Overall 88.25/170. Cutoff for OBC-NCL was 117.5. Did not qualify. Track closed.
 
@@ -137,11 +121,9 @@
 
 ## Priority Queue (Immediate 10-Day Timeline)
 
-1. **STPI MTS E-I (Scientist B) Exam** — 30 May 2026 (Tomorrow!)
-2. **STPI MTSS ES-IV Exam** — 31 May 2026 (Sunday)
-3. **UCO Bank JMGS-I GD** — 01 June 2026 (Monday)
-4. **Form Filling: Currency Note Press (CNP)** — Deadline 03 June 2026
-5. **BSNL SET Exam** — Tentatively 05 June or 07 June 2026
-6. **Form Filling: Balmer Lawrie** — Deadline 09 June 2026
-7. **Form Filling: Coal India Limited (CIL)** — Deadline 11 June 2026
-8. **Form Filling: NFL** — Deadline 12 June 2026
+1. **UCO Bank JMGS-I GD** — 01 June 2026 (Today! 02:30 PM)
+2. **Form Filling: Currency Note Press (CNP)** — Deadline 03 June 2026
+3. **BSNL SET Exam** — Tentatively 05 June or 07 June 2026
+4. **Form Filling: Balmer Lawrie** — Deadline 09 June 2026
+5. **Form Filling: Coal India Limited (CIL)** — Deadline 11 June 2026
+6. **Form Filling: NFL** — Deadline 12 June 2026

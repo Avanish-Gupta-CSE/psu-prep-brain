@@ -7,12 +7,25 @@
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
-| **Study Streak** | 2 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 30 May 2026 -- STPI Exam Debriefing & Gaps Injection |
+| **Study Streak** | 3 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
+| **Last Session** | 31 May 2026 -- STPI ES-IV Exam Completion & GD Preparation |
 | **Resume From** | `.brain/NextSteps.md` |
 | **Overall Mood** | Highly motivated, energized for a massive 10-day sprint! |
 
 ## Session Log
+
+### Session 18 -- 31 May 2026 (Evening)
+- **Type:** STPI ES-IV Exam Completion & GD Preparation
+- **What happened:**
+  - Completed the second day of the STPI exams (MTSS ES-IV). The paper consisted of 80 Generic and 70 Technical questions under NIELIT's GATE-influenced CS/IT syllabus.
+  - Successfully answered all 150 questions by leveraging the "No Negative Marking" strategy to maximize scoring potential.
+  - Aligned all documentation requirements (call letter, application form, degree certificates, experience certificates, OBC-NCL certificate) for the UCO Bank Group Discussion on Monday.
+  - Formulated UCO Bank Specialist Officer Software Developer GD preparation strategy, identifying core FinTech, Cybersecurity, Cloud, and AI banking topics.
+- **Topics covered:** General Intelligence & Reasoning, Numerical Aptitude, English Comprehension, Core CS/IT concepts, UCO Bank digital milestones, Video Conference GD mechanics.
+- **Questions attempted:** 150 (all marked due to zero negative marking).
+- **Accuracy:** Solid; maximized chances with zero-negative marking.
+- **Weak areas identified:** None. Ready for UCO Bank GD.
+- **Next goals:** Master the 45-second speaking scripts for UCO Bank GD, secure a strong performance in Bangalore, and begin registration for CNP Nashik.
 
 ### Session 17 -- 30 May 2026 (Evening)
 - **Type:** STPI Exam Debriefing & Gaps Injection
@@ -224,13 +237,11 @@ _New sessions are appended above this line. Each entry follows the format:_
 
 | Date | Hours | Topics | Questions | Accuracy |
 |------|-------|--------|-----------|----------|
+| 31 May | 2.5 | STPI MTSS ES-IV Exam Completion + UCO Bank GD Prep | 150 | 100% attempts |
+| 30 May | 2.5 | STPI Scientist B Exam + Exam Debriefing & Gaps Injection | 150 | 100% attempts |
+| 29 May | 1.5 | Multi-Exam Super-Sprint Setup & Form-Filling Roadmap | 0 | N/A |
 | 16 May | 0 (planning) | Leave-mode reboot + Core-4 weakness mitigation plan | 0 | N/A |
 | 15 May | 0 (planning) | Master plan realigned to short technical-only format | 0 | N/A |
-| 14 May | Not logged | -- | -- | -- |
-| 13 May | Not logged | -- | -- | -- |
-| 12 May | 1.2 | DBMS compressed theory + HR snap + HR class | 0 | N/A |
-| 11 May | Not logged | -- | -- | -- |
-| 10 May | Not logged | -- | -- | -- |
 
 ## Streak History
 

@@ -48,6 +48,7 @@ Select any subject card below to jump straight to its master cheat sheets and re
 
 Keep your immediate exam targets warm. Direct links to critical question banks and repair sheets:
 
+* **🏦 UCO Bank GD Guide**: [Software Developer JMGS-I GD Preparation](/#/Notes/Shared-Core/UCO-GD-PREP) — Ashwani Kumar, VC GD rules, and 5 high-yield 45-second FinTech scripts.
 * **⚡ Emergency Technical Gaps**: [40-Second Rapid Speaking Scripts](/#/MSTC/TECHNICAL-GAPS-REPAIR) — Quick fixes for PK vs. UK, HAVING clause, and IPv4 vs. IPv6.
 * **🌳 Advanced Algorithms**: [Complex DSA Complexities & Formulas](/#/Notes/DSA/06-ADVANCED-ALGORITHMS) — Huffman Coding, Dijkstra, Knapsack bounds, and NP-Hard summaries.
 * **📈 Overlap Matrix**: [Shared Core Overlap Matrix](/#/Notes/Shared-Core/OVERLAP-MATRIX) — Maximize return-on-investment across BSNL SET, CIL, and IFFCO.

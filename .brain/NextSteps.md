@@ -1,6 +1,6 @@
 # Next Steps & Handoff (The Multi-Exam Super-Sprint)
 
-Last updated: 29 May 2026 (Evening)
+Last updated: 01 June 2026 (Morning)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -17,10 +17,10 @@ We have entered a highly dense, extremely critical window containing **three maj
 
 | Date | Day | Event / Target | Key Actions |
 |---|---|---|---|
-| **29 May** | **Friday** | Preparation / Setup | Generic Aptitude brush-up + STPI admit cards printout. |
-| **30 May** | **Saturday** | **STPI Scientist B Exam** (09:30 AM) | **CBT Exam**. 150 Qs. 100% attempts (No negative marking!). |
-| **31 May** | **Sunday** | **STPI MTSS ES-IV Exam** (09:30 AM) | **CBT Exam**. 150 Qs. 100% attempts (No negative marking!). |
-| **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Video Conference GD** from Zonal Office, Bangalore. |
+| **29 May** | **Friday** | Preparation / Setup | Generic Aptitude brush-up + STPI admit cards printout. (Done) |
+| **30 May** | **Saturday** | **STPI Scientist B Exam** | **Completed**. 150 Qs. 100% attempts. Gaps injected into Shared-Core. |
+| **31 May** | **Sunday** | **STPI MTSS ES-IV Exam** | **Completed**. 150 Qs. 100% attempts. Ready for UCO Bank. |
+| **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Video Conference GD** from Zonal Office, Bangalore. (Active Focus!) |
 | **02 June**| **Tuesday** | **CNP Nashik Form Filling** | **Submit Supervisor (IT) Application** (Extended deadline: 3 June). |
 | **03 June**| **Wednesday**| **Balmer Lawrie & CIL Forms** | Submit BL Executive Trainee (IT) & Coal India MT (Systems) applications. |
 | **05/07 Jun**| **Fri/Sun**| **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
@@ -31,22 +31,10 @@ We have entered a highly dense, extremely critical window containing **three maj
 
 ## 🎯 Target-Wise Precision Strategy
 
-### I. STPI Dual-Exam Weekend (30 & 31 May)
+### I. STPI Dual-Exam Weekend (Completed)
 
-You have two back-to-back exams at the **same venue in RT Nagar, Bengaluru**.
-
-#### 1. Core Execution Rules (No-Negative Strategy):
-* **100% Attempt Rule**: Neither exam has negative marking. **You must answer every single question.** In the final 10 minutes, randomly bubble/mark any unanswered questions. Leaving even one question blank is throwing away free marks.
-* **No Sectional Cutoffs**: You are free to maximize your score in your strongest areas.
-* **Time Management (150 minutes for 150 questions)**: Keep a steady pace of **1 minute per question**. Do not get stuck on tough quantitative aptitude questions. Mark them, guess, move on, and return if time permits.
-
-#### 2. Test Structure:
-* **MTS E-I (Scientist B) - Saturday**:
-  * 75 Questions Generic (Quant, Reasoning, English, General Awareness)
-  * 75 Questions Technical (Core CS: DBMS, DSA, Networks, OS, Software Engg).
-* **MTSS ES-IV - Sunday**:
-  * 20 Reasoning + 20 GK + 20 Aptitude + 20 English (80 Questions Generic)
-  * 70 Questions Technical (Core CS & IT concepts).
+* **Scientist B (30 May)**: Completed. 150/150 questions attempted. No negative marking. High-yield formulas and concepts from exam debrief successfully injected into `Notes/Shared-Core/`.
+* **MTSS ES-IV (31 May)**: Completed. 150/150 questions attempted. No negative marking. Ready for UCO Bank.
 
 ---
 
