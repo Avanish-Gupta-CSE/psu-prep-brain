@@ -79,6 +79,15 @@
 
 ## Completed / Failed / Dead
 
+### SEBI IT Officer -- Grade A
+- **Status**: **NOT SHORTLISTED FOR INTERVIEW**. Did not clear Phase 2 coding round cutoff. Completed and closed.
+
+### ECIL MT
+- **Status**: **NOT SHORTLISTED FOR INTERVIEW**. Did not clear the CBT cutoff score for interview. Closed.
+
+### BARC OCES 2026
+- **Status**: **NOT QUALIFIED**. Did not qualify for the interview round based on CBT score. Closed.
+
 ### STPI -- Member Technical Staff E-I (Scientist B)
 - **Status**: **COMPLETED (AWAITING RESULTS)**. CBT Exam taken on 30 May 2026. 150 questions attempted. No negative marking.
 
@@ -108,22 +117,13 @@
 ### IFFCO -- Graduate Engineer Trainee (GET)
 - **Status**: **ACTIVE TRACK / PENDING EXAM**. Form submitted. Exam dates for preliminary CBT (own device) and final CBT (controlled) are yet to be announced. To be prepared intensively starting post-June super-sprints.
 
-### SEBI IT Officer -- Grade A
-- **Status**: AWAITING Phase 2 Results. Phase 1 & Phase 2 completed. Awaiting results of the coding round for interview shortlisting.
-
-### ECIL MT
-- **Status**: AWAITING CBT Results. CBT completed. Awaiting results.
-
-### BARC OCES
-- **Status**: CBT completed on 14 Mar 2026. Awaiting results.
-
 ---
 
 ## Priority Queue (Immediate 10-Day Timeline)
 
-1. **UCO Bank JMGS-I GD** — 01 June 2026 (Today! 02:30 PM)
+1. **UCO Bank JMGS-I GD** — 01 June 2026 (Completed! Aced!)
 2. **Form Filling: Currency Note Press (CNP)** — Deadline 03 June 2026
-3. **BSNL SET Exam** — Tentatively 05 June or 07 June 2026
-4. **Form Filling: Balmer Lawrie** — Deadline 09 June 2026
-5. **Form Filling: Coal India Limited (CIL)** — Deadline 11 June 2026
-6. **Form Filling: NFL** — Deadline 12 June 2026
+3. **Form Filling: Balmer Lawrie** — Deadline 09 June 2026
+4. **Form Filling: Coal India Limited (CIL)** — Deadline 11 June 2026
+5. **Form Filling: NFL** — Deadline 12 June 2026
+6. **BSNL SET Exam** — Scheduled for 05 July 2026

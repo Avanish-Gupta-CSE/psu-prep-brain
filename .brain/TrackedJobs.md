@@ -33,16 +33,22 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Next Event**: Awaiting GD results for shortlisting to Personal Interview (if applicable) or final merit list.
 * **Website**: `ucobank.com/careers`
 
-### 5. SEBI IT Officer -- Grade A
-* **Status**: **Awaiting Phase 2 Coding Results**.
+---
+
+## 🛑 Category V: Completed, Closed & Dead Tracks
+
+These are tracks where selection cycles have concluded and Avanish was not shortlisted or did not qualify. These are now closed.
+
+### 1. SEBI IT Officer -- Grade A
+* **Status**: **Closed / No Interview Call**. Did not qualify in the Phase 2 coding round.
 * **Website**: `sebi.gov.in`
 
-### 6. ECIL MT
-* **Status**: **Awaiting CBT Results**.
+### 2. ECIL MT
+* **Status**: **Closed / Not Shortlisted**. Did not clear the CBT cutoff score for interview shortlisting.
 * **Website**: `ecil.co.in`
 
-### 7. BARC OCES 2026
-* **Status**: **CBT Completed on 14 Mar 2026**. Awaiting results for interview call.
+### 3. BARC OCES 2026
+* **Status**: **Closed / Not Qualified**. Did not qualify for the interview round based on CBT score.
 * **Website**: `barconlineexam.com`
 
 ---
