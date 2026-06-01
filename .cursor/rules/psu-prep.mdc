@@ -21,9 +21,14 @@ globs:
 1. **Read these files first before responding to ANY message:**
    - `.brain/Progress.md` -- current phase, last session, next goals, streak
    - `.brain/ExamTracker.md` -- upcoming exams, dates, priorities
+   - `.brain/TrackedJobs.md` -- all tracked jobs, applications, results, and new opportunities (MANDATORY check)
    - `MSTC/README.md` and `MSTC/INTERVIEW-PLAN.md` -- MSTC interview sprint context
 
-2. **Check the current date** against exam dates to determine which study phase is active:
+2. **Check for Job Updates (MANDATORY):**
+   - At the beginning of any conversation/request, review the list of active/completed jobs in `.brain/TrackedJobs.md`.
+   - Run a web search or check aggregators like `https://www.indgovtjobs.in/` and major cooperative portals (IFFCO, KRIBHCO) to verify if there are any new updates (Admit Card releases, Exam Dates, Results declared, or Interview Calls) for any of these tracked jobs. If there are updates, notify the user immediately before proceeding with the response.
+
+3. **Check the current date** against exam dates to determine which study phase is active:
    - Phase 1 (14-18 Mar 2026): MSTC MT GD Prep (completed)
    - Phase 2 (May 2026 -> interview date): MSTC MT Final Interview Sprint (active)
    - If the interview schedule changes or the plan drifts, read `.brain/StudyPlan.md` for the latest drill cadence

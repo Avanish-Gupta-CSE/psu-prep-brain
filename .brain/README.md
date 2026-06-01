@@ -36,6 +36,7 @@ This directory is the persistent memory system for Avanish Gupta's PSU/Governmen
 |------|---------|-----------------|
 | `README.md` | This file -- system overview | Rarely |
 | `NextSteps.md` | Canonical handoff and immediate next actions | Every session that changes priorities |
+| `TrackedJobs.md` | All active, completed, and emerging job notifications and tracking | When job info or schedules update |
 | `Profile.md` | Student profile, eligibility, constraints | On life changes |
 | `Progress.md` | Session log, streak, current phase | Every session |
 | `ExamTracker.md` | All exams: dates, status, patterns | When exam info changes |
