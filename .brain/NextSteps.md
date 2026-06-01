@@ -20,7 +20,7 @@ We have entered a highly dense, extremely critical window containing **three maj
 | **29 May** | **Friday** | Preparation / Setup | Generic Aptitude brush-up + STPI admit cards printout. (Done) |
 | **30 May** | **Saturday** | **STPI Scientist B Exam** | **Completed**. 150 Qs. 100% attempts. Gaps injected into Shared-Core. |
 | **31 May** | **Sunday** | **STPI MTSS ES-IV Exam** | **Completed**. 150 Qs. 100% attempts. Ready for UCO Bank. |
-| **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Video Conference GD** from Zonal Office, Bangalore. (Active Focus!) |
+| **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Completed**. Aced Video Conference GD from Zonal Office! |
 | **02 June**| **Tuesday** | **CNP Nashik Form Filling** | **Submit Supervisor (IT) Application** (Extended deadline: 3 June). |
 | **03 June**| **Wednesday**| **Balmer Lawrie & CIL Forms** | Submit BL Executive Trainee (IT) & Coal India MT (Systems) applications. |
 | **05/07 Jun**| **Fri/Sun**| **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
