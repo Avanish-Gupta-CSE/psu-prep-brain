@@ -23,8 +23,8 @@ We have entered a highly dense, extremely critical window containing **three maj
 | **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Completed**. Aced Video Conference GD from Zonal Office! |
 | **02 June**| **Tuesday** | **CNP Nashik Form Filling** | **Submit Supervisor (IT) Application** (Extended deadline: 3 June). |
 | **03 June**| **Wednesday**| **Balmer Lawrie & CIL Forms** | Submit BL Executive Trainee (IT) & Coal India MT (Systems) applications. |
-| **05/07 Jun**| **Fri/Sun**| **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
 | **12 June**| **Friday** | **NFL MT (IT) Form Filling** | Submit NFL application (1 OBC-NCL backlog seat). |
+| **05 July** | **Sunday** | **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
 | **06 Sept** | **Sunday** | **UPPSC Polytechnic Lecturer** | **Objective Exam** (2 papers, CS + Hindi + GS). |
 
 ---
@@ -79,9 +79,9 @@ We have four outstanding applications. Complete them strictly on the designated 
 
 ---
 
-### IV. BSNL SET (05/07 June) & UPPSC Lecturer (06 September)
+### IV. BSNL SET (05 July 2026) & UPPSC Lecturer (06 September)
 
-* **BSNL SET**: Focuses heavily on Telecom networks, IP routing, Cloud, and AI. Your existing Computer Networks notes are highly aligned.
+* **BSNL SET (05 July 2026)**: The exam date has been officially confirmed for July 5, 2026. Focuses heavily on Telecom networks, IP routing, Cloud, and AI. Your existing Computer Networks notes are highly aligned. This gives you a highly comfortable 34-day runway to master Telecom concepts.
 * **UPPSC Lecturer**: Relocated to September 06. This is a blessing—we will structure a dedicated, steady preparation plan for general Hindi and UP GK starting post-June super-sprints.
 
 ---
