@@ -21,9 +21,8 @@ We have entered a highly dense, extremely critical window containing **three maj
 | **30 May** | **Saturday** | **STPI Scientist B Exam** | **Completed**. 150 Qs. 100% attempts. Gaps injected into Shared-Core. |
 | **31 May** | **Sunday** | **STPI MTSS ES-IV Exam** | **Completed**. 150 Qs. 100% attempts. Ready for UCO Bank. |
 | **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Completed**. Aced Video Conference GD from Zonal Office! |
-| **02 June**| **Tuesday** | **CNP Nashik Form Filling** | **Submit Supervisor (IT) Application** (Extended deadline: 3 June). |
-| **03 June**| **Wednesday**| **Balmer Lawrie & CIL Forms** | Submit BL Executive Trainee (IT) & Coal India MT (Systems) applications. |
-| **12 June**| **Friday** | **NFL MT (IT) Form Filling** | Submit NFL application (1 OBC-NCL backlog seat). |
+| **02-03 Jun**| **Tue-Wed**| **CNP Nashik Form Filling** | **Completed (03 June)**. Reg No: `CNP26094296` | Pass: `Anchal@@11`. |
+| **03 June**| **Wednesday**| **BL, CIL & NFL Form Fillings** | **Active Today**. Submit Balmer Lawrie, Coal India, and NFL applications. |
 | **05 July** | **Sunday** | **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
 | **06 Sept** | **Sunday** | **UPPSC Polytechnic Lecturer** | **Objective Exam** (2 papers, CS + Hindi + GS). |
 

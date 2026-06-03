@@ -8,13 +8,33 @@
 | **Date** | 01 June 2026 (Monday) |
 | **Reporting Time** | 02:30 PM |
 | **Venue** | UCO Bank Zonal Office-Bangalore, UCO Bank Building, 2nd Floor, 13/12, K.G. Road, Bangalore- 560009 |
-| **Status** | Call Letter Received (Application ID: 7241178423) |
+| **Status** | **GD & DV COMPLETED (ACED!)** — Awaiting results for final selection / interview shortlisting. |
 | **Format** | Group Discussion (GD) conducted via **Video Conference** from the Zonal Office. |
 | **Eligibility / Exp** | Minimum 1 year post-qualification experience specifically in Banking/IT sector with relevant experience in Java/Java Springboot/React/.net/JSP/API/Android/iOS/Application Developer/UI/UX. (Fits Berkadia/STMicro experience perfectly). |
 | **Docs Needed** | Printout of GD Call Letter with photo, Printout of Online App, Birth Certificate/10th Marksheet, Original Photo ID, Education Marksheets/Certificates, valid OBC-NCL Certificate issued after 01.04.2025, Experience Certificates (with clearly indicated joining/relieving dates and duties). |
 | **Priority** | **HIGH** |
 
-### 3. UPPSC Polytechnic Lecturer -- Computer Science
+### 2. BSNL SET -- Senior Executive Trainee (Telecom)
+| Field | Details |
+|-------|---------|
+| **Date** | **05 July 2026 (Sunday)** |
+| **Pattern** | CBT: 200 MCQs, 200 marks, 3 hrs, -0.25 per wrong.<br>• Part I: 40 Q (Aptitude)<br>• Part II: 160 Q (Technical Telecom / Computer Science / IP Networks / Cloud / AI) |
+| **Posts** | 95 Telecom + 25 Finance = 120 posts |
+| **Priority** | **HIGH** |
+
+### 3. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
+| Field | Details |
+|-------|---------|
+| **Date** | **To Be Announced Soon** |
+| **Status** | **APPLIED (03 June 2026)** |
+| **Application Details** | Reg No: `CNP26094296` | Pass: `Anchal@@11` |
+| **Vacancies** | 2 vacancies (UR) |
+| **Eligibility** | 1st Class Diploma in IT/CS or higher qualification (B.Tech/B.E./B.Sc. Engg.) in IT/CS. |
+| **Age Limit** | 18 to 30 years as of closing date. |
+| **Pattern** | Computer Based Test (CBT) only. **No Interview!** Selection purely based on CBT score. |
+| **Priority** | **HIGH** |
+
+### 4. UPPSC Polytechnic Lecturer -- Computer Science
 | Field | Details |
 |-------|---------|
 | **Date** | 06 September 2026 (Sunday) |
@@ -23,29 +43,11 @@
 | **Syllabus** | • Paper 1: COA, DSA, Algorithms, DBMS, Networks, Programming, Cyber Security.<br>• Paper 2: OS, AI/ML, Compiler Design, DSP, Communication Networks. Both papers contain General Hindi + General Studies. |
 | **Priority** | **TRACKED (Active Post-June)** |
 
-### 2. BSNL SET -- Senior Executive Trainee (Telecom)
-| Field | Details |
-|-------|---------|
-| **Date** | First week of June (Tentatively **05 June or 07 June 2026**) |
-| **Pattern** | CBT: 200 MCQs, 200 marks, 3 hrs, -0.25 per wrong.<br>• Part I: 40 Q (Aptitude)<br>• Part II: 160 Q (Technical Telecom / Computer Science / IP Networks / Cloud / AI) |
-| **Posts** | 95 Telecom + 25 Finance = 120 posts |
-| **Priority** | **HIGH** |
-
 ---
 
 ## Form Filling & Pending Applications (Action Required)
 
-### A. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
-| Field | Details |
-|-------|---------|
-| **Extended Last Date** | **03 June 2026** (Extended from 19.05.2026 w.r.t High Court Order) |
-| **Vacancies** | 2 vacancies (UR) |
-| **Eligibility** | 1st Class Diploma in IT/CS or higher qualification (B.Tech/B.E./B.Sc. Engg.) in IT/CS. |
-| **Age Limit** | 18 to 30 years as of closing date. |
-| **Pattern** | Computer Based Test (CBT) only. **No Interview!** |
-| **Action** | **URGENT application submission on cnpnashik.spmcil.com** |
-
-### B. Balmer Lawrie -- Executive Trainee (IT)
+### A. Balmer Lawrie -- Executive Trainee (IT)
 | Field | Details |
 |-------|---------|
 | **Last Date** | **09 June 2026** (Fee payment: 11 June 2026) |
@@ -55,7 +57,7 @@
 | **CBT Pattern** | 100 MCQs in 90 minutes. **1/4th Negative Marking!**<br>• Section 1 (40 Marks): General Engineering (Generic common subjects for all streams).<br>• Section 2 (60 Marks): Aptitude (Logical Reasoning, DI, Quant, and English). |
 | **Action** | **Submit application on balmerlawrie.com/careers** |
 
-### C. Coal India Limited (CIL) -- Management Trainee (Systems)
+### B. Coal India Limited (CIL) -- Management Trainee (Systems)
 | Field | Details |
 |-------|---------|
 | **Last Date** | **11 June 2026** |
@@ -65,7 +67,7 @@
 | **CBT Structure** | 3 hours (one sitting). No penalty for wrong answers.<br>• Paper-I (100 marks): GK, Reasoning, Numerical Ability, English.<br>• Paper-II (100 marks): Professional Knowledge (CS/IT Domain). |
 | **Action** | **Submit application on coalindia.in** |
 
-### D. National Fertilizers Limited (NFL) -- Management Trainee (IT)
+### C. National Fertilizers Limited (NFL) -- Management Trainee (IT)
 | Field | Details |
 |-------|---------|
 | **Last Date** | **12 June 2026** |

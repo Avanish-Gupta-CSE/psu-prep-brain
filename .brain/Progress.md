@@ -7,12 +7,24 @@
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
-| **Study Streak** | 3 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 01 June 2026 -- UCO Bank JMGS-I GD Completion |
+| **Study Streak** | 4 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
+| **Last Session** | 03 June 2026 -- CNP Nashik Submission & CIL Strategy Setup |
 | **Resume From** | `.brain/NextSteps.md` |
 | **Overall Mood** | Highly motivated, energized for a massive 10-day sprint! |
 
 ## Session Log
+
+### Session 20 -- 03 June 2026 (Morning)
+- **Type:** CNP Nashik Form Submission & CIL Focus Strategy
+- **What happened:**
+  - Successfully completed and submitted the Currency Note Press (CNP) Nashik Supervisor (IT) Level-S1 application form before the extended June 3rd deadline. Logged registration credentials (Reg No: `CNP26094296`, Pass: `Anchal@@11`).
+  - Transitioned immediate focus to Coal India Limited (CIL) Management Trainee (Systems) and prepared strategic blueprints for the remaining form submissions (Balmer Lawrie, CIL, and NFL).
+  - Formulated a comprehensive, high-yield syllabus breakdown and study plan for CIL MT (Systems) to target AIR 1 in the CBT-only selection process.
+- **Topics covered:** Strategic form-filling checklist, CIL MT (Systems) exam pattern analysis, Paper-I (Aptitude/GK) vs Paper-II (Core CS) weightages, CBT-only recruitment strategy.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** General Engineering (Balmer Lawrie), General Awareness (CIL Paper-I).
+- **Next goals:** Complete Balmer Lawrie, CIL, and NFL form submissions today, and begin a structured study sprint for Coal India Limited (CIL) MT (Systems).
 
 ### Session 19 -- 01 June 2026 (Evening)
 - **Type:** UCO Bank JMGS-I GD Completion
@@ -251,6 +263,7 @@ _New sessions are appended above this line. Each entry follows the format:_
 
 | Date | Hours | Topics | Questions | Accuracy |
 |------|-------|--------|-----------|----------|
+| 03 June | 2.0 | CNP Nashik Submission & CIL Strategy Setup | 0 | N/A |
 | 01 June | 3.5 | UCO Bank JMGS-I GD & DV Completion | 0 | N/A (Aced GD) |
 | 31 May | 2.5 | STPI MTSS ES-IV Exam Completion + UCO Bank GD Prep | 150 | 100% attempts |
 | 30 May | 2.5 | STPI Scientist B Exam + Exam Debriefing & Gaps Injection | 150 | 100% attempts |

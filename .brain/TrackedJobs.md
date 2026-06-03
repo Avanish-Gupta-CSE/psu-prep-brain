@@ -33,6 +33,12 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Next Event**: Awaiting GD results for shortlisting to Personal Interview (if applicable) or final merit list.
 * **Website**: `ucobank.com/careers`
 
+### 5. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
+* **Status**: **Application Submitted on 03 June 2026**.
+* **Application Details**: Reg No: `CNP26094296` | Pass: `Anchal@@11`
+* **Next Event**: Announcement of SPMCIL-CBT exam date.
+* **Website**: `cnpnashik.spmcil.com`
+
 ---
 
 ## 🛑 Category V: Completed, Closed & Dead Tracks
@@ -57,25 +63,19 @@ These are tracks where selection cycles have concluded and Avanish was not short
 
 These are immediate high-priority applications that must be filled strictly on their designated days.
 
-### 1. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
-* **Deadlines**: **03 June 2026** (Extended from 19 May).
-* **Action Day**: **02 June 2026** (Tomorrow).
-* **Vacancies**: 2 (UR). No interview! Selection purely based on CBT merit.
-* **Website**: `cnpnashik.spmcil.com`
-
-### 2. Balmer Lawrie -- Executive Trainee (IT)
+### 1. Balmer Lawrie -- Executive Trainee (IT)
 * **Deadlines**: **09 June 2026** (Fee payment till 11 June).
 * **Action Day**: **03 June 2026** (Wednesday).
 * **Vacancies**: 6 (UR: 2, OBC-NCL: 2, SC: 1, EWS: 1).
 * **Website**: `balmerlawrie.com/careers`
 
-### 3. Coal India Limited (CIL) -- Management Trainee (Systems)
+### 2. Coal India Limited (CIL) -- Management Trainee (Systems)
 * **Deadlines**: **11 June 2026 (06:00 PM)**.
 * **Action Day**: **03 June 2026** (Wednesday).
 * **Vacancies**: **43 total (OBC-NCL: 11, UR: 19)**. **CBT Only — NO INTERVIEW!** Selection based solely on CBT score.
 * **Website**: `coalindia.in`
 
-### 4. National Fertilizers Limited (NFL) -- Management Trainee (IT)
+### 3. National Fertilizers Limited (NFL) -- Management Trainee (IT)
 * **Deadlines**: **12 June 2026**.
 * **Action Day**: **05 June 2026** (Friday).
 * **Vacancies**: **1 Vacancy (OBC-NCL Backlog!)**. OMR exam (80%) + Interview (20%).
