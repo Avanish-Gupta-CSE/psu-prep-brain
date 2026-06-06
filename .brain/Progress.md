@@ -8,11 +8,23 @@
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
 | **Study Streak** | 4 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 03 June 2026 -- CNP Nashik Submission & CIL Strategy Setup |
+| **Last Session** | 06 June 2026 -- Dopamine crash damage-control & continuity reboot |
 | **Resume From** | `.brain/NextSteps.md` |
 | **Overall Mood** | Highly motivated, energized for a massive 10-day sprint! |
 
 ## Session Log
+
+### Session 21 -- 06 June 2026 (Night)
+- **Type:** Damage-control + continuity reboot
+- **What happened:**
+  - Lost the day to a dopamine crash loop (PS5 purchase + long gaming block + crash sleep). Study blocks did not happen.
+  - Recovery reflex executed: late-night gym session completed to stabilize brain chemistry and prevent full spiral.
+  - Re-anchored the next 7 days around **form submissions + CBT-focused prep** (Balmer Lawrie, CIL MT (Systems), NFL MT (IT)).
+- **Topics covered:** None (meta recovery session; execution planning)
+- **Questions attempted:** 0
+- **Accuracy:** N/A
+- **Weak areas identified:** transition discipline (post-stimulation), long afternoon sleep vulnerability, form-filling procrastination.
+- **Next goals:** Submit **Balmer Lawrie (Jun 9)**, **CIL (Jun 11)**, **NFL (Jun 12)** forms ASAP, then start CIL Paper-II (Core CS) revision blocks daily.
 
 ### Session 20 -- 03 June 2026 (Morning)
 - **Type:** CNP Nashik Form Submission & CIL Focus Strategy
