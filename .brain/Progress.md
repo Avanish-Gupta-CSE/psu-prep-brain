@@ -7,24 +7,25 @@
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
-| **Study Streak** | 4 logged study days (restart on 22 Apr 2026); 24 Apr was an official-update sync session |
-| **Last Session** | 06 June 2026 -- Dopamine crash damage-control & continuity reboot |
+| **Study Streak** | 0 logged study days (restart on 07 June 2026 after relapse reset) |
+| **Last Session** | 07 June 2026 -- Dopamine Crash Recovery & Sunday Reboot |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Highly motivated, energized for a massive 10-day sprint! |
+| **Overall Mood** | Recovering, highly focused, and determined to reclaim momentum! |
 
 ## Session Log
 
-### Session 21 -- 06 June 2026 (Night)
-- **Type:** Damage-control + continuity reboot
+### Session 21 -- 07 June 2026 (Morning)
+- **Type:** Dopamine Crash Recovery & Sunday Reboot
 - **What happened:**
-  - Lost the day to a dopamine crash loop (PS5 purchase + long gaming block + crash sleep). Study blocks did not happen.
-  - Recovery reflex executed: late-night gym session completed to stabilize brain chemistry and prevent full spiral.
-  - Re-anchored the next 7 days around **form submissions + CBT-focused prep** (Balmer Lawrie, CIL MT (Systems), NFL MT (IT)).
-- **Topics covered:** None (meta recovery session; execution planning)
-- **Questions attempted:** 0
+  - Experienced a massive dopamine crash on June 6th due to missing morning gym, purchasing a ₹56,000 PS5 (financial shock), binging God of War for 4 hours, and relapsing 2x in the afternoon.
+  - Collapsed into a 4-hour crash sleep (3 PM - 7 PM), waking up disoriented and experiencing the "Tetris Effect" (game replay dreams).
+  - Initiated an elite recovery reflex: aborted a Swiggy junk food order under intense dopamine-deficit pressure, and forced a late-night gym Upper split session at 8:30 PM to stabilize brain chemistry.
+  - Synced with all self-improvement, no-fap, and weight-loss coaches to establish the Sunday Reboot Protocol and PS5 Quarantine Rules.
+- **Topics covered:** Dopamine deficit state, Tetris Effect (neocortical replay), Swiggy guardrail defense, CNS fatigue management, Sunday Reboot schedule.
+- **Questions attempted:** N/A
 - **Accuracy:** N/A
-- **Weak areas identified:** transition discipline (post-stimulation), long afternoon sleep vulnerability, form-filling procrastination.
-- **Next goals:** Submit **Balmer Lawrie (Jun 9)**, **CIL (Jun 11)**, **NFL (Jun 12)** forms ASAP, then start CIL Paper-II (Core CS) revision blocks daily.
+- **Weak areas identified:** Transition-state vulnerability, afternoon sleep loops, high-dopamine overstimulation triggers.
+- **Next goals:** Execute the Sunday Reboot Protocol with 100% compliance, take Thyroxine 50 mcg fasted at 5:00 AM, complete 9 hours of study across 3 blocks, and submit Balmer Lawrie and CIL application forms today.
 
 ### Session 20 -- 03 June 2026 (Morning)
 - **Type:** CNP Nashik Form Submission & CIL Focus Strategy
@@ -275,19 +276,20 @@ _New sessions are appended above this line. Each entry follows the format:_
 
 | Date | Hours | Topics | Questions | Accuracy |
 |------|-------|--------|-----------|----------|
+| 07 June | 0.0 | Dopamine Crash Recovery & Sunday Reboot | 0 | N/A |
 | 03 June | 2.0 | CNP Nashik Submission & CIL Strategy Setup | 0 | N/A |
 | 01 June | 3.5 | UCO Bank JMGS-I GD & DV Completion | 0 | N/A (Aced GD) |
 | 31 May | 2.5 | STPI MTSS ES-IV Exam Completion + UCO Bank GD Prep | 150 | 100% attempts |
 | 30 May | 2.5 | STPI Scientist B Exam + Exam Debriefing & Gaps Injection | 150 | 100% attempts |
 | 29 May | 1.5 | Multi-Exam Super-Sprint Setup & Form-Filling Roadmap | 0 | N/A |
 | 16 May | 0 (planning) | Leave-mode reboot + Core-4 weakness mitigation plan | 0 | N/A |
-| 15 May | 0 (planning) | Master plan realigned to short technical-only format | 0 | N/A |
 
 ## Streak History
 
 | Streak | Start | End | Days | Notes |
 |--------|-------|-----|------|-------|
-| #2 | 22 Apr 2026 | ongoing | 1 | Restarted with HPCL critical sprint, IFFCO parallel planning, and repo sync |
+| #3 | 07 Jun 2026 | ongoing | 0 | Restarted after June 6th dopamine crash and PS5 relapse |
+| #2 | 22 Apr 2026 | 05 Jun 2026 | 44 | Interrupted by transition-phase fatigue and relapse |
 | #1 | 14 Mar 2026 | 14 Mar 2026 | 1 | Day 1: BARC done, pivoted to MSTC GD prep |
 
 ## Phase Progress
@@ -301,5 +303,6 @@ _New sessions are appended above this line. Each entry follows the format:_
 ## Blockers and Concerns
 
 - Back to Berkadia work shifts (11 AM - 8 PM) limiting study blocks to early mornings/late nights.
-- UPPSC Polytechnic Lecturer exam is scheduled for 4 Jun 2026 (in 6 days); requires a quick syllabus review, Hindi, and General Studies brush-up.
+- UPPSC Polytechnic Lecturer exam is officially rescheduled to **06 September 2026**, which decompresses the immediate schedule but requires long-term steady preparation.
 - Staying focused and avoiding anxiety while waiting for the MSTC final merit list.
+- Managing post-relapse neurological recovery, enforcing PS5 quarantine rules, and re-establishing high-performance habits.

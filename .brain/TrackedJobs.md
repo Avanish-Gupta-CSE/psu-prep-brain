@@ -65,13 +65,13 @@ These are immediate high-priority applications that must be filled strictly on t
 
 ### 1. Balmer Lawrie -- Executive Trainee (IT)
 * **Deadlines**: **09 June 2026** (Fee payment till 11 June).
-* **Action Day**: **03 June 2026** (Wednesday).
+* **Action Day**: **07 June 2026 (URGENT TODAY)**.
 * **Vacancies**: 6 (UR: 2, OBC-NCL: 2, SC: 1, EWS: 1).
 * **Website**: `balmerlawrie.com/careers`
 
 ### 2. Coal India Limited (CIL) -- Management Trainee (Systems)
 * **Deadlines**: **11 June 2026 (06:00 PM)**.
-* **Action Day**: **03 June 2026** (Wednesday).
+* **Action Day**: **07 June 2026 (URGENT TODAY)**.
 * **Vacancies**: **43 total (OBC-NCL: 11, UR: 19)**. **CBT Only — NO INTERVIEW!** Selection based solely on CBT score.
 * **Website**: `coalindia.in`
 

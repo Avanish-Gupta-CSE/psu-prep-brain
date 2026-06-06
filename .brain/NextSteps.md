@@ -22,7 +22,8 @@ We have entered a highly dense, extremely critical window containing **three maj
 | **31 May** | **Sunday** | **STPI MTSS ES-IV Exam** | **Completed**. 150 Qs. 100% attempts. Ready for UCO Bank. |
 | **01 June**| **Monday** | **UCO Bank JMGS-I GD** (02:30 PM) | **Completed**. Aced Video Conference GD from Zonal Office! |
 | **02-03 Jun**| **Tue-Wed**| **CNP Nashik Form Filling** | **Completed (03 June)**. Reg No: `CNP26094296` | Pass: `Anchal@@11`. |
-| **03 June**| **Wednesday**| **BL, CIL & NFL Form Fillings** | **Active Today**. Submit Balmer Lawrie, Coal India, and NFL applications. |
+| **07 June**| **Sunday** | **BL & CIL Form Fillings** | **URGENT TODAY**. Submit Balmer Lawrie & Coal India (CIL) applications. |
+| **12 June**| **Friday** | **NFL MT (IT) Form Filling** | **Submit Application** (OBC-NCL Backlog seat). |
 | **05 July** | **Sunday** | **BSNL SET Exam** | **CBT Exam**. 200 MCQs (40 Aptitude + 160 Tech/Telecom). |
 | **06 Sept** | **Sunday** | **UPPSC Polytechnic Lecturer** | **Objective Exam** (2 papers, CS + Hindi + GS). |
 
@@ -66,33 +67,39 @@ We have entered a highly dense, extremely critical window containing **three maj
 We have four outstanding applications. Complete them strictly on the designated days to avoid server bottlenecks.
 
 1. **Currency Note Press (CNP) Nashik -- Supervisor (IT)** (Deadline: **03 June 2026**):
-   * *Why Apply?*: 2 UR seats. No interview! Pure CBT merit.
-   * *Fee*: ₹500 (OBC).
+   * **Status**: **COMPLETED (03 June 2026)**. Reg No: `CNP26094296` | Pass: `Anchal@@11`.
 2. **Balmer Lawrie -- Executive Trainee (IT)** (Deadline: **09 June 2026**):
    * *Why Apply?*: 6 seats (2 OBC-NCL).
    * *Unique Pattern*: Section 1 has 40 marks of **General Engineering** (physics, mechanics, basic electrical, chemistry, etc.). Section 2 is 60 marks of Aptitude. No domain CS section!
+   * **Action**: **SUBMIT TODAY (07 June 2026)**.
 3. **Coal India Limited (CIL) -- Management Trainee (Systems)** (Deadline: **11 June 2026**):
    * *Why Apply?*: **43 vacancies** (11 OBC-NCL!). **CBT Only — NO INTERVIEW!** This is your best chance. Paper 1 (Non-tech) + Paper 2 (Tech).
+   * **Action**: **SUBMIT TODAY (07 June 2026)**.
 4. **National Fertilizers Limited (NFL) -- Management Trainee (IT)** (Deadline: **12 June 2026**):
    * *Why Apply?*: **1 OBC-NCL backlog post**. Highly targeted seat. OMR test (80%) + Interview (20%).
+   * **Action**: Submit application by June 12, 2026.
 
 ---
 
 ### IV. BSNL SET (05 July 2026) & UPPSC Lecturer (06 September)
 
-* **BSNL SET (05 July 2026)**: The exam date has been officially confirmed for July 5, 2026. Focuses heavily on Telecom networks, IP routing, Cloud, and AI. Your existing Computer Networks notes are highly aligned. This gives you a highly comfortable 34-day runway to master Telecom concepts.
+* **BSNL SET (05 July 2026)**: The exam date has been officially confirmed for July 5, 2026. Focuses heavily on Telecom networks, IP routing, Cloud, and AI. Your existing Computer Networks notes are highly aligned. This gives you a highly comfortable 28-day runway to master Telecom concepts.
 * **UPPSC Lecturer**: Relocated to September 06. This is a blessing—we will structure a dedicated, steady preparation plan for general Hindi and UP GK starting post-June super-sprints.
 
 ---
 
 ## 🛠️ Immediate Study Strategy (Today's Actions)
 
-1. **Keep it light**: Do not start any heavy technical topics. You have already built comprehensive notes for Advanced DSA, OS, DBMS, and Networks.
-2. **Review Aptitude Formulas**: Quickly scan through:
-   * Percentages, Profit & Loss, Time & Work, Speed & Distance formulas.
-   * Logical reasoning Syllogisms, Blood Relations, and Coding-Decoding patterns.
-3. **Logistics Checklist**:
-   * Printout of STPI Scientist B Admit Card.
-   * 2 Passport size photos.
-   * Valid original Aadhaar / PAN card.
-   * Double-check travel distance from your room to RT Nagar (arrive by 08:15 AM).
+1. **Execute the Sunday Reboot Protocol**:
+   * **Waking & Thyroxine**: Stand up within 60 seconds of alarm. Take Thyroxine 50 mcg fasted with plain water.
+   * **Study Block 1 (05:15 AM - 07:15 AM)**: 2 hours of Core CS Theory (Operating Systems / DBMS).
+   * **Study Block 2 (07:30 AM - 11:30 AM)**: 4 hours of System Design & DSA (REST vs RPC, array/hashing problems).
+   * **Form Filling Block (11:30 AM - 01:00 PM)**: Submit **Balmer Lawrie** and **Coal India (CIL)** applications.
+   * **Study Block 3 (04:30 PM - 07:30 PM)**: 3 hours of Azure AI-900 / AI-102 concepts.
+2. **Enforce the PS5 Quarantine**:
+   * Unplug the PS5 power and HDMI cables immediately and store them in your office bag or separate drawer.
+   * Zero weekday gaming. Weekend gaming strictly capped at 1 hour max, only after completing gym and study blocks.
+3. **No-Fap & Dopamine Baseline Stabilization**:
+   * Phone charging strictly at the desk across the room. No phone in bed.
+   * Daylight bed embargo (06:00 AM - 10:30 PM).
+   * If urges or anxiety arise, immediately step onto your walking pad at 4.5 kmph. Walking physically absorbs mental anxiety.
