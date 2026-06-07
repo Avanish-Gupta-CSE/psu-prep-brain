@@ -8,15 +8,15 @@ Use this file to track your lectures watched, topics completed, and practice set
 
 | Subject | Source | Lectures Completed | Practice Sets Solved | Status | Target Date |
 |---|---|:---:|:---:|:---:|:---:|
-| **Compiler Design** | YourPedia Live / Recorded | 0 / 15 | 0 / 5 | **Active** | 14 June 2026 |
-| **Data Structures** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Pending** | 19 June 2026 |
+| **TOC** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Active** | 14 June 2026 |
+| **Data Structures** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Active** | 12 June 2026 |
+| **Compiler Design** | YourPedia Live / Recorded | 0 / 15 | 0 / 5 | **Pending** | 21 June 2026 |
+| **Algorithms** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 21 June 2026 |
 | **DBMS** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 21 June 2026 |
 | **Digital Electronics** | YourPedia Recorded / GO Classes | 0 / 10 | 0 / 5 | **Pending** | 21 June 2026 |
 | **Operating Systems** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 28 June 2026 |
 | **COA** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Pending** | 28 June 2026 |
-| **Computer Networks** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 05 July 2026 |
-| **TOC** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Pending** | 05 July 2026 |
-| **Algorithms** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 12 July 2026 |
+| **Computer Networks** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 12 July 2026 |
 | **Software Engineering** | YourPedia Recorded | 0 / 8 | 0 / 3 | **Pending** | 12 July 2026 |
 | **Web Technologies** | YourPedia Recorded | 0 / 6 | 0 / 3 | **Pending** | 12 July 2026 |
 | **Cyber Security & IT Act** | YourPedia Recorded / Self Study | 0 / 5 | 0 / 3 | **Pending** | 12 July 2026 |
@@ -35,7 +35,7 @@ Use this section to log each study session, what was covered, and your practice 
 
 #### June 7, 2026 (Sunday Reboot)
 * **Study Block 1 (07:45 AM - 11:30 AM)**:
-  * *Planned*: Watch Compiler Design Lecture 1 & 2 to catch up.
+  * *Planned*: Start Theory of Computation (TOC) - Finite Automata & basic DFA design.
   * *Actual*: TBD
   * *Notes*: TBD
 * **Form-Filling Block (11:30 AM - 01:00 PM)**:
@@ -43,11 +43,11 @@ Use this section to log each study session, what was covered, and your practice 
   * *Actual*: TBD
   * *Notes*: TBD
 * **Study Block 2 (04:30 PM - 07:30 PM)**:
-  * *Planned*: Watch Compiler Design Lecture 3 (live/recorded today) + Percentages diagnostic test.
+  * *Planned*: Deepen TOC DFA design + Percentages diagnostic test.
   * *Actual*: TBD
   * *Notes*: TBD
 * **Study Block 3 (08:30 PM - 10:30 PM)**:
-  * *Planned*: Practice Compiler Design PYQs on the walking pad.
+  * *Planned*: Practice DFA design PYQs on the walking pad.
   * *Actual*: TBD
   * *Notes*: TBD
 

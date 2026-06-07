@@ -91,11 +91,11 @@ We have four outstanding applications. Complete them strictly on the designated 
 ## 🛠️ Immediate Study Strategy (Today's Actions)
 
 1. **Execute the Sunday Reboot Protocol**:
-   * **Waking & Thyroxine**: Stand up within 60 seconds of alarm. Take Thyroxine 50 mcg fasted with plain water.
-   * **Study Block 1 (05:15 AM - 07:15 AM)**: 2 hours of Core CS Theory (Operating Systems / DBMS).
-   * **Study Block 2 (07:30 AM - 11:30 AM)**: 4 hours of System Design & DSA (REST vs RPC, array/hashing problems).
+   * **Waking & Thyroxine**: Stand up within 60 seconds of alarm. Take Thyroxine 50 mcg fasted with plain water (Woke at 6:15 AM, completed).
+   * **Study Block 1 (07:45 AM - 11:30 AM)**: 3 hours 45 minutes of Theory of Computation (TOC) — Finite Automata & basic DFA design (GO Classes / YourPedia recorded).
    * **Form Filling Block (11:30 AM - 01:00 PM)**: Submit **Balmer Lawrie** and **Coal India (CIL)** applications.
-   * **Study Block 3 (04:30 PM - 07:30 PM)**: 3 hours of Azure AI-900 / AI-102 concepts.
+   * **Study Block 2 (04:30 PM - 07:30 PM)**: 3 hours of TOC DFA design (modulo arithmetic, substring matching) + Percentages diagnostic test.
+   * **Study Block 3 (08:30 PM - 10:30 PM)**: 2 hours of DFA design PYQs on the walking pad.
 2. **Enforce the PS5 Quarantine**:
    * Unplug the PS5 power and HDMI cables immediately and store them in your office bag or separate drawer.
    * Zero weekday gaming. Weekend gaming strictly capped at 1 hour max, only after completing gym and study blocks.
