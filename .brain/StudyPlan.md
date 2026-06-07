@@ -1,61 +1,44 @@
-# Study Plan
+# PSU Study Plan & Tracker
 
-## Current Planning Assumption (as of 29 May 2026)
+## Current Planning Assumption (as of June 7, 2026)
 
-- `MSTC MT (Systems)` interview has been completed on `21 May 2026`.
-- Active focus is shifted to the **Multi-Exam Super-Sprint** covering STPI exams (30 & 31 May), UCO Bank GD (01 June), form fillings (CNP, Balmer Lawrie, CIL, NFL), and the BSNL SET exam (first week of June).
-- The UPPSC Polytechnic Lecturer (CS) exam has been officially rescheduled to **06 September 2026** (per UPPSC Annual Calendar 2026). Preparation for it will reactivate as a dedicated sprint post-June.
+- **Completed Events**:
+  - `MSTC MT (Systems)` interview completed on `21 May 2026` (Awaiting Results).
+  - `STPI Exams` completed on `30 & 31 May 2026` (Done).
+  - `UCO Bank GD` completed on `01 June 2026` (Done).
+  - `BSNL SET Exam` completed on `first week of June 2026` (Done).
+- **Active Focus Phase**: Transition to the **CIL MT (Systems), Balmer Lawrie, and NFL MT (IT) Campaign**.
+  - Immediate action items: Complete pending form submissions for **CIL, Balmer Lawrie, and NFL**.
+  - Core study strategy: 80% focus on upcoming exams, leveraging the fact that Core CS subjects (OS, DBMS, CN, DSA) directly build SDE-level interview readiness.
+- **UPPSC Polytechnic Lecturer (CS)** is officially scheduled for **September 6, 2026**. Preparation for it will run as a dedicated secondary sprint.
+
+---
 
 ## Phase Overview
 
 | Phase | Period | Target | Focus | Status |
-|-------|--------|--------|-------|--------|
-| 1 | 14-18 Mar 2026 | MSTC MT GD | GD prep, company research, current affairs | COMPLETED |
-| 2 | 09 May - 21 May 2026 | MSTC MT Final Interview (Systems) | HR + technical drills + resume deep-dive + mock loops + logistics | COMPLETED |
-| 3 | 22 May - 12 Jun 2026 | Multi-Exam Super-Sprint | STPI, UCO Bank GD, Form-Filling Campaign, BSNL SET | ACTIVE |
-| 4 | 13 Jun - 06 Sep 2026 | UPPSC Polytechnic Lecturer & Core CS Deep-Dive | General Hindi + UP General Studies + Advanced CSE Core | PLANNED |
+| :--- | :--- | :--- | :--- | :--- |
+| **Phase 1** | 14-18 Mar 2026 | MSTC MT GD | GD prep, company research, current affairs | ✅ COMPLETED |
+| **Phase 2** | 09 May - 21 May 2026 | MSTC MT Final Interview | HR + technical drills + resume deep-dive | ✅ COMPLETED |
+| **Phase 3** | 22 May - 06 Jun 2026 | Multi-Exam Sprint | STPI, UCO Bank GD, BSNL SET | ✅ COMPLETED |
+| **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ⏳ ACTIVE |
+| **Phase 5** | 01 Aug - 06 Sep 2026 | UPPSC PL / Advanced Core CS | General Hindi + UP General Studies + Advanced GATE Core | 📅 PLANNED |
 
-## Phase 2: MSTC Final Interview Sprint (ACTIVE)
+---
 
-### Core Materials (single sources of truth)
+## Phase 4: CIL MT / Balmer Lawrie Campaign (ACTIVE)
 
-- `Resume-Berkadia.tex` (facts, metrics, projects)
-- `MSTC/OFFICIAL-INTERVIEW-UPDATE.md` (date/time/venue confirmation)
-- Interview-stage PDFs in `MSTC/` (shortlist + instructions)
-- `.brain/MSTC-GD-Prep.md` (company context + MSTC positioning)
-- `MSTC/HR-QUESTION-BANK.md`
-- `MSTC/BEHAVIORAL-QUESTION-BANK.md`
-- `MSTC/CAREER-STORY-BANK.md`
-- `MSTC/TECHNICAL-QUESTION-BANK.md`
-- `MSTC/PROJECT-DEEP-DIVE.md`
-- `MSTC/MOCK-INTERVIEW-TRACKER.md`
+### Core Study Materials (Single Sources of Truth)
+- Standard GATE preparation materials for Paper-II (OS, DBMS, CN, DSA, Discrete Maths).
+- Quantitative Aptitude, Reasoning, and General English practice tests for Paper-I.
+- Current Affairs & GK capsule notes (updated weekly via web searches).
 
-### Weekday Template (target: ~2.5 to 3 hrs)
+### Daily Study Cadence
+- **Morning (04:15 AM - 05:30 AM)**: Core CS Academic Drill (GATE-level OS / DBMS / CN theory & numericals).
+- **Mid-Day Slot (07:30 AM - 10:15 AM / 11:30 AM)**: Non-Tech Aptitude & General Studies (Reasoning, English, Quant, GK).
+- **Evening Slot (08:30 PM - 11:30 PM)**: Core DSA Practice / Problem Solving (Striver TUF+ JavaScript/TypeScript) or Azure AI-900 module study.
 
-- `6:00 - 7:30 AM`: technical drill + fast recall (aloud)
-- `9:00 - 10:00 PM`: HR/behavioral rehearsal (aloud)
-- `10:00 - 11:00 PM`: mock + repair loop (log weakest answers)
-
-### Weekend Template (target: 4 to 6 hrs)
-
-- 1 mixed mock + deep repair
-- 1 company-fit pass + current affairs refresh (web search; cite sources)
-- 1 resume project deep-dive rehearsal (architecture + decisions + tradeoffs)
-
-### Technical Rotation (repeat)
-
-- Day A: Networking + basics of TLS/HTTPS + common failure modes
-- Day B: DBMS/SQL + indexing + transactions/concurrency basics
-- Day C: OS basics + processes/threads + deadlocks/scheduling basics
-- Day D: Web/APIs (REST vs SOAP) + authentication/authorization basics
-- Day E: DevOps/Cloud (Docker/K8s, CI/CD, Azure/AWS fundamentals)
-
-### Outputs (non-negotiable)
-
-- After every mock: update `MSTC/MOCK-INTERVIEW-TRACKER.md` (weakest answer -> repair target)
-- If the next drill target changes: update `.brain/NextSteps.md`
-- When a session ends with real work done: append a session entry in `.brain/Progress.md`
-
-## After MSTC (placeholder)
-
-- Decide the next target only after MSTC outcome is known.
+### Weekly Deliverables & Rules
+- Solve 1 Full-Length Non-Tech Mock paper every weekend to lock in speed for Paper-I.
+- Update `psu-prep-brain\.brain\Progress.md` and `psu-prep-brain\.brain\Syllabus.md` after every active academic study session.
+- Ensure 100% of study notes are committed to git regularly.
