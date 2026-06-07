@@ -7,8 +7,10 @@ globs:
 
 ## Current Priority (MANDATORY)
 
-- **MSTC MT Final Interview is the only active track** until the interview is completed.
-- Other exams may remain listed/tracked in `.brain/ExamTracker.md`, but must not drive planning unless the user explicitly requests it.
+- **CIL MT (Systems)** is the primary active target.
+- Other active/upcoming exams (BSNL SET, Balmer Lawrie, NFL, SPMCIL) remain listed/tracked in `.brain/ExamTracker.md` and `.brain/TrackedJobs.md`.
+- All organization-specific information, study plans, progress logs, and exam-specific notes must be logged strictly inside their respective folders (`CIL/`, `BalmerLawrie/`, `NFL/`, `SPMCIL/`).
+- Shared-Core notes (`Notes/Shared-Core/`) must contain only reusable, cross-exam computer science and aptitude fundamentals. Do not clutter them with exam-specific schedules or patterns.
 
 ## Web Research Rule (MANDATORY)
 
@@ -22,7 +24,7 @@ globs:
    - `.brain/Progress.md` -- current phase, last session, next goals, streak
    - `.brain/ExamTracker.md` -- upcoming exams, dates, priorities
    - `.brain/TrackedJobs.md` -- all tracked jobs, applications, results, and new opportunities (MANDATORY check)
-   - `MSTC/README.md` and `MSTC/INTERVIEW-PLAN.md` -- MSTC interview sprint context
+   - `CIL/README.md` and `CIL/STUDY-PLAN.md` -- Coal India MT (Systems) context and study plan
 
 2. **Check for Job Updates (MANDATORY):**
    - At the beginning of any conversation/request, review the list of active/completed jobs in `.brain/TrackedJobs.md`.
@@ -30,8 +32,10 @@ globs:
 
 3. **Check the current date** against exam dates to determine which study phase is active:
    - Phase 1 (14-18 Mar 2026): MSTC MT GD Prep (completed)
-   - Phase 2 (May 2026 -> interview date): MSTC MT Final Interview Sprint (active)
-   - If the interview schedule changes or the plan drifts, read `.brain/StudyPlan.md` for the latest drill cadence
+   - Phase 2 (May 2026): MSTC MT Final Interview Sprint (completed)
+   - Phase 3 (22 May - 12 Jun 2026): Multi-Exam Super-Sprint & Form Fillings (active)
+   - Phase 4 (13 Jun - 06 Sep 2026): CIL MT (Systems) & BSNL SET Core Sprint (active post-June 12)
+   - If the schedule changes or the plan drifts, read `.brain/StudyPlan.md` or `CIL/STUDY-PLAN.md` for the latest drill cadence
 
 3. **If the student asks about a topic**, check `.brain/Syllabus.md` for completion status and `.brain/WeakAreas.md` for known weaknesses before teaching.
 
@@ -69,7 +73,7 @@ When teaching ANY CS topic, follow this exact sequence:
 
 ## Session End Protocol (MANDATORY)
 
-Before ending ANY conversation where interview prep or studying happened:
+Before ending ANY conversation where study or exam prep happened:
 
 1. **Update `.brain/Progress.md`**:
    - Add a new session entry with: date, topics covered, questions attempted, accuracy, next goals
@@ -77,16 +81,14 @@ Before ending ANY conversation where interview prep or studying happened:
    - Increment streak counter if study happened today
    - Update phase completion percentage
 
-2. **Update MSTC trackers**:
-   - `MSTC/MOCK-INTERVIEW-TRACKER.md` after every mock
-   - Update `MSTC/HR-QUESTION-BANK.md` / `MSTC/BEHAVIORAL-QUESTION-BANK.md` only when answers materially improve
+2. **Update CIL trackers**:
+   - Update `CIL/PROGRESS-LOG.md` after watching lectures or solving practice sets.
+   - Update `.brain/Syllabus.md` and `.brain/WeakAreas.md` if core CS drilling happened and weaknesses were exposed.
 
-3. **Update `.brain/NextSteps.md`** if the next drill target changed
+3. **Update `.brain/NextSteps.md`** if the next study target changed.
 
-4. **Update `.brain/Syllabus.md` and `.brain/WeakAreas.md`** only if core CS drilling happened (and weaknesses were exposed)
-
-5. **Git sync**:
-   - If `.brain/` or `MSTC/` changed, commit and push to `main`
+4. **Git sync**:
+   - Commit and push changes to `main` to redeploy the mobile portal.
 
 ## Student Profile (Quick Reference)
 
@@ -110,7 +112,7 @@ Before ending ANY conversation where interview prep or studying happened:
 
 ## File Map
 
-| File | Purpose |
+| File / Folder | Purpose |
 |------|---------|
 | `.brain/README.md` | System overview |
 | `.brain/Profile.md` | Student profile, eligibility |
@@ -122,3 +124,8 @@ Before ending ANY conversation where interview prep or studying happened:
 | `.brain/MockTestLog.md` | Mock test scores and analysis |
 | `.brain/Motivation.md` | Streaks, milestones, reality checks |
 | `.brain/QuickReference.md` | Formulae, cheat sheets, exam tips |
+| `CIL/` | Coal India Limited (Systems) MT master folder (README, study plans, progress logs) |
+| `BalmerLawrie/` | Balmer Lawrie Executive Trainee (IT) master folder |
+| `NFL/` | National Fertilizers Limited MT (IT) master folder |
+| `SPMCIL/` | Currency Note Press (CNP) Nashik Supervisor (IT) master folder |
+| `Notes/Shared-Core/` | Reusable CS fundamentals and quantitative aptitude cheat sheets |
