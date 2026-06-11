@@ -39,6 +39,11 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Next Event**: Announcement of SPMCIL-CBT exam date.
 * **Website**: `cnpnashik.spmcil.com`
 
+### 6. Balmer Lawrie -- Executive Trainee (IT)
+* **Status**: **Application Submitted on 10 June 2026**.
+* **Next Event**: Announcement of CBT exam date.
+* **Website**: `balmerlawrie.com/careers`
+
 ---
 
 ## 🛑 Category V: Completed, Closed & Dead Tracks
@@ -63,21 +68,15 @@ These are tracks where selection cycles have concluded and Avanish was not short
 
 These are immediate high-priority applications that must be filled strictly on their designated days.
 
-### 1. Balmer Lawrie -- Executive Trainee (IT)
-* **Deadlines**: **09 June 2026** (Fee payment till 11 June).
-* **Action Day**: **07 June 2026 (URGENT TODAY)**.
-* **Vacancies**: 6 (UR: 2, OBC-NCL: 2, SC: 1, EWS: 1).
-* **Website**: `balmerlawrie.com/careers`
-
-### 2. Coal India Limited (CIL) -- Management Trainee (Systems)
-* **Deadlines**: **11 June 2026 (06:00 PM)**.
-* **Action Day**: **07 June 2026 (URGENT TODAY)**.
+### 1. Coal India Limited (CIL) -- Management Trainee (Systems)
+* **Deadlines**: **21 June 2026 (06:00 PM)** (Extended from 11 June).
+* **Action Day**: **07 June 2026 (URGENT TODAY - Filling Now!)**.
 * **Vacancies**: **43 total (OBC-NCL: 11, UR: 19)**. **CBT Only — NO INTERVIEW!** Selection based solely on CBT score.
 * **Website**: `coalindia.in`
 
-### 3. National Fertilizers Limited (NFL) -- Management Trainee (IT)
+### 2. National Fertilizers Limited (NFL) -- Management Trainee (IT)
 * **Deadlines**: **12 June 2026**.
-* **Action Day**: **05 June 2026** (Friday).
+* **Action Day**: **12 June 2026 (URGENT TOMORROW)**.
 * **Vacancies**: **1 Vacancy (OBC-NCL Backlog!)**. OMR exam (80%) + Interview (20%).
 * **Website**: `nationalfertilizers.com`
 

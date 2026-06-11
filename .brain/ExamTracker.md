@@ -34,40 +34,33 @@
 | **Pattern** | Computer Based Test (CBT) only. **No Interview!** Selection purely based on CBT score. |
 | **Priority** | **HIGH** |
 
-### 4. UPPSC Polytechnic Lecturer -- Computer Science
+### 4. Balmer Lawrie -- Executive Trainee (IT)
 | Field | Details |
 |-------|---------|
-| **Date** | 06 September 2026 (Sunday) |
-| **Pattern** | 2 papers, 2.5 hrs each. Each paper: 25 Q (Hindi/GS) + 100 Q (CS) = 125 Q, 375 marks. Total: 250 Q, 750 marks, +3/-1 |
-| **Posts** | 513 posts total |
-| **Syllabus** | • Paper 1: COA, DSA, Algorithms, DBMS, Networks, Programming, Cyber Security.<br>• Paper 2: OS, AI/ML, Compiler Design, DSP, Communication Networks. Both papers contain General Hindi + General Studies. |
-| **Priority** | **TRACKED (Active Post-June)** |
+| **Date** | **To Be Announced Soon** |
+| **Status** | **APPLIED (10 June 2026)** |
+| **Vacancies** | 6 vacancies (UR: 2, OBC-NCL: 2, SC: 1, EWS: 1) |
+| **Eligibility** | Regular 4-year B.E./B.Tech in CS/CSE/IT with minimum 65% aggregate. |
+| **CBT Pattern** | 100 MCQs in 90 minutes. **1/4th Negative Marking!**<br>• Section 1 (40 Marks): General Engineering (Generic common subjects for all streams).<br>• Section 2 (60 Marks): Aptitude (Logical Reasoning, DI, Quant, and English). |
+| **Priority** | **HIGH** |
+
+### 5. UPPSC Polytechnic Lecturer -- Computer Science
 
 ---
 
 ## Form Filling & Pending Applications (Action Required)
 
-### A. Balmer Lawrie -- Executive Trainee (IT)
+### A. Coal India Limited (CIL) -- Management Trainee (Systems)
 | Field | Details |
 |-------|---------|
-| **Last Date** | **09 June 2026** (Fee payment: 11 June 2026) |
-| **Vacancies** | 6 vacancies (UR: 2, OBC-NCL: 2, SC: 1, EWS: 1) |
-| **Eligibility** | Regular 4-year B.E./B.Tech in CS/CSE/IT with minimum 65% aggregate (60% for SC/ST/PwBD). |
-| **Age Limit** | 25 years + 3 years relaxation (OBC-NCL) = **28 years** as of 09.06.2026. |
-| **CBT Pattern** | 100 MCQs in 90 minutes. **1/4th Negative Marking!**<br>• Section 1 (40 Marks): General Engineering (Generic common subjects for all streams).<br>• Section 2 (60 Marks): Aptitude (Logical Reasoning, DI, Quant, and English). |
-| **Action** | **Submit application on balmerlawrie.com/careers** |
-
-### B. Coal India Limited (CIL) -- Management Trainee (Systems)
-| Field | Details |
-|-------|---------|
-| **Last Date** | **11 June 2026** |
+| **Last Date** | **21 June 2026 (06:00 PM)** (Extended from 11 June) |
 | **Vacancies** | **43 vacancies** (OBC-NCL: 11, UR: 19, SC: 6, ST: 3, EWS: 4) |
 | **Eligibility** | 1st Class Degree in B.E./B.Tech/B.Sc. (Engg) in CS/IT or MCA with minimum 60% aggregate. |
 | **Pattern** | **CBT Only — NO INTERVIEW!** Selection based solely on CBT score. (Aim for AIR 1). |
 | **CBT Structure** | 3 hours (one sitting). No penalty for wrong answers.<br>• Paper-I (100 marks): GK, Reasoning, Numerical Ability, English.<br>• Paper-II (100 marks): Professional Knowledge (CS/IT Domain). |
 | **Action** | **Submit application on coalindia.in** |
 
-### C. National Fertilizers Limited (NFL) -- Management Trainee (IT)
+### B. National Fertilizers Limited (NFL) -- Management Trainee (IT)
 | Field | Details |
 |-------|---------|
 | **Last Date** | **12 June 2026** |
@@ -123,9 +116,7 @@
 
 ## Priority Queue (Immediate 10-Day Timeline)
 
-1. **UCO Bank JMGS-I GD** — 01 June 2026 (Completed! Aced!)
-2. **Form Filling: Currency Note Press (CNP)** — Deadline 03 June 2026
-3. **Form Filling: Balmer Lawrie** — Deadline 09 June 2026
-4. **Form Filling: Coal India Limited (CIL)** — Deadline 11 June 2026
-5. **Form Filling: NFL** — Deadline 12 June 2026
-6. **BSNL SET Exam** — Scheduled for 05 July 2026
+1. **Form Filling: Balmer Lawrie** — Completed (Applied on 10 June 2026)
+2. **Form Filling: Coal India Limited (CIL)** — Deadline Extended to 21 June 2026 (Filling Today!)
+3. **Form Filling: NFL** — Deadline 12 June 2026 (URGENT TOMORROW)
+4. **BSNL SET Exam** — Scheduled for 05 July 2026
