@@ -14,6 +14,26 @@
 
 ## Session Log
 
+### Session 22 -- 11 June 2026 (Afternoon)
+- **Type:** Balmer Lawrie Submission & CIL MT Form Filling
+- **What happened:**
+  - Successfully completed and submitted the Balmer Lawrie Executive Trainee (IT) application form on June 10, 2026.
+  - Active on the Coal India Limited (CIL) MT (Systems) application form today (June 11, 2026).
+  - Confirmed the official extension of the CIL MT (Systems) application deadline to June 21, 2026 (06:00 PM).
+  - Drafted, optimized, and saved the final point-wise detailed work experience description (449 characters) to showcase Berkadia achievements (HI5 Award) and STMicroelectronics experience safely without date-mismatch flags:
+    ```text
+    1. Berkadia: Recipient of HI5 Award within 1 year for exceptional work.
+    2. Developed ReservesAI (Azure Doc Intelligence and Azure Foundry) & DMS (Document Management System).
+    3. Designed secure, high-performance REST APIs with PostgreSQL databases and Elasticsearch.
+    4. Integrated Keycloak SSO & OpenFGA, and deployed microservices via CI/CD, Docker, and Kubernetes.
+    5. STMicroelectronics: SDE Intern. Built eRFP-NPI semiconductor app
+    ```
+- **Topics covered:** Balmer Lawrie submission confirmation, CIL MT form details, CIL deadline extension check, professional experience description optimization, secure language-agnostic API phrasing, risk mitigation for DV.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Complete the CIL MT (Systems) form submission today, submit the NFL MT (IT) application tomorrow (June 12, 2026), and continue the intensive TOC study sprint.
+
 ### Session 21 -- 07 June 2026 (Morning)
 - **Type:** Dopamine Crash Recovery & Sunday Reboot
 - **What happened:**
