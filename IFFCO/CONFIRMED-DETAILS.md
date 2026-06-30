@@ -37,7 +37,7 @@
 
 | Field | Detail |
 |------|--------|
-| Assessment Pattern | 100 questions in 60 minutes (1 hour) |
+| Assessment Pattern | 100 questions in 60 minutes (1 hour). All 100 are Technical questions. |
 | Backtracking | Fully supported (Previous button, Navigator sidebar grid to jump directly to questions) |
 | Question States | Answered (Green), Flagged (Orange), Current (Teal border), Unattempted (White/Grey) |
 | Features | Flag for Review, Clear Answer, Live Webcam Monitoring (System Check required before start) |

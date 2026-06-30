@@ -9,7 +9,7 @@
 - Candidates shortlisted on the basis of the online test will be called for personal interview.
 - The application form and advertisement do not expose a detailed written syllabus on the public page.
 - **CBT Portal Interface (Confirmed from Practice Exam on 30 Jun 2026)**:
-  - **Timing & Pattern**: 100 questions in 60 minutes (1 hour).
+  - **Timing & Pattern**: 100 questions in 60 minutes (1 hour). All 100 are Technical questions.
   - **Navigation**: Backtracking is ALLOWED. Candidates can use "< Previous" and "Next >" buttons, or click any question number in the right-hand "NAVIGATOR" sidebar grid to jump directly.
   - **Question Flags**: Candidates can "Flag for Review" (turns the navigator circle orange) and "Clear Answer" (clears the selected option).
   - **Proctoring**: Live webcam feed is displayed in the sidebar (labeled "MONITORED IN THE ACTUAL EXAM"). A "System Check" (Browser, Camera, Full-screen, Clock, Server) is mandatory before starting the test.

@@ -10,11 +10,7 @@
       totalQuestions: 100,
       durationSec: 60 * 60, // 1 hour
       distribution: {
-        technical: 80,
-        quant: 5,
-        reasoning: 5,
-        gk: 5,
-        english: 5,
+        technical: 100,
       },
     },
     practiceExam: {

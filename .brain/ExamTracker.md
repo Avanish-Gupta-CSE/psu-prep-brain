@@ -22,7 +22,7 @@
 | **Date** | **30 June 2026 (Tuesday)** |
 | **Time** | **05:15 PM** |
 | **Mode** | Preliminary online assessment (open environment; own device + internet). |
-| **Pattern** | Confirmed from mock test: 100 questions in 60 minutes (1 hour). Backtracking is ALLOWED (includes Previous button, Clear Answer, Flag for Review, and a Navigator sidebar grid to jump directly to any question). |
+| **Pattern** | Confirmed from mock test: 100 questions in 60 minutes (1 hour). All 100 are Technical questions. Backtracking is ALLOWED (includes Previous button, Clear Answer, Flag for Review, and a Navigator sidebar grid to jump directly to any question). |
 | **Priority** | **CRITICAL (TODAY)** |
 
 ### 3. BSNL SET -- Senior Executive Trainee (Telecom)

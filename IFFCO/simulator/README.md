@@ -24,7 +24,7 @@ It is **not** intended for use during any real assessment/exam.
 
 1. **GET Computer Science Exam (Confirmed Real Pattern)**:
    - **100 questions / 60 minutes (1 hour)**
-   - Distribution: `80 technical + 5 quant + 5 reasoning + 5 GK + 5 English`
+   - Distribution: `100 technical`
 2. **Practice Exam (Mandatory Practice Mode)**:
    - **10 questions / 10 minutes**
    - Distribution: `10 GK/Mixed`
