@@ -4,9 +4,15 @@
 
 - The active advertisement is for `Graduate Engineer Trainee (GET) - 2026`.
 - There is a `preliminary` online test in an open environment using the candidate's own laptop / computer and internet.
+- The preliminary online assessment for `GET — Computer Science` is scheduled on **30 Jun 2026, 05:15 PM** (email confirmation).
 - Shortlisted candidates from the preliminary stage will appear for a `final` online test in a controlled environment at designated centres.
 - Candidates shortlisted on the basis of the online test will be called for personal interview.
 - The application form and advertisement do not expose a detailed written syllabus on the public page.
+- **CBT Portal Interface (Confirmed from Practice Exam on 30 Jun 2026)**:
+  - **Timing & Pattern**: 100 questions in 60 minutes (1 hour).
+  - **Navigation**: Backtracking is ALLOWED. Candidates can use "< Previous" and "Next >" buttons, or click any question number in the right-hand "NAVIGATOR" sidebar grid to jump directly.
+  - **Question Flags**: Candidates can "Flag for Review" (turns the navigator circle orange) and "Clear Answer" (clears the selected option).
+  - **Proctoring**: Live webcam feed is displayed in the sidebar (labeled "MONITORED IN THE ACTUAL EXAM"). A "System Check" (Browser, Camera, Full-screen, Clock, Server) is mandatory before starting the test.
 
 ## Inferred
 

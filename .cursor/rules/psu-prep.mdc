@@ -88,7 +88,7 @@ Before ending ANY conversation where study or exam prep happened:
 3. **Update `.brain/NextSteps.md`** if the next study target changed.
 
 4. **Git sync**:
-   - Commit and push changes to `main` to redeploy the mobile portal.
+   - The user will commit and push changes manually. Do not perform automatic git sync or push.
 
 ## Student Profile (Quick Reference)
 

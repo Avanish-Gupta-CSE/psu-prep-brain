@@ -2,19 +2,30 @@
 
 ## Active / Upcoming Exams (Sorted by Date)
 
-### 1. UCO Bank -- Software Developer in JMGS-I (Group Discussion)
+### 1. UCO Bank -- Software Developer in JMGS-I (Final Interview)
 | Field | Details |
 |-------|---------|
-| **Date** | 01 June 2026 (Monday) |
-| **Reporting Time** | 02:30 PM |
-| **Venue** | UCO Bank Zonal Office-Bangalore, UCO Bank Building, 2nd Floor, 13/12, K.G. Road, Bangalore- 560009 |
-| **Status** | **GD & DV COMPLETED (ACED!)** — Awaiting results for final selection / interview shortlisting. |
-| **Format** | Group Discussion (GD) conducted via **Video Conference** from the Zonal Office. |
-| **Eligibility / Exp** | Minimum 1 year post-qualification experience specifically in Banking/IT sector with relevant experience in Java/Java Springboot/React/.net/JSP/API/Android/iOS/Application Developer/UI/UX. (Fits Berkadia/STMicro experience perfectly). |
-| **Docs Needed** | Printout of GD Call Letter with photo, Printout of Online App, Birth Certificate/10th Marksheet, Original Photo ID, Education Marksheets/Certificates, valid OBC-NCL Certificate issued after 01.04.2025, Experience Certificates (with clearly indicated joining/relieving dates and duties). |
-| **Priority** | **HIGH** |
+| **Date** | **17 June 2026 (Wednesday)** |
+| **Reporting Time** | **09:30 AM** |
+| **Venue** | UCO Bank Zonal Office-Bangalore, UCO Bank Building, 2nd Floor, 13/12, K.G. Road, Adj to Alankar Plaza, Bangalore- 560009 |
+| **Status** | **FINAL INTERVIEW COMPLETED (17 June 2026) — Awaiting result / joining updates** |
+| **Format** | Final Round Interview conducted via **Video Conference** from the Bangalore Zonal Office. |
+| **Eligibility / Exp** | Minimum 1 year post-qualification experience specifically in Banking/IT sector with relevant experience in Java/Java Springboot/React/.net/JSP/API/Android/iOS/Application Developer/UI/UX. (Fits Berkadia experience perfectly). |
+| **Docs Needed** | Printout of Interview Call Letter with photo, Printout of Online App, Birth Certificate/10th Marksheet, Original Photo ID, Education Marksheets/Certificates, valid OBC-NCL Certificate issued after 01.04.2025, Experience Certificates (with clearly indicated joining/relieving dates and duties). |
+| **Priority** | **AWAITING RESULT** |
 
-### 2. BSNL SET -- Senior Executive Trainee (Telecom)
+**Interview Debrief (self-reported):** `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`
+
+### 2. IFFCO -- Graduate Engineer Trainee (GET) -- Computer Science (Preliminary Online Assessment)
+| Field | Details |
+|-------|---------|
+| **Date** | **30 June 2026 (Tuesday)** |
+| **Time** | **05:15 PM** |
+| **Mode** | Preliminary online assessment (open environment; own device + internet). |
+| **Pattern** | Confirmed from mock test: 100 questions in 60 minutes (1 hour). Backtracking is ALLOWED (includes Previous button, Clear Answer, Flag for Review, and a Navigator sidebar grid to jump directly to any question). |
+| **Priority** | **CRITICAL (TODAY)** |
+
+### 3. BSNL SET -- Senior Executive Trainee (Telecom)
 | Field | Details |
 |-------|---------|
 | **Date** | **05 July 2026 (Sunday)** |
@@ -22,7 +33,7 @@
 | **Posts** | 95 Telecom + 25 Finance = 120 posts |
 | **Priority** | **HIGH** |
 
-### 3. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
+### 4. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
 | Field | Details |
 |-------|---------|
 | **Date** | **To Be Announced Soon** |
@@ -34,7 +45,7 @@
 | **Pattern** | Computer Based Test (CBT) only. **No Interview!** Selection purely based on CBT score. |
 | **Priority** | **HIGH** |
 
-### 4. Balmer Lawrie -- Executive Trainee (IT)
+### 5. Balmer Lawrie -- Executive Trainee (IT)
 | Field | Details |
 |-------|---------|
 | **Date** | **To Be Announced Soon** |
@@ -44,31 +55,30 @@
 | **CBT Pattern** | 100 MCQs in 90 minutes. **1/4th Negative Marking!**<br>• Section 1 (40 Marks): General Engineering (Generic common subjects for all streams).<br>• Section 2 (60 Marks): Aptitude (Logical Reasoning, DI, Quant, and English). |
 | **Priority** | **HIGH** |
 
-### 5. UPPSC Polytechnic Lecturer -- Computer Science
-
----
-
-## Form Filling & Pending Applications (Action Required)
-
-### A. Coal India Limited (CIL) -- Management Trainee (Systems)
+### 6. Coal India Limited (CIL) -- Management Trainee (Systems)
 | Field | Details |
 |-------|---------|
-| **Last Date** | **21 June 2026 (06:00 PM)** (Extended from 11 June) |
+| **Date** | **To Be Announced Soon** |
+| **Status** | **APPLIED (11 June 2026)** |
 | **Vacancies** | **43 vacancies** (OBC-NCL: 11, UR: 19, SC: 6, ST: 3, EWS: 4) |
 | **Eligibility** | 1st Class Degree in B.E./B.Tech/B.Sc. (Engg) in CS/IT or MCA with minimum 60% aggregate. |
 | **Pattern** | **CBT Only — NO INTERVIEW!** Selection based solely on CBT score. (Aim for AIR 1). |
 | **CBT Structure** | 3 hours (one sitting). No penalty for wrong answers.<br>• Paper-I (100 marks): GK, Reasoning, Numerical Ability, English.<br>• Paper-II (100 marks): Professional Knowledge (CS/IT Domain). |
-| **Action** | **Submit application on coalindia.in** |
+| **Priority** | **HIGH** |
 
-### B. National Fertilizers Limited (NFL) -- Management Trainee (IT)
+### 7. National Fertilizers Limited (NFL) -- Management Trainee (IT)
 | Field | Details |
 |-------|---------|
-| **Last Date** | **12 June 2026** |
+| **Date** | **11 July 2026 (Saturday)** *(tentative; awaiting admit card / official notice)* |
+| **Exam City** | **Bengaluru** *(tentative; awaiting admit card / official notice)* |
+| **Status** | **APPLIED (12 June 2026)** |
 | **Vacancies** | **1 vacancy** (OBC-NCL Backlog!) — Outstanding opportunity for you! |
 | **Eligibility** | Regular B.Tech/B.E./B.Sc. Engg in CSE/IT or regular MCA with minimum 60% aggregate. |
 | **Age Limit** | 27 years + 3 years relaxation (OBC-NCL) = **30 years** as of cut-off date. |
 | **Pattern** | OMR Exam (80% weightage) + Personal Interview (20% weightage). No negative marking.<br>• OMR Exam: 150 questions (100 tech domain CS + 50 non-tech aptitude/GK) in 120 minutes. |
-| **Action** | **Submit application on nationalfertilizers.com** |
+| **Priority** | **HIGH** |
+
+### 8. UPPSC Polytechnic Lecturer -- Computer Science
 
 ---
 
@@ -110,13 +120,14 @@
 ## Tracked / Upcoming Targets
 
 ### IFFCO -- Graduate Engineer Trainee (GET)
-- **Status**: **ACTIVE TRACK / PENDING EXAM**. Form submitted. Exam dates for preliminary CBT (own device) and final CBT (controlled) are yet to be announced. To be prepared intensively starting post-June super-sprints.
+- **Status**: **ACTIVE TRACK / ASSESSMENT SCHEDULED**. Preliminary online assessment (open environment) scheduled on **30 June 2026, 5:15 PM**. Final online test (controlled environment) dates are still awaited.
 
 ---
 
 ## Priority Queue (Immediate 10-Day Timeline)
 
-1. **Form Filling: Balmer Lawrie** — Completed (Applied on 10 June 2026)
-2. **Form Filling: Coal India Limited (CIL)** — Deadline Extended to 21 June 2026 (Filling Today!)
-3. **Form Filling: NFL** — Deadline 12 June 2026 (URGENT TOMORROW)
-4. **BSNL SET Exam** — Scheduled for 05 July 2026
+1. **IFFCO GET (CS) — Preliminary Online Assessment (Home)** — 30 June 2026, 5:15 PM
+2. **BSNL SET Exam** — 05 July 2026
+3. **NFL MT (IT) Exam** — 11 July 2026, Bengaluru *(tentative; awaiting admit card / official notice)*
+4. **CIL MT (Systems) Exam** — Awaiting date (keep Paper-I + Paper-II warm)
+5. **CNP Nashik Supervisor (IT) Exam** — Awaiting date

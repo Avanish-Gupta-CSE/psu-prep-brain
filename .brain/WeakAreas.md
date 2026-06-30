@@ -18,6 +18,16 @@ Target: be able to answer **basic** questions fast under short panel timing (int
 | Computer Networks | TCP vs UDP, handshake, DNS, HTTP vs HTTPS/TLS, NAT, common ports | `MSTC/TECHNICAL-QUESTION-BANK.md` + “7-minute lightning mode” | [Neso Academy — Computer Networks playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&feature=shared) | (use the MSTC Q-bank; add subnetting only if asked) |
 | DSA | Big‑O talk, stack vs queue, hashing collisions, BFS vs DFS, BST basics | `MSTC/TECHNICAL-QUESTION-BANK.md` + “7-minute lightning mode” | [Abdul Bari — DSA playlist](https://www.youtube.com/playlist?list=PL03of0rPCur_NZ9Rr4w1a5RDMU2qegBQl&cbrd=1&ucbcb=1) | (use the MSTC Q-bank; keep it basic) |
 
+### UCO Bank Final Interview (17 June 2026) — Fast Recall Gaps (ACTIVE)
+
+- **JRE vs JDK vs JVM**: 30-second definition + relationship (no hesitation)
+- **Payment gateway framing**: 60-second PG vs direct-integration pros/cons (control vs speed vs ops/compliance)
+- **Java threading**: Thread/Runnable/Executors + basic synchronization vocabulary
+
+Remediation (10 min/day, 7 days):
+- Speak answers aloud (5 repeats each), then do 2 random-order retakes.
+- Source: `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`
+
 ### From GATE 2026 (CS: 21/100, DA: 28/100)
 
 The GATE scores indicate broad weakness across the CS syllabus. Based on typical GATE question distribution and a score of 21, the following areas likely need the most work:

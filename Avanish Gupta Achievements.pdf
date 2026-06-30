@@ -1,0 +1,596 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 5032 >>
+stream
+BT
+/F2 16 Tf
+1 0 0 1 50.00 782.00 Tm
+(Avanish Gupta Achievements) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 757.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 747.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 737.00 Tm
+(ReservesAI) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 718.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 712.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 702.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 702.00 Tm
+(Owned the Test Harness capability end-to-end to validate document) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 688.00 Tm
+(classification at scale \(repeatable runs, job history, clear accuracy) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 674.00 Tm
+(reporting, and downloadable results\), enabling faster and safer iteration.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 660.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 660.00 Tm
+(Built an internal accelerator tool for classification experimentation to) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 646.00 Tm
+(shorten the feedback loop for improving classification strategies.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 632.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 632.00 Tm
+(Co-shaped the classification and extraction approach with the team to ensure) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 618.00 Tm
+(consistent outcomes.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 604.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 604.00 Tm
+(Explored an early feasibility POC for model-based classification and shared) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 590.00 Tm
+(learnings with the team through ongoing knowledge-sharing sessions on practical) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 576.00 Tm
+(AI/ML topics.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 562.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 552.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 542.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 532.00 Tm
+(Security Vulnerabilities Fixes) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 513.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 507.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 497.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 497.00 Tm
+(Took ownership to resolve security vulnerabilities across repositories under) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 483.00 Tm
+(our team's ownership.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 469.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 469.00 Tm
+(Drove remediation work through completion \(implementation, verification, and PR) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 455.00 Tm
+(closure\), reducing the outstanding backlog and strengthening our security) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 441.00 Tm
+(posture.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 427.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 427.00 Tm
+(Coordinated across teams as needed to unblock dependencies and keep remediation) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 413.00 Tm
+(work moving without disrupting delivery.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 399.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 389.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 379.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 369.00 Tm
+(FreddieMac Workflow - Kong Migration) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 350.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 344.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 334.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 334.00 Tm
+(Contributed to migrating FreddieMac services to Kong, supporting the transition) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 320.00 Tm
+(from legacy gateway definitions to Kong-based routing/configuration and) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 306.00 Tm
+(improving standardization.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 292.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 292.00 Tm
+(Supported end-to-end integration readiness during the migration to ensure) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 278.00 Tm
+(stable behavior across the workflow.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 264.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 264.00 Tm
+(Ramped up quickly on the FreddieMac workflow end-to-end, enabling timely) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 250.00 Tm
+(contribution to production issues when needed.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 236.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 226.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 216.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 206.00 Tm
+(DMSUI) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 187.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 181.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 171.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 171.00 Tm
+(Contributed to email generation capabilities, improving operational workflows) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 157.00 Tm
+(and downstream communication.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 143.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 143.00 Tm
+(Delivered end-to-end support for bulk operations \(Bulk Update / Bulk Edit /) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 129.00 Tm
+(Bulk Delete\), improving efficiency for high-volume operational workflows.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 115.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 115.00 Tm
+(Partnered with the team to stabilize and refine the flow, addressing issues) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 101.00 Tm
+(discovered during testing and rollout.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 87.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 77.00 Tm
+() Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2753 >>
+stream
+BT
+/F1 6 Tf
+1 0 0 1 50.00 782.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 772.00 Tm
+(Cashmovement) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 753.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 747.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 737.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 737.00 Tm
+(Contributed to Beneficiary Address feature development and supported the team) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 723.00 Tm
+(with early-stage enhancements and fixes.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 709.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 699.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 689.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 679.00 Tm
+(Trainings, POCs, and Knowledge Sharing) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 660.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 654.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 644.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 644.00 Tm
+(Attended internal trainings and self-upskilled on RAG, Ollama, MCP, and Cursor.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 630.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 630.00 Tm
+(Utilized Cursor AI to build POCs, MCP servers, and supporting devtools that) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 616.00 Tm
+(helped speed up development workflows.) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 602.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 602.00 Tm
+(Conducted knowledge-sharing sessions on practical AI/ML topics to improve team) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 588.00 Tm
+(capability.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 574.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 564.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 554.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 544.00 Tm
+(Recognition) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 525.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 519.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 509.00 Tm
+(-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 509.00 Tm
+(Awarded with Hi5 Recognition Award \(27 March 2025\) within my first year of) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 64.00 495.00 Tm
+(contributing to the organization.) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 481.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 471.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 461.00 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+1 0 0 1 50.00 451.00 Tm
+(Collaboration & Communication) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 432.00 Tm
+() Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 426.00 Tm
+() Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 416.00 Tm
+(Additionally, I collaborated with cross-functional teams by proactively providing) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 402.00 Tm
+(support when needed. I ensured stakeholder alignment through consistent updates) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 388.00 Tm
+(and context-sharing, helping bridge gaps across workstreams \(including time-) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50.00 374.00 Tm
+(sensitive items such as security remediation\).) Tj
+ET
+BT
+/F1 6 Tf
+1 0 0 1 50.00 360.00 Tm
+() Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000000399 00000 n 
+0000000496 00000 n 
+0000000598 00000 n 
+0000005681 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+8485
+%%EOF

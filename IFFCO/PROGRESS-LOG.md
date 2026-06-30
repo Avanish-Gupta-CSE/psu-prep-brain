@@ -2,6 +2,16 @@
 
 ## Baseline Entry
 
+### 30 Jun 2026
+- Status: Official practice exam taken. Verified actual portal layout and constraints.
+- Main shift: Backtracking is allowed, 100 questions in 60 minutes. Upgrading simulator to match the official portal's look, feel, and features (system check, dashboard, split layout, navigator grid, flag, clear).
+- Next action: Run full mocks on the updated simulator to build muscle memory for the interface before the 5:15 PM exam today.
+
+### 29 Jun 2026
+- Status: IFFCO preliminary online assessment scheduled for `GET — Computer Science` on `30 Jun 2026, 05:15 PM` (email confirmation).
+- Main shift: hard pivot to speed + accuracy training under Next-only / no-back style constraints.
+- Next action: finish local simulator + run 2 full mocks today; lock device + internet readiness; watch for the assessment link/instructions email.
+
 ### 24 Apr 2026
 - Status: active notification reset to `GET 2026`; previous IT-specific notice is obsolete for planning
 - Application: live, deadline visible as `30 Apr 2026`

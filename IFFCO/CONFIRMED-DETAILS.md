@@ -23,6 +23,25 @@
 | Language | Hindi and English |
 | Apply by | `30 Apr 2026` |
 
+## Confirmed From Email (Online Assessment Scheduling)
+
+| Field | Detail |
+|------|--------|
+| Assessment | Online Assessment (preliminary stage) |
+| Role | Graduate Engineer Trainee (GET) — Computer Science |
+| Date | `30 Jun 2026` |
+| Time | `05:15 PM` |
+| Notes | Detailed instructions + assessment link to be shared separately (as per email). |
+
+## Confirmed From Mock / Practice Exam (30 Jun 2026)
+
+| Field | Detail |
+|------|--------|
+| Assessment Pattern | 100 questions in 60 minutes (1 hour) |
+| Backtracking | Fully supported (Previous button, Navigator sidebar grid to jump directly to questions) |
+| Question States | Answered (Green), Flagged (Orange), Current (Teal border), Unattempted (White/Grey) |
+| Features | Flag for Review, Clear Answer, Live Webcam Monitoring (System Check required before start) |
+
 ## Confirmed From The Live Application Form
 
 - The active application form is for `Graduate Engineer Trainee - 2026`.
@@ -33,6 +52,6 @@
 
 ## Still Unclear
 
-- Exact dates for the preliminary and final tests
+- Final online test (controlled environment) date and centre instructions
 - Exact syllabus and mark distribution for each test stage
 - Whether the preliminary test includes aptitude beyond discipline fundamentals

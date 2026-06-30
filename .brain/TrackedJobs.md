@@ -29,8 +29,8 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Website**: `stpi.in` / `nielit.gov.in`
 
 ### 4. UCO Bank -- Software Developer in JMGS-I
-* **Status**: **GD & Document Verification (DV) Aced on 01 June 2026** (Bangalore Zonal Office). Stood out by arguing "Against" the freelance economy topic. 
-* **Next Event**: Awaiting GD results for shortlisting to Personal Interview (if applicable) or final merit list.
+* **Status**: **Interview Call Received! Final Round Interview on 17 June 2026 (09:30 AM)** at Bangalore Zonal Office (via Video Conference).
+* **Next Event**: Final Round Interview.
 * **Website**: `ucobank.com/careers`
 
 ### 5. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
@@ -43,6 +43,16 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Status**: **Application Submitted on 10 June 2026**.
 * **Next Event**: Announcement of CBT exam date.
 * **Website**: `balmerlawrie.com/careers`
+
+### 7. Coal India Limited (CIL) -- Management Trainee (Systems)
+* **Status**: **Application Submitted on 11 June 2026**.
+* **Next Event**: Announcement of CBT exam date.
+* **Website**: `coalindia.in`
+
+### 8. National Fertilizers Limited (NFL) -- Management Trainee (IT)
+* **Status**: **Application Submitted on 12 June 2026**.
+* **Next Event**: Announcement of CBT exam date.
+* **Website**: `nationalfertilizers.com`
 
 ---
 
@@ -68,17 +78,7 @@ These are tracks where selection cycles have concluded and Avanish was not short
 
 These are immediate high-priority applications that must be filled strictly on their designated days.
 
-### 1. Coal India Limited (CIL) -- Management Trainee (Systems)
-* **Deadlines**: **21 June 2026 (06:00 PM)** (Extended from 11 June).
-* **Action Day**: **07 June 2026 (URGENT TODAY - Filling Now!)**.
-* **Vacancies**: **43 total (OBC-NCL: 11, UR: 19)**. **CBT Only — NO INTERVIEW!** Selection based solely on CBT score.
-* **Website**: `coalindia.in`
-
-### 2. National Fertilizers Limited (NFL) -- Management Trainee (IT)
-* **Deadlines**: **12 June 2026**.
-* **Action Day**: **12 June 2026 (URGENT TOMORROW)**.
-* **Vacancies**: **1 Vacancy (OBC-NCL Backlog!)**. OMR exam (80%) + Interview (20%).
-* **Website**: `nationalfertilizers.com`
+*(No active pending applications. All targeted forms have been successfully submitted!)*
 
 ---
 

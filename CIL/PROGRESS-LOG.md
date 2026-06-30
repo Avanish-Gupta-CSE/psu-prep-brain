@@ -51,6 +51,25 @@ Use this section to log each study session, what was covered, and your practice 
   * *Actual*: TBD
   * *Notes*: TBD
 
+#### June 10, 2026 (Wednesday)
+* **Form-Filling Block**:
+  * *Planned*: Submit Balmer Lawrie application.
+  * *Actual*: Completed and submitted successfully! ✅
+  * *Notes*: Fee payment completed.
+
+#### June 11, 2026 (Thursday)
+* **Form-Filling Block**:
+  * *Planned*: Submit Coal India Limited (CIL) MT (Systems) application.
+  * *Actual*: Active (Filling form details now) ⏳
+  * *Notes*: CIL deadline extended to June 21, 2026. Formulated and saved the final point-wise detailed work experience description (449 characters) to highlight key achievements and bypass pre-qualification date validation cleanly:
+    ```text
+    1. Berkadia: Recipient of HI5 Award within 1 year for exceptional work.
+    2. Developed ReservesAI (Azure Doc Intelligence and Azure Foundry) & DMS (Document Management System).
+    3. Designed secure, high-performance REST APIs with PostgreSQL databases and Elasticsearch.
+    4. Integrated Keycloak SSO & OpenFGA, and deployed microservices via CI/CD, Docker, and Kubernetes.
+    5. STMicroelectronics: SDE Intern. Built eRFP-NPI semiconductor app
+    ```
+
 ---
 
 ## 📝 Practice & Mock Test Tracker

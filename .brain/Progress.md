@@ -7,12 +7,75 @@
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
-| **Study Streak** | 0 logged study days (restart on 07 June 2026 after relapse reset) |
-| **Last Session** | 07 June 2026 -- Dopamine Crash Recovery & Sunday Reboot |
+| **Study Streak** | 0 logged study days (restart on 14 June 2026 after viral fever recovery) |
+| **Last Session** | 29 June 2026 -- IFFCO Home Assessment Scheduled |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Recovering, highly focused, and determined to reclaim momentum! |
+| **Overall Mood** | Sprint reset; urgent focus on IFFCO execution and speed under test constraints. |
 
 ## Session Log
+
+### Session 27 -- 30 June 2026 (IFFCO Portal Alignment & Mocks)
+- **Type:** Exam Update + Simulator Upgrade
+- **What happened:**
+  - Verified actual IFFCO CBT portal pattern from mock test screenshots: **100 questions in 60 minutes (1 hour)**.
+  - Confirmed backtracking, Clear Answer, Flag for Review, and Navigator grid are fully supported (not next-only/no-back).
+  - Upgraded the local simulator to match the official light-themed portal layout, including system check (webcam) and dashboard.
+  - Maintained the Mixed-sections and speed training elements.
+- **Topics covered:** CBT portal navigation, speed under 36s/question pressure, webcam/system check readiness.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** Time management across 100 questions.
+- **Next goals:** Run full mocks on the updated portal-accurate simulator; final revision before 5:15 PM exam today.
+
+### Session 26 -- 29 June 2026 (IFFCO Sprint Reset)
+- **Type:** Exam Update + Sprint Reset
+- **What happened:**
+  - Logged IFFCO GET (CS) preliminary online assessment schedule: **30 June 2026, 5:15 PM**.
+  - Recorded a 10-day low-output gap and restarted execution from a clean, test-focused plan.
+  - Started building a **practice-only** assessment simulator (Next-only, no-back, mixed sections) for speed training.
+  - Logged NFL MT (IT) exam date claim: **11 July 2026, Bengaluru** *(tentative; awaiting admit card / official notice)*.
+- **Topics covered:** Time-pressure strategy, exam constraints, high-yield CS recall blocks
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** Speed + accuracy under Next-only/no-back UX; time-per-question execution discipline
+- **Next goals:** Finish simulator and run 2 full mocks today; core revision; be ready for IFFCO assessment tomorrow.
+
+### Session 25 -- 19 June 2026 (Interview Debrief & Decision Readiness)
+- **Type:** UCO Bank Interview Retrospective + Decision Readiness Analysis
+- **What happened:**
+  - Logged the actual debrief of the UCO Bank JMGS-I final interview (questions asked, answers given, and handling of technical glitch).
+  - Completed a comprehensive, data-backed comparison of UCO Bank (JMGS-I) vs. Berkadia (Associate Software Engineer / promoted role) covering compensation, perks, career progression, work-life balance, and learning curves.
+  - Identified a small but repeatable gap: JRE vs JDK vs JVM definition clarity under pressure.
+- **Topics covered:** Banking payment flow framing, Java basics recall, motivation framing for PSU, corporate vs. PSU trade-offs, 12th Bipartite Settlement salary structure.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** JRE vs JDK vs JVM (definition + relationship)
+- **Next goals:** Track UCO Bank result/joining updates; prepare for potential selection; continue BSNL SET preparation.
+
+### Session 24 -- 17 June 2026 (Post-Interview)
+- **Type:** UCO Bank Final Interview Completion Log
+- **What happened:**
+  - Completed the UCO Bank JMGS-I Software Developer final interview (via VC at Bangalore Zonal Office).
+  - Started post-interview follow-ups and documentation tracking while awaiting result/joining updates.
+  - Initiated a structured promotion write-up draft for Berkadia (awards + ownership + impact), pending PR links and final metrics.
+- **Topics covered:** Post-interview admin, promotion write-up kickoff
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Track UCO Bank result/joining updates, finalize Berkadia promotion write-up with evidence, continue BSNL SET prep.
+
+### Session 23 -- 14 June 2026 (Evening)
+- **Type:** Viral Fever Recovery & UCO Bank Interview Call Log
+- **What happened:**
+  - Recovered from a severe bout of viral fever that caused a brief gap in communication.
+  - Confirmed the successful submission of both Coal India Limited (CIL) MT (Systems) and National Fertilizers Limited (NFL) MT (IT) application forms by their respective deadlines (June 11th and June 12th).
+  - Received the official Interview Call Letter for the **Final Round Interview for UCO Bank Software Developer in JMGS-I** scheduled for **June 17, 2026 (09:30 AM)** at the Bangalore Zonal Office.
+  - Formulated an intensive, high-yield 3-day interview preparation plan covering technical core concepts, system design, and banking/fintech domains.
+- **Topics covered:** CIL and NFL submission confirmation, UCO Bank interview call letter analysis, document checklist verification, 3-day strategic study plan.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** Banking domain terminology, Finacle/CBS architecture, digital banking security.
+- **Next goals:** Print and compile all required documents, execute the 3-day UCO Bank Interview Prep Plan, and excel in the final interview on Wednesday.
 
 ### Session 22 -- 11 June 2026 (Afternoon)
 - **Type:** Balmer Lawrie Submission & CIL MT Form Filling
