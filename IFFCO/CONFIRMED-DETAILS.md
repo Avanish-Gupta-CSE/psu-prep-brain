@@ -29,9 +29,9 @@
 |------|--------|
 | Assessment | Online Assessment (preliminary stage) |
 | Role | Graduate Engineer Trainee (GET) — Computer Science |
-| Date | `30 Jun 2026` |
+| Date | `30 Jun 2026` (CANCELLED due to technical issues) |
 | Time | `05:15 PM` |
-| Notes | Detailed instructions + assessment link to be shared separately (as per email). |
+| Notes | Cancelled on 30 June 2026 due to platform-wide technical issues. Revised date and time will be communicated by the examination team shortly. |
 
 ## Confirmed From Mock / Practice Exam (30 Jun 2026)
 

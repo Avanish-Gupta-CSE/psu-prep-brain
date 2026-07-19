@@ -1,79 +1,61 @@
-# CIL MT (Systems) — Progress Log
+# CIL MT (Systems) — Knowledge Gate Progress Log
 
-Use this file to track your lectures watched, topics completed, and practice sets solved. Update this file at the end of every study session.
+Use this file to track your progress on Sanchit Jain's Knowledge Gate course, your leaderboard rank, and your module scores. Update this file at the end of every study session.
 
 ---
 
-## 📈 Subject-Wise Completion Status
+## 🏆 Leaderboard & Overall Progress
 
-| Subject | Source | Lectures Completed | Practice Sets Solved | Status | Target Date |
-|---|---|:---:|:---:|:---:|:---:|
-| **TOC** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Active** | 14 June 2026 |
-| **Data Structures** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Active** | 12 June 2026 |
-| **Compiler Design** | YourPedia Live / Recorded | 0 / 15 | 0 / 5 | **Pending** | 21 June 2026 |
-| **Algorithms** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 21 June 2026 |
-| **DBMS** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 21 June 2026 |
-| **Digital Electronics** | YourPedia Recorded / GO Classes | 0 / 10 | 0 / 5 | **Pending** | 21 June 2026 |
-| **Operating Systems** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 28 June 2026 |
-| **COA** | YourPedia Recorded / GO Classes | 0 / 12 | 0 / 5 | **Pending** | 28 June 2026 |
-| **Computer Networks** | YourPedia Recorded / GO Classes | 0 / 15 | 0 / 5 | **Pending** | 12 July 2026 |
-| **Software Engineering** | YourPedia Recorded | 0 / 8 | 0 / 3 | **Pending** | 12 July 2026 |
-| **Web Technologies** | YourPedia Recorded | 0 / 6 | 0 / 3 | **Pending** | 12 July 2026 |
-| **Cyber Security & IT Act** | YourPedia Recorded / Self Study | 0 / 5 | 0 / 3 | **Pending** | 12 July 2026 |
-| **Linux Admin** | YourPedia Recorded / Self Study | 0 / 5 | 0 / 3 | **Pending** | 12 July 2026 |
-| **Aptitude** | YourPedia Recorded | 0 / 17 | 0 / 5 | **Active** | 14 June 2026 |
-| **Reasoning** | YourPedia Recorded | 0 / 12 | 0 / 5 | **Active** | 14 June 2026 |
-| **English** | YourPedia Recorded | 0 / 21 | 0 / 5 | **Active** | 14 June 2026 |
+| Metric | Value | Target | Status |
+| :--- | :---: | :---: | :---: |
+| **Current Rank** | **#163** / 418 | **#1** | Climbing 📈 |
+| **Current Score** | **25.03** / 100 | **100.00** | Active |
+| **Consistency Score** | **25** / 25 | **25** / 25 | Perfect 🔥 |
+| **Total Study Time** | **37m** | -- | Active |
+
+---
+
+## 📈 Subject-Wise Completion Status (Knowledge Gate Modules)
+
+| Module | Subject / Paper | Concept Videos | PYQs | Tests | Practice Qs | Module Score | Status |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | About Course | 0 / 100 | -- | -- | -- | **0.00** / 100 | Pending |
+| **2** | Paper-2 \| Programming & DS | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **3** | Paper-2 \| Databases / DBMS & SQL | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **4** | Paper-2 \| Algorithms | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **5** | Paper-2 \| Computer Networks & Security | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **6** | Paper-2 \| Digital Logic | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **7** | Paper-2 \| Operating System | 0.8 / 26.7 | 0.3 / 40 | 0 / 20 | 0 / 13.3 | **1.06** / 100 | **Active** |
+| **8** | Paper-2 \| Theory of Computation | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **9** | Paper-2 \| COA | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **10** | Paper-2 \| Compiler Design | 0 / 33.3 | 0 / 50 | -- | 0 / 16.7 | **0.00** / 100 | Pending |
+| **11** | Paper-1 \| General Awareness | 0 / 33.3 | 0 / 50 | -- | 0 / 16.7 | **0.00** / 100 | Pending |
+| **12** | Paper-1 \| Logical Reasoning | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **13** | Paper-1 \| Quantitative Aptitude | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **14** | Paper-1 \| English | 0 / 26.7 | 0 / 40 | 0 / 20 | 0 / 13.3 | **0.00** / 100 | Pending |
+| **15** | Coal India Previous Year Paper | -- | -- | 0 / 100 | -- | **0.00** / 100 | Pending |
+| **16** | Engineering Mathematics | 0 / 33.3 | 0 / 50 | -- | 0 / 16.7 | **0.00** / 100 | Pending |
 
 ---
 
 ## 📅 Chronological Study Log
 
-Use this section to log each study session, what was covered, and your practice results.
+### July 2026 (The Leaderboard Climb)
 
-### Week 1 (June 7 - June 14, 2026)
-
-#### June 7, 2026 (Sunday Reboot)
-* **Study Block 1 (07:45 AM - 11:30 AM)**:
-  * *Planned*: Start Theory of Computation (TOC) - Finite Automata & basic DFA design.
-  * *Actual*: TBD
-  * *Notes*: TBD
-* **Form-Filling Block (11:30 AM - 01:00 PM)**:
-  * *Planned*: Submit Balmer Lawrie & CIL applications.
-  * *Actual*: TBD
-  * *Notes*: TBD
-* **Study Block 2 (04:30 PM - 07:30 PM)**:
-  * *Planned*: Deepen TOC DFA design + Percentages diagnostic test.
-  * *Actual*: TBD
-  * *Notes*: TBD
-* **Study Block 3 (08:30 PM - 10:30 PM)**:
-  * *Planned*: Practice DFA design PYQs on the walking pad.
-  * *Actual*: TBD
-  * *Notes*: TBD
-
-#### June 10, 2026 (Wednesday)
-* **Form-Filling Block**:
-  * *Planned*: Submit Balmer Lawrie application.
-  * *Actual*: Completed and submitted successfully! ✅
-  * *Notes*: Fee payment completed.
-
-#### June 11, 2026 (Thursday)
-* **Form-Filling Block**:
-  * *Planned*: Submit Coal India Limited (CIL) MT (Systems) application.
-  * *Actual*: Active (Filling form details now) ⏳
-  * *Notes*: CIL deadline extended to June 21, 2026. Formulated and saved the final point-wise detailed work experience description (449 characters) to highlight key achievements and bypass pre-qualification date validation cleanly:
-    ```text
-    1. Berkadia: Recipient of HI5 Award within 1 year for exceptional work.
-    2. Developed ReservesAI (Azure Doc Intelligence and Azure Foundry) & DMS (Document Management System).
-    3. Designed secure, high-performance REST APIs with PostgreSQL databases and Elasticsearch.
-    4. Integrated Keycloak SSO & OpenFGA, and deployed microservices via CI/CD, Docker, and Kubernetes.
-    5. STMicroelectronics: SDE Intern. Built eRFP-NPI semiconductor app
-    ```
+#### 1 July 2026 (Wednesday - WFO Day)
+- **Morning Block (5:30 AM - 8:30 AM)**:
+  - *Planned*: Module 7 (Operating Systems) Concept Videos & PDF Notes (Process Management, CPU Scheduling).
+  - *Actual*: TBD
+  - *Notes*: TBD
+- **Evening Block (8:30 PM - 11:00 PM)**:
+  - *Planned*: Module 7 (Operating Systems) PYQs & Practice Questions.
+  - *Actual*: TBD
+  - *Notes*: TBD
 
 ---
 
 ## 📝 Practice & Mock Test Tracker
 
-| Date | Test Type | Subject / Topic | Questions Attempted | Score / Accuracy | Weaknesses Identified |
-|---|---|---|:---:|:---:|---|
-| | | | | | |
+| Date | Test Type | Subject / Topic | Questions Attempted | Score / Accuracy | Leaderboard Points Earned | Weaknesses Identified |
+| :---: | :--- | :--- | :---: | :---: | :---: | :--- |
+| **01 Jul** | Baseline | Overall Portal Status | -- | **25.03** / 100 | **+25.03** | Baseline rank established at #163. |

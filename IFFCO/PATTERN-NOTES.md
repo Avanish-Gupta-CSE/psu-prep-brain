@@ -4,7 +4,7 @@
 
 - The active advertisement is for `Graduate Engineer Trainee (GET) - 2026`.
 - There is a `preliminary` online test in an open environment using the candidate's own laptop / computer and internet.
-- The preliminary online assessment for `GET — Computer Science` is scheduled on **30 Jun 2026, 05:15 PM** (email confirmation).
+- The preliminary online assessment for `GET — Computer Science` scheduled on **30 Jun 2026, 05:15 PM** was **CANCELLED** due to platform-wide technical issues. A revised schedule is awaited.
 - Shortlisted candidates from the preliminary stage will appear for a `final` online test in a controlled environment at designated centres.
 - Candidates shortlisted on the basis of the online test will be called for personal interview.
 - The application form and advertisement do not expose a detailed written syllabus on the public page.

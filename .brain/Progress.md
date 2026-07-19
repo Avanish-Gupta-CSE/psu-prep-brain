@@ -6,13 +6,117 @@
 |-------|-------|
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
-| **MSTC Status** | Interview Completed on 21 May 2026 (Awaiting Final Merit List) |
-| **Study Streak** | 0 logged study days (restart on 14 June 2026 after viral fever recovery) |
-| **Last Session** | 29 June 2026 -- IFFCO Home Assessment Scheduled |
+| **MSTC Status** | Not Selected (Merit List Published July 2026) |
+| **Study Streak** | 1 logged study day (restart on 12 July 2026 after UCO Bank Selection) |
+| **Last Session** | 18 July 2026 -- Delhi Arrival, MSTC Outcome & STPI 12-Hour Final Sprint |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Sprint reset; urgent focus on IFFCO execution and speed under test constraints. |
+| **Overall Mood** | Fired-up, deeply motivated, and laser-focused. Despite a temporary setback in MSTC and negative comments from skeptics, Avanish has channeled his emotions into a powerful drive to prove them wrong. He is locked in for a high-intensity 12-hour final sprint to crack the STPI Scientist 'B' interview. |
 
 ## Session Log
+
+### Session 33 -- 18 July 2026 (Delhi Arrival, MSTC Outcome & STPI 12-Hour Final Sprint)
+- **Type:** Travel Log, Strategic Alignment & Final Sprint
+- **What happened:**
+  - Traveled from Bengaluru to New Delhi. Landed at 11:00 AM, checked into the hotel by 12:30 PM.
+  - Received the final merit list for **MSTC MT (Systems)** and logged the outcome of **Not Selected**.
+  - Faced demotivating comments from skeptics mocking the UCO Bank selection and questioning the potential of cracking STPI or finding long-term success in government roles.
+  - Channeled all negative emotions and setbacks into a powerful, burning drive to prove the skeptics wrong and secure the STPI Scientist 'B' post.
+  - Copied and digitized all three high-yield interview preparation dossiers from the flight reading list into the workspace under `STPI/`.
+  - Formulated a high-intensity, structured **12-hour final sprint plan** starting immediately to cover STPI organizational schemes, core CS refinements, and HR/behavioral story banks.
+- **Topics covered:** Resilience, emotional channeling, high-yield document copying, final sprint scheduling.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Execute the 12-hour final sprint plan, master the "Avanish Strategy" pitches, and walk into the STPI HQ tomorrow morning with absolute confidence.
+
+### Session 32 -- 17 July 2026 (Internal Management Approval & Final HR Resignation)
+- **Type:** Milestone Log & Final HR Submission
+- **What happened:**
+  - Received full written approval from the entire Berkadia management chain—including **Nagendra (Manager)**, **Usha (Nagendra's Manager)**, and **Krishna Tunguntla (Director/VP)**—confirming their agreement to the requested **31 August 2026 release date**.
+  - Drafted and sent the final formal resignation email to **HR (Anushree)**, CC'ing Nagendra, Usha, Krishna Tunguntla, and personal email (`avanish.gupta.official1@gmail.com`).
+  - Explicitly stated management's approval of the release date in the email to ensure a seamless, friction-free HR approval process.
+  - Re-confirmed the "Notice Period Adjustment" strategy, stating readiness to clear any dues considering accumulated leaves.
+  - Formally pivoted 100% of mental energy to the STPI Scientist 'B' (Level-10) Interview on 19 July in New Delhi.
+- **Topics covered:** Separation processing, corporate hierarchy approvals, final exit submissions.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Pack documents, fly to New Delhi on 18 July, and crack the STPI interview on 19 July.
+
+### Session 31 -- 16 July 2026 (UCO Bank Written Extension Received & Berkadia Resignation Drafted)
+- **Type:** Milestone Log & Resignation Strategy
+- **What happened:**
+  - Received formal written confirmation from **UCO Bank HR (Chief Manager Avijit Mitra)** on 14 July 2026 approving a **60-day joining extension** from the original 20.07.2026 date.
+  - Drafted a highly professional and convincing resignation email to Berkadia management requesting a release date of **31 August 2026** (representing a 46-day active notice period), framing the departure as a "significant step in my career" with a Grade A Officer selection in the Government of India to maintain professional privacy and respect.
+  - Logged the final resignation email draft in `UCOBank/BERKADIA-RESIGNATION-EMAIL.md`.
+  - Proposed utilizing the accumulated **Privilege Leave (PL)** balance to adjust the **2-week notice period shortfall** (from 1 September to 16 September), or alternatively opting for a notice buyout.
+  - Aligned the transition plan to ensure a comprehensive 6-week handoff of ReservesAI, DMS, and CMS systems.
+- **Topics covered:** Notice period buyout, leave adjustment, transition planning, professional resignation etiquette.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Send the resignation email to Berkadia, obtain official release date confirmation, and execute the final STPI prep.
+
+### Session 31 -- 13 July 2026 (UCO Bank Extension Approved & STPI Pivot)
+- **Type:** Milestone Log & Strategic Pivot
+- **What happened:**
+  - Spoke to **UCO Bank HR** over a call; the **Extension of Joining Time has been verbally approved**!
+  - Written confirmation/revert on email is expected by today evening or tomorrow.
+  - Once the email is received, Avanish will formally submit his resignation at Berkadia to serve his 2-month notice period.
+  - The revised joining date for the next batch at UCO Bank is set for **September 2026** (no exact date fixed yet).
+  - This completely eliminates the need to travel to Kolkata on 20 July, removing all immediate joining pressure and career risk.
+  - Pivoted **100% of focus and energy to the STPI Scientist 'B' (Level-10) Interview** on 19 July in New Delhi.
+- **Topics covered:** Notice period negotiation, PSB HR policies, STPI preparation prioritization.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Receive written UCO Bank email confirmation, initiate Berkadia resignation, and execute the high-intensity STPI prep plan.
+
+### Session 30 -- 12 July 2026 (UCO Bank Selection & STPI Interview Double-Header)
+- **Type:** Strategic Planning & Milestone Log
+- **What happened:**
+  - Logged the monumental milestone of **🎉 SELECTION in UCO Bank as a Specialist Officer (Software Developer, JMGS-I)**!
+  - Recorded the **🔥 SHORTLIST for the STPI Scientist 'B' (Level-10 Central Govt) Interview** on 19 July 2026 in New Delhi with a CBT score of 96/150.
+  - Logged the completion of BSNL SET (5 July) and NFL MT (11 July - went very well!).
+  - Formulated the "Golden Week" double-header strategy (STPI interview on Sunday, 19 July in New Delhi, followed by immediate travel to Kolkata for UCO Bank joining on Monday, 20 July).
+  - Designed a **zero-risk strategy** to request a joining extension from UCO Bank HR and physically report for Document Verification (DV) on July 20 *without* resigning from Berkadia first, eliminating any career risk.
+  - Sent the formal Extension of Joining Time request email to UCO Bank HR (`hohrd.calcutta@uco.bank.in`) on 12 July 2026, requesting a 60-day extension to serve the required notice period at Berkadia.
+  - Set up the daily preparation schedule for the Balmer Lawrie CBT Exam (15 July) and the STPI Interview.
+- **Topics covered:** Notice period negotiation, PSB extension policies, STPI interview logistics, Balmer Lawrie exam syllabus, risk-mitigation strategies.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** Notice period transition risk, STPI-specific organizational schemes.
+- **Next goals:** Send UCO Bank HR extension request, prepare for Balmer Lawrie, and execute the daily study plan for STPI.
+
+### Session 29 -- 1 July 2026 (Knowledge Gate Course Integration & Gamified Plan)
+- **Type:** Course Integration + Gamified Plan
+- **What happened:**
+  - Integrated Sanchit Jain's newly purchased "Knowledge Gate" Coal India MT (CS) course into the study plan.
+  - Replaced low-quality Yourpedia/Margdarshan courses with Sanchit Jain's highly structured modules.
+  - Formulated a gamified leaderboard climb strategy to rise from Rank #163 to Rank #1 on the portal.
+  - Aligned the daily study blocks with the High-Intensity Grind (5.5 hours on WFO days, 10 hours on WFH/Weekends).
+  - Adopted the "Active Recall & Highlighting" strategy for the 13,403 pages of PDF notes to maximize speed and retention.
+  - Updated the day-by-day study schedule in `.brain/NextSteps.md` to align with specific Knowledge Gate modules (OS, DBMS, CN).
+- **Topics covered:** Knowledge Gate course structure, leaderboard point weightage, OS Module 7 planning.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Complete 100% of Module 7 (Operating Systems) Concept Videos, PYQs, and Tests by Sunday, 5 July.
+
+### Session 28 -- 30 June 2026 (IFFCO Cancellation & BSNL/NFL/CIL CS-Focused Reset)
+- **Type:** Exam Update + Study Plan Reboot
+- **What happened:**
+  - Logged the cancellation of IFFCO preliminary online assessment due to platform-wide technical issues.
+  - Rebooted the multi-exam sprint timeline to focus strictly on CS-related roles (NFL MT IT, IFFCO GET, and Coal India MT Systems).
+  - Marked BSNL SET (5 July) as a medium priority target to be taken purely for experience.
+  - Logged updated office constraints: Mon/Fri WFH, Tue/Wed/Thu WFO, with exactly **26 leaves remaining** (after excluding today's leave).
+  - Logged Friday, 3 July team outing to Wonderla (9 AM - 9 PM) as a zero-study recharge day.
+  - Formulated a high-yield, day-by-day core CS study schedule for NFL, IFFCO, and CIL.
+- **Topics covered:** NFL MT IT syllabus, Coal India MT Systems pattern, general aptitude shortcuts.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** Time management across 150 questions in 120 minutes (NFL pattern).
+- **Next goals:** Execute the day-by-day CS-focused sprint starting tomorrow (1 July); focus on DBMS, OS, CN, and DSA.
 
 ### Session 27 -- 30 June 2026 (IFFCO Portal Alignment & Mocks)
 - **Type:** Exam Update + Simulator Upgrade

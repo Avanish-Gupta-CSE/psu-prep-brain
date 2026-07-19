@@ -2,7 +2,17 @@
 
 ## Baseline Entry
 
-### 30 Jun 2026
+### 01 Jul 2026 (Knowledge Gate Course Integration)
+- Status: Integrated Sanchit Jain's Knowledge Gate CS modules to keep technical concepts sharp while IFFCO is on standby awaiting the revised schedule. Since the IFFCO GET (CS) exam is 100% technical, Sanchit's course is the perfect preparation engine.
+- Main shift: Align all core CS preparation with Knowledge Gate modules (OS, DBMS, CN, DSA).
+- Next action: Execute the daily study goals starting with Operating Systems today.
+
+### 30 Jun 2026 (Evening Update)
+- Status: Today's preliminary online assessment was **CANCELLED** by the IFFCO Recruitment Platform due to unforeseen technical issues affecting the examination platform.
+- Main shift: Pivot immediately to NFL MT (11 July) and Coal India Limited (CIL) MT (Systems) sprints to maintain momentum and flow. IFFCO is placed on standby awaiting the revised schedule. BSNL SET (5 July) will be taken purely for experience with zero deep ECE prep.
+- Next action: Begin CS-focused sprint tomorrow (1 July) targeting DBMS, OS, CN, and DSA.
+
+### 30 Jun 2026 (Morning Update)
 - Status: Official practice exam taken. Verified actual portal layout and constraints.
 - Main shift: Backtracking is allowed, 100 questions in 60 minutes. Upgrading simulator to match the official portal's look, feel, and features (system check, dashboard, split layout, navigator grid, flag, clear).
 - Next action: Run full mocks on the updated simulator to build muscle memory for the interface before the 5:15 PM exam today.
