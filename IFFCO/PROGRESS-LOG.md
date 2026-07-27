@@ -2,6 +2,11 @@
 
 ## Baseline Entry
 
+### 26 Jul 2026 (CBT 1 Recall & CBT 2 Sprint Activation)
+- Status: CBT 1 results out; advancing to **CBT 2 Preparation**. Expanded the verified technical CS recall question bank to **100 questions (Full 100% CBT 1 Question Set)** across DBMS, OS, Networks/Parallel Systems, DSA, Compilers/Architecture, Distributed Systems, Cloud, and Software Engineering/IR in `IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md`.
+- Main shift: Upgraded local CBT practice simulator (`IFFCO/simulator/question-bank.js`) with all **100 verified CBT 1 real exam questions** (`cbt1_001` through `cbt1_100`) for complete interactive practice.
+- Next action: Run rapid revision on weak areas identified in CBT 1 (Compilers, Distributed Transactions & Leader Election Raft, Memory Compaction & Thrashing, Cache Coherence Protocols, String Matching Aho-Corasick, Bellman-Ford, AVL vs B+ Trees, Bloom Filters) using shared-core notes and simulator practice.
+
 ### 01 Jul 2026 (Knowledge Gate Course Integration)
 - Status: Integrated Sanchit Jain's Knowledge Gate CS modules to keep technical concepts sharp while IFFCO is on standby awaiting the revised schedule. Since the IFFCO GET (CS) exam is 100% technical, Sanchit's course is the perfect preparation engine.
 - Main shift: Align all core CS preparation with Knowledge Gate modules (OS, DBMS, CN, DSA).

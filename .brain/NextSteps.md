@@ -1,26 +1,27 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: July 18, 2026
+Last updated: July 25, 2026
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
 
 ---
 
-## 🚨 Immediate Situation: Delhi Arrival, MSTC Outcome & STPI 12-Hour Final Sprint!
+## 🚨 Immediate Situation: UCO Bank Employment Verification Table Submitted & Berkadia Exit Secured!
 
-Avanish has arrived in New Delhi for the **STPI Scientist 'B' (Level-10 Gazetted-equivalent) Interview** on **19 July 2026** at 9:00 AM!
+Avanish has completed and submitted the follow-up **Employment Verification Table** (with Berkadia Employee Code `027592`) to UCO Bank HR (Chief Manager / Recruitment Cell) on **25 July 2026**, maintaining 100% data consistency with the initial submission on **23 July 2026**.
 
-### 📊 Key Updates & Emotional Pivot
-1. **UCO Bank Extension & Resignation (Success!)**: Written approval for a 60-day extension is locked in. Resignation at Berkadia with a 31 August 2026 release date has been fully approved by the management chain and submitted to HR. This completely secures the downside risk!
-2. **MSTC MT (Systems) Outcome**: The final merit list has been published, and Avanish was **Not Selected**.
-3. **The Motivation Catalyst**: Following the MSTC outcome and some demotivating comments from skeptics mocking his UCO Bank selection and questioning his potential, Avanish has made a powerful psychological shift. He is channeling all frustration and disappointment into a burning, focused drive to prove the critics wrong by cracking the STPI interview.
-4. **The 12-Hour Final Sprint**: With approximately 12 hours remaining before the interview, Avanish is locked in for a high-intensity, structured final preparation sprint covering STPI organizational schemes, core CS technical refinements, and HR/behavioral story banks.
+### 📊 Key Updates & Current State
+1. **UCO Bank Background Verification (Completed 23 & 25 July 2026)**: Responded to UCO Bank HR with exact current employment details for Berkadia (Emp Code: 027592, DoJ: 26-06-2024, LWD: 31-08-2026) and attached official resignation approval proofs.
+2. **STPI Scientist 'B' Interview (Completed 19 July 2026)**: Delivered an outstanding, peer-level performance. Awaiting final results.
+3. **Berkadia Resignation (Fully Approved & Secured)**: Received formal HR confirmation from Anushree Sarkar on 20 July 2026 at 11:49 PM approving the requested early release date of **31 August 2026** in Workday.
+4. **Notice Shortfall & Recovery Negotiation**: Coordinating with Compensation partner, **Nagaraju**, to adjust the unserved notice period days against the accumulated **24 days of Privilege Leave (PL)** to ensure zero recovery dues.
+5. **UCO Bank Joining (September 2026)**: Securely backed by the approved 60-day extension and submitted verification documents. Awaiting final batch/venue details.
 
 ### 📅 Current Constraints & Parameters
 - **Leaves Count**: **26 working days remaining** (24 days Privilege Leave, 2 days Casual Leave).
-- **Notice Period at Berkadia**: 2 months. Resignation submitted with a requested release date of 31 August 2026.
-- **Target**: STPI Scientist 'B' (OBC-NCL: 1 seat, 10 candidates shortlisted).
+- **Notice Period at Berkadia**: Resignation finalized with a confirmed release date of 31 August 2026.
+- **Target**: STPI Scientist 'B' (Awaiting Results) | UPPSC Polytechnic Lecturer (06 Sept 2026).
 
 ### 📅 The Master Timeline (June - September 2026)
 
@@ -32,7 +33,7 @@ Avanish has arrived in New Delhi for the **STPI Scientist 'B' (Level-10 Gazetted
 | **05 July** | Sunday | **BSNL SET Exam** | CBT Exam. Taken purely for experience. | ✅ COMPLETED |
 | **11 July** | Saturday | **NFL MT (IT) Exam** | CBT Exam in Bengaluru. Went very well! | ✅ COMPLETED |
 | **15 July** | Wednesday| **Balmer Lawrie Exam** | CBT Exam (100 Qs, 90 mins). | ✅ COMPLETED |
-| **19 July** | Sunday | **STPI Scientist 'B' Interview** | New Delhi (9:00 AM). Level-10 Dream Post. | 📅 PENDING (Tomorrow!) |
+| **19 July** | Sunday | **STPI Scientist 'B' Interview** | New Delhi (9:00 AM). Level-10 Dream Post. | ✅ COMPLETED |
 | **20 July** | Monday | **UCO Bank Joining (Deferred)** | Joining deferred to **September 2026** due to approved notice period extension. | 🟢 DEFERRED (Approved) |
 | **06 Sept** | Sunday | **UPPSC Polytechnic Lecturer** | Objective Exam (2 papers, CS + Hindi + GS). | 📅 PENDING |
 
@@ -40,15 +41,14 @@ Avanish has arrived in New Delhi for the **STPI Scientist 'B' (Level-10 Gazetted
 
 ## 🎯 Active Priorities & Action Plan
 
-### I. The 12-Hour High-Intensity STPI Final Sprint
-1. **Dossier Digitization**: Copied and formatted all three high-yield interview preparation dossiers from the flight reading list into the workspace under `STPI/` (`stpi_interview_prep.md`, `stpi_interview_dossier.md`, and `stpi_comprehensive_dossier.md`).
-2. **Revision Rotation**:
-   - **Block 1: STPI Schemes & Mandate**: Master NGIS, CHUNAUTI, GENESIS, LEAP AHEAD, STP/EHTP, and the 24 Centres of Entrepreneurship (CoEs) with a focus on Electropreneur Park (ESDM) and IMAGE (AI/VFX).
-   - **Block 2: Technical Refinement**: Deep-dive into core CS concepts (DBMS, OS, CN, DSA) and connect them to Berkadia (CQRS, Microservices, SQL indexing) and STMicroelectronics (hardware-software integration).
-   - **Block 3: HR & Story Banks**: Rehearse the self-introduction, "Why Government?", and the HI5 Award story using the "Avanish Strategy" pitches.
-3. **Logistics & Readiness**: Verify all original documents (B.Tech degree, marksheets, valid OBC-NCL certificate, experience letters, call letter, and ID) are organized in the folder.
+### I. Berkadia Transition & Handover (Active Notice Period)
+1. **Flawless Handoff**: Ensure a comprehensive, high-quality transition of ReservesAI, DMS, and CMS systems to designated team members before 31 August.
+2. **Exit Clearances**: Coordinate with HR (Anushree) to complete all exit formalities, asset returns, and final settlement processing.
 
-### II. Post-Interview Transition (Next Week)
+### II. PSU Exam Maintenance Track
+1. **UPPSC Polytechnic Lecturer (06 Sept 2026)**: Re-establish a lightweight study routine focusing on Computer Science core, Hindi, and General Studies (GS) once settled back in Bengaluru.
+2. **STPI Results Monitoring**: Keep a close watch on the official STPI portal for the publication of the final merit list.
+
 1. **Return to Bengaluru**: Fly back on Sunday evening, 19 July.
 2. **Berkadia Exit & Handoff**: Resume active notice period at Berkadia on Monday, 20 July, ensuring a flawless handover of ReservesAI and other deliverables.
 3. **UCO Bank HR Coordination**: Monitor email for the rescheduled September joining batch details.

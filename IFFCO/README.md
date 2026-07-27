@@ -10,6 +10,7 @@
 ## How This Folder Works
 
 - Use `CONFIRMED-DETAILS.md` for active-advertisement and application-form facts.
+- Use `CBT1-QUESTIONS-AND-ANSWERS.md` for verified CBT 1 recall questions & answers (Technical CS Core).
 - Use `STACK-GAP-ANALYSIS.md` to map the active GET track against `Resume-Berkadia.tex`.
 - Use `ONE-MONTH-PLAN.md` as the working schedule until the test dates are published.
 - Use `PATTERN-NOTES.md` for limited, clearly marked inferences only.

@@ -8,11 +8,58 @@
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Not Selected (Merit List Published July 2026) |
 | **Study Streak** | 1 logged study day (restart on 12 July 2026 after UCO Bank Selection) |
-| **Last Session** | 18 July 2026 -- Delhi Arrival, MSTC Outcome & STPI 12-Hour Final Sprint |
+| **Last Session** | 25 July 2026 -- UCO Bank Employee Code & Employment Verification Table Submitted |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Fired-up, deeply motivated, and laser-focused. Despite a temporary setback in MSTC and negative comments from skeptics, Avanish has channeled his emotions into a powerful drive to prove them wrong. He is locked in for a high-intensity 12-hour final sprint to crack the STPI Scientist 'B' interview. |
+| **Overall Mood** | Confident, relaxed, and fully in control. Employment verification table with Employee Code (027592) submitted to UCO Bank HR. Berkadia release date of 31 August 2026 locked. Re-establishing daily study routine for UPPSC Polytechnic Lecturer and CIL MT. |
 
 ## Session Log
+
+### Session 36 -- 25 July 2026 (UCO Bank Employee Code Verification Table Submitted)
+- **Type:** Milestone Log & Background Verification Compliance
+- **What happened:**
+  - Received follow-up email from UCO Bank HR Recruitment Cell (Chief Manager / Recruitment Cell, Head Office) on 24 July 2026 requesting employee code and organization details in a prescribed 3-row table format.
+  - Finalized and sent the formal reply on 25 July 2026 submitting Berkadia Services India Private Limited with Employee Code `027592`.
+  - Maintained 100% data consistency with the 23 July submission by marking "Previous Organization 1 & 2" as NA.
+  - Provided correct personal contact details (`+91-8107432468`, Application ID: `7241178423`).
+  - Logged full email chain in `UCOBank/EMPLOYMENT-VERIFICATION-EMAIL.md` and synced `.brain/Progress.md` and `.brain/NextSteps.md`.
+- **Topics covered:** Background verification compliance, candidate data consistency, corporate onboarding procedures.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Finalize notice period PL recovery adjustment with Nagaraju, maintain active notice period handovers, and execute UPPSC Polytechnic Lecturer study routine.
+
+### Session 35 -- 23 July 2026 (UCO Bank Employment Information Formally Submitted)
+- **Type:** Milestone Log & Verification Compliance
+- **What happened:**
+  - Received official communication from UCO Bank HR Recruitment Cell (Chief Manager Avijit Mitra) requesting employment details and supporting documents for background verification.
+  - Filled and submitted the prescribed table with exact current employment data for Berkadia Services India Pvt. Ltd. (DoJ: 26-06-2024, LWD: 31-08-2026, Tentative Relieving Date: 11-09-2026).
+  - Correctly marked "Previous Organization" as NA across all rows in compliance with UCO Bank SO recruitment rules (App ID: 7241178423), as pre-qualification internships (STMicroelectronics) were excluded from post-qualification criteria.
+  - Attached official HR resignation acceptance email proof from Anushree Sarkar, Berkadia Appointment Letter, and latest payslip.
+  - Included verified HR contact emails (`anushree.sarkar@berkadia.com`, `Saugat.Roy@berkadia.com`, `HumanResources-India@berkadia.com`) and contact numbers (`+91-4066417148`, `+91-9849338796`).
+  - Logged update in `.brain/NextSteps.md` and `.brain/Progress.md`.
+- **Topics covered:** Background verification compliance, post-qualification experience rules, F&F documentation.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Execute PL adjustment with Compensation partner Nagaraju, maintain active notice period handovers, and reboot UPPSC Polytechnic Lecturer & CIL MT study routine.
+
+### Session 34 -- 21 July 2026 (STPI Actual Interview Experience Logged & Berkadia Exit Secured)
+- **Type:** Milestone Log & Actual Interview Analysis
+- **What happened:**
+  - Attended the **STPI Scientist 'B' (Level-10 Gazetted-equivalent) Interview** in New Delhi on 19 July 2026.
+  - Out of 11 candidates called for the single OBC-NCL seat (10 normal, 1 physically handicapped), 2 were absent. Avanish was called last.
+  - While other candidates had very short, routine interviews with zero technical or HR questions, Avanish's interview lasted **10-12 minutes** and was a highly customized, peer-level discussion.
+  - Handled advanced questions on Warren Buffett/philanthropy, Design Thinking, ReservesAI architecture, Azure secure enterprise workspaces, token-based AI costs, and national AI strategies (Sarvam, AI4Bharat, Ananta Cloud integration).
+  - Maintained absolute focus and fluency despite intentional panel distractions (whispering/side-conversations).
+  - Logged the complete word-by-word actual interview transcript and analysis in `STPI/ACTUAL-INTERVIEW-EXPERIENCE.md`.
+  - Traveled to Bareilly on the night of 19 July, met parents and sister, and worked online on Monday, 20 July.
+  - Received **formal, final HR confirmation** from Berkadia approving the requested early release date of **31 August 2026**, completely securing the transition timeline.
+  - Traveled back to Delhi overnight on 21 July and boarded a flight back to Bengaluru to return to office directly.
+- **Topics covered:** Actual interview logging, peer-level technical discussions, sovereign AI infrastructure, early release confirmation.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Complete the active notice period and handovers at Berkadia, maintain technical readiness, and await the final STPI merit list.
 
 ### Session 33 -- 18 July 2026 (Delhi Arrival, MSTC Outcome & STPI 12-Hour Final Sprint)
 - **Type:** Travel Log, Strategic Alignment & Final Sprint
