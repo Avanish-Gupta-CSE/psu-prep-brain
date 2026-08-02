@@ -2,6 +2,26 @@
 
 ## Baseline Entry
 
+### 01 Aug 2026 (CBT 1 Part 1 Q1–Q10 Practice + Notes Completed)
+- Status: Attempted **IFFCO CBT 1 — Part 1 (Q1–Q10: DBMS, Security & OS)** practice test.
+- Score: **4 / 10** | Attempted: **4 / 10** | Incorrect: **0** | Accuracy: **100%** | Unattempted: **6**
+- Output created: Extended `IFFCO/cbt1-notes.md` to cover **all Q1–Q10** with “why correct + when other options become correct” explanations.
+- Weak topics surfaced (unattempted): **2PC**, **CSE vs other optimizations**, **external fragmentation**, **AVL/self-balancing BST**, **virtual memory**, **firewall**.
+- Next action: Re-run Part 1 at speed (target 10/10 attempts), then continue Part 2 (Q11–Q20).
+
+### 30 Jul 2026 (IFFCO GET CBT 2 Hall Ticket Generated — Bengaluru Centre Confirmed!)
+- Status: **HALL TICKET GENERATED!** (Hall Ticket No: `1000 - 7311`).
+- Photo Fix: Resolved photo upload parsing issue (`PHOTO_UNREADABLE`) by cropping and processing profile photo to 350x450 JPEG (`Avanish_Photo_Studio.jpg`) and submitting directly via S3 `PUT /portal/me/photo`.
+- Centre Details: **Nivansys Technologies, eMerit, No. 1, Maruthi Complex, 2nd Floor, Opp. Post Office, RT Nagar, Bengaluru - 560032, Karnataka**.
+- Timing: **Sunday, 02 Aug 2026 | Reporting Time: 02:30 PM | Gates Close: 03:15 PM**.
+- Next action: Execute final 3 days of high-yield Knowledge Gate CIL CS modules + IFFCO CBT 1 100-Question bank speed runs.
+
+### 27 Jul 2026 (IFFCO GET CBT 2 Varanasi Target Activated & 6-Day Master Sprint)
+- Status: **IFFCO GET (CS) CBT 2 Confirmed for 02 August 2026 in Varanasi!**
+- Main shift: Activated an intensive 6-Day Master Sprint (27 July – 01 August) using Sanchit Jain's **Knowledge Gate CIL MT 16-Module Course** (from cloned repo `CoalIndiaLimited-PSU/`) to cover 100% of the technical CS and General Aptitude syllabus.
+- Question Bank Integration: Cross-referencing all 100 verified CBT 1 questions (`IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md`) during daily module practice.
+- Next action: Execute Day 1 (27 July WFH): Operating Systems (OS), Computer Networks Part 1 (OSI/TCP-IP, Subnetting, Routing), and Quantitative Aptitude (Percentages, Profit/Loss, Ratio, Time & Work).
+
 ### 26 Jul 2026 (CBT 1 Recall & CBT 2 Sprint Activation)
 - Status: CBT 1 results out; advancing to **CBT 2 Preparation**. Expanded the verified technical CS recall question bank to **100 questions (Full 100% CBT 1 Question Set)** across DBMS, OS, Networks/Parallel Systems, DSA, Compilers/Architecture, Distributed Systems, Cloud, and Software Engineering/IR in `IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md`.
 - Main shift: Upgraded local CBT practice simulator (`IFFCO/simulator/question-bank.js`) with all **100 verified CBT 1 real exam questions** (`cbt1_001` through `cbt1_100`) for complete interactive practice.

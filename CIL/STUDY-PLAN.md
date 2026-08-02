@@ -72,11 +72,15 @@ This study plan is designed to take you from your current state to **Rank 1** on
   - Focus: Lexical Analysis, Parsing, Syntax-Directed Translation, Code Generation.
 - **Milestone**: Complete TOC, COA, and Compiler Design modules. Climb to Top 10 on the leaderboard.
 
-### Week 5 (27 July - 31 July): Mathematics, General Awareness & PYPs
-- **Module 16: Engineering Mathematics**:
-  - Focus: Linear Algebra, Probability, Combinatorics, Mathematical Logic.
-- **Module 11 & 14: General Awareness & English**:
-  - Focus: Complete remaining non-technical videos and practice sets.
-- **Module 15: Coal India Previous Year Papers**:
-  - Focus: Solve all previous year paper tests under real exam conditions.
-- **Milestone**: Complete the entire course, solve all PYPs, and reach Rank 1 on the leaderboard.
+### ⚡ 6-Day Master Syllabus Sprint (27 July – 1 August 2026)
+
+To complete 100% syllabus coverage across all 16 Knowledge Gate modules in a high-yield, 6-day super-sprint:
+
+| Day | Date | Mode & Hours | Paper 2 (Technical CS Core) Focus | Paper 1 (Non-Tech) Focus | KG Modules Covered |
+| :---: | :---: | :---: | :--- | :--- | :---: |
+| **Day 1** | **27 Jul (Mon)** | WFH (10 hrs) | **Operating Systems (OS)** & **Computer Networks Part 1** (OSI/TCP-IP, CIDR Subnetting, Routing) | **Quantitative Aptitude** (Percentages, Profit/Loss, Ratio, Time & Work) | Modules 7, 5, 13 |
+| **Day 2** | **28 Jul (Tue)** | WFO (5.5 hrs) | **Computer Networks Part 2** (Transport/App Layers, Security) & **DBMS Part 1** (ER, Relational Model, SQL, Normalization) | **Logical Reasoning** (Syllogisms, Blood Relations, Coding, Series) | Modules 5, 3, 12 |
+| **Day 3** | **29 Jul (Wed)** | WFO (5.5 hrs) | **DBMS Part 2** (Transactions, ACID, Concurrency, Indexing/B+ Trees) & **DSA Part 1** (Arrays, Lists, Stacks, Queues, Trees, Heaps) | **General English** (Error Spotting, Prepositions, Vocab, Parajumbles) | Modules 3, 2, 14 |
+| **Day 4** | **30 Jul (Thu)** | WFO (5.5 hrs) | **Algorithms** (Greedy, DP, BFS/DFS, MST, Shortest Path) & **Digital Logic / COA** (Boolean, K-Maps, Mux, Pipelining, Cache) | **General Awareness & Coal Sector** (Polity, Current Affairs, CIL Facts) | Modules 4, 6, 9, 11 |
+| **Day 5** | **31 Jul (Fri)** | WFH (10 hrs) | **Theory of Computation (TOC)**, **Compiler Design**, **Software Engineering & Web Tech** | **Data Interpretation (DI)** & Non-Tech Full Practice Drills | Modules 8, 10, 1 |
+| **Day 6** | **01 Aug (Sat)** | Weekend (11 hrs) | **Engineering Mathematics** (Linear Algebra, Probability, Logic) & **Full 200-Q CBT Mock** | **CIL PYP Test (Module 15)** & Error Patching via Formula Cheat Sheets | Modules 16, 15 |

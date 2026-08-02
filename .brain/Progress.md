@@ -8,11 +8,51 @@
 | **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
 | **MSTC Status** | Not Selected (Merit List Published July 2026) |
 | **Study Streak** | 1 logged study day (restart on 12 July 2026 after UCO Bank Selection) |
-| **Last Session** | 25 July 2026 -- UCO Bank Employee Code & Employment Verification Table Submitted |
+| **Last Session** | 01 Aug 2026 -- IFFCO CBT 1 Part 1 (Q1–Q10) Notes Completed + Practice Score Log (4/10) |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Confident, relaxed, and fully in control. Employment verification table with Employee Code (027592) submitted to UCO Bank HR. Berkadia release date of 31 August 2026 locked. Re-establishing daily study routine for UPPSC Polytechnic Lecturer and CIL MT. |
+| **Overall Mood** | Tight and focused: patching unattempted CBT 1 concepts (2PC, optimizations, OS memory, firewall) before CBT 2 tomorrow. |
 
 ## Session Log
+
+### Session 39 -- 01 Aug 2026 (IFFCO CBT 1 Part 1 Q1–Q10 Notes Completed + Score Log)
+- **Type:** Study Log (CBT 1 Revision)
+- **What happened:**
+  - Completed **IFFCO CBT 1 — Part 1 (Q1–Q10: DBMS, Security & OS)** practice attempt (report saved in `IFFCO/CBToneRevision/`).
+  - Logged score: **4/10**, attempted **4/10**, accuracy **100%** (0 incorrect), unattempted **6**.
+  - Extended `IFFCO/cbt1-notes.md` to cover **all Q1–Q10** with “why correct + when other options become correct” explanations (skipped already-covered ones).
+- **Topics covered:** Update anomaly, MFA/2FA, DNS, 2PC, common subexpression elimination, external vs internal fragmentation, AVL/self-balancing BST, virtual memory, HAVING, firewall basics.
+- **Questions attempted:** 4 / 10
+- **Accuracy:** 4/4 = 100%
+- **Weak areas identified:** Distributed transactions (2PC), compiler optimizations (CSE vs others), OS memory management (fragmentation, VM), balanced trees (AVL), basic network security control (firewall).
+- **Next goals:** Run Part 1 again at speed (10/10 attempt) and immediately continue to Part 2 (Q11–Q20) with the same notes-first approach for unattempted questions.
+
+### Session 38 -- 30 July 2026 (IFFCO GET CBT 2 Hall Ticket Generated & Bengaluru Venue Locked)
+- **Type:** Milestone Log & Hall Ticket Generation
+- **What happened:**
+  - Resolved profile photo upload backend error (`PHOTO_UNREADABLE`) by cropping photo to 350x450 JPEG (`Avanish_Photo_Studio.jpg`) and submitting payload to `PUT /portal/me/photo`.
+  - Generated official **IFFCO GET Computer Science CBT 2 Admit Card / Hall Ticket** (Hall Ticket No: `1000 - 7311`).
+  - Confirmed local exam venue: **Nivansys Technologies, eMerit, No. 1, Maruthi Complex, 2nd Floor, Opp. Post Office, RT Nagar, Bengaluru - 560032, Karnataka**.
+  - Confirmed reporting time: **Sunday, 02 August 2026 at 02:30 PM (Gates close 03:15 PM)**.
+  - Updated all workspace memory files (`.brain/NextSteps.md`, `.brain/ExamTracker.md`, `.brain/Progress.md`, `IFFCO/PROGRESS-LOG.md`).
+- **Topics covered:** Admit card verification, local exam venue confirmation, profile photo sync.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Execute final 3-day sprint (29 July – 01 August) covering high-yield CS modules and IFFCO CBT 1 100-question practice runs on simulator.
+
+### Session 37 -- 27 July 2026 (IFFCO GET CBT 2 Target Activated & 6-Day Knowledge Gate Sprint)
+- **Type:** Milestone Log & Master Sprint Planning
+- **What happened:**
+  - Received confirmation for **IFFCO GET (CS) CBT 2 Exam on 02 August 2026 in Varanasi, UP**.
+  - Verified context from previous transcript session `4de2041c-9d13-440d-a9a5-06cce7958fb8.jsonl`: 100% of the CBT 1 question set (100 questions) is digitized in `IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md` and active in the local simulator (`IFFCO/simulator/app.js`).
+  - Cloned the reference repository `CoalIndiaLimited-PSU` (`https://github.com/Avanish-Gupta-CSE/CoalIndiaLimited-PSU.git`) into the workspace to align Sanchit Jain's Knowledge Gate CIL MT 16-Module course with the IFFCO CBT 2 syllabus.
+  - Formulated a high-yield **6-Day Master Sprint Plan (27 July – 01 August 2026)** covering OS, CN, DBMS, DSA, Algorithms, Digital Logic, COA, TOC, Compilers, SE, Math, and General Aptitude.
+  - Synced all updates across `.brain/NextSteps.md`, `.brain/ExamTracker.md`, `.brain/Progress.md`, and `IFFCO/PROGRESS-LOG.md`.
+- **Topics covered:** Master sprint scheduling, CBT 2 exam strategy, repository cloning, course syllabus mapping.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Execute Day 1 of the 6-Day Sprint (OS, CN Part 1, Quant percentages/ratios, and IFFCO CBT1 OS/CN questions).
 
 ### Session 36 -- 25 July 2026 (UCO Bank Employee Code Verification Table Submitted)
 - **Type:** Milestone Log & Background Verification Compliance

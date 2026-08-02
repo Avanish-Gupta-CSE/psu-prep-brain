@@ -1,89 +1,34 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: July 25, 2026
+Last updated: July 27, 2026
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
 
 ---
 
-## 🚨 Immediate Situation: UCO Bank Employment Verification Table Submitted & Berkadia Exit Secured!
+## 🚨 Immediate Priority: IFFCO GET (CS) CBT 2 Bengaluru 6-Day Master Sprint (27 July – 1 August 2026)
 
-Avanish has completed and submitted the follow-up **Employment Verification Table** (with Berkadia Employee Code `027592`) to UCO Bank HR (Chief Manager / Recruitment Cell) on **25 July 2026**, maintaining 100% data consistency with the initial submission on **23 July 2026**.
+Avanish is executing an intensive **6-Day Master Syllabus Sprint** to crack the **IFFCO GET (CS) CBT 2 Exam on 02 August 2026 in Bengaluru (RT Nagar)**. The sprint covers the full technical CS/IT syllabus + General Aptitude using Sanchit Jain's **Knowledge Gate 16-Module Course** (from `CoalIndiaLimited-PSU`) along with the 100% verified **IFFCO CBT 1 100-Question Bank** (`IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md`).
 
-### 📊 Key Updates & Current State
-1. **UCO Bank Background Verification (Completed 23 & 25 July 2026)**: Responded to UCO Bank HR with exact current employment details for Berkadia (Emp Code: 027592, DoJ: 26-06-2024, LWD: 31-08-2026) and attached official resignation approval proofs.
-2. **STPI Scientist 'B' Interview (Completed 19 July 2026)**: Delivered an outstanding, peer-level performance. Awaiting final results.
-3. **Berkadia Resignation (Fully Approved & Secured)**: Received formal HR confirmation from Anushree Sarkar on 20 July 2026 at 11:49 PM approving the requested early release date of **31 August 2026** in Workday.
-4. **Notice Shortfall & Recovery Negotiation**: Coordinating with Compensation partner, **Nagaraju**, to adjust the unserved notice period days against the accumulated **24 days of Privilege Leave (PL)** to ensure zero recovery dues.
-5. **UCO Bank Joining (September 2026)**: Securely backed by the approved 60-day extension and submitted verification documents. Awaiting final batch/venue details.
+### 📅 The 6-Day Master Execution Plan (27 July – 1 August 2026)
 
-### 📅 Current Constraints & Parameters
-- **Leaves Count**: **26 working days remaining** (24 days Privilege Leave, 2 days Casual Leave).
-- **Notice Period at Berkadia**: Resignation finalized with a confirmed release date of 31 August 2026.
-- **Target**: STPI Scientist 'B' (Awaiting Results) | UPPSC Polytechnic Lecturer (06 Sept 2026).
-
-### 📅 The Master Timeline (June - September 2026)
-
-| Date | Day | Event / Target | Key Actions | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **30 May** | Saturday | STPI Scientist B Exam | 150 Qs. 100% attempts. | ✅ COMPLETED |
-| **31 May** | Sunday | STPI MTSS ES-IV Exam | 150 Qs. 100% attempts. | ✅ COMPLETED |
-| **17 June**| Wednesday| **UCO Bank Final Interview** | Completed at Bangalore ZO (VC). | ✅ COMPLETED |
-| **05 July** | Sunday | **BSNL SET Exam** | CBT Exam. Taken purely for experience. | ✅ COMPLETED |
-| **11 July** | Saturday | **NFL MT (IT) Exam** | CBT Exam in Bengaluru. Went very well! | ✅ COMPLETED |
-| **15 July** | Wednesday| **Balmer Lawrie Exam** | CBT Exam (100 Qs, 90 mins). | ✅ COMPLETED |
-| **19 July** | Sunday | **STPI Scientist 'B' Interview** | New Delhi (9:00 AM). Level-10 Dream Post. | ✅ COMPLETED |
-| **20 July** | Monday | **UCO Bank Joining (Deferred)** | Joining deferred to **September 2026** due to approved notice period extension. | 🟢 DEFERRED (Approved) |
-| **06 Sept** | Sunday | **UPPSC Polytechnic Lecturer** | Objective Exam (2 papers, CS + Hindi + GS). | 📅 PENDING |
+| Day | Date | Mode & Hours | Paper 2 (Technical CS Core Focus) | Paper 1 (Non-Tech Focus) | KG Modules & IFFCO Practice |
+| :---: | :---: | :---: | :--- | :--- | :---: |
+| **Day 1** | **27 Jul (Mon)** | WFH (10 hrs) | **Operating Systems (OS)** & **Computer Networks Part 1** (OSI/TCP-IP, CIDR Subnetting, Routing) | **Quantitative Aptitude** (Percentages, Profit/Loss, Ratio, Time & Work) | Modules 7, 5, 13 + CBT1 OS/CN Qs |
+| **Day 2** | **28 Jul (Tue)** | WFO (5.5 hrs) | **Computer Networks Part 2** (Transport/App Layers, Security) & **DBMS Part 1** (ER, Relational Model, SQL, Normalization) | **Logical Reasoning** (Syllogisms, Blood Relations, Coding, Series) | Modules 5, 3, 12 + CBT1 DBMS Qs |
+| **Day 3** | **29 Jul (Wed)** | WFO (5.5 hrs) | **DBMS Part 2** (Transactions, ACID, Concurrency, Indexing/B+ Trees) & **DSA Part 1** (Arrays, Lists, Stacks, Queues, Trees, Heaps) | **General English** (Error Spotting, Prepositions, Vocab, Parajumbles) | Modules 3, 2, 14 + CBT1 DSA Qs |
+| **Day 4** | **30 Jul (Thu)** | WFO (5.5 hrs) | **Algorithms** (Greedy, DP, BFS/DFS, MST, Shortest Path) & **Digital Logic / COA** (Boolean, K-Maps, Mux, Pipelining, Cache) | **General Awareness & Agriculture/IFFCO Sector** (Polity, Current Affairs, IFFCO Facts) | Modules 4, 6, 9, 11 + CBT1 Algo Qs |
+| **Day 5** | **31 Jul (Fri)** | WFH (10 hrs) | **Theory of Computation (TOC)**, **Compiler Design**, **Software Engineering & Web Tech** | **Data Interpretation (DI)** & Non-Tech Full Practice Drills | Modules 8, 10, 1 + CBT1 Compiler/SE Qs |
+| **Day 6** | **01 Aug (Sat)** | Weekend (11 hrs) | **Engineering Mathematics** (Linear Algebra, Probability, Logic) & **Full 100-Q IFFCO CBT 2 Simulator Mock** | **CBT1 100-Q Full Speed Run** & Exam Prep | Modules 16, 15 + `IFFCO/simulator/` |
+| **EXAM** | **02 Aug (Sun)** | **Exam Day (2:30 PM)** | **🔥 IFFCO GET (CS) CBT 2 EXAM IN BENGALURU (RT Nagar)** | **Reporting: 02:30 PM (Gate Close 03:15 PM)** | **CRITICAL PRIMARY TARGET** |
 
 ---
 
-## 🎯 Active Priorities & Action Plan
+## 📊 Administrative & Handoff Status
 
-### I. Berkadia Transition & Handover (Active Notice Period)
-1. **Flawless Handoff**: Ensure a comprehensive, high-quality transition of ReservesAI, DMS, and CMS systems to designated team members before 31 August.
-2. **Exit Clearances**: Coordinate with HR (Anushree) to complete all exit formalities, asset returns, and final settlement processing.
-
-### II. PSU Exam Maintenance Track
-1. **UPPSC Polytechnic Lecturer (06 Sept 2026)**: Re-establish a lightweight study routine focusing on Computer Science core, Hindi, and General Studies (GS) once settled back in Bengaluru.
-2. **STPI Results Monitoring**: Keep a close watch on the official STPI portal for the publication of the final merit list.
-
-1. **Return to Bengaluru**: Fly back on Sunday evening, 19 July.
-2. **Berkadia Exit & Handoff**: Resume active notice period at Berkadia on Monday, 20 July, ensuring a flawless handover of ReservesAI and other deliverables.
-3. **UCO Bank HR Coordination**: Monitor email for the rescheduled September joining batch details.
-
-- **CBT Score**: 96/150 (Outstanding!).
-- **OBC-NCL Category**: 1 seat available. 10 candidates shortlisted. Highly competitive but extremely winnable.
-- **Travel Plan**: 
-  - Saturday, 18 July: Fly from Bengaluru to New Delhi.
-  - Sunday, 19 July (9:00 AM): Attend STPI Interview in New Delhi.
-  - Sunday, 19 July (Evening): Fly back from New Delhi to Bengaluru. (No need to travel to Kolkata on July 20 since the extension is approved!).
-
-### III. Daily Schedule & Prep Plan (12 July - 19 July 2026)
-
-- **Sun, 12 Jul (Weekend)**:
-  - *Action*: Send the straightforward UCO Bank HR extension request email.
-  - *Study*: Kick off STPI Interview preparation (Review Berkadia projects, CQRS, Microservices, and Java/Springboot core).
-- **Mon, 13 Jul (WFH)**:
-  - *Action*: Spoke to UCO Bank HR over call; extension verbally approved! Awaiting email confirmation.
-  - *Study*: Balmer Lawrie CBT Exam preparation (Aptitude shortcuts & General Engineering basics).
-- **Tue, 14 Jul (WFO)**:
-  - *Morning (5:30 AM - 8:30 AM)*: Core CS Revision (DBMS: Normalization, ACID, Indexing; OS: Process Management, Deadlocks).
-  - *Evening (8:30 PM - 11:00 PM)*: General Engineering formulas & Aptitude revision for Balmer Lawrie.
-- **Wed, 15 Jul (WFO - Leave Taken)**:
-  - *Day*: **Balmer Lawrie CBT Exam**. (Write with zero pressure, treat as a warm-up).
-  - *Evening*: STPI Interview Prep (Computer Networks: TCP/IP, OSI, Routing; DSA: Sorting, Trees, Graphs).
-- **Thu, 16 Jul (WFO)**:
-  - *Morning (5:30 AM - 8:30 AM)*: STPI-specific research (STPI schemes, NextGen ICoE, MeitY initiatives, software exports data).
-  - *Evening (8:30 PM - 11:00 PM)*: Berkadia project deep dive (REST APIs, PostgreSQL, Keycloak SSO, Docker, Kubernetes).
-- **Fri, 17 Jul (WFH)**:
-  - *Block 1 (8:00 AM - 12:00 PM)*: STPI Mock Interview (Self-recording and lightning drills).
-  - *Block 2 (2:00 PM - 5:00 PM)*: Final technical gap repair (Java multithreading, JVM/JRE/JDK, SQL query drills).
-  - *Block 3 (7:00 PM - 10:00 PM)*: Pack bags and organize all original documents + photocopies for STPI.
-- **Sat, 18 Jul (Travel Day)**:
-  - *Day*: Fly from Bengaluru to New Delhi.
-  - *Evening*: Light revision of formula sheets and STPI context notes in New Delhi. Early sleep!
-- **Sun, 19 Jul (STPI Interview Day)**:
-  - *Morning (9:00 AM)*: **STPI Scientist 'B' Interview** in East Kidwai Nagar, New Delhi.
-  - *Evening*: Fly back from New Delhi to Bengaluru. Return to normal routine.
+1. **IFFCO GET (CS) CBT 2**: Scheduled for **02 August 2026, 02:30 PM at Nivansys Technologies, RT Nagar, Bengaluru**. 100% technical questions in CBT 1 (`IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md`) mapped directly to Knowledge Gate modules.
+2. **CoalIndiaLimited-PSU Repo**: Cloned locally into `CoalIndiaLimited-PSU/` for syllabus structure, trackers, and notes.
+3. **UCO Bank Background Verification (Completed 23 & 25 July 2026)**: Submitted exact current employment details for Berkadia (Emp Code: 027592). Joining set for September 2026.
+4. **Berkadia Exit & Handoff**: Confirmed release date of **31 August 2026**. Active notice period handovers underway.
+5. **STPI Scientist 'B' Interview**: Completed on 19 July in New Delhi; awaiting final merit list.

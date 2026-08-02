@@ -2,7 +2,18 @@
 
 ## Active / Upcoming Exams (Sorted by Date)
 
-### 1. UCO Bank -- Software Developer in JMGS-I (Specialist Cadre)
+### 1. IFFCO -- Graduate Engineer Trainee (GET) -- Computer Science
+| Field | Details |
+|-------|---------|
+| **Date** | **02 August 2026 (Sunday) — CBT 2 Exam** |
+| **Reporting Time** | **02:30 PM (Gates close 03:15 PM)** |
+| **Venue** | **Nivansys Technologies, eMerit, No. 1, Maruthi Complex, 2nd Floor, Opp. Post Office, RT Nagar, Bengaluru - 560032, Karnataka** |
+| **Status** | **🔥 CBT 1 CLEARED! CBT 2 SCHEDULED IN BENGALURU** |
+| **Format** | Computer-Based Test (CBT 2) — 100% Technical CS/IT & Aptitude. |
+| **Question Bank** | **100% verified CBT 1 question set (100 Qs)** compiled in `IFFCO/CBT1-QUESTIONS-AND-ANSWERS.md` and loaded into `IFFCO/simulator/`. |
+| **Priority** | **CRITICAL PRIMARY TARGET (Exam in 4 Days!)** |
+
+### 2. UCO Bank -- Software Developer in JMGS-I (Specialist Cadre)
 | Field | Details |
 |-------|---------|
 | **Date** | **September 2026 (Tentative) — Reporting & Joining (Deferred)** |
@@ -44,18 +55,11 @@
 | **Pattern** | **CBT Only — NO INTERVIEW!** Selection based solely on CBT score. |
 | **Priority** | **HIGH PRIORITY (Primary CS Target)** |
 
-### 5. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
+### 6. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
 | Field | Details |
 |-------|---------|
-| **Date** | **To Be Announced Soon** |
+| **Date** | **To Be Announced Soon** (CBT notice published: **CNPN/HR/CR-2026/01/05** dated **23.07.2026**; exact date/time via admit card) |
 | **Status** | **APPLIED (03 June 2026)** |
-| **Priority** | **HIGH** |
-
-### 6. IFFCO -- Graduate Engineer Trainee (GET) -- Computer Science
-| Field | Details |
-|-------|---------|
-| **Date** | **AWAITING REVISED SCHEDULE** |
-| **Status** | **AWAITING REVISED SCHEDULE** |
 | **Priority** | **HIGH** |
 
 ---

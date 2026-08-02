@@ -429,6 +429,112 @@ body {
   line-height: 1.45;
 }
 
+/* CBT 1 Modular Parts Grid */
+.parts-section-header {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.parts-section-title {
+  font-size: 18px;
+  font-weight: 750;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.parts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.part-card {
+  background-color: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 18px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: var(--transition);
+}
+
+.part-card:hover {
+  border-color: #10b981;
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.part-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.part-badge {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+  background: rgba(16, 185, 129, 0.15);
+  color: #10b981;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.part-time-badge {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.part-card-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 6px;
+  line-height: 1.3;
+}
+
+.part-card-desc {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.45;
+  margin-bottom: 16px;
+  flex-grow: 1;
+}
+
+.part-start-btn {
+  width: 100%;
+  padding: 8px 12px;
+  font-size: 13px;
+  font-weight: 650;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background-color: #10b981;
+  border-color: #10b981;
+  color: #ffffff;
+}
+
+.part-start-btn:hover {
+  background-color: #059669;
+  border-color: #059669;
+}
+
 .registered-section-header {
   display: flex;
   align-items: center;
@@ -1299,6 +1405,145 @@ body {
 .results-actions {
   display: flex;
   justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+/* Question Review Section */
+.review-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-bottom: 32px;
+}
+
+.review-card {
+  background-color: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+
+.review-card.card-correct {
+  border-left: 5px solid var(--success);
+}
+
+.review-card.card-incorrect {
+  border-left: 5px solid var(--danger);
+}
+
+.review-card.card-unattempted {
+  border-left: 5px solid var(--warning);
+}
+
+.review-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.review-q-num {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.review-q-prompt {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.45;
+  margin-bottom: 14px;
+}
+
+.review-options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.review-opt {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background-color: var(--bg);
+  font-size: 13.5px;
+  transition: var(--transition);
+}
+
+.review-opt-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--text);
+}
+
+.review-opt-letter {
+  font-weight: 750;
+  color: var(--text-muted);
+}
+
+.review-opt.opt-correct-choice {
+  background-color: var(--success-light);
+  border-color: var(--success);
+  color: var(--success);
+  font-weight: 650;
+}
+
+.review-opt.opt-correct {
+  background-color: var(--success-light);
+  border-color: var(--success-border);
+  color: var(--success);
+  font-weight: 650;
+}
+
+.review-opt.opt-incorrect {
+  background-color: var(--danger-light);
+  border-color: var(--danger-border);
+  color: var(--danger);
+  font-weight: 650;
+}
+
+.review-opt-tag {
+  font-size: 11.5px;
+  font-weight: 750;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+}
+
+.tag-success {
+  background-color: var(--success-light);
+  color: var(--success);
+  border: 1px solid var(--success-border);
+}
+
+.tag-correct {
+  background-color: var(--success-light);
+  color: var(--success);
+  border: 1px solid var(--success-border);
+}
+
+.tag-danger {
+  background-color: var(--danger-light);
+  color: var(--danger);
+  border: 1px solid var(--danger-border);
 }
 
 /* Footer */

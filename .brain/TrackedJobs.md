@@ -14,12 +14,12 @@ Before answering any user query, the agent must check this file, compare it with
 These are jobs where Avanish has already completed significant selection rounds. We are actively monitoring them for results or next round schedules.
 
 ### 1. MSTC -- Management Trainee (Systems)
-* **Status**: **Interview Completed on 21 May 2026** (Awaiting Final Merit List).
-* **Next Event**: Release of final selected candidates list.
+* **Status**: **Not Selected** (Final merit list published July 2026).
+* **Next Event**: None (closed).
 * **Website**: `mstcindia.co.in/careers`
 
 ### 2. STPI -- MTS E-I (Scientist B)
-* **Status**: **CBT Completed on 30 May 2026** (150/150 Qs attempted, no negative marking). Awaiting results.
+* **Status**: **Interview Completed (19 July 2026)**. Awaiting final result/merit list.
 * **Conductor**: **NIELIT** (National Institute of Electronics & Information Technology).
 * **Website**: `stpi.in` / `nielit.gov.in`
 
@@ -29,14 +29,14 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Website**: `stpi.in` / `nielit.gov.in`
 
 ### 4. UCO Bank -- Software Developer in JMGS-I
-* **Status**: **Interview Call Received! Final Round Interview on 17 June 2026 (09:30 AM)** at Bangalore Zonal Office (via Video Conference).
-* **Next Event**: Final Round Interview.
+* **Status**: **Selected** (Appointment Letter received 08.07.2026). Joining in September 2026 (tentative).
+* **Next Event**: Reporting/Joining (September 2026 tentative).
 * **Website**: `ucobank.com/careers`
 
 ### 5. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
 * **Status**: **Application Submitted on 03 June 2026**.
 * **Application Details**: Reg No: `CNP26094296` | Pass: `Anchal@@11`
-* **Next Event**: Announcement of SPMCIL-CBT exam date.
+* **Next Event**: CBT notice published (Notice No. **CNPN/HR/CR-2026/01/05** dated **23.07.2026**) — download from `https://cnpnashik.spmcil.com/en/discover-spmcil/` and wait for exact date/time/admit card.
 * **Website**: `cnpnashik.spmcil.com`
 
 ### 6. Balmer Lawrie -- Executive Trainee (IT)

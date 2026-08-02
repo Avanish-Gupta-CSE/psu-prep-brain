@@ -3,14 +3,105 @@
 (() => {
   // Exam Modes Configuration
   const MODES = {
+    cbt1Exam: {
+      key: "cbt1Exam",
+      label: "IFFCO GET CBT 1 — Full 100 Verified Questions Mock",
+      badge: "100% CBT 1 RECALL",
+      totalQuestions: 100,
+      durationSec: 60 * 60, // 1 hour
+      distribution: {
+        cbt1: 100,
+      },
+    },
+    cbt1_part1: {
+      key: "cbt1_part1",
+      label: "IFFCO CBT 1 — Part 1 (Q1 – Q10: DBMS, Security & OS)",
+      badge: "PART 1 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60, // 6 minutes
+      cbt1Range: [0, 10],
+    },
+    cbt1_part2: {
+      key: "cbt1_part2",
+      label: "IFFCO CBT 1 — Part 2 (Q11 – Q20: Compiler, DSA & ACID)",
+      badge: "PART 2 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [10, 20],
+    },
+    cbt1_part3: {
+      key: "cbt1_part3",
+      label: "IFFCO CBT 1 — Part 3 (Q21 – Q30: OS Scheduling, Algo & TOC)",
+      badge: "PART 3 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [20, 30],
+    },
+    cbt1_part4: {
+      key: "cbt1_part4",
+      label: "IFFCO CBT 1 — Part 4 (Q31 – Q40: Cache, Indexing & Concurrency)",
+      badge: "PART 4 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [30, 40],
+    },
+    cbt1_part5: {
+      key: "cbt1_part5",
+      label: "IFFCO CBT 1 — Part 5 (Q41 – Q50: Data Structures & Parsing)",
+      badge: "PART 5 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [40, 50],
+    },
+    cbt1_part6: {
+      key: "cbt1_part6",
+      label: "IFFCO CBT 1 — Part 6 (Q51 – Q60: SDLC, IR, B+ Trees & Networks)",
+      badge: "PART 6 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [50, 60],
+    },
+    cbt1_part7: {
+      key: "cbt1_part7",
+      label: "IFFCO CBT 1 — Part 7 (Q61 – Q70: ML, System Design & Architecture)",
+      badge: "PART 7 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [60, 70],
+    },
+    cbt1_part8: {
+      key: "cbt1_part8",
+      label: "IFFCO CBT 1 — Part 8 (Q71 – Q80: DBMS Triggers, Locks & REST)",
+      badge: "PART 8 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [70, 80],
+    },
+    cbt1_part9: {
+      key: "cbt1_part9",
+      label: "IFFCO CBT 1 — Part 9 (Q81 – Q90: Complexity, SJF & Consistent Hashing)",
+      badge: "PART 9 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [80, 90],
+    },
+    cbt1_part10: {
+      key: "cbt1_part10",
+      label: "IFFCO CBT 1 — Part 10 (Q91 – Q100: Idempotency, Cloud & Distributed Systems)",
+      badge: "PART 10 (10 Qs)",
+      totalQuestions: 10,
+      durationSec: 6 * 60,
+      cbt1Range: [90, 100],
+    },
     realExam: {
       key: "realExam",
-      label: "GET Computer Science Exam",
+      label: "GET Computer Science Exam (Mixed Technical)",
       badge: "GET EXAM",
       totalQuestions: 100,
       durationSec: 60 * 60, // 1 hour
       distribution: {
-        technical: 100,
+        cbt1: 70,
+        technical: 30,
       },
     },
     practiceExam: {
@@ -77,6 +168,7 @@
   // Dashboard Screen Buttons
   const startPracticeBtn = document.getElementById("start-practice-btn");
   const startActualBtn = document.getElementById("start-actual-btn");
+  const startCbt1Btn = document.getElementById("start-cbt1-btn");
 
   // System Check Screen Elements
   const systemCheckVideo = document.getElementById("system-check-video");
@@ -116,6 +208,8 @@
   const accuracyEl = document.getElementById("accuracy");
   const avgSecFinalEl = document.getElementById("avgSecFinal");
   const breakdownEl = document.getElementById("breakdown");
+  const reviewListEl = document.getElementById("review-list");
+  const downloadPdfBtns = document.querySelectorAll(".download-pdf-btn");
   const restartBtn = document.getElementById("restart-btn");
 
   // State Variables
@@ -254,6 +348,13 @@
   }
 
   function pickQuestionsForMode(mode) {
+    if (mode.cbt1Range) {
+      const cbt1Pool = questionBank.filter((q) => q && q.tag === "cbt1");
+      const [start, end] = mode.cbt1Range;
+      const picked = cbt1Pool.slice(start, end);
+      return { picked: [...picked], warnings: [] };
+    }
+
     const dist = mode.distribution;
     const byTag = new Map();
 
@@ -276,9 +377,14 @@
       }
       if (pool.length < count) {
         warnings.push(`Tag '${tag}' has only ${pool.length} questions; sampling with replacement to reach ${count}.`);
-      }
-      for (let i = 0; i < count; i += 1) {
-        picked.push(pool[randInt(pool.length)]);
+        for (let i = 0; i < count; i += 1) {
+          picked.push(pool[randInt(pool.length)]);
+        }
+      } else {
+        const poolCopy = shuffleInPlace([...pool]);
+        for (let i = 0; i < count; i += 1) {
+          picked.push(poolCopy[i]);
+        }
       }
     }
 
@@ -572,7 +678,293 @@
       breakdownEl.appendChild(row);
     });
 
+    // Render Detailed Question Review List
+    if (reviewListEl) {
+      reviewListEl.innerHTML = "";
+      const letters = ["A", "B", "C", "D"];
+
+      questions.forEach((q, idx) => {
+        const resp = responses[idx] || { selectedIndex: null };
+        const selected = resp.selectedIndex;
+        const correct = q.answerIndex;
+        const isCorrect = selected !== null && selected === correct;
+        const isAttempted = selected !== null;
+
+        const card = document.createElement("div");
+        card.className = `review-card ${isCorrect ? "card-correct" : isAttempted ? "card-incorrect" : "card-unattempted"}`;
+
+        const header = document.createElement("div");
+        header.className = "review-card-header";
+
+        const qNum = document.createElement("span");
+        qNum.className = "review-q-num";
+        qNum.textContent = `Question ${idx + 1}`;
+
+        const statusBadge = document.createElement("span");
+        if (isCorrect) {
+          statusBadge.className = "badge badge-success";
+          statusBadge.textContent = "✓ CORRECT";
+        } else if (isAttempted) {
+          statusBadge.className = "badge badge-danger";
+          statusBadge.textContent = "✗ INCORRECT";
+        } else {
+          statusBadge.className = "badge badge-warning";
+          statusBadge.textContent = "⚠️ UNATTEMPTED";
+        }
+
+        header.appendChild(qNum);
+        header.appendChild(statusBadge);
+
+        const prompt = document.createElement("p");
+        prompt.className = "review-q-prompt";
+        prompt.textContent = q.prompt;
+
+        const optsContainer = document.createElement("div");
+        optsContainer.className = "review-options";
+
+        (q.options || []).forEach((optText, optIdx) => {
+          const optRow = document.createElement("div");
+          let rowClass = "review-opt";
+
+          const isUserChoice = selected === optIdx;
+          const isRightAnswer = correct === optIdx;
+
+          if (isRightAnswer && isUserChoice) {
+            rowClass += " opt-correct-choice";
+          } else if (isRightAnswer) {
+            rowClass += " opt-correct";
+          } else if (isUserChoice) {
+            rowClass += " opt-incorrect";
+          }
+
+          optRow.className = rowClass;
+
+          const leftBox = document.createElement("div");
+          leftBox.className = "review-opt-left";
+
+          const letterSpan = document.createElement("span");
+          letterSpan.className = "review-opt-letter";
+          letterSpan.textContent = `${letters[optIdx]}.`;
+
+          const textSpan = document.createElement("span");
+          textSpan.className = "review-opt-text";
+          textSpan.textContent = optText;
+
+          leftBox.appendChild(letterSpan);
+          leftBox.appendChild(textSpan);
+
+          optRow.appendChild(leftBox);
+
+          if (isRightAnswer && isUserChoice) {
+            const badgeSpan = document.createElement("span");
+            badgeSpan.className = "review-opt-tag tag-success";
+            badgeSpan.textContent = "✓ Your Answer (Correct)";
+            optRow.appendChild(badgeSpan);
+          } else if (isRightAnswer) {
+            const badgeSpan = document.createElement("span");
+            badgeSpan.className = "review-opt-tag tag-correct";
+            badgeSpan.textContent = "✓ Correct Answer";
+            optRow.appendChild(badgeSpan);
+          } else if (isUserChoice) {
+            const badgeSpan = document.createElement("span");
+            badgeSpan.className = "review-opt-tag tag-danger";
+            badgeSpan.textContent = "✗ Your Choice";
+            optRow.appendChild(badgeSpan);
+          }
+
+          optsContainer.appendChild(optRow);
+        });
+
+        card.appendChild(header);
+        card.appendChild(prompt);
+        card.appendChild(optsContainer);
+        reviewListEl.appendChild(card);
+      });
+    }
+
     showScreen("results");
+  }
+
+  // Generate and Download PDF Report Function
+  function downloadPdfReport() {
+    const printWindow = window.open("", "_blank");
+    if (!printWindow) {
+      alert("Pop-up blocked! Please allow pop-ups for localhost to download your PDF test report.");
+      return;
+    }
+
+    const testTitle = activeMode ? (activeMode.label || "IFFCO GET Practice Test") : "IFFCO GET Practice Test";
+    const dateStr = new Date().toLocaleString("en-IN", {
+      dateStyle: "medium",
+      timeStyle: "short",
+    });
+
+    const totalQ = questions.length;
+    const attempted = responses.filter((r) => r.selectedIndex !== null).length;
+    const correct = responses.filter((r, idx) => r.selectedIndex !== null && r.selectedIndex === questions[idx].answerIndex).length;
+    const incorrect = attempted - correct;
+    const unattempted = totalQ - attempted;
+    const accuracy = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : "0.0";
+
+    const letters = ["A", "B", "C", "D"];
+
+    let qHtml = "";
+    questions.forEach((q, idx) => {
+      const resp = responses[idx] || { selectedIndex: null };
+      const selected = resp.selectedIndex;
+      const correctIdx = q.answerIndex;
+      const isCorrect = selected !== null && selected === correctIdx;
+      const isAttempted = selected !== null;
+
+      let statusBadge = "";
+      let borderColor = "#e5e7eb";
+      let bgBadgeColor = "#f3f4f6";
+      let textBadgeColor = "#374151";
+
+      if (isCorrect) {
+        statusBadge = "✓ CORRECT";
+        borderColor = "#10b981";
+        bgBadgeColor = "#d1fae5";
+        textBadgeColor = "#065f46";
+      } else if (isAttempted) {
+        statusBadge = "✗ INCORRECT";
+        borderColor = "#ef4444";
+        bgBadgeColor = "#fee2e2";
+        textBadgeColor = "#991b1b";
+      } else {
+        statusBadge = "⚠️ UNATTEMPTED";
+        borderColor = "#f59e0b";
+        bgBadgeColor = "#fef3c7";
+        textBadgeColor = "#92400e";
+      }
+
+      let optionsHtml = "";
+      (q.options || []).forEach((optText, optIdx) => {
+        const isUserChoice = selected === optIdx;
+        const isRightAnswer = correctIdx === optIdx;
+
+        let optStyle = "padding: 8px 12px; margin-bottom: 6px; border-radius: 6px; font-size: 13px; display: flex; align-items: center; justify-content: space-between;";
+        let tagHtml = "";
+
+        if (isRightAnswer && isUserChoice) {
+          optStyle += " background-color: #d1fae5; border: 1.5px solid #10b981; font-weight: 600; color: #065f46;";
+          tagHtml = '<span style="font-size: 11px; font-weight: 700; color: #065f46;">✓ Your Answer (Correct)</span>';
+        } else if (isRightAnswer) {
+          optStyle += " background-color: #ecfdf5; border: 1.5px solid #a7f3d0; font-weight: 600; color: #047857;";
+          tagHtml = '<span style="font-size: 11px; font-weight: 700; color: #047857;">✓ Correct Answer</span>';
+        } else if (isUserChoice) {
+          optStyle += " background-color: #fee2e2; border: 1.5px solid #fca5a5; color: #991b1b;";
+          tagHtml = '<span style="font-size: 11px; font-weight: 700; color: #991b1b;">✗ Your Choice</span>';
+        } else {
+          optStyle += " background-color: #f9fafb; border: 1px solid #f3f4f6; color: #4b5563;";
+        }
+
+        optionsHtml += `
+          <div style="${optStyle}">
+            <span><strong>${letters[optIdx]}.</strong> ${optText}</span>
+            ${tagHtml}
+          </div>
+        `;
+      });
+
+      qHtml += `
+        <div style="border: 1px solid ${borderColor}; border-left: 5px solid ${borderColor}; border-radius: 8px; padding: 14px; margin-bottom: 14px; page-break-inside: avoid; background-color: #ffffff;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+            <span style="font-weight: 700; font-size: 14px; color: #111827;">Q${idx + 1}. ${q.prompt}</span>
+            <span style="font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 4px; background-color: ${bgBadgeColor}; color: ${textBadgeColor}; text-transform: uppercase;">${statusBadge}</span>
+          </div>
+          <div style="margin-top: 8px;">
+            ${optionsHtml}
+          </div>
+        </div>
+      `;
+    });
+
+    const docHtml = `
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <meta charset="utf-8">
+        <title>IFFCO_CBT_Report_${testTitle.replace(/[^a-zA-Z0-9]/g, "_")}</title>
+        <style>
+          body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #111827; margin: 0; padding: 24px; background-color: #ffffff; }
+          .header { border-bottom: 2px solid #10b981; padding-bottom: 12px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: flex-end; }
+          .title { font-size: 20px; font-weight: 800; color: #115e59; margin: 0; }
+          .subtitle { font-size: 13px; color: #4b5563; margin-top: 4px; }
+          .candidate-info { text-align: right; font-size: 12px; color: #4b5563; }
+          .candidate-name { font-weight: 700; font-size: 14px; color: #111827; }
+          .summary-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 24px; background: #f3f4f6; padding: 14px; border-radius: 8px; }
+          .stat-box { text-align: center; }
+          .stat-label { font-size: 11px; text-transform: uppercase; color: #6b7280; font-weight: 600; display: block; }
+          .stat-val { font-size: 18px; font-weight: 800; color: #111827; margin-top: 2px; }
+          .stat-val.green { color: #059669; }
+          .stat-val.red { color: #dc2626; }
+          .stat-val.yellow { color: #d97706; }
+          @media print {
+            body { padding: 0; background-color: #ffffff; }
+            .no-print { display: none !important; }
+          }
+        </style>
+      </head>
+      <body>
+        <div class="no-print" style="margin-bottom: 20px; text-align: right;">
+          <button onclick="window.print()" style="background-color: #10b981; color: white; border: none; padding: 10px 22px; font-weight: 700; border-radius: 6px; cursor: pointer; font-size: 14px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            🖨️ Save as PDF / Print
+          </button>
+        </div>
+
+        <div class="header">
+          <div>
+            <h1 class="title">IFFCO GET CBT Practice Test Report</h1>
+            <div class="subtitle"><strong>Exam Mode:</strong> ${testTitle}</div>
+          </div>
+          <div class="candidate-info">
+            <div class="candidate-name">AVANISH KUMAR GUPTA</div>
+            <div>Date: ${dateStr}</div>
+          </div>
+        </div>
+
+        <div class="summary-grid">
+          <div class="stat-box">
+            <span class="stat-label">Score</span>
+            <span class="stat-val green">${correct} / ${totalQ}</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-label">Accuracy</span>
+            <span class="stat-val green">${accuracy}%</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-label">Attempted</span>
+            <span class="stat-val">${attempted} / ${totalQ}</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-label">Incorrect</span>
+            <span class="stat-val red">${incorrect}</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-label">Unattempted</span>
+            <span class="stat-val yellow">${unattempted}</span>
+          </div>
+        </div>
+
+        <h3 style="font-size: 16px; margin-bottom: 14px; border-bottom: 1px solid #e5e7eb; padding-bottom: 6px; color: #111827;">Detailed Question Analysis & Answers</h3>
+
+        ${qHtml}
+
+        <script>
+          window.onload = function() {
+            setTimeout(function() {
+              window.print();
+            }, 300);
+          };
+        </script>
+      </body>
+      </html>
+    `;
+
+    printWindow.document.open();
+    printWindow.document.write(docHtml);
+    printWindow.document.close();
   }
 
   // Reset and Boot
@@ -600,6 +992,26 @@
   }
 
   // Event Listeners for Dashboard
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-mode]");
+    if (btn) {
+      const modeKey = btn.getAttribute("data-mode");
+      if (MODES[modeKey]) {
+        activeMode = MODES[modeKey];
+        showScreen("systemCheck");
+        requestWebcam();
+      }
+    }
+  });
+
+  if (startCbt1Btn) {
+    startCbt1Btn.addEventListener("click", () => {
+      activeMode = MODES.cbt1Exam;
+      showScreen("systemCheck");
+      requestWebcam();
+    });
+  }
+
   startPracticeBtn.addEventListener("click", () => {
     activeMode = MODES.practiceExam;
     showScreen("systemCheck");
@@ -665,6 +1077,9 @@
   });
 
   // Event Listeners for Exam Controls
+  downloadPdfBtns.forEach((btn) => {
+    btn.addEventListener("click", downloadPdfReport);
+  });
   prevBtn.addEventListener("click", prevQuestion);
   nextBtn.addEventListener("click", nextQuestion);
   clearBtn.addEventListener("click", clearAnswer);
