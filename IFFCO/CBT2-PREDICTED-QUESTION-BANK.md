@@ -4,6 +4,14 @@ This question bank contains **brand-new predicted questions** for the **IFFCO GE
 
 ---
 
+## 🎯 CBT-2 Structural Intel (source-search outcome, 02 Aug 2026)
+
+- **Source hunt result:** 2 search campaigns (11 angles, 10+ verbatim fingerprints from the CBT 1 bank) found **no public source** for the 100 CBT-1 questions — coaching banks gate generic GATE-flavored MCQs only. The CBT-1 recall bank remains the best structural proxy; predictions below are derived from it.
+- **Official 2026 pattern:** 80 Technical (CS) + 40 GA, 120 min, ¼ negative marking, centre-based CBT.
+- **2024-cycle precedent (Confirmed):** Stage-2 CBT = 100 Qs / 60 min — **70 Technical + 30 GA, NO negative marking**, English only, speed-driven.
+- **Net effect on this bank:** every question below is single-correct MCQ (GATE-CS style) — the format that fits both patterns. If negative marking is absent, attempt ALL questions; if present, skip uncertain ones.
+- **Speed targets:** ~45 s/technical Q, ~20–30 s/aptitude Q.
+
 ## 📊 Summary & Subject Breakdown
 
 | Category | Predicted Qs | Core High-Yield Topics Covered |

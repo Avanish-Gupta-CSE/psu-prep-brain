@@ -5,14 +5,104 @@
 | Field | Value |
 |-------|-------|
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
-| **Secondary Track** | Active (STPI, UCO Bank, UPPSC, BSNL, Form Fillings) |
+| **Secondary Track** | Active (CIL MT, STPI Result Tracking, UCO Bank Onboarding, Berkadia Exit) |
 | **MSTC Status** | Not Selected (Merit List Published July 2026) |
 | **Study Streak** | 1 logged study day (restart on 12 July 2026 after UCO Bank Selection) |
-| **Last Session** | 01 Aug 2026 -- IFFCO CBT 1 Part 1 (Q1–Q10) Notes Completed + Practice Score Log (4/10) |
+| **Last Session** | 17 Aug 2026 -- ISRO SC CS & CERT-In Scientist 'B' Forms Submitted Successfully |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Tight and focused: patching unattempted CBT 1 concepts (2PC, optimizations, OS memory, firewall) before CBT 2 tomorrow. |
+| **Overall Mood** | Maximum momentum. Both ISRO Scientist/Engineer 'SC' CS and CERT-In Scientist 'B' (App No: 261030011869) applications successfully submitted! Next: ISP (19 Aug), HLL (23 Aug), CIL (24 Aug). |
 
 ## Session Log
+
+### Session 46 -- 17 Aug 2026 (ISRO Scientist SC & CERT-In Scientist 'B' Successful Submissions)
+- **Type:** Application Submissions & Pipeline Management
+- **What happened:**
+  - **ISRO Scientist/Engineer 'SC' (CS)**: Successfully completed and submitted application form. Used GATE 2026 CS Scorecard (Reg: `CS26S31313020`, Score: `350`, AIR: `29099`, Marks: `30.03/100`). Uploaded `GATE_2026_CS_Scorecard_Avanish.pdf` (358 KB, < 500 KB limit).
+  - **CERT-In Scientist 'B' (MeitY)**: Successfully completed and submitted entire online application form (Application No: **`261030011869`**).
+    - Resolved portal document validation requirements: photo formatted to exact 80% face coverage & light BG (`104 KB`), Category Certificate OBC-NCL re-rendered to standard 180 DPI A4 PDF (`341 KB`), GATE CS (`358 KB`) and compressed GATE DA (`294 KB`) scorecards uploaded.
+    - Official Confirmation Page downloaded and archived to `C:\Programs\Learning\Gov jobs\ICERT\ConfirmationPage-261030011869.pdf`.
+- **Topics covered:** PSU application workflow, NIC portal validation resolution, document processing, tracking synchronization.
+- **Next goals:** Immediate sprint on India Security Press (ISP) CBT (19 Aug in Bangalore), HLL Lifecare CBT (23 Aug in Lucknow), and Coal India Limited CBT (24 Aug in Bangalore).
+
+### Session 45 -- 14 Aug 2026 (STPI Scientist 'B' Final Result & Interview Score Calculation)
+- **Type:** Result Verification & Score Audit
+- **What happened:**
+  - **STPI Final Result Analysis**: Received final aggregate score `68.80 / 100` for Member Technical Staff E-I (Scientist 'B').
+  - **Mathematical Audit**: Calculated exact interview marks using official 70% Written + 30% Interview weightage rule:
+    - CBT Score: `96 / 150` = `64.00%` → Weighted Written Score = `44.80 / 70`.
+    - Interview Contribution: `68.80 - 44.80 = 24.00 / 30`.
+    - Interview Percentage: `24.00 / 30 * 100 = 80.00%` (**80.00 / 100**).
+  - **Outcome**: Scored a massive **80 out of 100** in the personal interview! Missed the single OBC-NCL seat cut-off by a razor-thin margin due to CBT base score variance.
+- **Topics covered:** Selection weightage mathematics, interview evaluation.
+- **Next goals:** Apply for CERT-In Scientist 'B' & ISRO SC CS (closing Aug 17); crack CIL MT (Systems) & HAL DT (CS).
+
+### Session 44 -- 14 Aug 2026 (NFL MT IT Scorecard Analysis & Ratio Verification)
+- **Type:** Scorecard Verification & Interview Shortlist Ratio
+- **What happened:**
+  - **NFL MT (IT) Scorecard**: Verified scorecard for Advt 01(NFL)/2026. Marks: Discipline `69.00/100`, Aptitude `30.00/50`, Total `99.00/150` (66.00%).
+  - **Vacancy & Ratio Analysis**: Audited Advt 01(NFL)/2026 PDF. Vacancy is **1 Post (OBC-NCL Backlog)**. Interview shortlisting ratio is **1 : 5** (top 5 candidates called for interview). Final selection weightage: **80% CBT + 20% Personal Interview**.
+  - **Conclusion**: Highly competitive score; very high probability of securing an interview call among the top 5 OBC-NCL candidates.
+- **Topics covered:** PSU scorecards, interview ratios, merit calculation.
+- **Next goals:** Apply for CERT-In Scientist 'B' & ISRO SC CS (closing Aug 17); prepare for ISP (19 Aug) & HLL (23 Aug) CBTs.
+
+### Session 43 -- 13 Aug 2026 (HAL DT CS Submission & August Exam Marathon Lock)
+- **Type:** Application Submissions & Exam Logistics Planning
+- **What happened:**
+  - **HAL Design Trainee (CS)**: Form verified and successfully submitted (Application No: `D321947`). Saved official registration PDF to `C:\Programs\Learning\Gov jobs\HAL\HAL ONLINE REGISTRATION.pdf`. Preferred test center: Bengaluru.
+  - **HLL Lifecare MT Exam**: Confirmed test date **23 August 2026** (10:00 AM–12:00 PM) in **Lucknow**. Scanned admit card (`App No: 117272`) and **booked flight tickets for Lucknow**.
+  - **India Security Press (ISP SPMCIL)**: Confirmed Supervisor (IT) CBT on **19 August 2026** in **Bangalore**.
+  - **Coal India Limited (CIL) MT (Systems)**: Confirmed CBT date on **24 August 2026** in **Bangalore**. Super-accelerated 30-day revision track in progress.
+  - **HAL DT (CS) Exam**: Confirmed CBT date on **05 & 06 September 2026** in **Bangalore**.
+- **Topics covered:** PSU application workflow, exam schedule tracking, travel logistics.
+- **Next goals:** Complete CERT-In Scientist 'B', HARTRON Jr Programmer, and ISRO SC CS forms; execute CIL MT core CS revision.
+
+### Session 42 -- 05 Aug 2026 (NHAI DM IT Form Submission & NMDC Payment Verification)
+- **Type:** Application Submissions & Pipeline Management
+- **What happened:**
+  - **NHAI Deputy Manager (IT) Form**: Successfully filled and submitted application. Saved official acknowledgement PDF to `C:\Programs\Learning\Gov jobs\nhai\download.pdf` (Ref No: `2026772`, GATE 2026 CS Score: 350).
+  - **NMDC Steel ET (Computer & IT)**: Verified SB Collect payment details (Reg No `126595`, Fee ₹500) and updated workspace trackers.
+  - **Indian Navy SSC Officer**: Processed and formatted passport photo (300x400 px, 22.5 KB) and signature (300x200 px, 8.6 KB) to exact portal specifications.
+- **Topics covered:** PSU application workflow, document formatting, database tracking.
+- **Next goals:** Fill **HAL Design Trainee CS** (Closes Aug 14) and **ISRO Scientist/Engineer 'SC' CS** (Closes Aug 17); prepare for **RCFL MT (IT)** & **AAI JE (Ops)** opening on Aug 8.
+
+### Session 41 -- 03 Aug 2026 (NMDC Steel Ltd Registration & Folder Setup)
+- **Type:** Application Registration & Workspace Setup
+- **What happened:**
+  - Created `NMDCSteel/` folder following workspace conventions (README.md, PROGRESS-LOG.md).
+  - Logged applicant profile details from NMDC Steel portal screenshot:
+    - **Registration No.**: 126595
+    - **Applied Discipline**: Executive Trainee -- Computer & Information Technology
+    - **Fee**: Rs. 500.00 (Payment pending on portal)
+    - **Payment Category**: RECRUITMENT NOTIFICATION NO. 05/2026 NSL
+  - Updated `.brain/ExamTracker.md` with full NMDC Steel applicant profile and payment status.
+  - Updated `.brain/TrackedJobs.md` with registration details and moved NMDC Steel to Category II (Immediate Applications).
+  - Updated `.brain/NextSteps.md` to reflect payment pending status.
+  - Note: After payment on portal, wait 48-72 hours for bank validation before downloading final application form.
+- **Topics covered:** NMDC Steel registration, payment workflow, workspace folder setup.
+- **Questions attempted:** N/A
+- **Accuracy:** N/A
+- **Weak areas identified:** N/A
+- **Next goals:** Complete payment on NMDC Steel portal, download application form after validation, begin CBT preparation for NSL ET (Computer & IT).
+
+### Session 40 -- 03 Aug 2026 (IFFCO GET CBT 2 Exam Debrief & Active Job Pipeline Update)
+- **Type:** Exam Debrief & Workspace Pipeline Sync
+- **What happened:**
+  - Appeared for the **IFFCO GET (CS) CBT 2 Exam on 02 August 2026 in Bengaluru (RT Nagar)**.
+  - Widespread server issues occurred across centres during Shift 1, resulting in delays. Avanish got 56 minutes instead of 60 for 100 questions.
+  - Executed the planned sprint time strategy (10 minutes per 20 questions) smoothly under time pressure.
+  - Marked **70-80 questions with high confidence** and completed the remaining 20-30 questions with educated guesses (zero negative marking).
+  - **Key Strategy Insight**: Questions in CBT 2 directly tested concepts derived from the *incorrect/distractor options* of CBT 1 questions (e.g. concept definitions and properties from CBT 1 options were flipped into direct questions in CBT 2), perfectly validating the deep-dive strategy executed in `IFFCO/cbt1-notes.md`.
+  - **Recruitment Pipeline Audit (Gemini Context Sync)**:
+    - Logged 2 missed recruitments due to deadline lapses: **Cotton Corporation of India (CCI)** (Advt DR/CCI/2026) and **Armoured Vehicles Nigam Ltd (AVNL)** (Fixed Term Contract).
+    - Added 3 active major PSU targets to `.brain/TrackedJobs.md` and `.brain/ExamTracker.md`:
+      1. **HAL (Hindustan Aeronautics Limited)** Design Trainee (DT) CS (Advt: HAL/CHRC-TM/RECT-02/2026) — Open Now! Primary R&D posting in **Bengaluru**.
+      2. **NMDC Steel Limited (NSL)** Executive Trainee (ET) (Notification 05/2026) — Closes **11 August 2026**. CBT + GD + Interview.
+      3. **Airports Authority of India (AAI)** Junior Executive (Operations) / Manager (Advt 12/2026/CHQ/DR-CBT) — Opens **08 August 2026**. Requires LMV driving license; ₹0 fee for SC/ST/PwBD/Women.
+- **Topics covered:** Core CS recall (DBMS, OS, CN, DSA, Compilers, Architecture, Software Engineering) + General Aptitude + PSU Pipeline Management.
+- **Questions attempted:** 100 / 100
+- **Accuracy:** ~70-80% confident right answers + ~20-30% educated guesses.
+- **Weak areas identified:** N/A (Exam completed).
+- **Next goals:** Fill HAL DT CS and NMDC Steel ET forms immediately; prepare for AAI JE Ops opening on Aug 8; continue Berkadia notice handovers (LWD: 31 August 2026) and CIL MT (Systems) prep.
 
 ### Session 39 -- 01 Aug 2026 (IFFCO CBT 1 Part 1 Q1–Q10 Notes Completed + Score Log)
 - **Type:** Study Log (CBT 1 Revision)

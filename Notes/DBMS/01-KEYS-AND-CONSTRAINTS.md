@@ -23,20 +23,26 @@ Composite Key → two or more columns together form the key
 
 **Table: students**
 
-| StudentID | Email | Phone | Name |
-|---|---|---|---|
-| 101 | a@gmail.com | 9999 | Avanish |
-| 102 | b@gmail.com | 8888 | Rahul |
 
-| Key Type | Example | Why |
-|---|---|---|
-| Super Key | `{StudentID}`, `{Email}`, `{StudentID, Email}` | All uniquely identify a row |
-| Candidate Key | `{StudentID}`, `{Email}`, `{Phone}` | Minimal — can't drop any column |
-| Primary Key | `{StudentID}` | Chosen; no NULL allowed |
-| Alternate Key | `{Email}`, `{Phone}` | Candidate keys not chosen |
-| Unique Key | `{Email}` | Enforces uniqueness, allows one NULL |
+| StudentID | Email                             | Phone | Name    |
+| --------- | --------------------------------- | ----- | ------- |
+| 101       | [a@gmail.com](mailto:a@gmail.com) | 9999  | Avanish |
+| 102       | [b@gmail.com](mailto:b@gmail.com) | 8888  | Rahul   |
+
+
+
+| Key Type      | Example                                        | Why                                  |
+| ------------- | ---------------------------------------------- | ------------------------------------ |
+| Super Key     | `{StudentID}`, `{Email}`, `{StudentID, Email}` | All uniquely identify a row          |
+| Candidate Key | `{StudentID}`, `{Email}`, `{Phone}`            | Minimal — can't drop any column      |
+| Primary Key   | `{StudentID}`                                  | Chosen; no NULL allowed              |
+| Alternate Key | `{Email}`, `{Phone}`                           | Candidate keys not chosen            |
+| Unique Key    | `{Email}`                                      | Enforces uniqueness, allows one NULL |
+
 
 ---
+
+
 
 ## PK vs UK vs FK — Your 40-Second Script
 
@@ -47,17 +53,23 @@ Composite Key → two or more columns together form the key
 
 ---
 
+
+
 ## Primary Key vs Unique Key — Side by Side
 
-| Feature | Primary Key | Unique Key |
-|---|---|---|
-| Uniqueness | ✅ | ✅ |
-| NULL allowed | ❌ Never | ✅ One NULL per column |
-| Count per table | Only **one** | **Multiple** allowed |
-| Index created | Clustered index | Non-clustered index |
-| Can be FK target | ✅ Yes | ✅ Yes (in most DBs) |
+
+| Feature          | Primary Key     | Unique Key            |
+| ---------------- | --------------- | --------------------- |
+| Uniqueness       | ✅               | ✅                     |
+| NULL allowed     | ❌ Never         | ✅ One NULL per column |
+| Count per table  | Only **one**    | **Multiple** allowed  |
+| Index created    | Clustered index | Non-clustered index   |
+| Can be FK target | ✅ Yes           | ✅ Yes (in most DBs)   |
+
 
 ---
+
+
 
 ## Foreign Key — Referential Integrity
 
@@ -82,14 +94,18 @@ INSERT INTO employees VALUES (1, 'Avanish', 999);
 
 **FK behaviors on DELETE/UPDATE of parent row:**
 
-| Action | What happens to child rows |
-|---|---|
-| `CASCADE` | Child rows deleted/updated automatically |
-| `SET NULL` | Child FK column set to NULL |
-| `RESTRICT` | Delete blocked if child rows exist |
-| `NO ACTION` | Same as RESTRICT (default in most DBs) |
+
+| Action      | What happens to child rows               |
+| ----------- | ---------------------------------------- |
+| `CASCADE`   | Child rows deleted/updated automatically |
+| `SET NULL`  | Child FK column set to NULL              |
+| `RESTRICT`  | Delete blocked if child rows exist       |
+| `NO ACTION` | Same as RESTRICT (default in most DBs)   |
+
 
 ---
+
+
 
 ## Composite Key (also called Compound Key)
 
@@ -110,6 +126,8 @@ CREATE TABLE enrollments (
 
 ---
 
+
+
 ## Surrogate Key
 
 - An **artificial key** added purely to uniquely identify a record
@@ -117,6 +135,7 @@ CREATE TABLE enrollments (
 - Usually an **auto-incremented integer** or UUID
 
 **Why use it?**
+
 - Natural keys (PAN, Aadhaar) can change or be long — bad for joins
 - Surrogate keys are stable, short, numeric — ideal as PK
 
@@ -130,25 +149,31 @@ CREATE TABLE employees (
 
 **Natural key vs Surrogate key:**
 
-| | Natural Key | Surrogate Key |
-|---|---|---|
-| Source | Real-world data (PAN, email) | Artificially generated (1, 2, 3...) |
-| Meaningful? | Yes | No (just an ID) |
-| Can change? | Yes (risky) | No (stable) |
-| Example | Aadhaar number | auto-increment `id` |
+
+|             | Natural Key                  | Surrogate Key                       |
+| ----------- | ---------------------------- | ----------------------------------- |
+| Source      | Real-world data (PAN, email) | Artificially generated (1, 2, 3...) |
+| Meaningful? | Yes                          | No (just an ID)                     |
+| Can change? | Yes (risky)                  | No (stable)                         |
+| Example     | Aadhaar number               | auto-increment `id`                 |
+
 
 ---
 
+
+
 ## The 6 Constraints — Quick Reference
 
-| Constraint | Rule | Example |
-|---|---|---|
-| `NOT NULL` | Column must always have a value | `name VARCHAR(50) NOT NULL` |
-| `UNIQUE` | No duplicate values in column | `email VARCHAR(100) UNIQUE` |
-| `PRIMARY KEY` | NOT NULL + UNIQUE; one per table | `id INT PRIMARY KEY` |
+
+| Constraint    | Rule                                 | Example                                     |
+| ------------- | ------------------------------------ | ------------------------------------------- |
+| `NOT NULL`    | Column must always have a value      | `name VARCHAR(50) NOT NULL`                 |
+| `UNIQUE`      | No duplicate values in column        | `email VARCHAR(100) UNIQUE`                 |
+| `PRIMARY KEY` | NOT NULL + UNIQUE; one per table     | `id INT PRIMARY KEY`                        |
 | `FOREIGN KEY` | Value must exist in referenced table | `FOREIGN KEY (dept_id) REFERENCES dept(id)` |
-| `CHECK` | Custom condition must be true | `CHECK (age >= 18)` |
-| `DEFAULT` | Auto-fills value when none provided | `status VARCHAR(10) DEFAULT 'active'` |
+| `CHECK`       | Custom condition must be true        | `CHECK (age >= 18)`                         |
+| `DEFAULT`     | Auto-fills value when none provided  | `status VARCHAR(10) DEFAULT 'active'`       |
+
 
 > **Memory trick:** `N-U-P-F-C-D` → *"Never Use Primary Foreign Checks Defaultly"*
 
@@ -156,7 +181,11 @@ CREATE TABLE employees (
 
 ---
 
+
+
 ## Primary Key — SQL Examples (from ebook)
+
+
 
 ### CREATE TABLE with PK
 
@@ -170,6 +199,8 @@ CREATE TABLE PERSONS (
 );
 ```
 
+
+
 ### Add PK using ALTER TABLE
 
 ```sql
@@ -180,7 +211,11 @@ PRIMARY KEY (column1, column2, ...);
 
 ---
 
+
+
 ## Foreign Key — SQL Examples (from ebook)
+
+
 
 ### FK on CREATE TABLE
 
@@ -198,31 +233,42 @@ CREATE TABLE ORDERS (
 
 ---
 
+
+
 ## All Key Types — Final Summary
 
-| Key | Definition | NULL? | Count per table |
-|---|---|---|---|
-| Super Key | Any combo that gives uniqueness | Allowed | Many |
-| Candidate Key | Minimal super key | Not recommended | Multiple |
-| Primary Key | Chosen candidate key | ❌ Never | **One only** |
-| Alternate Key | Non-chosen candidate keys | Allowed | Multiple |
-| Unique Key | Enforces uniqueness | ✅ One NULL | Multiple |
-| Foreign Key | References PK of another table | ✅ Allowed | Multiple |
-| Composite Key | 2+ columns forming a key together | Depends | Multiple |
-| Surrogate Key | Artificial auto-generated key | ❌ Never | One (usually) |
+
+| Key           | Definition                        | NULL?           | Count per table |
+| ------------- | --------------------------------- | --------------- | --------------- |
+| Super Key     | Any combo that gives uniqueness   | Allowed         | Many            |
+| Candidate Key | Minimal super key                 | Not recommended | Multiple        |
+| Primary Key   | Chosen candidate key              | ❌ Never         | **One only**    |
+| Alternate Key | Non-chosen candidate keys         | Allowed         | Multiple        |
+| Unique Key    | Enforces uniqueness               | ✅ One NULL      | Multiple        |
+| Foreign Key   | References PK of another table    | ✅ Allowed       | Multiple        |
+| Composite Key | 2+ columns forming a key together | Depends         | Multiple        |
+| Surrogate Key | Artificial auto-generated key     | ❌ Never         | One (usually)   |
+
 
 ---
+
+
 
 ## Follow-Up Questions (Expect These)
 
 **Q: Can a table have no primary key?**
+
 > Yes, technically. But it's bad practice — duplicates become possible and joins become unreliable.
 
 **Q: Can a FK reference a Unique Key instead of a PK?**
+
 > Yes, in most RDBMS (PostgreSQL, SQL Server). The referenced column just needs to be unique.
 
 **Q: What is a surrogate key?**
+
 > An artificial key added purely for identification (e.g., auto-increment `id`). Not derived from business data. Preferred when natural keys are long or composite.
 
 **Q: What is a natural key?**
+
 > A key that comes from real-world data (e.g., Aadhaar number, PAN). Risky if the data can change.
+

@@ -2,6 +2,14 @@
 
 ## Baseline Entry
 
+### 02 Aug 2026 (IFFCO GET (CS) CBT 2 Exam Completed — Bengaluru)
+- Status: **CBT 2 EXAM COMPLETED!**
+- Location: Nivansys Technologies, RT Nagar, Bengaluru.
+- Operational Context: Shift 1 faced server issues across multiple centres; Avanish got 56 minutes for 100 questions.
+- Performance & Execution: Attempted 100/100 questions by strictly enforcing the 10-minute-per-20-question sprint pace. Marked **70-80 questions with high confidence** and remaining 20-30 with educated guesses.
+- Core Insight & Pattern Validation: Verified that CBT 2 questions directly built upon the *distractor / wrong options* from CBT 1 questions, turning those options into main questions in CBT 2. This validated the deep-dive strategy recorded in `IFFCO/cbt1-notes.md`.
+- Next action: Await CBT 2 results / interview shortlist; pivot primary preparation focus to Coal India Limited (CIL) MT (Systems).
+
 ### 01 Aug 2026 (CBT 1 Part 1 Q1–Q10 Practice + Notes Completed)
 - Status: Attempted **IFFCO CBT 1 — Part 1 (Q1–Q10: DBMS, Security & OS)** practice test.
 - Score: **4 / 10** | Attempted: **4 / 10** | Incorrect: **0** | Accuracy: **100%** | Unattempted: **6**

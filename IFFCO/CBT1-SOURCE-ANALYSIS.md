@@ -23,21 +23,43 @@
 | Telegram | `t.me/iffco_get_cbt`, `t.me/IFFCO_GET_OFFICIAL` | Generic landing pages (no public preview) |
 | YouTube | `IFFCO GET CBT 1 computer science question paper review` | 0 readable content |
 
-The 100-question set is **internal-only** — captured live by the candidate during the cancelled 30 June 2026 IFFCO GET CBT 1 attempt and compiled locally.
+The 100-question set is **internal-only** — captured live by the candidate during the affected 30 June 2026 IFFCO GET CBT 1 attempt and compiled locally.
+
+### 1.5. Fingerprint Search Log (02 Aug 2026 session — second campaign)
+
+Distinctive verbatim phrases from the 100-Q bank were searched exact-quoted across the web. **Every hit was academic literature, generic coaching content, or StackOverflow — NONE was the question source.**
+
+| # | Fingerprint searched | Best hit (top result) | Verdict |
+|---|----------------------|-----------------------|---------|
+| 1 | `"lightweight units sharing one address space"` | Opal SASOS academic PDF (Univ. of Washington) | NOT the source |
+| 2 | `"malware signatures in a data stream"` + Aho-Corasick | MDPI 2025 review `a18120742` (Aho-Corasick in antivirus) | NOT the source |
+| 3 | `"blank middle names"` + `"university email"` + UNIQUE | Simple SQL Tutorials NULL blog + registration forms | NOT the source |
+| 4 | `"40-million-row"` / 40M rows + product code + index | dba.stackexchange 265134 + StackOverflow 69926055 (real-world slow-index threads) | NOT the source |
+| 5 | `"priority inversion"` + inheritance/ceiling + MCQ PSU | IEEE PIP 1990 paper + TU Dresden lecture PDF + InterviewBit | NOT the source |
+| 6 | `"one address space instead of one process per request"` | µFork SOSP'25, Mirage unikernels, Photons, TrEnv, CubicleOS — all academic | NOT the source |
+| 7 | Topic cluster: IFFCO GET Qs on studyx/askfilo/brainly | Toppersexam paid-bank landing pages only (gated) | NOT the source |
+| 8 | Topic cluster: IFFCO GET CBT-1 2026 paper / leak news | pw.live (stage-1 done, stage-2 intimation out), Testbook (exam 3–5 Jul 2026), official notification PDF | No question text anywhere |
+| 9 | Telegram: `t.me` IFFCO GET channels | No public channel content indexed | — |
+| 10 | YouTube: "IFFCO GET" 2026 CBT CS questions review | Only exam-update/strategy videos (MARGDARSHAN PREP etc.), no question text | NOT the source |
+| 11 | Local cross-check: `CoalIndiaLimited-PSU/` repo vs 10+ fingerprints | Topic notes only; generic "address space" terminology overlap | No question overlap (see §4) |
+
+**Confirmed conclusion (now 2 independent campaigns, 11 search angles):** the 100 questions exist nowhere publicly. Coaching banks (Toppersexam ₹121–560, iffcomock.netlify.app ₹50) gate generic GATE-flavored MCQs — the free previews shown ("Binary Digits", "Category index" style) do not match the CBT 1 bank.
 
 ---
 
-## 2. CRITICAL CONTEXT — The Exam Was Cancelled
+## 2. CRITICAL CONTEXT — The Exam Was Cancelled (Correction: Technical Server Issues, NOT Confirmed Paper Leak)
 
-Multiple sources confirm the **IFFCO GET 2026 CBT 1 was cancelled** due to a paper leak on or around 30 June 2026:
+**What the official channel says (Confirmed):** Per the **official IFFCO helpdesk**, the exams were cancelled **due to technical server issues** and were rescheduled — see LinkedIn post by Shivanjal Narayan (30 Jun 2026): *"All exams have been cancelled due to technical server issues. According to the official IFFCO helpdesk, the exams will be rescheduled."*
 
-- **YouTube video** "IFFCO Exam 2026 Official Notice: Cancelled & Paper Leaked | Latest Update" by MARGDARSHAN PREP (17.8K views, 30 Jun 2026)
-- **YouTube video** "IFFCO GET 2026 Paper Leak 😱 | Exam Cancelled Official Truth Revealed!" (6.5K views)
-- **YouTube video** "IFFCO GET 2026 Exam Cancelled | IFFCO GET Paper Leak 2026 | by Mohit Sir" (11.7K views)
+Candidate-experience corroboration (Confirmed, 30 Jun 2026): login errors, inaccessible exam link, dashboard date/time mismatched the email, support unreachable (LinkedIn — Krunal Prajapati).
 
-**Implication:** The 100-question bank in this repo is the **leaked/recalled paper** from the cancelled attempt — which is why it is so internally consistent (single setter style) but invisible to Google.
+**The "paper leak" claim is UNCONFIRMED** — it comes only from YouTube exam-news channels (MARGDARSHAN PREP 17.8K views, "Paper Leak 😱" 6.5K views, Mohit Sir 11.7K views). No news outlet or official statement confirmed a leak. Mark the leak narrative **Inferred / unverified**; the technical-issues cancellation is the **Confirmed** record.
 
-**Your CBT 2 (02 Aug 2026, 02:30 PM, Nivansys Technologies RT Nagar) is a re-test of CBT 1, NOT a different paper.**
+**Follow-up (Confirmed):** The stage-1 test was later completed (results released, stage-2 CBT intimations emailed per pw.live). Stage 2 is held at designated centres, in batches per branch — consistent with the 02 Aug 2026 CBT 2.
+
+**Implication:** The 100-question bank in this repo is the **recalled paper** from the affected attempt — internally consistent (single setter style) but invisible to Google.
+
+**Your CBT 2 (02 Aug 2026, 02:30 PM, Nivansys Technologies RT Nagar) is the official final-stage CBT at a centre — a FRESH paper, NOT a re-test of CBT 1.**
 
 ---
 
@@ -72,6 +94,8 @@ Based on the pattern density in the 100-Q bank and the Knowledge Gate reference 
 
 **The leaked paper was almost certainly authored using the Knowledge Gate "Coal India MT (CS) Recruitment 2026" course by Sanchit Jain as the question pool.**
 
+> **⚠️ Cross-check done (02 Aug 2026): NOT CONFIRMED at question level.** I grepped the local `CoalIndiaLimited-PSU/` reference repo (the Knowledge Gate CIL course mirror) against 10+ CBT 1 fingerprints (`40-million-row product code`, `blank middle names`, `Aho-Corasick`, `priority inheritance`, `Kruskal`, `Bellman-Ford`, `UNIQUE constraint`, etc.). The repo contains **topic notes only** (OS, Engg-Maths, Paper-1), and the only matches were generic OS terminology ("address space" in process/thread definitions) — **zero question-level overlap**. This inference is now **Inferred/Weak**: same author pool is plausible stylistically, but no local evidence supports it.
+
 Evidence:
 
 1. **Knowledge Gate 16-Module CS curriculum** (visible in `CoalIndiaLimited-PSU/`) maps 1:1 to the topic distribution of the 100 questions:
@@ -96,11 +120,16 @@ CBT 2 is **02 Aug 2026, 02:30 PM, RT Nagar Bengaluru**. Based on the above analy
 
 ### 5.1. What CBT 2 will almost certainly be
 
-Per Adda247 + Testbook pattern:
+**2024-cycle precedent (Confirmed — Rahul Verma's LinkedIn post, 29 Jun 2026):**
+- Stage 2 (main CBT at centre): **100 MCQs / 60 minutes — 70 Technical + 30 GA** (Verbal, Reasoning, Numerical, GA incl. agri topics), **no negative marking**, English only, **speed-driven** ("strong concepts essential, but speed under time pressure decides").
+
+Per Adda247 + Testbook (official 2026 notification pattern):
 - **80 Technical (CS) + 40 GA**, 120 minutes, ¼ negative marking
 - Same syllabus: **Data Structures, Algorithms, DBMS, OS, CN, Basics of ML**
 - Higher difficulty than CBT 1 (CBT 1 was preliminary qualifier; CBT 2 is final selection)
 - Question style will be **GATE-CS level** (single-correct MCQ, scenario-based)
+
+> **CBT-2 prep takeaway:** whether 70+30 (2024 precedent) or 80+40 (2026 notification), the **technical:aptitude split is 2:1+ and both are MCQ-speed games**. Train for 1 Q / ~45 s technical, ~20–30 s aptitude.
 
 ### 5.2. What CBT 2 will NOT be
 
@@ -159,7 +188,7 @@ Per Adda247 + Testbook pattern:
 
 ## 7. Bottom Line
 
-> **The 100-Q bank is the leaked-and-recalled paper from the cancelled 30 June 2026 IFFCO GET CBT 1. The official paper was authored from a Knowledge Gate / GATE-CS pool, NOT from any PSU-specific question bank. CBT 2 on 02 Aug 2026 will be a fresh paper of the same style, scaled to 80 Technical + 40 GA per the official notification. Drill the leaked 100-Q mastery and GATE-CS PYQs for the 80 Technical, and use `Shared-Core/APTITUDE.md` + IFFCO/GA prep for the 40 GA.**
+> **The 100-Q bank is the recalled paper from the 30 June 2026 IFFCO GET CBT 1 attempt (cancelled per official helpdesk due to technical server issues; "paper leak" is unconfirmed YouTube-channel narrative). No public source for the questions was found in two search campaigns (11 angles, incl. 10+ verbatim fingerprints). CBT 2 on 02 Aug 2026 is a FRESH paper at a centre — same GATE-CS-flavored style, ~2:1 technical:aptitude split (2024 precedent: 70+30, no negative marking; 2026 notification: 80+40). Drill the recalled 100-Q mastery and GATE-CS PYQs for the technical block, and use `Shared-Core/APTITUDE.md` + IFFCO/GA prep for the aptitude block.**
 
 ---
 
@@ -218,4 +247,4 @@ Beyond the engines searched in Section 1, the following were directly fetched an
 
 **Practical takeaway for predicting CBT 2:** The leaked 100-Q paper is **not a publicly-circulating freely-shared resource**. To find the actual question bank online today, the user must either (a) join paid Telegram coaching groups (e.g. t.me/iffco_get_cbt — gated preview), (b) buy the iffcomock.netlify.app ₹50 unlock, or (c) buy the Toppersexam/Testbook bundles. The leaked paper itself, however, is still the best **structural proxy** — see Section 5.3 above for the high-probability topic table.
 
-Last updated: 02 Aug 2026 (this session)
+Last updated: 02 Aug 2026 (second search campaign — fingerprint searches, CoalIndia cross-check, timeline correction)
