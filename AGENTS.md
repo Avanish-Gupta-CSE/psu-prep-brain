@@ -12,10 +12,15 @@ All agents must optimize for exam readiness, memory continuity, and clear separa
 
 ## Current Priority Rules
 
-- Until the HPCL CBT on 3 May 2026, prioritize `HPCL/` and `Notes/Shared-Core/` over everything else.
-- Treat `IFFCO/` as the next major target and keep a parallel but smaller track running for it.
-- Treat `MSTC/` as an interview-readiness track while waiting for result updates.
-- Do not let MSTC interview prep displace the HPCL sprint unless a new MSTC result or interview event is added.
+**Phase 6: Aug-Sept 2026 CBT Marathon + Form-Filling Sprint (ACTIVE as of 20 Aug 2026)**
+
+- **IMMEDIATE (next 7 days):** Fill forms in `.brain/Jobs-Table.md` Tier 1 (closes 20–27 Aug). ISRO ICRB 267 closes TODAY (20 Aug 2026).
+- **Active CBT sprint (23–24 Aug + 5–6 Sep):** BSNL JTO, HLL Lucknow, CIL Bangalore, HAL Bengaluru. Prep via `Notes/Shared/`/`/` + Knowledge Gate / GO Classes.
+- **Berkadia exit active** (LWD 31 Aug 2026): handovers for ReservesAI, DMS, CMS.
+- **UCO Bank SO onboarding:** September 2026 batch (Salt Lake, Kolkata).
+- **Monitor:** NFL Top-5 OBC shortlist, IFFCO CBT 2 result, Balmer Lawrie result, NHAI shortlist, ISRO SC interview call, CERT-In interview call.
+- **Out of scope for Phase 6:** MSTC (closed), STPI (closed), BARC OCES (closed), HPCL (closed), SEBI (closed), ECIL (closed).
+- **Do not let new form-filling or exam prep displace Berkadia handovers or UCO onboarding admin** — those are time-locked.
 
 ## Content Boundaries
 

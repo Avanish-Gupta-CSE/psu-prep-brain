@@ -56,17 +56,152 @@
 | **Priority** | **HIGH TARGET** |
 
 ### 5. HLL Lifecare Limited -- Management Trainee (Engineering / CS-IT)
-| Field | Details |
-| :--- | :--- |
-| **Advt No.** | **HLL/HR/020/2026** |
-| **OFFICIAL CBT DATE** | **23 August 2026 (Sunday, 10:00 AM - 12:00 PM)** 🔥 |
-| **Reporting / Gate** | Entry: 8:00 AM \| Gate Closure: 9:30 AM |
-| **Test Location** | **LUCKNOW** |
-| **Travel Status** | **✈️ FLIGHTS TO LUCKNOW BOOKED!** |
-| **Application No** | `117272` |
-| **Saved Admit Card** | `C:\Programs\Learning\Gov jobs\HLL\HLL _ Admit Card.pdf` |
-| **Status** | **ADMIT CARD DOWNLOADED & FLIGHTS BOOKED** 🟢 |
-| **Priority** | **HIGH TARGET** |
+|| Field | Details |
+|| :--- | :--- |
+|| **Advt No.** | **HLL/HR/020/2026** |
+|| **OFFICIAL CBT DATE** | **23 August 2026 (Sunday, 10:00 AM - 12:00 PM)** 🔥 |
+|| **Reporting / Gate** | Entry: 8:00 AM | Gate Closure: 9:30 AM |
+|| **Test Location** | **LUCKNOW** |
+|| **Travel Status** | **✈️ FLIGHTS TO LUCKNOW BOOKED!** |
+|| **Application No** | `117272` |
+|| **Saved Admit Card** | `C:\Programs\Learning\Gov jobs\HLL\HLL _ Admit Card.pdf` |
+|| **Status** | **ADMIT CARD DOWNLOADED & FLIGHTS BOOKED** 🟢 |
+|| **Priority** | **HIGH TARGET** |
+
+### 5a. BSNL JTO (Junior Telecom Officer) -- Open Market Direct Recruitment
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **BSNLCO-11/12(11)/1/2026-RECTT-CO** dated 01.08.2026 |
+|| **OFFICIAL CBT DATE** | **23 August 2026 (Sunday)** 🔥 |
+|| **Admit Card Date** | **20 August 2026** (Download via `externalexam.bsnl.co.in`) |
+|| **Test Location** | Bengaluru (if Karnataka centre allotted) |
+|| **Vacancies** | 100 total (**26 seats in Karnataka/Bangalore**) |
+|| **Pattern** | 120 Questions (480 Marks) in 3 sections (Engg Sec I: 50 Qs, Engg Sec II: 50 Qs, General Ability: 20 Qs). |
+|| **Status** | Applied; admit card drops TODAY (20 Aug 2026) |
+|| **Priority** | **HIGH TARGET (26 Bengaluru Seats!)** |
+
+### 5b. India Security Press (ISP / SPMCIL) -- Supervisor (IT) Level-S1
+|| Field | Details |
+||---|---|
+|| **OFFICIAL CBT DATE** | **19 August 2026 (Wednesday)** ⚠️ YESTERDAY |
+|| **Test Location** | Bangalore |
+|| **Status** | CBT COMPLETED (19 Aug 2026); awaiting result |
+|| **Priority** | Awaiting Result |
+
+### 5c. ISRO ICRB 01(A-JPA):2026 -- Assistants / JPA / UDC / Stenographer
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **ISRO:ICRB:01(A-JPA):2026** |
+|| **Application Window** | **27 Jul 2026 – 20 Aug 2026** ⚠️ CLOSES TODAY |
+|| **Vacancies** | **267** (vacancy increased Aug 2026) |
+|| **Eligibility** | Graduate in any discipline (CS qualifies) |
+|| **Pay** | Level-4 ₹25,500 / Level-6 ₹35,400 (7th CPC) |
+|| **Selection** | CBT (qualifying) + Skill Test (Steno typing) + DV |
+|| **Status** | ⚠️ **APPLY TODAY — closes 20 Aug 2026** |
+|| **Priority** | **TODAY'S TOP ACTION** |
+
+### 5d. RCFL MT (Information Technology) -- Advt 16022026/MTIT/022026
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **MTIT/022026** |
+|| **Last Date** | **24 August 2026** ⚠️ 4 DAYS |
+|| **Vacancies** | 5 (UR-2, **OBC-NCL-2**, SC-1) — **your OBC seats reserved** |
+|| **Eligibility** | B.E./B.Tech in CS/IT/Computer Engg (Min 60% agg) |
+|| **Pay** | ₹60K/mo stipend → E-1 ₹40,000–₹1,40,000 (Navratna PSU) |
+|| **Selection** | Online CBT + Personal Interview |
+|| **Status** | ⚠️ **APPLY NOW** |
+|| **Priority** | **HIGH (OBC reserved seats)** |
+
+### 5e. RCFL Management Trainee 2026 -- 94 Posts (NEW Notification, 10 Aug 2026)
+|| Field | Details |
+||---|---|
+|| **Advt No.** | RCFL MT Recruitment 2026 (verify on rcfltd.com/hrrecruitment) |
+|| **Last Date** | Verify exact date — likely late Aug 2026 |
+|| **Vacancies** | **94** (multi-discipline MT) |
+|| **Eligibility** | B.E./B.Tech CS/IT likely eligible; verify CS discipline count |
+|| **Pay** | ₹40,000–₹1,40,000 (E-1, Navratna PSU) |
+|| **Selection** | CBT + GD + Interview |
+|| **Status** | ⚠️ Verify CS discipline, then apply |
+|| **Priority** | **HIGH** |
+
+### 5f. SBI Junior Associate (Clerk) -- General + OBC Backlog Drive
+|| Field | Details |
+||---|---|
+|| **Advt No.** | CRPD/CR/2026-27/17 (General) + CRPD/CR/SPLDRIVE/2026-27/16 (OBC Backlog) |
+|| **Last Date** | **27 Aug 2026** (Backlog) / **31 Aug 2026** (General) |
+|| **Eligibility** | Graduate in any discipline (CS qualifies); age 20-28 + 3 OBC-NCL relaxation |
+|| **Pay** | Clerk scale ~₹26,730–₹32,050 + DA + allowances |
+|| **Selection** | Prelims (qualifying) → Mains (merit) → LGD |
+|| **Status** | ⚠️ Apply before deadline; OBC backlog has lower competition |
+|| **Priority** | **HIGH** (banking fallback) |
+
+### 5g. SBI Specialist Cadre Officer -- 3 Active Notifications
+|| Field | Details |
+||---|---|
+|| **Advt No.** | CRPD/SCO/2026-27/11, 12, 13 (Contract/Regular/Hybrid) |
+|| **Last Date** | **27 August 2026** |
+|| **Eligibility** | Varies by post (Manager Systems / Data Scientist / Cyber likely present) |
+|| **Pay** | MMGS-II to III (~₹36,000–₹63,920 basic + DA + city allowance) |
+|| **Selection** | Online Test (Quant + Reasoning + Eng + Prof Knowledge) → Interview/GD |
+|| **Status** | ⚠️ **VERIFY POST NAMES** on SBI careers PDF before applying |
+|| **Priority** | **HIGH** |
+
+### 5h. IOCL Executives Recruitment 2026 -- Advt IOCL/CO-HR/RECTT/2026/01
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **IOCL/CO-HR/RECTT/2026/01** (470 posts) |
+|| **Application Window** | **14 Aug 2026 – 03 Sep 2026 (17:00 hrs)** |
+|| **Vacancies** | **470** (Engineer/Officer/AQCO/JE across Grade A/A0/E0) |
+|| **Eligibility** | Grade A (0-3 yrs exp): **ELIGIBLE**; A0 (2-5 yrs): **BORDERLINE (~3.08 yrs)**; E0 (4-9 yrs): **INELIGIBLE** |
+|| **Pay** | Grade A ₹50,000–₹1,60,000; A0 ₹60,000–₹1,80,000; E0 ₹70,000–₹2,00,000 |
+|| **Selection** | Online CBT (Domain + General Aptitude) → GD → Interview → Medical |
+|| **Status** | ⚠️ **VERIFY CS eligibility in Grade A posts in detailed advt PDF** |
+|| **Priority** | **HIGH (closes 3 Sep)** |
+
+### 5i. ISRO HSFC:01:RMT/2026 -- Scientist/Engineer 'SD' (Human Space Flight Centre)
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **HSFC:01:RMT/2026** |
+|| **Opening Date** | 10 August 2026 |
+|| **Last Date** | **30 August 2026** |
+|| **Vacancies** | SD posts (Bengaluru posting) |
+|| **Eligibility** | CS/IT B.E./B.Tech + post-qualification experience (verify 3-yr floor) |
+|| **Pay** | Level-11 ₹67,700–₹2,08,700 (7th CPC) |
+|| **Selection** | CBT + Interview |
+|| **Status** | ⚠️ Your ~3.08 yrs likely clears 3-yr floor — **VERIFY PDF** |
+|| **Priority** | **HIGH (premium ISRO posting, Bengaluru)** |
+
+### 5j. AAI Junior Executive (Operations) -- Advt 12/2026/CHQ/DR-CBT
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **Advt. 12/2026/CHQ/DR-CBT** |
+|| **Application Window** | Opens 8 Aug 2026 — verify closing date on aai.aero |
+|| **Eligibility** | CS/IT Degree eligible for JE (Operations); **LMV driving license required for airside duty** |
+|| **Pay** | Level-6 ₹35,400 (7th CPC) |
+|| **Selection** | CBT (Tech + Apt) → Interview/Verification |
+|| **Status** | ⚠️ Apply only if you have LMV license |
+|| **Priority** | **MEDIUM** (eligibility-gated) |
+
+### 5k. NABARD Grade A 2026 -- Officer (Assistant Manager)
+|| Field | Details |
+||---|---|
+|| **Notification** | Released Aug 10, 2026; apply window TBD (likely ~Sep 2026) |
+|| **Eligibility** | Bachelor's Degree in Computer Science/Computer Technology/Computer Applications/IT (min 60%) — **CS explicitly eligible** |
+|| **Pay** | ₹44,500–₹89,150 (A grade, post 7th CPC) |
+|| **Selection** | Prelims (qualifying) → Mains (merit) → Interview |
+|| **Status** | Monitor; apply when window opens |
+|| **Priority** | **MEDIUM (CS explicit)** |
+
+### 5l. URSC:03:2026 -- ISRO URSC Graduate Apprentice (Bengaluru)
+|| Field | Details |
+||---|---|
+|| **Advt No.** | **URSC:03:2026** |
+|| **Last Date** | **28 August 2026** |
+|| **Eligibility** | B.Tech CS/IT graduate |
+|| **Pay** | Stipend ~₹9,000–11,000/mo (1-year apprenticeship) |
+|| **Selection** | CGPA-based shortlisting + DV |
+|| **Status** | Apply (Bengaluru resume line) |
+|| **Priority** | **LOW PAY, RESUME GOLD** |
 
 ### 6. Coal India Limited (CIL) -- Management Trainee (Systems)
 | Field | Details |

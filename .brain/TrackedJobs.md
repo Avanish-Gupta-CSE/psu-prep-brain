@@ -76,11 +76,12 @@ These are jobs where Avanish has already completed significant selection rounds.
 
 These are immediate high-priority applications that Avanish must fill now:
 
+**📊 CANONICAL TABLE:** For the full structured list with pay / gross / in-hand / selection process / OBC-NCL reservation / CS eligibility per form, see **`.brain/Jobs-Table.md`** (5 tiers, 19 forms, last updated 20 Aug 2026).
+
 ### 1. HAL (Hindustan Aeronautics Limited) -- Design Trainee (DT) Computer Science
 * **Advt No.**: `HAL/CHRC-TM/RECT-02/2026` (Dated 29.07.2026)
-* **Status**: **ACTIVE / OPEN NOW (Closes August 14, 2026 at 2:00 PM)** 🟢
-* **Target Post**: **Design Trainee (DT) CS** (MT CS has 0 seats for Gen/OBC; DT CS is the exact post for CS/IT).
-* **Saved PDF Copy**: `HAL/Detailed_Advertisement_29072026.pdf`
+* **Status**: **FORM SUBMITTED (13 Aug 2026)** — App No: `D321947`
+* **Saved PDF Copy**: `HAL/Detailed_Advertisement_29072026.md`
 * **Dedicated Workspace Guide**: `HAL/README.md`
 * **OFFICIAL CBT EXAM DATE**: **05 & 06 September 2026** 🔥 (*Verified from Official Advt PDF!*)
 * **Official Selection Timeline**:
@@ -100,14 +101,14 @@ These are immediate high-priority applications that Avanish must fill now:
 * **Status**: **OPENS AUGUST 8, 2026 (Closes August 24, 2026)** 🟢
 * **Vacancies**: 5 (UR: 2, OBC-NCL: 2, SC: 1).
 * **Eligibility**: B.E. / B.Tech in CSE / IT / Computer Engineering (Min 60% aggregate, 55% for SC).
-* **Age Limit**: 27 years for UR, 30 years for OBC-NCL (as on 01.02.2026).
+* **Age Limit**: 27 years for UR, 30 years for OBC-NCL (as on 1.2.2026).
 * **Stipend & Grade**: ₹60,000/month during training, absorbed in E-1 Grade (₹40,000 – 1,40,000).
 * **Selection**: Online CBT + Personal Interview.
 * **Website**: `rcfltd.com`
 
 ### 3. NMDC Steel Limited (NSL) -- Executive Trainee (ET) -- Computer & Information Technology
 * **Advt No.**: `Notification No. 05 of 2026`
-* **Status**: **REGISTRATION SUBMITTED -- PAYMENT PENDING** 
+* **Status**: **REGISTRATION SUBMITTED -- PAYMENT PENDING**
 * **Applicant Details**:
   - Name: AVANISH KUMAR GUPTA
   - Registration No.: **126595**
@@ -118,58 +119,103 @@ These are immediate high-priority applications that Avanish must fill now:
 * **Payment Note**: Click "Pay Now" on portal, select category `RECRUITMENT NOTIFICATION NO. 05/2026 NSL`. After payment, wait 48-72 hours for bank validation before downloading application form.
 * **Location & Pay**: Nagarnar, Chhattisgarh. Pay Scale: ₹50,000 - 1,60,000.
 * **Selection**: CBT + Group Discussion (GD) + Interview.
-* **Last Date**: **11 August 2026**
+* **Last Date**: **11 August 2026** ✅ Form submitted; CBT/GD/Interview TBD
 * **Website**: `nmdcsteel.nmdc.co.in`
 * **Folder**: `NMDCSteel/`
 
 ### 4. Airports Authority of India (AAI) -- Junior Executive (Operations) / Manager
 * **Advt No.**: `Advt. No. 12/2026/CHQ/DR-CBT`
-* **Status**: **OPENS AUGUST 8, 2026** 🟢
+* **Status**: **OPENS AUGUST 8, 2026** — verify apply window live on aai.aero 🟢
 * **Eligibility & Requirement**: CS/IT Degree eligible for JE (Operations). Requires LMV driving license for airside duty vehicles. Fee: ₹0 for SC/ST/PwBD/Women.
 * **Selection**: CBT + Interview / Verification.
 * **Website**: `aai.aero`
 
-### 6. CERT-In (Indian Computer Emergency Response Team) -- Scientist 'B'
+### 5. CERT-In (Indian Computer Emergency Response Team) -- Scientist 'B'
 * **Advt No.**: `CERT-In/SCB/2026/1`
 * **Status**: **🔥 FORM SUBMITTED SUCCESSFULLY! (17 August 2026)** 🟢
 * **Application No**: **`261030011869`**
 * **GATE Credentials**: GATE 2026 CS (Score: `350`) + GATE 2026 DA (Score: `337`)
 * **Saved Confirmation**: `C:\Programs\Learning\Gov jobs\ICERT\ConfirmationPage-261030011869.pdf`
 * **Vacancies**: **83 Posts for CS / IT** (Pay Level-10: ₹56,100 - 1,77,500, Group 'A' / Statutory Body under MeitY).
-* **Selection Weightage**: 60% GATE Score + 40% Personal Interaction / Interview (at New Delhi).
+* **Selection Weightage**: 60% GATE Score + 40% Personal Interaction/Interview (at New Delhi).
 * **Website**: `cert-in.org.in` / `examinationservices.nic.in`
 
-### 7. ISRO -- Scientist/Engineer 'SC' (Computer Science)
+### 6. ISRO -- Scientist/Engineer 'SC' (Computer Science)
 * **Advt No.**: `ISRO:ICRB:02(EMC-CEPO):2026`
 * **Status**: **🔥 FORM SUBMITTED (17 August 2026)** 🟢
-* **GATE Credentials**: GATE 2026 CS (`CS26S31313020`, Score: `350`, Rank: `29099`)
+* **GATE Credentials**: GATE 2026 CS (Reg: `CS26S31313020`, Score: `350`, Rank: `29099`)
 * **Saved Scorecard Upload**: `GATE_2026_CS_Scorecard_Avanish.pdf` (358 KB)
 * **Selection**: GATE 2026 CS Score Shortlisting + Personal Interview (URSC Bangalore).
 * **Website**: `isro.gov.in`
 
-### 6. ISRO -- Scientist/Engineer 'SC' (Computer Science)
-* **Advt No.**: `ISRO:ICRB:02(EMC-CEPO):2026`
-* **Status**: **FORM SUBMITTED (17 August 2026)** 🟢
-* **GATE Details**: GATE 2026 CS (Reg: `CS26S31313020`, Score: `350`, Rank: `29099`)
-* **Uploaded Scorecard**: `GATE_2026_CS_Scorecard_Avanish.pdf` (358 KB)
-* **Vacancies**: 13 (URSC Bengaluru, NRSC Hyderabad, SAC Ahmedabad, VSSC Thiruvananthapuram).
-* **Selection**: GATE Score Shortlisting + Personal Interview (Level 10 Pay Matrix: ₹56,100 Basic).
-* **Website**: `isro.gov.in`
+### 7. ISRO ICRB 01(A-JPA):2026 -- Assistants / JPA / UDC / Stenographer (267 posts) ⚠️ CLOSES TODAY
+* **Advt No.**: `ISRO:ICRB:01(A-JPA):2026`
+* **Status**: **🔥 APPLY TODAY! Closes 20 Aug 2026 (2 days left)**
+* **Vacancies**: **267** (vacancy increased Aug 2026)
+* **Eligibility**: Graduate in any discipline (CS qualifies)
+* **Pay**: Level-4 ₹25,500 / Level-6 ₹35,400 (7th CPC)
+* **Selection**: CBT (qualifying) + Skill Test (Steno typing) + DV
+* **Website**: `isro.gov.in/CurrentOpportunities.html`
 
-### 7. CERT-In (Indian Computer Emergency Response Team) -- Scientist 'B' (Group 'A')
-* **Advt No.**: `CERT-In/SCB/2026/1`
-* **Status**: **ACTIVELY FILLING FORM NOW (17 August 2026)** 🟢
-* **Application No**: **`261030011869`**
-* **Vacancies**: **83 Posts for CS / IT** (Total 133 posts across CS/DA/EC).
-* **Pay Scale**: Level-10 (₹56,100 – ₹1,77,500) — Gazetted Group 'A' equivalent.
-* **Eligibility**: B.E. / B.Tech / MCA / M.Sc in CS/IT + Valid GATE 2024 / 2025 / 2026 CS Score (`CS`).
-* **Selection**: GATE Score (60% weightage) + Personal Interview (40% weightage).
-* **Website**: `cert-in.org.in` / `nielit.gov.in`
+### 8. SBI Junior Associate (Clerk) -- OBC-NCL Backlog Special Drive 🟢 APPLY THIS WEEK
+* **Advt No.**: `CRPD/CR/SPLDRIVE/2026-27/16`
+* **Status**: **Closes 27 August 2026**
+* **Eligibility**: Graduate in any discipline; age 20-28 + 3 OBC-NCL relaxation
+* **Pay**: Clerk scale ~₹26,730–₹32,050 + DA + allowances
+* **Selection**: Prelims → Mains → LGD
+* **Advantage**: **OBC-NCL backlog quota = lower competition**
+* **Website**: `sbi.bank.in/web/careers`
 
-### 8. HARTRON (Haryana State Electronics Dev Corp) -- Junior Programmer
+### 9. SBI Specialist Cadre Officer (3 active notifications) ⚠️ VERIFY POST NAMES FIRST
+* **Advt No.**: `CRPD/SCO/2026-27/11` (Contract/Regular), `12` (Regular), `13` (Contract)
+* **Status**: **Closes 27 August 2026**
+* **Eligibility**: Varies by post; previous cycle had Asst Manager (System) + Dy Manager (Systems-InfoSec)
+* **Pay**: MMGS-II to III (~₹36,000–₹63,920 basic)
+* **Selection**: Online Test (Quant + Reasoning + Eng + Prof Knowledge) → Interview/GD
+* **Action**: Open PDFs on sbi.bank.in/web/careers and search for IT/Systems posts
+* **Website**: `sbi.bank.in/web/careers`
+
+### 10. IOCL Executives Recruitment 2026 (470 posts) ⚠️ VERIFY CS ELIGIBILITY
+* **Advt No.**: `IOCL/CO-HR/RECTT/2026/01`
+* **Status**: **Closes 03 September 2026** (apply window: 14 Aug – 3 Sep 17:00 hrs)
+* **Vacancies**: **470** (Engineer/Officer/AQCO/JE across Grade A/A0/E0)
+* **Eligibility**: Grade A (0-3 yrs): ELIGIBLE; A0 (2-5 yrs): BORDERLINE (~3.08 yrs); E0: INELIGIBLE
+* **Pay**: Grade A ₹50,000–₹1,60,000; A0 ₹60,000–₹1,80,000; E0 ₹70,000–₹2,00,000
+* **Selection**: Online CBT (Domain + General Aptitude) → GD → Interview → Medical
+* **Action**: Verify CS eligibility in detailed advt PDF on iocl.com/latest-job-opening
+* **Website**: `iocl.com/latest-job-opening`
+
+### 11. ISRO HSFC:01:RMT/2026 -- Scientist/Engineer 'SD' ⚠️ VERIFY EXP
+* **Advt No.**: `HSFC:01:RMT/2026`
+* **Status**: **Closes 30 August 2026**
+* **Vacancies**: SD posts (Bengaluru posting at HSFC)
+* **Eligibility**: CS/IT B.E./B.Tech + post-qualification experience (verify 3-yr floor)
+* **Pay**: Level-11 ₹67,700–₹2,08,700 (7th CPC)
+* **Selection**: CBT + Interview
+* **Action**: Verify 3-yr experience clause (your ~3.08 yrs likely qualifies)
+* **Website**: `isro.gov.in/CurrentOpportunities.html`
+
+### 12. RCFL Management Trainee 2026 -- 94 Posts (NEW, 10 Aug 2026 notification)
+* **Advt No.**: RCFL MT Recruitment 2026 (verify on rcfltd.com/hrrecruitment)
+* **Status**: **Verify exact last date — likely late Aug 2026**
+* **Vacancies**: **94** (multi-discipline MT)
+* **Eligibility**: B.E./B.Tech CS/IT likely eligible; verify CS discipline count
+* **Pay**: ₹40,000–₹1,40,000 (E-1, Navratna PSU)
+* **Selection**: CBT + GD + Interview
+* **Website**: `rcfltd.com/hrrecruitment`
+
+### 13. URSC:03:2026 -- ISRO URSC Graduate Apprentice (Bengaluru)
+* **Advt No.**: `URSC:03:2026`
+* **Status**: **Closes 28 August 2026**
+* **Eligibility**: B.Tech CS/IT graduate
+* **Pay**: Stipend ~₹9,000–11,000/mo (1-year apprenticeship)
+* **Selection**: CGPA-based shortlisting + DV
+* **Website**: `isro.gov.in/CurrentOpportunities.html`
+
+### 14. HARTRON (Haryana State Electronics Dev Corp) -- Junior Programmer
 * **Advt No.**: `Hartron/ICTET/2026-27/03`
-* **Status**: **ACTIVE / CLOSES AUGUST 09, 2026** 🟢
-* **Vacancies**: **530 Posts**
+* **Status**: ❌ **CLOSED 09 August 2026** (missed window)
+* **Vacancies**: **530 Posts** (State PSU / Corp).
 * **Eligibility**: B.Tech / MCA / B.Sc / BCA in CS/IT (Min 55% marks).
 * **Selection**: Written Test / Programming Test.
 * **Website**: `hartron.org.in`
