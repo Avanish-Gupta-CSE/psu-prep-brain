@@ -2,7 +2,7 @@
 
 **Last updated:** 20 August 2026, 08:05 IST (Thursday)
 **Candidate:** Avanish Gupta — OBC-NCL, B.Tech CSE (KIIT, CGPA 9.60, 2024)
-**Experience:** ~3.08 yrs post-qualification (STMicro 10 mo + Berkadia 27 mo)
+- **Experience:** **~2.2 yrs post-qualification** (Berkadia Jun 2024 – present; STMicro internship Aug 2023 – May 2024 is during B.Tech so NOT counted)
 **GATE 2026:** CS Score 350 (AIR 29,099) | DA Score 337
 **Secured:** UCO Bank SO (joining Sep 2026, deferred)
 **Berkadia LWD:** 31 Aug 2026
@@ -39,7 +39,7 @@
 | 9 | `IOCL/CO-HR/RECTT/2026/01` | **IOCL** — Executives (Engineer/Officer/AQCO/JE) — Grade A | **470 total** (Grade A + A0 + E0) | **03 Sep 2026** | **Grade A:** 50,000–1,60,000; **A0:** 60,000–1,80,000 (you qualify, ~3 yrs exp) | 80K–95K (A); 95K–1.1L (A0) + DA+HRA+cafeteria | 68K–90K | Online CBT (Domain Knowledge + General Aptitude) → GD → Interview → Pre-employment Medical | ✅ | ⚠️ **VERIFY Grade A/A0 posts include CS/IT** in detailed advt | https://iocl.com/latest-job-opening | ⚠️ **VERIFY CS eligibility in PDF, then apply by 3 Sep** |
 | 10 | `CRPD/CR/2026-27/17` | **SBI** — Junior Associate (Customer Support & Sales) — General | ~9,766 (consolidated 2026 cycle) | **31 Aug 2026** | 26,730–32,050 (clerk) | 42K–52K | 34K–44K | Prelims → Mains → LGD | ✅ | ✅ Graduate any | https://sbi.bank.in/web/careers/CRPD-CR-2026-27-17 | ✅ **APPLY THIS WEEK** — backup |
 | 11 | `HAL/CHRC-TM/RECT-02/2026` | **HAL** — Design Trainee (CS) | DT CS seats | Form closed; **CBT: 05–06 Sep 2026** | 40,000–1,40,000 (E-1, HAL) | 70K–90K | 60K–78K | CBT (85%) + Interview (15%) — 160 MCQs | ✅ | ✅ **Explicitly CS** | Already submitted (App `D321947`) | 🟢 **DONE** — prep for 5–6 Sep |
-| 12 | `HSFC:01:RMT/2026` | **ISRO HSFC** — Scientist/Engineer 'SD' | SD posts (Bengaluru) | **30 Aug 2026** | 67,700–2,08,700 (Level-11, post 7th CPC) | 1.05L–1.30L | 90K–1.10L | CBT + Interview | ✅ | ✅ **CS discipline**; ⚠️ Experience req typically 3+ yrs — **your ~3.08 yrs likely qualifies, verify** | https://www.isro.gov.in/CurrentOpportunities.html | ⚠️ **VERIFY experience clause, then apply** |
+| 12 | `HSFC:01:RMT/2026` | **ISRO HSFC** — Scientist/Engineer 'SD' | SD posts (Bengaluru) | **30 Aug 2026** | 67,700–2,08,700 (Level-11, post 7th CPC) | 1.05L–1.30L | 90K–1.10L | CBT + Interview | ✅ | ✅ CS discipline; ❌ **NOT ELIGIBLE** — requires 3+ yrs post-qualification exp; you have ~2.2 yrs | https://www.isro.gov.in/CurrentOpportunities.html | ❌ **Skip — exp bar not met** |
 | 13 | `Advt. 12/2026/CHQ/DR-CBT` | **AAI** — Junior Executive (Operations) / Manager | Multiple | Verify last date — opens 8 Aug, likely ~Sep 2026 | Level-6 35,400 (7th CPC) | 55K–65K | 45K–55K | CBT (Tech + Apt) → Interview | ✅ | ⚠️ **Operations post requires LMV driving license** for airside duty | https://www.aai.aero/en/careers | ⚠️ **Apply if you have LMV; else skip** |
 | 14 | `Notification 05/2026` | **NMDC Steel** — Executive Trainee (CS/IT) | Reg `126595`, Fee ₹500 paid | Form submitted; CBT/GD/Interview TBD | 50,000–1,60,000 (Nagarnar, Chhattisgarh) | 75K–95K | 65K–82K | CBT + GD + Interview | ✅ | ✅ Explicit CS/IT | https://nmdcsteel.nmdc.co.in | 🟢 **DONE** — await form download |
 
@@ -62,7 +62,7 @@
 
 | # | Form / Advt No. | Organization · Role | Reason |
 |---|---|---|---|
-| ❌ | `E/04/2026` | **HURL** — Senior Engineer SAP | Requires **4 yrs post-qualification exp**; you have ~3.08 yrs (still ineligible as of 20 Aug 2026) |
+| ❌ | `E/04/2026` | **HURL** — Senior Engineer SAP | Requires **4 yrs post-qualification exp**; you have ~2.2 yrs (STMicro internship during B.Tech not counted) |
 | ❌ | `Hartron/ICTET/2026-27/03` | **HARTRON** — Jr Programmer | **Closed 9 Aug 2026** (missed window) |
 | ❌ | `ISRO:ICRB:02(EMC):2025` | **STPI** — Scientist 'B' (Level-10) | **NOT SELECTED** (final score 68.80/100, missed 1 OBC seat) |
 | ❌ | `01 (NFL)/2026` | **NFL MT (IT)** — Interview stage pending | **99.00/150** scorecard; awaiting Top-5 OBC shortlist notification |

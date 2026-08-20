@@ -23,7 +23,8 @@
 
 ### Current: Berkadia, Bengaluru (26 June 2024 - Present; ~2.2 yrs as of 20 Aug 2026)
 - **Role:** Associate Software Engineer
-- **Total post-qualification experience (as of 20 Aug 2026):** **~3.08 yrs** (STMicro Aug 2023 – May 2024 [10 mo] + Berkadia Jun 2024 – present [27 mo])
+- **Post-qualification experience (counted from B.Tech completion, 2024):** **~2.2 yrs** (Berkadia Jun 2024 – present; STMicro internship Aug 2023 – May 2024 is NOT counted since it was during B.Tech)
+- **Total post-B.Tech experience: ~2.2 yrs** (Berkadia only — internship not counted)
 - **Shift:** 11 AM - 8 PM (cannot leave until terminated)
 - **Stack:** React 18/19, Node.js, Express, TypeScript, PostgreSQL, MongoDB, Elasticsearch, AWS, Azure DevOps, Docker, Kubernetes
 - **Projects:** ReservesAI (AI document processing), DMS (Document Management System), CMS (Cash Management Service)

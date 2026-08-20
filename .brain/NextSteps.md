@@ -31,7 +31,7 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 8. **URSC Apprentice (Bengaluru, closes 28 Aug)** — Jobs-Table row #8 — resume line
 
 ### 📅 30 Aug – 3 Sep 2026
-9. **ISRO HSFC:01:RMT/2026 (Scientist/Engineer SD)** — Jobs-Table row #12 — verify 3-yr exp clause (you have ~3.08 yrs, borderline)
+9. ~~**ISRO HSFC:01:RMT/2026 (Scientist/Engineer SD)**~~ — **NOT ELIGIBLE** — Jobs-Table row #12. Skip; needs 3+ yrs post-qualification exp, you have ~2.2 yrs.
 11. **IOCL Executives Advt 2026/01 (470 posts)** — Jobs-Table row #9 — verify Grade A CS eligibility in PDF
 12. **AAI Advt 12/2026/CHQ/DR-CBT (JE Operations)** — Jobs-Table row #13 — only if you have LMV license
 
@@ -66,14 +66,14 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 - **Berkadia LWD:** 31 Aug 2026 (early release approved); active handovers for ReservesAI, DMS, CMS
 - **UCO Bank SO Onboarding:** September 2026 batch (Salt Lake, Kolkata); extension granted
 - **GATE 2026 Scores:** CS 350 (AIR 29,099), DA 337
-- **Experience:** ~3.08 yrs post-qualification (STMicro Aug 2023 – May 2024 [10 mo] + Berkadia Jun 2024 – present [27 mo]) — **CORRECTION**: previously logged as ~1.1 yr; this changes eligibility for HSFC SD (likely eligible) and IOCL Grade A0 (borderline)
+- **Experience:** ~2.2 yrs post-qualification (Berkadia Jun 2024 – present; STMicro internship Aug 2023 – May 2024 was during B.Tech so NOT counted). IOCL Grade A eligible; Grade A0 just clears 2-yr floor; HSFC SD (3+ yrs) INELIGIBLE.
 - **Age:** 25 → 26 on 31 Mar 2026; OBC-NCL relaxation applies for most PSU posts through 30+
 
 ---
 
 ## 🚫 NOT Eligible / Closed
 
-- **HURL Advt E/04/2026** — needs 4 yrs post-qualification exp; you have ~3.08 yrs → **STILL INELIGIBLE**
+- **HURL Advt E/04/2026** — needs 4 yrs post-qualification exp; you have ~2.2 yrs → **INELIGIBLE**
 - **HARTRON Jr Programmer** — closed 9 Aug 2026 (missed)
 - **MSTC MT** — not selected (Jul 2026 merit)
 - **STPI Scientist 'B'** — not selected (68.80/100)
@@ -88,7 +88,7 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 - `.brain/TrackedJobs.md` — staged/completed tracks (needs sync with Jobs-Table.md Tier 4)
 - `.brain/Jobs-Table.md` — **CANONICAL FORM TABLE** (5 tiers, 19 forms, pay/process/eligibility)
 - `.brain/StudyPlan.md` — phase schedule (stale on remote; needs Phase 5/6 update for Aug-Sept sprint)
-- `.brain/Profile.md` — student profile (also has ~3.08 yr exp calc needed)
+- `.brain/Profile.md` — student profile (exp calc corrected to ~2.2 yrs post-qualification)
 - `.brain/WeakAreas.md` — weak topic tracking
 - `.brain/Syllabus.md` — GATE CS syllabus
 - `.brain/QuickReference.md` — formula cheat sheets
@@ -101,7 +101,7 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 ## 🛠️ Stale Files (need update next session)
 
 1. `.brain/StudyPlan.md` — still shows Phase 4 as ACTIVE with HPCL focus (HPCL is closed/dead); needs Phase 5/6 for Aug-Sept CBT marathon
-2. `.brain/Profile.md` — `Experience` field still says "~1.1 yrs"; update to ~3.08 yrs
+2. ~~`.brain/Profile.md` — `Experience` field still says "~1.1 yrs"; update to ~3.08 yrs~~ ✅ DONE — corrected to ~2.2 yrs post-qualification
 3. `AGENTS.md` — priority rules still say "until HPCL CBT on 3 May 2026" (past); needs Phase-5/6 priorities
 4. `.brain/TrackedJobs.md` — needs Tier-5 sync with Jobs-Table.md (add ISRO ICRB 267, SBI SCO, RCFL MT 94-post, IOCL 470, HSFC SD, NABARD Grade A)
 5. `.brain/ExamTracker.md` — needs to add the new forms being filled (Tier 1-3 of Jobs-Table)

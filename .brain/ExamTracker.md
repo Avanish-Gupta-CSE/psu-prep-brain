@@ -152,7 +152,7 @@
 || **Advt No.** | **IOCL/CO-HR/RECTT/2026/01** (470 posts) |
 || **Application Window** | **14 Aug 2026 – 03 Sep 2026 (17:00 hrs)** |
 || **Vacancies** | **470** (Engineer/Officer/AQCO/JE across Grade A/A0/E0) |
-|| **Eligibility** | Grade A (0-3 yrs exp): **ELIGIBLE**; A0 (2-5 yrs): **BORDERLINE (~3.08 yrs)**; E0 (4-9 yrs): **INELIGIBLE** |
+**Eligibility**: Grade A (0-3 yrs exp): **ELIGIBLE**; A0 (2-5 yrs): **JUST ELIGIBLE (~2.2 yrs)**; E0 (4-9 yrs): **INELIGIBLE**
 || **Pay** | Grade A ₹50,000–₹1,60,000; A0 ₹60,000–₹1,80,000; E0 ₹70,000–₹2,00,000 |
 || **Selection** | Online CBT (Domain + General Aptitude) → GD → Interview → Medical |
 || **Status** | ⚠️ **VERIFY CS eligibility in Grade A posts in detailed advt PDF** |
@@ -168,7 +168,7 @@
 || **Eligibility** | CS/IT B.E./B.Tech + post-qualification experience (verify 3-yr floor) |
 || **Pay** | Level-11 ₹67,700–₹2,08,700 (7th CPC) |
 || **Selection** | CBT + Interview |
-|| **Status** | ⚠️ Your ~3.08 yrs likely clears 3-yr floor — **VERIFY PDF** |
+|| **Status** | ❌ **NOT ELIGIBLE** — Requires 3+ yrs post-qualification experience; you have ~2.2 yrs (STMicro internship during B.Tech is not counted). Skip unless Advt explicitly accepts 2 yrs. |
 || **Priority** | **HIGH (premium ISRO posting, Bengaluru)** |
 
 ### 5j. AAI Junior Executive (Operations) -- Advt 12/2026/CHQ/DR-CBT

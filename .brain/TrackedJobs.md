@@ -179,20 +179,20 @@ These are immediate high-priority applications that Avanish must fill now:
 * **Advt No.**: `IOCL/CO-HR/RECTT/2026/01`
 * **Status**: **Closes 03 September 2026** (apply window: 14 Aug – 3 Sep 17:00 hrs)
 * **Vacancies**: **470** (Engineer/Officer/AQCO/JE across Grade A/A0/E0)
-* **Eligibility**: Grade A (0-3 yrs): ELIGIBLE; A0 (2-5 yrs): BORDERLINE (~3.08 yrs); E0: INELIGIBLE
+* **Eligibility**: Grade A (0-3 yrs): ELIGIBLE; A0 (2-5 yrs): JUST ELIGIBLE (~2.2 yrs); E0: INELIGIBLE
 * **Pay**: Grade A ₹50,000–₹1,60,000; A0 ₹60,000–₹1,80,000; E0 ₹70,000–₹2,00,000
 * **Selection**: Online CBT (Domain + General Aptitude) → GD → Interview → Medical
 * **Action**: Verify CS eligibility in detailed advt PDF on iocl.com/latest-job-opening
 * **Website**: `iocl.com/latest-job-opening`
 
-### 11. ISRO HSFC:01:RMT/2026 -- Scientist/Engineer 'SD' ⚠️ VERIFY EXP
+### 11. ISRO HSFC:01:RMT/2026 -- Scientist/Engineer 'SD' ❌ NOT ELIGIBLE
 * **Advt No.**: `HSFC:01:RMT/2026`
 * **Status**: **Closes 30 August 2026**
 * **Vacancies**: SD posts (Bengaluru posting at HSFC)
 * **Eligibility**: CS/IT B.E./B.Tech + post-qualification experience (verify 3-yr floor)
 * **Pay**: Level-11 ₹67,700–₹2,08,700 (7th CPC)
 * **Selection**: CBT + Interview
-* **Action**: Verify 3-yr experience clause (your ~3.08 yrs likely qualifies)
+* **Action**: ❌ **NOT ELIGIBLE** — requires 3+ yrs post-qualification experience; you have ~2.2 yrs (STMicro internship during B.Tech not counted). Skip.
 * **Website**: `isro.gov.in/CurrentOpportunities.html`
 
 ### 12. RCFL Management Trainee 2026 -- 94 Posts (NEW, 10 Aug 2026 notification)
