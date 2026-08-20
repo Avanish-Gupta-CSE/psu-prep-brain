@@ -87,7 +87,7 @@
 
 ### 🔍 This Weekend
 8. **Open IOCL Advt 2026/01 PDF** on iocl.com/latest-job-opening → confirm Grade A CS eligibility → apply by 3 Sep
-9. **Open ISRO HSFC SD PDF** → verify 3 yrs exp clause → apply by 30 Aug
+9. ~~**Open ISRO HSFC SD PDF** → verify 3 yrs exp clause → apply by 30 Aug~~ (skipped — NOT ELIGIBLE, 2.2 yrs < 3 yrs)
 10. **Verify AAI Advt 12/2026 apply window** (was opens 8 Aug; check aai.aero) → apply if LMV license held
 
 ### 📝 Before CIL CBT (24 Aug)

@@ -31,7 +31,7 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 8. **URSC Apprentice (Bengaluru, closes 28 Aug)** — Jobs-Table row #8 — resume line
 
 ### 📅 30 Aug – 3 Sep 2026
-9. ~~**ISRO HSFC:01:RMT/2026 (Scientist/Engineer SD)**~~ — **NOT ELIGIBLE** — Jobs-Table row #12. Skip; needs 3+ yrs post-qualification exp, you have ~2.2 yrs.
+9. ~~**ISRO HSFC:01:RMT/2026 (Scientist/Engineer SD)**~~ — **NOT ELIGIBLE** — Jobs-Table row #12. Skip; needs 3+ yrs post-qualification exp, you have ~2.2 yrs. ~~Open ISRO HSFC SD PDF~~ ~~apply by 30 Aug~~.
 11. **IOCL Executives Advt 2026/01 (470 posts)** — Jobs-Table row #9 — verify Grade A CS eligibility in PDF
 12. **AAI Advt 12/2026/CHQ/DR-CBT (JE Operations)** — Jobs-Table row #13 — only if you have LMV license
 
