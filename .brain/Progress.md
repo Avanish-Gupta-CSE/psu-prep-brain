@@ -14,6 +14,24 @@
 
 ## Session Log
 
+### Session 47 -- 23 Aug 2026 (HLL CBT Debrief + IOCL Last-Date Confirmation)
+- **Type:** Exam Debrief + Recruitment Last-Date Verification + Weak-Areas Drill Plan
+- **What happened:**
+  - **HLL Lifecare MT (CS/IT) CBT attempted**: 23 Aug 2026, 10 AM Lucknow (App No `117272`).
+  - **Score breakdown (self-reported):** 80/100 attempted = 44/50 reasoning + 36/50 technical; **6 reasoning skipped (GK) + 14 technical skipped** (Digital Electronics, CN subnetting, TOC, COA).
+  - **Marking:** +1 / -0.25 (1/4 negative).
+  - **IOCL last date VERIFIED**: iocl.com/latest-job-opening live-fetched on 23 Aug 2026 confirms window **14 Aug – 03 Sep 2026, 17:00 hrs** for Advt IOCL/CO-HR/RECTT/2026/01 (470 posts). Grade A / A0 both fit your ~2.2 yrs post-qualification experience.
+  - **Logged:** `/HLL/HLL-CBT-DEBRIEF-2026-08-23.md` (full debrief, weakness analysis, 12-day drill plan).
+  - **Logged:** `/IOCL/IOCL-RECRUITMENT-2026-CONFIRMED.md` (apply window, eligibility, pay, docs checklist).
+- **Topics covered:** Digital Electronics formulas (MUX/DEMUX), CN subnetting (usable host addresses), TOC pumping lemma, COA pipeline hazards, GK current affairs strategy.
+- **Questions attempted:** 80 / 100 (HLL CBT)
+- **Accuracy:** Net score TBD (awaiting HLL official answer key)
+- **Weak areas identified:** Digital Electronics MUX line-count, CN subnetting/CIDR, TOC pumping lemma + closure properties, COA pipeline hazards, GK / current affairs.
+- **Next goals:**
+  - **Tomorrow (24 Aug):** CIL MT (Systems) CBT — Bangalore. Read Coal India CS Addendum (25 Jul) first.
+  - **Between 27 Aug – 1 Sep:** Apply to IOCL Executives Advt 2026/01 (verify Grade A CS eligibility in PDF first).
+  - **12-day weak-topic drill plan** (25 Aug – 5 Sep): Digital Electronics → CN subnetting → TOC → COA + daily 15-min PIB capsule for GK.
+
 ### Session 46 -- 17 Aug 2026 (ISRO Scientist SC & CERT-In Scientist 'B' Successful Submissions)
 - **Type:** Application Submissions & Pipeline Management
 - **What happened:**

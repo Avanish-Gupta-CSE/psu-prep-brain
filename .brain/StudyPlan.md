@@ -75,8 +75,10 @@
 - ✅ 1 full mock paper every weekend (Aptitude OR Core CS, alternating)
 - ✅ Update `.brain/Progress.md` (session log) and `.brain/NextSteps.md` after every active academic study session or form submission
 - ✅ Update `.brain/Jobs-Table.md` whenever a Tier status changes (closed / submitted / withdrawn)
-- ✅ All study notes and form confirmations committed to git by Sunday EOD
 - ✅ Read `.brain/Jobs-Table.md` FIRST every morning before starting any work
+- ✅ After every CBT: write `/<Org>/<Post>-CBT-DEBRIEF-YYYY-MM-DD.md` with score, skipped topics, weak-area drill plan
+- ✅ **Daily GK capsule** (15 min, non-negotiable, post-HLL): PIB + Employment News + Adda247 current affairs
+- ✅ **12-day weak-topic drill plan** (25 Aug – 5 Sep): Digital Electronics → CN subnetting → TOC → COA, ~90 min/day
 
 ---
 

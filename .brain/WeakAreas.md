@@ -28,6 +28,31 @@ Remediation (10 min/day, 7 days):
 - Speak answers aloud (5 repeats each), then do 2 random-order retakes.
 - Source: `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`
 
+### HLL Lifecare CBT (23 Aug 2026) — PSU-CBT Exam Weakness Map (ACTIVE)
+
+**Trigger**: Attempted 80/100, marked 6 GK + 14 technical as skip (negative marking 1/4). Target CIL (24 Aug), HAL (5–6 Sep), IOCL (3 Sep apply + CBT TBD).
+
+| Subject | Specific Gap | Daily Drill (primary) | Practice source |
+|---|---|---|---|
+| **Digital Electronics** | Multiplexer control-line count (16-to-1 = 4 lines), decoder/encoder line counts, flip-flop excitation/characteristic tables | 90 min/day for 2 days (25–26 Aug) | Adda247 DE practice set; Knowledge Gate CIL Module 14 |
+| **Computer Networks** | Usable host addresses (`(2^h) - 2`), CIDR notation, VLSM, subnetting numerics, TCP/IP header fields | 90 min/day for 2 days (27–28 Aug) | Knowledge Gate Module 4 (CN); GateOverflow subnetting tag |
+| **Theory of Computation** | Pumping Lemma (Regular + CFL), closure properties table, decidability chart (R/RE/Non-RE), Halting Problem | 90 min/day for 2 days (29–30 Aug) | Knowledge Gate Module 13 (TOC); GateOverflow TOC tag |
+| **Computer Org & Architecture** | Pipeline hazards (RAW/WAR/WAW + structural + control), cache mapping (direct/set/fully associative), addressing modes | 60 min/day for 2 days (31 Aug – 1 Sep) | Adda247 COA practice; GO Classes COA revision |
+| **GK / Current Affairs** | Static GK (capital/currency/first-in-India), 1-week current affairs | 15 min/day non-negotiable from 24 Aug | PIB daily, Employment News weekly, Adda247 current affairs |
+
+**Schedule (from HLL debrief, 12 days to HAL CBT):**
+
+| Days | Focus | Daily Time |
+|---|---|---|
+| Mon 25 – Tue 26 Aug | Digital Electronics (MUX/DEMUX/flip-flops) | 90 min |
+| Wed 27 – Thu 28 Aug | CN Subnetting (classful + CIDR + VLSM) | 90 min |
+| Fri 29 – Sat 30 Aug | TOC (Pumping Lemma + closure + decidability) | 90 min |
+| Sun 31 Aug – Mon 1 Sep | COA (pipeline hazards + cache) | 60 min |
+| Tue 2 – Wed 3 Sep | IOCL form fill + GK capsule | 30 min |
+| Thu 4 – Fri 5 Sep | HAL CBT last-minute revision | full-day |
+
+**Source debriefer:** `HLL/HLL-CBT-DEBRIEF-2026-08-23.md`
+
 ### From GATE 2026 (CS: 21/100, DA: 28/100)
 
 The GATE scores indicate broad weakness across the CS syllabus. Based on typical GATE question distribution and a score of 21, the following areas likely need the most work:

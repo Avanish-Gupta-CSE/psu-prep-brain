@@ -10,7 +10,9 @@ For a structured table of every open form with pay / process / CS eligibility, r
 
 ## 🚨 IMMEDIATE PRIORITY: 19 Forms to Fill — Sync with `.brain/Jobs-Table.md`
 
-**Today is the LAST DAY for ISRO ICRB 267 (closes 20 Aug).** All other active forms close 24 Aug – 3 Sep.
+**Today is Sun 23 Aug 2026, 21:39 IST. HLL CBT attempted today (Lucknow).** Last updated this session: see Session 47 in `.brain/Progress.md`.
+
+**RCFL MTIT closes TOMORROW (24 Aug 2026).** Form-by-form status:
 
 The canonical action list with pay / gross / in-hand / selection process / OBC-NCL reservation / CS eligibility is in:
 **→ `.brain/Jobs-Table.md` (Tier 1–5, 19 forms)**
@@ -32,7 +34,7 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 
 ### 📅 30 Aug – 3 Sep 2026
 9. ~~**ISRO HSFC:01:RMT/2026 (Scientist/Engineer SD)**~~ — **NOT ELIGIBLE** — Jobs-Table row #12. Skip; needs 3+ yrs post-qualification exp, you have ~2.2 yrs. ~~Open ISRO HSFC SD PDF~~ ~~apply by 30 Aug~~.
-11. **IOCL Executives Advt 2026/01 (470 posts)** — Jobs-Table row #9 — verify Grade A CS eligibility in PDF
+11. **IOCL Executives Advt 2026/01 (470 posts)** — Jobs-Table row #9 — **closes 3 Sep 2026 17:00 hrs, verified 23 Aug from iocl.com/latest-job-opening**. Apply between 27 Aug – 1 Sep (after CIL); verify Grade A CS eligibility in PDF first
 12. **AAI Advt 12/2026/CHQ/DR-CBT (JE Operations)** — Jobs-Table row #13 — only if you have LMV license
 
 ---
@@ -42,8 +44,8 @@ The canonical action list with pay / gross / in-hand / selection process / OBC-N
 | Date | Exam | Location | Status |
 |---|---|---|---|
 | **24 Aug 2026 (Mon)** | **Coal India Limited (CIL) MT (Systems)** | Bangalore | Applied (43 Seats, CBT-Only) — **PRIMARY CS TECHNICAL TARGET** 🔥 |
-| **23 Aug 2026 (Sun)** | **HLL Lifecare MT (CS/IT)** | Lucknow | Admit card `117272`, flights booked |
-| **23 Aug 2026 (Sun)** | **BSNL JTO** (100 posts, 26 Bengaluru seats) | Bangalore | Admit card drops TODAY (20 Aug) |
+| **23 Aug 2026 (Sun)** | **HLL Lifecare MT (CS/IT)** | Lucknow | **CBT COMPLETED** — 80/100 attempted (44 reasoning + 36 technical), 6 GK + 14 tech (DE/CN/TOC/COA) skipped; net score TBD |
+| **23 Aug 2026 (Sun)** | **BSNL JTO** (100 posts, 26 Bengaluru seats) | Bangalore | Admit card drops 20 Aug |
 | **05–06 Sep 2026 (Sat/Sun)** | **HAL Design Trainee (CS)** | Bangalore | Submitted (App `D321947`) — admit card drops 20 Aug |
 | **06 Sep 2026 (Sat)** | **UPPSC Polytechnic Lecturer (CS)** | UP | Paper-I + Paper-II |
 
