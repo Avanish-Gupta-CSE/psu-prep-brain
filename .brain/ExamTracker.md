@@ -93,6 +93,54 @@
 | **Format** | CBT (85% weightage) + Personal Interview (15% weightage). 160 MCQs in 150 mins. |
 | **Priority** | **TOP PRIORITY (Bengaluru R&D Posting!)** |
 
+### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS & IT)
+| Field | Details |
+| :--- | :--- |
+| **Advt No.** | **IOCL/CO-HR/RECTT/2026/01** (Dated 14.08.2026) |
+| **OFFICIAL CBT DATE** | **24 September 2026 (Wednesday)** 🔥 |
+| **Status** | **🔥 FORM FILLED & SUBMITTED (30 August 2026)** 🟢 |
+| **Vacancies (CS/IT)** | **22 Posts** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2) |
+| **Pay Scale & CTC** | Grade ‘A’ (`₹50,000 – ₹1,60,000`), **Annual CTC: ~₹18.4 Lakhs** |
+| **Selection Format** | CBT (100 MCQs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview |
+| **Admit Card Release**| **15 September 2026** |
+| **Folder** | `IOCL/` |
+| **Priority** | **TOP MAHARATNA TARGET** 🔥 |
+
+### 9. ISRO ICRB -- Scientist / Engineer ‘SC’ (Computer Science)
+| Field | Details |
+| :--- | :--- |
+| **Advt No.** | **ISRO:ICRB:03(EMC):2026** (Dated 27.08.2026) |
+| **Application Window** | **27 August 2026 to 16 September 2026 (11:55 PM)** 🔥 |
+| **Status** | **ACTIVE / OPEN NOW -- READY TO FILL** 🟢 |
+| **Vacancies (CS)** | **22 Posts** (ISRO Centres: 21, PRL: 1) |
+| **Cadre & Pay** | Group ‘A’ Gazetted, Level 10 (`₹56,100 – ₹1,77,500`), Gross ~₹1,15,000/mo |
+| **Selection Format** | Written Test (50% Weightage: 80 Tech + 15 Apt) + Interview (50% Weightage) |
+| **Folder** | `ISRO/` |
+| **Priority** | **PREMIER R&D TARGET** 🔥 |
+
+### 10. Container Corporation of India Limited (CONCOR) -- Management Trainee (MIS) & Assistant Officer (MIS)
+| Field | Details |
+| :--- | :--- |
+| **Advt No.** | **Employment Notification No. 05/2026** |
+| **Application Window** | **31 August 2026 (10:00 AM) to 30 September 2026 (11:55 PM)** 🔥 |
+| **Status** | **OPENS 31 AUGUST 2026 (10:00 AM)** 🟢 |
+| **Vacancies (MIS)** | **05 Posts** (MT MIS: 3, Assistant Officer MIS: 2) -- Total 77 CPSE vacancies |
+| **Pay Scale** | MT: ₹50,000 – ₹1,60,000 (E-2) \| AO: ₹40,000 – ₹1,36,000 (E-1) |
+| **Selection Format** | Online CBT + GD / Personal Interview |
+| **Folder** | `CONCOR/` |
+| **Priority** | **HIGH TARGET (Navratna CPSE - Railways)** |
+
+### 11. Security Printing and Minting Corporation of India Ltd (SPMCIL) -- Assistant Manager (IT)
+| Field | Details |
+| :--- | :--- |
+| **Advt No.** | **02/2026** |
+| **Status** | **TRACKED FOR CBT (Registration Closed 24 Aug)** 🟢 |
+| **Vacancies (IT)** | **02 Posts** (Assistant Manager IT, E-1 Level) + 1 Post (Deputy Manager IT) |
+| **Pay Scale** | Level E-1: ₹40,000 – ₹1,40,000 |
+| **Selection Format** | Online Written Test (75% Weightage: 120 Qs/150 Marks) + Personal Interview (25%) |
+| **Folder** | `SPMCIL/` |
+| **Priority** | **HIGH TARGET (Mini-Ratna CPSE - Ministry of Finance)** |
+
 ### 2. BSNL JTO (Junior Telecom Officer) Telecom -- Open Market Direct Recruitment
 | Field | Details |
 |-------|---------|

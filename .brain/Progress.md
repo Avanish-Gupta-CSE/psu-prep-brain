@@ -7,12 +7,54 @@
 | **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
 | **Secondary Track** | Active (CIL MT, STPI Result Tracking, UCO Bank Onboarding, Berkadia Exit) |
 | **MSTC Status** | Not Selected (Merit List Published July 2026) |
-| **Study Streak** | 1 logged study day (restart on 12 July 2026 after UCO Bank Selection) |
-| **Last Session** | 17 Aug 2026 -- ISRO SC CS & CERT-In Scientist 'B' Forms Submitted Successfully |
+| **Study Streak** | Active (Exam Sprint August 2026) |
+| **Last Session** | 30 Aug 2026 -- Application Sprints (IOCL, ISRO, CONCOR, SPMCIL) & Git Configuration |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Maximum momentum. Both ISRO Scientist/Engineer 'SC' CS and CERT-In Scientist 'B' (App No: 261030011869) applications successfully submitted! Next: ISP (19 Aug), HLL (23 Aug), CIL (24 Aug). |
+| **Overall Mood** | 100% operational. IOCL filled, ISRO/CONCOR/SPMCIL directories established with full blueprints and official advertisements, git email verified. |
 
 ## Session Log
+
+### Session 51 -- 30 Aug 2026 (Application Sprints for IOCL, ISRO, CONCOR, SPMCIL & Workspace Setup)
+- **Type:** Recruitment Ingestion, Blueprint Creation & Repository Setup
+- **What happened:**
+  - **IOCL Recruitment (Grade 'A' CS/IT)**: Confirmed user completed application submission on 30 August 2026. Built dedicated folder `IOCL/` with `README.md`, `ADVERTISEMENT.md` (Advt No. `IOCL/CO-HR/RECTT/2026/01`), and `SYLLABUS.md`. Exam confirmed for **24 September 2026**.
+  - **ISRO ICRB Scientist/Engineer 'SC' (Computer Science)**: Created `ISRO/` folder with `README.md`, `ADVERTISEMENT.md` (Advt No. `ISRO:ICRB:03(EMC):2026`), and `SYLLABUS.md`. 22 CS posts, direct CBT + Interview mode, closing on 16 September 2026.
+  - **CONCOR Recruitment (MIS/IT)**: Created `CONCOR/` folder with `README.md` and `ADVERTISEMENT.md` (Advt No. `05/2026`). 77 posts total (MT MIS & Assistant Officer MIS), opening 31 August 2026.
+  - **SPMCIL Assistant Manager (IT)**: Created `SPMCIL/` folder with `README.md`, `ADVERTISEMENT.md` (Advt No. `02/2026`), and `SYLLABUS.md`. 120-question pattern (90 marks CS/IT + 60 marks Non-Tech).
+  - **Git Config Setting**: Set and verified local repository git `user.email` to `avanish.gupta.official1@gmail.com` and `user.name` to `Avanish Gupta`.
+  - **Updated Master Knowledge Base**: Synchronized `.brain/NextSteps.md`, `.brain/ExamTracker.md`, `.brain/TrackedJobs.md`, and Bangalore Exit Plan.
+- **Topics covered:** PSU application tracking, Maharatna/Navratna recruitment structures, syllabus mapping, git configuration.
+- **Next goals:** Complete ISRO & CONCOR online applications, execute Bangalore departure, revise CS core for HAL CBT on 05-06 Sept 2026.
+
+### Session 49 -- 25 Aug 2026 (Complete PDF Audit, Repair & Multi-Tier Cloud Restoration)
+- **Type:** Document Integrity Audit, Binary File Repair & Cloud Recovery
+- **What happened:**
+  - **Identified Root Cause of PDF Corruption**: Deep binary audit across `C:\Programs` revealed that raw disk carving from EaseUS recovery had created 140 zero-byte filled files and 63 files with scrambled/non-PDF headers (e.g. fragments of dlls/text).
+  - **Tooling Setup**: Installed `pymupdf` (fitz) and `pypdf` on Python 3.14 to perform systematic, automated integrity testing of all PDF streams and headers.
+  - **Multi-Tier Restoration from Pristine Cloud Backups**:
+    - Downloaded and extracted genuine `Programs.zip` (1.63 GB, 11,324 files), `Placement.zip`, and individual Google Drive assets directly via `rclone`.
+    - Fully restored and verified: 10th/12th Marksheets, BTech Degrees & Grade Reports, OBC-NCL Central Category Certificates, GATE 2026/2024 Scorecards, Berkadia & STMicroelectronics Experience/Appointment Letters, Payslips (2024–2026), and all PSU Exam EBooks/Notes (`Algo`, `CN`, `DBMS`, `OS`, `COA`, `DE`, `ML-AI`).
+  - **Final Audit Result**: Scanned all **343 PDFs** across `C:\Programs`. Result: **343 / 343 (100.0%) Fully Valid, Readable, and Functional** with 0 errors.
+- **Topics covered:** PDF stream verification, binary carving repair, rclone automation, archive restoration.
+- **Next goals:** Ready for document uploads (RCFL, AAI, HAL, ISRO) and exam revisions.
+
+### Session 48 -- 24 Aug 2026 (Full System Data Recovery & Workspace State Restoration)
+- **Type:** System Recovery, Repository & Document Restoration
+- **What happened:**
+  - **Identified Recovery Assets**: Discovered full file recovery snapshot in `C:\Recovered_C` containing all personal repositories, project workspaces, and `C:\Programs` data tree.
+  - **psu-prep-brain Workspace Restored**: Restored all core notes, exam tracks (`HAL`, `CIL`, `IFFCO`, `MSTC`, `STPI`, `NFL`, `NMDCSteel`), tools (`md_print_server.py`, `markdown_print_studio.html`, `start_markdown_printer.bat`), and `.brain` memory state to 100% integrity with 0 corrupt/null bytes.
+  - **C:\Programs Completely Restored**: Fully restored `C:\Programs` directory (1.69 GB, 9,376 items) including all `Gov jobs` subfolders (`MSTC/DV`, `HLL`, `HAL`, `ISRO`, `ICERT`, `NFL`, `CIL`, `STPI`, `UCO`, marksheets, degrees, category certificates, GATE scorecards, appointment letters, learning courses, and personal identity files).
+  - **Personal Repositories Restored**: Restored 38+ personal project workspaces into `C:\Users\agupt1\Projects\Personal\` (including unpushed/local folders like `Minutes timer`, `opensox`, `Stirling-PDF`, `Striver`, `System-Doctor`, `TheMonk`, `WeightLoss`).
+- **Topics covered:** File system recovery, directory mirroring, repository integrity, disaster recovery.
+- **Next goals:** Continue exam tracking, CIL/HAL preparation, and ongoing application filings.
+
+### Session 47 -- 19 Aug 2026 (CNP Exam Guidelines Audit & Markdown Print Studio Development)
+- **Type:** Exam Pattern Audit & Developer Tooling
+- **What happened:**
+  - **Currency Note Press (CNP SPMCIL) Exam Guidelines**: Audited official advertisement for Supervisor (Technical Operations - IT). Confirmed: Minimum passing qualifying criteria (UR/EWS: 55%, OBC: 50%, SC/ST: 45%), **No Negative Marking**, 150 Questions / 120 Minutes (105 CS/IT + 25 Quant + 20 Reasoning).
+  - **PSU Markdown Print Studio Built & Verified**: Created local web app (`md_print_server.py`, `start_markdown_printer.bat`, `markdown_print_studio.html`) with FastAPI backend, drag-and-drop file loading, workspace file explorer, custom typography, 2-column cheat sheet layout, and Brother laser printer optimized A4 CSS styling.
+- **Topics covered:** PSU exam scoring rules, local tooling, document formatting.
+- **Next goals:** ISP (Bangalore), HLL (Lucknow), CIL (Bangalore) CBT executions.
 
 ### Session 46 -- 17 Aug 2026 (ISRO Scientist SC & CERT-In Scientist 'B' Successful Submissions)
 - **Type:** Application Submissions & Pipeline Management

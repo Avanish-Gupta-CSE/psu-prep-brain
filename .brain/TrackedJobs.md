@@ -139,13 +139,43 @@ These are immediate high-priority applications that Avanish must fill now:
 * **Selection Weightage**: 60% GATE Score + 40% Personal Interaction / Interview (at New Delhi).
 * **Website**: `cert-in.org.in` / `examinationservices.nic.in`
 
-### 7. ISRO -- Scientist/Engineer 'SC' (Computer Science)
-* **Advt No.**: `ISRO:ICRB:02(EMC-CEPO):2026`
-* **Status**: **🔥 FORM SUBMITTED (17 August 2026)** 🟢
-* **GATE Credentials**: GATE 2026 CS (`CS26S31313020`, Score: `350`, Rank: `29099`)
-* **Saved Scorecard Upload**: `GATE_2026_CS_Scorecard_Avanish.pdf` (358 KB)
-* **Selection**: GATE 2026 CS Score Shortlisting + Personal Interview (URSC Bangalore).
+### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS/IT)
+* **Advt No.**: `IOCL/CO-HR/RECTT/2026/01` (Dated 14.08.2026)
+* **Status**: **🔥 FORM FILLED & SUBMITTED ON 30 AUGUST 2026** 🟢
+* **Vacancies**: **22 Posts for CS/IT** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2)
+* **Pay Scale**: Grade ‘A’ (₹50,000 – ₹1,60,000, Annual CTC ~₹18.4 LPA).
+* **OFFICIAL CBT DATE**: **24 September 2026 (Wednesday)** 🔥
+* **Admit Card Release**: **15 September 2026**
+* **Selection Process**: CBT (100 Qs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview.
+* **Workspace Folder**: `IOCL/`
+* **Website**: `iocl.com`
+
+### 9. ISRO ICRB -- Scientist / Engineer ‘SC’ (Computer Science - Direct CBT)
+* **Advt No.**: `ISRO:ICRB:03(EMC):2026` (Dated 27.08.2026)
+* **Status**: **ACTIVE / OPEN NOW (Closes 16 September 2026 at 11:55 PM)** 🟢
+* **Vacancies**: **22 Posts for CS** (21 ISRO Centres + 1 PRL Ahmedabad)
+* **Pay Scale**: Group ‘A’ Gazetted, Level 10 (₹56,100 – ₹1,77,500).
+* **Selection**: Written Test (50% Weightage: 80 Tech + 15 Apt) + Personal Interview (50% Weightage).
+* **Workspace Folder**: `ISRO/`
 * **Website**: `isro.gov.in`
+
+### 10. Container Corporation of India Limited (CONCOR) -- Management Trainee & Assistant Officer (MIS/IT)
+* **Advt No.**: `Employment Notification No. 05/2026`
+* **Status**: **OPENS 31 AUGUST 2026 at 10:00 AM (Closes 30 September 2026)** 🟢
+* **Vacancies**: **77 Posts total** (MT MIS: 3, Assistant Officer MIS: 2)
+* **Pay Scale**: MT: ₹50,000 – ₹1,60,000 (E-2) | AO: ₹40,000 – ₹1,36,000 (E-1)
+* **Selection**: Online Written Examination (CBT) + GD / Personal Interview.
+* **Workspace Folder**: `CONCOR/`
+* **Website**: `concorindia.co.in`
+
+### 11. Security Printing and Minting Corporation of India Ltd (SPMCIL) -- Assistant Manager (IT)
+* **Advt No.**: `02/2026`
+* **Status**: **TRACKED FOR CBT (Registration Closed 24 Aug 2026)** 🟢
+* **Vacancies**: **02 Posts (Assistant Manager IT, E-1 Level)** + 1 Post (Deputy Manager IT)
+* **Pay Scale**: Level E-1: ₹40,000 – ₹1,40,000
+* **Selection**: Online Objective Test (75% Weightage: 120 Qs/150 Marks) + Personal Interview (25%).
+* **Workspace Folder**: `SPMCIL/`
+* **Website**: `spmcil.com`
 
 ### 6. ISRO -- Scientist/Engineer 'SC' (Computer Science)
 * **Advt No.**: `ISRO:ICRB:02(EMC-CEPO):2026`

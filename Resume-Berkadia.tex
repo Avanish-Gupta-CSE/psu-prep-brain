@@ -10,7 +10,9 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
-\input{glyphtounicode}
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+\fi
 \usepackage{fontawesome5}
 \usepackage[hidelinks,pdfnewwindow=true]{hyperref}
 \usepackage{multicol}
@@ -42,7 +44,9 @@
 }{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
 
 % Ensure that generate pdf is machine readable/ATS parsable
-\pdfgentounicode=1
+\ifdefined\pdfgentounicode
+  \pdfgentounicode=1
+\fi
 
 %-------------------------
 % Custom commands
