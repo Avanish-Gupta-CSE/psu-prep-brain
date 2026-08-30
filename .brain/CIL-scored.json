@@ -1,0 +1,794 @@
+[
+  {
+    "page": 43,
+    "qnum": 1,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 44,
+    "qnum": 2,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.6698837280273438
+  },
+  {
+    "page": 44,
+    "qnum": 3,
+    "chosen": "C",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 44,
+    "qnum": 4,
+    "chosen": "B",
+    "correct": "C",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 45,
+    "qnum": 5,
+    "chosen": "D",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 45,
+    "qnum": 6,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 45,
+    "qnum": 7,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.669830322265625
+  },
+  {
+    "page": 46,
+    "qnum": 8,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 46,
+    "qnum": 9,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 46,
+    "qnum": 10,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 47,
+    "qnum": 11,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 47,
+    "qnum": 12,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 47,
+    "qnum": 13,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 48,
+    "qnum": 14,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.6698837280273438
+  },
+  {
+    "page": 48,
+    "qnum": 15,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 48,
+    "qnum": 16,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 49,
+    "qnum": 17,
+    "chosen": "C",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 49,
+    "qnum": 18,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 49,
+    "qnum": 19,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 50,
+    "qnum": 20,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 50,
+    "qnum": 21,
+    "chosen": "A",
+    "correct": "C",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 50,
+    "qnum": 22,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 51,
+    "qnum": 23,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.6698684692382812
+  },
+  {
+    "page": 51,
+    "qnum": 24,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 52,
+    "qnum": 25,
+    "chosen": "D",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 52,
+    "qnum": 26,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 53,
+    "qnum": 27,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.6698684692382812
+  },
+  {
+    "page": 53,
+    "qnum": 28,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 53,
+    "qnum": 29,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 54,
+    "qnum": 30,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698684692382812
+  },
+  {
+    "page": 54,
+    "qnum": 31,
+    "chosen": "B",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 54,
+    "qnum": 32,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 55,
+    "qnum": 33,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 55,
+    "qnum": 34,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 55,
+    "qnum": 35,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 56,
+    "qnum": 36,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 56,
+    "qnum": 37,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 56,
+    "qnum": 38,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.669830322265625
+  },
+  {
+    "page": 57,
+    "qnum": 39,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698837280273438
+  },
+  {
+    "page": 57,
+    "qnum": 40,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 57,
+    "qnum": 41,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.669830322265625
+  },
+  {
+    "page": 58,
+    "qnum": 42,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698703765869141
+  },
+  {
+    "page": 58,
+    "qnum": 43,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 58,
+    "qnum": 44,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 59,
+    "qnum": 45,
+    "chosen": "C",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.6698703765869141
+  },
+  {
+    "page": 59,
+    "qnum": 47,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 60,
+    "qnum": 48,
+    "chosen": "B",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 60,
+    "qnum": 49,
+    "chosen": "C",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 60,
+    "qnum": 50,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.669830322265625
+  },
+  {
+    "page": 61,
+    "qnum": 51,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 61,
+    "qnum": 52,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 61,
+    "qnum": 53,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.669830322265625
+  },
+  {
+    "page": 62,
+    "qnum": 54,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 62,
+    "qnum": 55,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 62,
+    "qnum": 56,
+    "chosen": "A",
+    "correct": "C",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 63,
+    "qnum": 57,
+    "chosen": "D",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 63,
+    "qnum": 58,
+    "chosen": "B",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 63,
+    "qnum": 59,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 64,
+    "qnum": 60,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.6698837280273438
+  },
+  {
+    "page": 64,
+    "qnum": 61,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 64,
+    "qnum": 62,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 65,
+    "qnum": 63,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 65,
+    "qnum": 64,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 65,
+    "qnum": 65,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 66,
+    "qnum": 66,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 66,
+    "qnum": 67,
+    "chosen": "A",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 66,
+    "qnum": 68,
+    "chosen": "C",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 67,
+    "qnum": 69,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 67,
+    "qnum": 70,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 67,
+    "qnum": 71,
+    "chosen": "A",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 68,
+    "qnum": 72,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.6698684692382812
+  },
+  {
+    "page": 68,
+    "qnum": 73,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 68,
+    "qnum": 74,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 69,
+    "qnum": 75,
+    "chosen": "A",
+    "correct": "C",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 69,
+    "qnum": 76,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 69,
+    "qnum": 77,
+    "chosen": "D",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 70,
+    "qnum": 78,
+    "chosen": "C",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 70,
+    "qnum": 79,
+    "chosen": "C",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 70,
+    "qnum": 80,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 71,
+    "qnum": 81,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 71,
+    "qnum": 82,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 71,
+    "qnum": 83,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 72,
+    "qnum": 84,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 72,
+    "qnum": 85,
+    "chosen": "B",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 72,
+    "qnum": 86,
+    "chosen": "C",
+    "correct": "C",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 73,
+    "qnum": 87,
+    "chosen": "C",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.6698684692382812
+  },
+  {
+    "page": 73,
+    "qnum": 88,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.6698532104492188
+  },
+  {
+    "page": 73,
+    "qnum": 89,
+    "chosen": "A",
+    "correct": "A",
+    "is_correct": true,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 74,
+    "qnum": 90,
+    "chosen": "A",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.6698837280273438
+  },
+  {
+    "page": 74,
+    "qnum": 91,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.66986083984375
+  },
+  {
+    "page": 74,
+    "qnum": 92,
+    "chosen": "D",
+    "correct": "B",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 75,
+    "qnum": 93,
+    "chosen": "B",
+    "correct": "C",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 75,
+    "qnum": 94,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.7396240234375
+  },
+  {
+    "page": 75,
+    "qnum": 95,
+    "chosen": "B",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.669830322265625
+  },
+  {
+    "page": 76,
+    "qnum": 96,
+    "chosen": "A",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.6698760986328125
+  },
+  {
+    "page": 76,
+    "qnum": 97,
+    "chosen": "C",
+    "correct": "A",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 77,
+    "qnum": 98,
+    "chosen": "D",
+    "correct": "D",
+    "is_correct": true,
+    "tick_dist": 0.6698684692382812
+  },
+  {
+    "page": 77,
+    "qnum": 99,
+    "chosen": "C",
+    "correct": "D",
+    "is_correct": false,
+    "tick_dist": 0.669891357421875
+  },
+  {
+    "page": 78,
+    "qnum": 100,
+    "chosen": "B",
+    "correct": "B",
+    "is_correct": true,
+    "tick_dist": 0.6698837280273438
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "total_questions": 189,
+  "correct": 136,
+  "wrong": 53,
+  "net_score": 122.75,
+  "percentage": 61.375,
+  "per_part": {
+    "Part 1 GK Awareness": {
+      "total": 25,
+      "correct": 18,
+      "wrong": 7,
+      "score": 16.25,
+      "accuracy_pct": 72.0
+    },
+    "Part 2 Numerical Ability": {
+      "total": 17,
+      "correct": 15,
+      "wrong": 2,
+      "score": 14.5,
+      "accuracy_pct": 88.23529411764706
+    },
+    "Part 3 Reasoning": {
+      "total": 23,
+      "correct": 21,
+      "wrong": 2,
+      "score": 20.5,
+      "accuracy_pct": 91.30434782608695
+    },
+    "Part 4 General English": {
+      "total": 25,
+      "correct": 20,
+      "wrong": 5,
+      "score": 18.75,
+      "accuracy_pct": 80.0
+    },
+    "Part 5 Domain Knowledge CS": {
+      "total": 99,
+      "correct": 62,
+      "wrong": 37,
+      "score": 52.75,
+      "accuracy_pct": 62.62626262626263
+    }
+  },
+  "note": "Assumed CIL MT typical marking: +1 correct / -0.25 wrong / 0 unattempted"
+}
