@@ -93,7 +93,11 @@ Use this sheet to copy-paste verified information directly into any PSU, Governm
 - **Total Tenure:** `2 Years 2 Months (26 Months)`
 - **Gross Annual Emoluments / CTC:** `₹10,25,000` (FY 24-25) → `₹11,00,000` (Revised Apr 2026)
 - **Office Address:** `Brigade Opus, 4th & 5th Floor, 2286, Kodigehalli Main Road, Bengaluru - 560092`
-- **HR Verification Email:** `HumanResources-India@berkadia.com` | Phone: `+91 40 6641 7148`
+- **HR Verification Contacts:**
+  - **Central HR Desk:** `HumanResources-India@berkadia.com` | Phone: `+91 40 6641 7148`
+  - **HR BP (Anushree Sarkar):** `Anushree.Sarkar@berkadia.com`, `asarkar2@berkadia.com`
+  - **Comp & Benefits (Nagaraju Raja):** `Nagaraju.Raja@berkadia.com`, `nraja@berkadia.com` | Phone: `+91 (406) 7170321`
+  - **HR Escalation (Saugat Roy):** `Saugat.Roy@berkadia.com` | Phone: `+91 98493 38796`
 - **Standard Nature of Duties (Short - 200 chars):**
   > Developing backend microservices, REST APIs with PostgreSQL/Elasticsearch, AWS cloud architectures, Keycloak SSO authentication, and automated AI document processing pipelines.
 - **Detailed Nature of Duties (Long - 500 chars):**

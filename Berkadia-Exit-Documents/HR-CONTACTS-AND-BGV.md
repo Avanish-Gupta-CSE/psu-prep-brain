@@ -36,7 +36,8 @@
 | Contact Person / Desk | Designation / Department | Official Email | Contact Number | Role in Verification |
 | :--- | :--- | :--- | :--- | :--- |
 | **HR Cell India (General)** | Human Resources Central Desk | `HumanResources-India@berkadia.com` | +91 40 6641 7148 | Central inbox for background verification (BGV) checks from banks/PSUs |
-| **Anushree Sarkar** | Human Resources (Business Partner) | `anushree.sarkar@berkadia.com` | Official Berkadia Ext. | Resignation handler & early release coordinator |
+| **Anushree Sarkar** | Human Resources (Business Partner) | `Anushree.Sarkar@berkadia.com`<br>`asarkar2@berkadia.com` | Official Berkadia Ext. | Resignation handler & early release coordinator |
+| **Nagaraju Raja** | Compensation & Benefits / Payroll Partner | `Nagaraju.Raja@berkadia.com`<br>`nraja@berkadia.com` | +91 (406) 7170321 | Notice period recovery & leave/PL adjustment coordinator |
 | **Saugat Roy** | Human Resources (Senior Leader) | `Saugat.Roy@berkadia.com` | +91 98493 38796 | Escalation & official verification contact provided to UCO Bank |
 | **Nagendra Babu Immadi** | Reporting Manager (Emp: 2002) | `nagendra.immadi@berkadia.com` | Internal Directory | Direct Supervisor & Technical Reference for BGV |
 | **Payroll & FNF Desk** | Finance & Payroll India | `IndiaPayroll@berkadia.com` | Central Line | Final settlement, Form 16 & final payslip queries |
@@ -66,8 +67,8 @@
 If the relieving letter is delayed past the tentative date (11 September 2026), send this follow-up email from your personal email:
 
 ```text
-To: HumanResources-India@berkadia.com, anushree.sarkar@berkadia.com
-CC: Saugat.Roy@berkadia.com
+To: HumanResources-India@berkadia.com, Anushree.Sarkar@berkadia.com, asarkar2@berkadia.com
+CC: Saugat.Roy@berkadia.com, Nagaraju.Raja@berkadia.com
 Subject: Request for Official Relieving Letter and Service Certificate -- Avanish Kumar Gupta (Emp ID: 027592)
 
 Dear HR Team,
