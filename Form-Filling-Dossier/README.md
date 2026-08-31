@@ -22,10 +22,10 @@ Form-Filling-Dossier/
 │       ├── BTech_Semester_Grade_Reports_Sem1_to_8.pdf
 │       └── BTech_CGPA_to_Percentage_Conversion_Certificate.pdf
 ├── 02_Category_Caste/
-│   ├── Caste_Certificate_Central_OBC_NCL.pdf
-│   ├── Caste_Certificate_State_OBC.pdf
-│   ├── Center_Caste_OBC_Certificate_18-Jun-2025.pdf
-│   └── Residence_Domicile_Certificate.pdf
+│   ├── Caste_Certificate_Central_OBC_NCL.pdf      (June 2026 - Central OBC-NCL, App: 261890030103499)
+│   ├── Caste_Certificate_State_OBC.pdf            (June 2026 - UP State OBC, App: 261890030103492)
+│   ├── Residence_Domicile_Certificate.pdf         (June 2026 - Niwas Praman Patra, App: 261890020102556)
+│   └── Center_Caste_OBC_Certificate_18-Jun-2025.pdf (2025 Archive)
 ├── 03_Identity_Bank/
 │   ├── Aadhar_Card.pdf
 │   ├── Aadhar_Front.jpg
@@ -52,14 +52,19 @@ Form-Filling-Dossier/
 │   ├── Appointment Letter - Avanish Kumar Gupta_Signed.pdf
 │   ├── Offer_Letter_-_Avanish_Kumar_Gupta_-_ASE.pdf
 │   ├── 20260413141632_312_3541_HIKE_APR_2026.pdf
+│   ├── Berkadia_Hike_Letter_2025.pdf
+│   ├── Berkadia_Hi5_Award_Certificate_2025.pdf
+│   ├── Berkadia_1st_Work_Anniversary_Certificate.pdf
+│   ├── Berkadia_2nd_Work_Anniversary_Certificate.pdf
 │   ├── 3541_Form16.pdf
 │   ├── 3541_payslip_2026_08.pdf
 │   ├── 3541_payslip_2026_07.pdf
 │   ├── 3541_payslip_2026_06.pdf
 │   └── 3541_payslip_2026_05.pdf
 ├── 06_Exam_Scorecards/
-│   ├── GATE_2026_CS_Scorecard_Avanish.pdf
-│   └── GATE_2024_CS_Scorecard_Avanish.pdf
+│   ├── GATE_2026_CS_Scorecard_Avanish.pdf         (GATE 2026 Computer Science - CS26S31313020)
+│   ├── GATE_2026_DA_Scorecard_Avanish.pdf         (GATE 2026 Data Science & AI - DA26S81313017)
+│   └── GATE_2024_CS_Scorecard_Avanish.pdf         (GATE 2024 Computer Science)
 ├── 07_Resume/
 │   └── Resume-Berkadia.pdf
 ├── FORM-FILLING-CHEAT-SHEET.md

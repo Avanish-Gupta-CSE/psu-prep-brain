@@ -123,11 +123,33 @@ Use this sheet to copy-paste verified information directly into any PSU, Governm
 ## 6. 🏆 Competitive Exam Scores
 
 ### GATE 2026 (Computer Science & Information Technology - CS)
+- **Paper:** `Computer Science and Information Technology (CS)`
 - **Registration Number:** `CS26S31313020`
 - **GATE Score:** `350`
-- **Marks (out of 100):** `26.67`
-- **All India Rank (AIR):** `15332`
-- **Qualifying Marks (OBC-NCL):** `24.8`
+- **Marks (out of 100):** `30.03`
+- **All India Rank (AIR):** `29099`
+- **Qualifying Marks:** `General: 30.0 | OBC-NCL: 27.0 | SC/ST/PwD: 20.0`
+- **Document Reference:** `06_Exam_Scorecards/GATE_2026_CS_Scorecard_Avanish.pdf`
+
+### GATE 2026 (Data Science & Artificial Intelligence - DA)
+- **Paper:** `Data Science and Artificial Intelligence (DA)`
+- **Registration Number:** `DA26S81313017`
+- **GATE Score:** `337`
+- **Marks (out of 100):** `25.33`
+- **All India Rank (AIR):** `10944`
+- **Qualifying Marks:** `General: 26.4 | OBC-NCL: 23.7 | SC/ST/PwD: 17.5`
+- **Document Reference:** `06_Exam_Scorecards/GATE_2026_DA_Scorecard_Avanish.pdf`
 
 ### GATE 2024 (CS)
 - **Registration Number:** Refer `06_Exam_Scorecards/GATE_2024_CS_Scorecard_Avanish.pdf`
+
+---
+
+## 7. 📜 Category & Domicile Certificates (June 2026 Latest)
+
+| Certificate Type | Issue Date | Application No | Certificate No | Issuing Authority | Document File |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| **Central OBC-NCL (Govt of India)** | `10/06/2026` | `261890030103499` | `593263013796` | Tehsildar, Kasya, Kushinagar | `02_Category_Caste/Caste_Certificate_Central_OBC_NCL.pdf` |
+| **State OBC (Uttar Pradesh)** | `10/06/2026` | `261890030103492` | `593263013798` | Tehsildar, Kasya, Kushinagar | `02_Category_Caste/Caste_Certificate_State_OBC.pdf` |
+| **Domicile / Residence (UP)** | `11/06/2026` | `261890020102556` | `593262018792` | SDM, Kasya, Kushinagar | `02_Category_Caste/Residence_Domicile_Certificate.pdf` |
+
