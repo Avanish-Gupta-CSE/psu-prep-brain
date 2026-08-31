@@ -38,10 +38,10 @@
 | 2026 | April 2026 | ✅ Archived (`3541_payslip_2026_04.pdf`) | Verified |
 | 2026 | May 2026 | ✅ Archived (`3541_payslip_2026_05.pdf`) | Verified |
 | 2026 | June 2026 | ✅ Archived (`3541_payslip_2026_06.pdf`) | Verified |
-| 2026 | July 2026 | ✅ Archived (`3541_payslip_2026_07.pdf`) | Verified (Latest standard monthly payslip) |
-| **2026** | **August 2026** | ⏳ Post-Exit F&F | Calculated during F&F and emailed (~11–15 Sept 2026) |
+| 2026 | July 2026 | ✅ Archived (`3541_payslip_2026_07.pdf`) | Verified |
+| **2026** | **August 2026** | ✅ Archived (`3541_payslip_2026_08.pdf`) | **Verified (Final LWD Payslip)** 🔥 |
 
-*Status:* **100% of available monthly payslips secured (22 unique months spanning the entire tenure).** Consecutive run from October 2024 through July 2026 is unbroken.
+*Status:* **100% of all monthly payslips secured (23 unique months spanning the entire tenure up to final Last Working Day).** Unbroken consecutive run from October 2024 through August 2026.
 
 ---
 
