@@ -24,18 +24,31 @@ Standing rules arising from that audit:
 
 ---
 
-## 🚨 Immediate Priority: HAL Design Trainee (CS) 5-Day Precision Sprint (Exam: 06 Sept 2026)
+## 🚨 Immediate Priority: HAL (06 Sept) → IOCL (24 Sept) Stacked Campaign
 
-Active sprint roadmap configured in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md) and Day 1 diagnostic drill in [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
+**Canonical September plan: [`combined-HAL-then-IOCL-plan.md`](../combined-HAL-then-IOCL-plan.md)** — read this first.
+It carries the full HAL/IOCL syllabus overlap analysis, the day-by-day sprint, the carry-forward
+Stacking Ledger, the risk register (including the **HAL interview 21–25 Sept vs IOCL CBT 24 Sept clash**),
+and both exam-day protocols. It supersedes the day allocation in `HAL/5-DAY-SPRINT-PLAN.md`, which
+remains the HAL subject-detail reference. Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
 
 ### 📅 Active Daily Schedule (01–06 September 2026)
 
-* **01 Sept (Day 1 - Today)**: **OS & COA** (Paging, EMAT, CPU/Disk Scheduling, Cache Mapping, Pipelining Hazards) + Defence/Aviation GK.
+* **01 Sept (Day 1 - Today, HALF DAY from 17:00)**: Diagnostic drill, then **OS & COA** (Paging, EMAT, CPU/Disk Scheduling, Cache Mapping, Pipelining Hazards) + Defence/Aviation GK.
 * **02 Sept (Day 2)**: **Computer Networks & Digital Logic** (Subnetting, TCP/UDP, Flow Control, K-Maps, Counters) + Reasoning.
 * **03 Sept (Day 3)**: **DBMS & Data Structures** (Normalization, B+ Trees, ACID, Sorting, Graph algorithms) + English.
 * **04 Sept (Day 4)**: **TOC, Compilers & Software Engg** (Chomsky, Parsing, SDLC) + 2026 National GK.
 * **05 Sept (Day 5)**: **160-Question Full Simulation Mock** + Master Formula Cheat Sheet.
 * **06 Sept (Day 6 - Sunday)**: 🔥 **HAL Design Trainee (CS) CBT Exam (Bengaluru)**.
+* **06 Sept (post-exam, MANDATORY)**: 90-minute paper memory dump into `IOCL/HAL-CARRYFORWARD.md` — highest-leverage transfer act of the month.
+
+### 📅 Then: IOCL Stacked Continuation (07–24 September 2026)
+
+* **07 Sept**: Transfer day — carry-forward triage of `HAL/ERROR-LOG.md` into CARRY / PARK / DROP buckets. Half day.
+* **08–13 Sept**: **IOCL Delta Week** — the ~27 marks HAL does not cover: Cloud/DevOps, OOP & Web tech, network security, NoSQL/Linux, and **Quantitative Aptitude + DI** (HAL tests zero Quant). Admin gates: ISRO by 08 Sept, CONCOR by 09 Sept.
+* **14–20 Sept**: IOCL full-syllabus consolidation + 3 mocks, with HAL interview prep running 1–1.5 h/day in parallel.
+* **21–23 Sept**: Taper. **12 Sept: check the HAL interview call-letter date against 24 Sept (see risk R1).**
+* **24 Sept**: 🔥 **IOCL CBT** — target 80+/100 (Sec A 60+, Sec B 20+).
 
 ---
 

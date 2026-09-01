@@ -25,6 +25,13 @@
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | 🔥 **ACTIVE** |
 | **Phase 7** | 07 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | 75 Tech + 25 Non-Tech, then GD/GT + Interview prep | 📅 NEXT |
+
+> **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
+> Master plan: [`combined-HAL-then-IOCL-plan.md`](../combined-HAL-then-IOCL-plan.md).
+> About **73% of the IOCL paper is pre-covered by the HAL sprint**; the remaining ~27 marks
+> (Cloud/DevOps, OOP & Web, network security, NoSQL/Linux, Quant & DI) are isolated into the
+> 08–13 Sept Delta Week. COA, Digital Logic, TOC and Compiler are HAL-terminal and get parked
+> after 06 Sept. Anything unclosed by 05 Sept rolls forward via the plan's Stacking Ledger.
 | **Phase 8** | Sept 2026 onward | UCO Bank onboarding (Kolkata) | Induction, DIT placement, Finacle/CBS domain ramp-up | 📅 PARALLEL |
 
 ---
