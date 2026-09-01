@@ -51,19 +51,26 @@
 
 ## Official Selection Timeline (2026)
 
-| Sl. No. | Event / Activity | Official Date |
-| :---: | :--- | :--- |
-| 1 | Online Application Starts | 29 July 2026 (14:00 Hrs) |
-| 2 | **Last Date for Online Application** | **14 August 2026 (14:00 Hrs)** |
-| 3 | **Admit Card Download** | **20 August 2026** |
-| 4 | **Online Selection CBT Exam** | **05 & 06 September 2026 (Sat & Sun)** 🔥 |
-| 5 | **Declaration of CBT Results** | **10 September 2026** |
-| 6 | Download Interview Call Letter | 12 September 2026 |
-| 7 | **Personal Interviews at Bengaluru** | **21 to 25 September 2026** |
-| 8 | Declaration of Final Selected Candidates | 30 September 2026 |
-| 9 | Pre-employment Medical Exam | 09 to 15 October 2026 |
-| 10 | Document Verification at Bengaluru | 26 to 28 October 2026 |
-| 11 | **Commencement of Induction Training at Bengaluru** | **29 October 2026 (Thursday)** |
+| Sl. No. | Event / Activity | Official Date | Status |
+| :---: | :--- | :--- | :--- |
+| 1 | Online Application Starts | 29 July 2026 (14:00 Hrs) | Completed |
+| 2 | **Last Date for Online Application** | **14 August 2026 (14:00 Hrs)** | Completed |
+| 3 | **Admit Card Download** | **20 August 2026** | Completed |
+| 4 | **Online Selection CBT Exam** | **Sunday, 06 September 2026** 🔥 | **ACTIVE TARGET** |
+| 5 | **Declaration of CBT Results** | **10 September 2026** | Upcoming |
+| 6 | Download Interview Call Letter | 12 September 2026 | Upcoming |
+| 7 | **Personal Interviews at Bengaluru** | **21 to 25 September 2026** | Upcoming |
+| 8 | Declaration of Final Selected Candidates | 30 September 2026 | Upcoming |
+| 9 | Pre-employment Medical Exam | 09 to 15 October 2026 | Upcoming |
+| 10 | Document Verification at Bengaluru | 26 to 28 October 2026 | Upcoming |
+| 11 | **Commencement of Induction Training at Bengaluru** | **29 October 2026 (Thursday)** | Upcoming |
+
+---
+
+## Active Sprint & Preparation Drills
+
+* 📅 **Master 5-Day Sprint Plan (01–05 Sept 2026)**: [`HAL/5-DAY-SPRINT-PLAN.md`](5-DAY-SPRINT-PLAN.md)
+* 🎯 **Day 1 Diagnostic Drill (OS & COA)**: [`HAL/DRILL-01-OS-COA.md`](DRILL-01-OS-COA.md)
 
 ---
 

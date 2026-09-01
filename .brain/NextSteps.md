@@ -1,42 +1,38 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: August 30, 2026
+Last updated: September 1, 2026
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
 
 ---
 
-## 🚨 Immediate Priority: Bangalore Exit & Relocation Sprint (Target: 30–31 August 2026)
+## 🚨 Immediate Priority: HAL Design Trainee (CS) 5-Day Precision Sprint (Exam: 06 Sept 2026)
 
-A dedicated operational transition checklist has been created in [`Bangalore-Exit-Plan/BANGALORE-EXIT-TODO.md`](../Bangalore-Exit-Plan/BANGALORE-EXIT-TODO.md).
+Active sprint roadmap configured in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md) and Day 1 diagnostic drill in [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
 
-### 📅 Active Action Items (30 August – September 2026)
+### 📅 Active Daily Schedule (01–06 September 2026)
 
-1. **Digital Asset Transfer**: Transfer all personal documents, payslips (June 2024–Aug 2026), tax forms, certificates, `.brain`, and codebases from office laptop to personal Google Drive (`avanish.gupta.official1@gmail.com`).
-2. **Delhivery Courier**: Pack heavy luggage/books across labeled boxes and schedule doorstep pickup to Bareilly.
-3. **Form Submissions**:
-   - **IOCL Engineers/Officers (CS/IT)**: **FILLED & SUBMITTED on 30 August 2026** 🟢 (`IOCL/`)
-   - **ISRO ICRB Scientist/Engineer 'SC' (CS)**: Direct CBT open till **16 September 2026** (`ISRO/`)
-   - **CONCOR MT / Assistant Officer (MIS/IT)**: Opens **31 August 2026 (10 AM)** till **30 September 2026** (`CONCOR/`)
-   - **SPMCIL Assistant Manager (IT)**: Registration closed; preparing for CBT (`SPMCIL/`)
-4. **Official Certificates**:
-   - Send email to KIIT University registrar for Character/Conduct Certificate.
-   - Send Medical Fitness & Character Certificate proformas to father for Bareilly doctor/gazetted officer attestation.
-5. **Travel Booking**: Finalize flight/train tickets from Bangalore to Bareilly.
-6. **PSU Exam Prep & Sprints**:
-   - **HAL Design Trainee (CS)**: CBT on **05–06 September 2026** (Bangalore R&D Focus!).
-   - **IOCL Executive CBT (CS/IT)**: Confirmed CBT on **24 September 2026 (Wednesday)** 🔥.
-   - **UCO Bank SO**: Joining dossier & Kolkata onboarding (September 2026).
-   - **Exam Results Monitoring**: CIL MT (Systems - 147/200 raw score), HLL MT, NFL MT.
+* **01 Sept (Day 1 - Today)**: **OS & COA** (Paging, EMAT, CPU/Disk Scheduling, Cache Mapping, Pipelining Hazards) + Defence/Aviation GK.
+* **02 Sept (Day 2)**: **Computer Networks & Digital Logic** (Subnetting, TCP/UDP, Flow Control, K-Maps, Counters) + Reasoning.
+* **03 Sept (Day 3)**: **DBMS & Data Structures** (Normalization, B+ Trees, ACID, Sorting, Graph algorithms) + English.
+* **04 Sept (Day 4)**: **TOC, Compilers & Software Engg** (Chomsky, Parsing, SDLC) + 2026 National GK.
+* **05 Sept (Day 5)**: **160-Question Full Simulation Mock** + Master Formula Cheat Sheet.
+* **06 Sept (Day 6 - Sunday)**: 🔥 **HAL Design Trainee (CS) CBT Exam (Bengaluru)**.
 
-### 📅 Upcoming Exam Timeline (August – October 2026)
+---
+
+### 📅 Upcoming Exam Timeline (September – October 2026)
 
 | Date | Exam / PSU Target | Location | Status | Action / Focus |
 | :--- | :--- | :--- | :--- | :--- |
-| **05-06 Sept 2026 (Sat/Sun)**| **HAL Design Trainee (CS)** | Bangalore | **FORM SUBMITTED (App No: D321947)** 🟢 | **TOP IMMEDIATE TARGET** (160 MCQs) |
+| **06 Sept 2026 (Sunday)** | **HAL Design Trainee (CS)** | Bengaluru | **CONFIRMED (App No: D321947)** 🟢 | **TOP IMMEDIATE TARGET** (160 MCQs, 150 Mins) 🔥 |
 | **24 Sept 2026 (Wed)** | **IOCL Engineers/Officers (CS/IT)** | All India | **FORM FILLED ON 30.08.2026** 🟢 | **MAHARATNA PSU TARGET (100 MCQs, ₹18.4 LPA)** 🔥 |
 | **Late Sept / Oct 2026** | **RCFL MT (Information Tech)** | TBD | Applied (Advt: 16022026) | Navratna PSU (5 Posts) |
+| **Late Sept / Oct 2026** | **SPMCIL Assistant Manager (IT)** | TBD | Applied (Advt: 02/2026) | Mini-Ratna (E-1 Level, 120 Qs) |
+| **October / Nov 2026** | **ISRO ICRB Scientist/Engineer 'SC' (CS)** | 37 Cities | To Fill by 16 Sept 2026 | Group A Gazetted (Level 10, 80 Tech + 15 Apt) |
+| **October / Nov 2026** | **CONCOR MT / AO (MIS/IT)** | TBD | To Apply (Opens 31 Aug) | Navratna CPSE (Ministry of Railways) |
+| **September 2026** | **UCO Bank SO (Specialist Cadre)** | Kolkata | Selected & Joining Approved | Software Developer JMGS-I |
 | **Late Sept / Oct 2026** | **SPMCIL Assistant Manager (IT)** | TBD | Applied (Advt: 02/2026) | Mini-Ratna (E-1 Level, 120 Qs) |
 | **October / Nov 2026** | **ISRO ICRB Scientist/Engineer 'SC' (CS)** | 37 Cities | To Fill by 16 Sept 2026 | Group A Gazetted (Level 10, 80 Tech + 15 Apt) |
 | **October / Nov 2026** | **CONCOR MT / AO (MIS/IT)** | TBD | To Apply (Opens 31 Aug) | Navratna CPSE (Ministry of Railways) |

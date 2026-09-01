@@ -82,16 +82,17 @@
 | Field | Details |
 | :--- | :--- |
 | **Advt No.** | **HAL/CHRC-TM/RECT-02/2026** (Dated 29.07.2026) |
-| **OFFICIAL CBT DATE** | **05 & 06 September 2026 (Saturday & Sunday)** 🔥 |
-| **Test Location** | **Bangalore** (Preferred Test Location 1) |
-| **Status** | **🔥 FORM SUBMITTED SUCCESSFULLY! (13 August 2026)** |
+| **OFFICIAL CBT DATE** | **06 September 2026 (Sunday)** 🔥 |
+| **Test Location** | **Bengaluru** |
+| **Status** | **🔥 ACTIVE 5-DAY SPRINT (01–05 Sept 2026)** 🟢 |
 | **Application No** | `D321947` |
 | **Saved Registration** | `C:\Programs\Learning\Gov jobs\HAL\HAL ONLINE REGISTRATION.pdf` |
-| **Admit Card Date** | **20 August 2026** |
+| **Admit Card Date** | **20 August 2026 (Downloaded)** |
 | **Interview Dates** | **21 to 25 September 2026 (at Bengaluru)** |
 | **Domain & Posting** | R&D Centres (predominantly **Bengaluru**!). Avionics, flight control software, radar, embedded systems, RTOS, defence AI/ML. |
 | **Format** | CBT (85% weightage) + Personal Interview (15% weightage). 160 MCQs in 150 mins. |
-| **Priority** | **TOP PRIORITY (Bengaluru R&D Posting!)** |
+| **Sprint & Drills** | `HAL/5-DAY-SPRINT-PLAN.md` \| `HAL/DRILL-01-OS-COA.md` |
+| **Priority** | **TOP IMMEDIATE TARGET (Bengaluru R&D Posting!)** 🔥 |
 
 ### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS & IT)
 | Field | Details |
