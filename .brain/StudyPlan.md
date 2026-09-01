@@ -28,7 +28,7 @@
 | **Phase 8** | Sept 2026 onward | UCO Bank onboarding (Kolkata) | Induction, DIT placement, Finacle/CBS domain ramp-up | 📅 PARALLEL |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
-> Master plan: [`combined-HAL-then-IOCL-plan.md`](../combined-HAL-then-IOCL-plan.md).
+> Master plan: [`combined-HAL-then-IOCL-plan.md`](../CoalIndiaLimited-PSU/combined-HAL-then-IOCL-plan.md).
 > About **73% of the IOCL paper is pre-covered by the HAL sprint**; the remaining ~27 marks
 > (Cloud/DevOps, OOP & Web, network security, NoSQL/Linux, Quant & DI) are isolated into the
 > 08–13 Sept Delta Week. COA, Digital Logic, TOC and Compiler are HAL-terminal and get parked

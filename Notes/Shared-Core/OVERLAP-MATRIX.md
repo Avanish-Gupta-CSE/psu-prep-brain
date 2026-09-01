@@ -1,7 +1,7 @@
 # Overlap Matrix
 
 > **Stale for the active cycle.** HPCL and IFFCO are both closed. For the live September 2026
-> HAL → IOCL overlap analysis, use [`combined-HAL-then-IOCL-plan.md`](../../combined-HAL-then-IOCL-plan.md) §A3
+> HAL → IOCL overlap analysis, use [`combined-HAL-then-IOCL-plan.md`](../../CoalIndiaLimited-PSU/combined-HAL-then-IOCL-plan.md) §A3
 > and its Stacking Ledger. The table below is retained for historical context only.
 
 | Topic | HPCL | IFFCO | MSTC Interview Support | Notes |

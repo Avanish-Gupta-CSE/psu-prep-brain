@@ -26,7 +26,7 @@ Standing rules arising from that audit:
 
 ## 🚨 Immediate Priority: HAL (06 Sept) → IOCL (24 Sept) Stacked Campaign
 
-**Canonical September plan: [`combined-HAL-then-IOCL-plan.md`](../combined-HAL-then-IOCL-plan.md)** — read this first.
+**Canonical September plan: [`combined-HAL-then-IOCL-plan.md`](../CoalIndiaLimited-PSU/combined-HAL-then-IOCL-plan.md)** — read this first.
 It carries the full HAL/IOCL syllabus overlap analysis, the day-by-day sprint, the carry-forward
 Stacking Ledger, the risk register (including the **HAL interview 21–25 Sept vs IOCL CBT 24 Sept clash**),
 and both exam-day protocols. It supersedes the day allocation in `HAL/5-DAY-SPRINT-PLAN.md`, which
