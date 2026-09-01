@@ -252,8 +252,10 @@ def main():
     readme_lines.append("## 📌 Key Sessions by Category")
     readme_lines.append("")
     readme_lines.append("### 🌟 Pinned & Milestone Sessions")
-    readme_lines.append("- [Gemini 18 July / Current Context & Resume Sync](2026-08-31_Gemini_18_July_CURRENT_Context_gathering_for_project_references_c18155ee.md) — Multi-month master preparation brain, Form-Filling dossier, and Berkadia/STMicro resume synchronization.")
-    readme_lines.append("- [Claude 18 July / Resignation & HR Proofs](2026-07-18_Claude18_July_CURRENT_Context_gathering_for_project_references_1dc9fa49.md) — Exit documentation, resignation email drafting, and statutory paperwork.")
+    c18_file = next((item['filename'] for item in catalog if 'c18155ee' in item['filename']), '2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md')
+    p12_file = next((item['filename'] for item in catalog if '789eb95e' in item['filename']), '2026-08-31_Paper_1_&_2_study_plan_789eb95e.md')
+    readme_lines.append(f"- [Gemini 18 July / Current Context & Resume Sync]({c18_file}) — Multi-month master preparation brain, Form-Filling dossier, and Berkadia/STMicro resume synchronization.")
+    readme_lines.append("- [Claude 18 July / Resignation & HR Proofs](2026-07-18_Claude18_July_CURRENT_Context_gathering_for_project_referenc_1dc9fa49.md) — Exit documentation, resignation email drafting, and statutory paperwork.")
     readme_lines.append("- [MSTC Final Interview Preparation](2026-05-18_MSTC_final_interview_preparation_8fa780d3.md) — Technical CS question bank, HR behavioral responses, and comprehensive interview battle-plan.")
     readme_lines.append("- [CBT 1 Notes Extension](2026-08-01_CBT_1_notes_extension_28f28463.md) — IFFCO CBT 1 paper review, DBMS, Security, and OS note consolidation.")
     readme_lines.append("")
@@ -264,7 +266,7 @@ def main():
     readme_lines.append("### 🛠 Infrastructure, Setup & System Specs")
     readme_lines.append("- [Docker and App Clutter Cleanup](2026-08-25_Docker_and_app_clutter_0c667055.md) — WSL2 compaction, Docker cleanup, and memory optimization.")
     readme_lines.append("- [Automatic Push Rules for Main Branch](2026-06-14_Automatic_push_rules_for_main_branch_21564636.md) — Git hooks, brain-sync automation, and `.cursor/rules` configurations.")
-    readme_lines.append("- [Paper 1 & 2 Study Plan (Coal India)](2026-08-18_Paper_1_2_study_plan_789eb95e.md) — DBMS, Relational Model, and Paper 1 non-tech planning.")
+    readme_lines.append(f"- [Paper 1 & 2 Study Plan (Coal India)]({p12_file}) — DBMS, Relational Model, and Paper 1 non-tech planning.")
 
     readme_path = os.path.join(output_dir, 'README.md')
     with open(readme_path, 'w', encoding='utf-8') as f:

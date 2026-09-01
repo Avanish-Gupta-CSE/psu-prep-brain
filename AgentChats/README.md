@@ -2,8 +2,8 @@
 
 Complete, searchable markdown archive of all Cursor agent and assistant chat conversations for the `psu-prep-brain` preparation complex.
 
-**Total Archived Sessions:** 25  
-**Archive Generated:** 2026-08-31 05:33:03
+**Total Archived Sessions:** 26  
+**Archive Generated:** 2026-09-01 15:19:42
 
 ---
 
@@ -11,11 +11,12 @@ Complete, searchable markdown archive of all Cursor agent and assistant chat con
 
 | Date & Time | Chat Title | Turns | Summary / Artifacts | File Link |
 | :--- | :--- | :--- | :--- | :--- |
-| `2026-08-31 05:25:53` | **Gemini_18 July_CURRENT: Context gathering for project references** | 602 | Edited Resume-Berkadia.tex | [2026-08-31_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md](2026-08-31_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md) |
+| `2026-09-01 15:10:14` | **Gemini_18 July_CURRENT: Context gathering for project references** | 733 | Edited export_agent_chats.py, NextSteps.md, README.md, DRILL-01-OS-COA.md | [2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md](2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md) |
+| `2026-09-01 08:42:59` | **Video editing request** | 2 | Read 340166.txt | [2026-09-01_Video_editing_request_3da0d7d5.md](2026-09-01_Video_editing_request_3da0d7d5.md) |
+| `2026-08-31 05:46:17` | **Paper 1 & 2 study plan** | 15 | Edited README.md, 2026-08-31_Paper_1_&_2_study_plan_789eb95e.md, generate_chat_archive.js, test_format.js, test_export.js | [2026-08-31_Paper_1_&_2_study_plan_789eb95e.md](2026-08-31_Paper_1_&_2_study_plan_789eb95e.md) |
 | `2026-08-30 14:35:03` | **PDF assessment marks review** | 7 | Edited calc_raw_marks.mjs | [2026-08-30_PDF_assessment_marks_review_1faed7ac.md](2026-08-30_PDF_assessment_marks_review_1faed7ac.md) |
 | `2026-08-30 14:34:35` | **PDF assessment marks review** | 11 | Read cdn.digialm.com__per_g01_pub_1258_touchstone_AssessmentQPHTMLMode1__1258O26309_1258O26309S2D3367_17878273890053807_1832901400109_1258O26309S2D3367E1.html.pdf | [2026-08-30_PDF_assessment_marks_review_aabf26db.md](2026-08-30_PDF_assessment_marks_review_aabf26db.md) |
 | `2026-08-25 18:02:53` | **Docker and app clutter** | 75 | Edited .wslconfig, compact_docker.txt, disk_space_clutter_cleanup_6c5f1b16.plan.md | [2026-08-25_Docker_and_app_clutter_0c667055.md](2026-08-25_Docker_and_app_clutter_0c667055.md) |
-| `2026-08-24 04:10:29` | **Paper 1 & 2 study plan** | 13 | Edited 2026-08-18.md, 03-Relational-Model-and-Functional-Dependencies.md, 01-Basics-of-DBMS.md, README.md | [2026-08-24_Paper_1_&_2_study_plan_789eb95e.md](2026-08-24_Paper_1_&_2_study_plan_789eb95e.md) |
 | `2026-08-21 12:50:58` | **FortiClient connection issues** | 3 | Read c__Users_agupt1_AppData_Roaming_Cursor_User_workspaceStorage_f19f57fb8ad35f5f072ce9503f738d6d_images_image-bf8b6acd-847a-4395-a267-08a6dd3e7ad6.png | [2026-08-21_FortiClient_connection_issues_989c16a7.md](2026-08-21_FortiClient_connection_issues_989c16a7.md) |
 | `N/A` | **i** | 0 | i | [2026-08-03_i_9f57f1db.md](2026-08-03_i_9f57f1db.md) |
 | `2026-08-01 18:32:57` | **CBT 1 notes extension** | 6 | Edited PROGRESS-LOG.md, ExamTracker.md, TrackedJobs.md, Progress.md, cbt1-notes.md | [2026-08-01_CBT_1_notes_extension_28f28463.md](2026-08-01_CBT_1_notes_extension_28f28463.md) |
@@ -42,8 +43,8 @@ Complete, searchable markdown archive of all Cursor agent and assistant chat con
 ## 📌 Key Sessions by Category
 
 ### 🌟 Pinned & Milestone Sessions
-- [Gemini 18 July / Current Context & Resume Sync](2026-08-31_Gemini_18_July_CURRENT_Context_gathering_for_project_references_c18155ee.md) — Multi-month master preparation brain, Form-Filling dossier, and Berkadia/STMicro resume synchronization.
-- [Claude 18 July / Resignation & HR Proofs](2026-07-18_Claude18_July_CURRENT_Context_gathering_for_project_references_1dc9fa49.md) — Exit documentation, resignation email drafting, and statutory paperwork.
+- [Gemini 18 July / Current Context & Resume Sync](2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md) — Multi-month master preparation brain, Form-Filling dossier, and Berkadia/STMicro resume synchronization.
+- [Claude 18 July / Resignation & HR Proofs](2026-07-18_Claude18_July_CURRENT_Context_gathering_for_project_referenc_1dc9fa49.md) — Exit documentation, resignation email drafting, and statutory paperwork.
 - [MSTC Final Interview Preparation](2026-05-18_MSTC_final_interview_preparation_8fa780d3.md) — Technical CS question bank, HR behavioral responses, and comprehensive interview battle-plan.
 - [CBT 1 Notes Extension](2026-08-01_CBT_1_notes_extension_28f28463.md) — IFFCO CBT 1 paper review, DBMS, Security, and OS note consolidation.
 
@@ -54,4 +55,4 @@ Complete, searchable markdown archive of all Cursor agent and assistant chat con
 ### 🛠 Infrastructure, Setup & System Specs
 - [Docker and App Clutter Cleanup](2026-08-25_Docker_and_app_clutter_0c667055.md) — WSL2 compaction, Docker cleanup, and memory optimization.
 - [Automatic Push Rules for Main Branch](2026-06-14_Automatic_push_rules_for_main_branch_21564636.md) — Git hooks, brain-sync automation, and `.cursor/rules` configurations.
-- [Paper 1 & 2 Study Plan (Coal India)](2026-08-18_Paper_1_2_study_plan_789eb95e.md) — DBMS, Relational Model, and Paper 1 non-tech planning.
+- [Paper 1 & 2 Study Plan (Coal India)](2026-08-31_Paper_1_&_2_study_plan_789eb95e.md) — DBMS, Relational Model, and Paper 1 non-tech planning.
