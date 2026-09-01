@@ -2,8 +2,8 @@
 
 Complete, searchable markdown archive of all Cursor agent and assistant chat conversations for the `psu-prep-brain` preparation complex.
 
-**Total Archived Sessions:** 26  
-**Archive Generated:** 2026-09-01 16:40:00
+**Total Archived Sessions:** 27  
+**Archive Generated:** 2026-09-01 16:46:00
 
 ---
 
@@ -11,6 +11,7 @@ Complete, searchable markdown archive of all Cursor agent and assistant chat con
 
 | Date & Time | Chat Title | Turns | Summary / Artifacts | File Link |
 | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-01 16:46:00` | **HAL → IOCL Stacked Campaign Plan** | 2 | `combined-HAL-then-IOCL-plan.md`, stacking ledger, Delta Week, risk register R1 (HAL interview vs IOCL CBT clash) | [2026-09-01_HAL_IOCL_stacked_campaign_plan_0e6c004d.md](2026-09-01_HAL_IOCL_stacked_campaign_plan_0e6c004d.md) |
 | `2026-09-01 16:40:00` | **Gemini_18 July_CURRENT: Context gathering for project references** | 737 | UCO Bank decision audit, `.brain/UCO-BANK-DECISION-AUDIT.md`, HAL sprint, AgentChats handoff | [2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md](2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md) |
 | `2026-09-01 08:42:59` | **Video editing request** | 2 | Read 340166.txt | [2026-09-01_Video_editing_request_3da0d7d5.md](2026-09-01_Video_editing_request_3da0d7d5.md) |
 | `2026-08-31 05:46:17` | **Paper 1 & 2 study plan** | 15 | Edited README.md, 2026-08-31_Paper_1_&_2_study_plan_789eb95e.md, generate_chat_archive.js, test_format.js, test_export.js | [2026-08-31_Paper_1_&_2_study_plan_789eb95e.md](2026-08-31_Paper_1_&_2_study_plan_789eb95e.md) |
@@ -43,6 +44,7 @@ Complete, searchable markdown archive of all Cursor agent and assistant chat con
 ## 📌 Key Sessions by Category
 
 ### 🌟 Pinned & Milestone Sessions
+- [HAL → IOCL Stacked Campaign Plan](2026-09-01_HAL_IOCL_stacked_campaign_plan_0e6c004d.md) — September master plan: 73% syllabus overlap, Stacking Ledger, Delta Week for IOCL-only topics, HAL interview vs IOCL CBT clash (R1).
 - [Gemini 18 July / Current Context & Resume Sync](2026-09-01_Gemini_18_July_CURRENT_Context_gathering_for_project_referen_c18155ee.md) — Multi-month master preparation brain, Form-Filling dossier, Berkadia exit, **UCO Bank decision audit (Session 55)**, HAL sprint, laptop handoff archive.
 - [Claude 18 July / Resignation & HR Proofs](2026-07-18_Claude18_July_CURRENT_Context_gathering_for_project_referenc_1dc9fa49.md) — Exit documentation, resignation email drafting, and statutory paperwork.
 - [MSTC Final Interview Preparation](2026-05-18_MSTC_final_interview_preparation_8fa780d3.md) — Technical CS question bank, HR behavioral responses, and comprehensive interview battle-plan.
