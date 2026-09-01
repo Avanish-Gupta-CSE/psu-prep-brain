@@ -56,7 +56,7 @@
 | 1 | Online Application Starts | 29 July 2026 (14:00 Hrs) | Completed |
 | 2 | **Last Date for Online Application** | **14 August 2026 (14:00 Hrs)** | Completed |
 | 3 | **Admit Card Download** | **20 August 2026** | Completed |
-| 4 | **Online Selection CBT Exam** | **Sunday, 06 September 2026** 🔥 | **ACTIVE TARGET** |
+| 4 | **Online Selection CBT Exam** | **Sunday, 06 September 2026** | **ACTIVE TARGET** |
 | 5 | **Declaration of CBT Results** | **10 September 2026** | Upcoming |
 | 6 | Download Interview Call Letter | 12 September 2026 | Upcoming |
 | 7 | **Personal Interviews at Bengaluru** | **21 to 25 September 2026** | Upcoming |

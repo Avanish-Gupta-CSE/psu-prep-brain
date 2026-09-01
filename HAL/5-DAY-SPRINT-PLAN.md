@@ -1,15 +1,15 @@
 # HAL Design Trainee (CS) -- 5-Day Precision Battle Plan
 
-**Exam Date:** **Sunday, 06 September 2026**  
+**Exam Date:** Sunday, 06 September 2026  
 **Exam Location:** Bengaluru  
 **Target Post:** Design Trainee (DT) -- Computer Science (Advt: `HAL/CHRC-TM/RECT-02/2026`)  
-**Target Score:** **125+ / 160 Marks** (Weightage: 85% CBT + 15% Interview)  
+**Target Score:** 125+ / 160 Marks (Weightage: 85% CBT + 15% Interview)  
 
 ---
 
-## ⏱️ Exam Structure & Sectional Time Budget
+## Exam Structure & Sectional Time Budget
 
-$$\text{Total Duration: } 150 \text{ Minutes (2.5 Hours)} \quad \Big| \quad \text{Total: } 160 \text{ MCQs} \quad (\approx 56\text{ sec/question})$$
+**Total Duration:** 150 Minutes (2.5 Hours) | **Total Questions:** 160 MCQs (~56 sec / question)
 
 | Part | Section Scope | Questions | Target Time Allocation | Target Score | Strategy |
 | :---: | :--- | :---: | :---: | :---: | :--- |
@@ -20,20 +20,20 @@ $$\text{Total Duration: } 150 \text{ Minutes (2.5 Hours)} \quad \Big| \quad \tex
 
 ---
 
-## 📅 Day-by-Day Precision Sprint Roadmap (01–05 September 2026)
+## Day-by-Day Precision Sprint Roadmap (01–05 September 2026)
 
 ```
- 01 Sept (Day 1)  ──▶  OS & COA (Paging, EMAT, Scheduling, Cache Mapping, Pipelining) + Defence/HAL GK
- 02 Sept (Day 2)  ──▶  CN & Digital Logic (Subnetting, TCP/UDP, Flow Control, K-Maps, Counters) + Reasoning
- 03 Sept (Day 3)  ──▶  DBMS & Data Structures (Normalization, B+ Trees, ACID, Sorting, Graphs) + English
- 04 Sept (Day 4)  ──▶  TOC, Compilers & Software Engineering (Chomsky, Parsing, SDLC) + 2026 National GK
- 05 Sept (Day 5)  ──▶  Full 160-Question Mock Simulation Drill + Master Formula & Cheat Sheet Blitz
- 06 Sept (Day 6)  ──▶  🔥 HAL DESIGN TRAINEE CBT EXAM (BENGALURU)
+ 01 Sept (Day 1)  -->  OS & COA (Paging, EMAT, Scheduling, Cache Mapping, Pipelining) + Defence/HAL GK
+ 02 Sept (Day 2)  -->  CN & Digital Logic (Subnetting, TCP/UDP, Flow Control, K-Maps, Counters) + Reasoning
+ 03 Sept (Day 3)  -->  DBMS & Data Structures (Normalization, B+ Trees, ACID, Sorting, Graphs) + English
+ 04 Sept (Day 4)  -->  TOC, Compilers & Software Engineering (Chomsky, Parsing, SDLC) + 2026 National GK
+ 05 Sept (Day 5)  -->  Full 160-Question Mock Simulation Drill + Master Formula & Cheat Sheet Blitz
+ 06 Sept (Day 6)  -->  HAL DESIGN TRAINEE CBT EXAM (BENGALURU)
 ```
 
 ---
 
-## 🎯 Daily Subject Breakdown
+## Daily Subject Breakdown
 
 ### Day 1 (Tuesday, 01 Sept 2026) -- OS, COA & Defence GK
 * **Operating Systems**: Paging, TLB & Effective Memory Access Time (EMAT), Page Replacement (FIFO, LRU, Optimal, Belady's Anomaly), CPU Scheduling (FCFS, SJF, SRTF, RR, Priority), Concurrency & Semaphores, Deadlock Avoidance & Banker's Algorithm, Disk Scheduling (SSTF, SCAN, LOOK, C-LOOK).
@@ -43,7 +43,7 @@ $$\text{Total Duration: } 150 \text{ Minutes (2.5 Hours)} \quad \Big| \quad \tex
 
 ### Day 2 (Wednesday, 02 Sept 2026) -- CN, Digital Logic & Reasoning
 * **Computer Networks**: IPv4 Subnetting & CIDR calculations, OSI vs TCP/IP layer protocols, Flow Control (Stop & Wait, Go-Back-N, Selective Repeat efficiency formulas), TCP congestion control (Slow start, Congestion avoidance, AIMD), Routing algorithms (Distance Vector vs Link State), DNS/DHCP/HTTP/HTTPS ports and packet formats.
-* **Digital Logic**: Boolean Algebra & De Morgan's laws, K-Map minimizations (SOP, POS, Don't care), Multiplexers (implementing Boolean functions using MUX), Decoders & Encoders, Flip-Flops (SR, JK, D, T excitation tables), Synchronous & Asynchronous Counter design (MOD-$N$ calculations).
+* **Digital Logic**: Boolean Algebra & De Morgan's laws, K-Map minimizations (SOP, POS, Don't care), Multiplexers (implementing Boolean functions using MUX), Decoders & Encoders, Flip-Flops (SR, JK, D, T excitation tables), Synchronous & Asynchronous Counter design (MOD-N calculations).
 * **Reasoning Speed Drills**: Syllogisms, Blood Relations, Number & Letter Series, Coding-Decoding, Direction Sense tests.
 
 ### Day 3 (Thursday, 03 Sept 2026) -- DBMS, DSA & English
@@ -54,7 +54,7 @@ $$\text{Total Duration: } 150 \text{ Minutes (2.5 Hours)} \quad \Big| \quad \tex
 ### Day 4 (Friday, 04 Sept 2026) -- TOC, Compilers, SE & 2026 Current Affairs
 * **Theory of Computation (TOC)**: Chomsky Hierarchy (Regular, CFL, CSL, Recursive, RE languages and automata), DFA minimization & Myhill-Nerode, Closure properties matrix, Decidability & Undecidability table (Halting problem, Post Correspondence Problem).
 * **Compiler Design**: Lexical analysis & tokens, Grammar classifications (LL(1), LR(0), SLR(1), LALR(1), CLR(1) state size & parsing conflict conditions), Intermediate code generation (Three-Address Code), Code optimization (Common Subexpression Elimination, Loop Invariant code motion).
-* **Software Engineering**: SDLC Models (Waterfall, Spiral, Agile/Scrum), Software Testing (Black-box vs White-box, Cyclomatic Complexity calculation $V(G) = E - N + 2P$), Design patterns & architectural styles.
+* **Software Engineering**: SDLC Models (Waterfall, Spiral, Agile/Scrum), Software Testing (Black-box vs White-box, Cyclomatic Complexity calculation `V(G) = E - N + 2P`), Design patterns & architectural styles.
 * **2026 Current Affairs**: National milestones, NITI Aayog/RBI appointments, Union budget/economic surveys, sports & science awards.
 
 ### Day 5 (Saturday, 05 Sept 2026) -- Full Simulation & Final Revision
@@ -64,7 +64,7 @@ $$\text{Total Duration: } 150 \text{ Minutes (2.5 Hours)} \quad \Big| \quad \tex
 
 ---
 
-## 🏆 Scoring Rules & Tactics for HAL CBT
+## Scoring Rules & Tactics for HAL CBT
 
 1. **No Negative Marking Check**: Verify negative marking instructions on screen before starting. If zero negative marking, mark 100% of the 160 questions.
 2. **First-Pass Sweep (0 to 60 mins)**: Knock out all direct theoretical questions across Part I, Part II, and Part III. Secure 70+ marks immediately.

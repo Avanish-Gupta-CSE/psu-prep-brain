@@ -33,10 +33,6 @@ Active sprint roadmap configured in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SP
 | **October / Nov 2026** | **ISRO ICRB Scientist/Engineer 'SC' (CS)** | 37 Cities | To Fill by 16 Sept 2026 | Group A Gazetted (Level 10, 80 Tech + 15 Apt) |
 | **October / Nov 2026** | **CONCOR MT / AO (MIS/IT)** | TBD | To Apply (Opens 31 Aug) | Navratna CPSE (Ministry of Railways) |
 | **September 2026** | **UCO Bank SO (Specialist Cadre)** | Kolkata | Selected & Joining Approved | Software Developer JMGS-I |
-| **Late Sept / Oct 2026** | **SPMCIL Assistant Manager (IT)** | TBD | Applied (Advt: 02/2026) | Mini-Ratna (E-1 Level, 120 Qs) |
-| **October / Nov 2026** | **ISRO ICRB Scientist/Engineer 'SC' (CS)** | 37 Cities | To Fill by 16 Sept 2026 | Group A Gazetted (Level 10, 80 Tech + 15 Apt) |
-| **October / Nov 2026** | **CONCOR MT / AO (MIS/IT)** | TBD | To Apply (Opens 31 Aug) | Navratna CPSE (Ministry of Railways) |
-| **September 2026** | **UCO Bank SO (Specialist Cadre)** | Kolkata | Selected & Joining Approved | Software Developer JMGS-I |
 
 ---
 
