@@ -297,8 +297,8 @@ These are the four subjects with **zero IOCL payoff and no notes in the repo**. 
 | 1 | 0–15 min | **Part I GA (20 Q)** — pure recall. Under 30 s each. Do not linger. |
 | 2 | 15–50 min | **Part II English + Reasoning (40 Q)** — bank the easy accuracy. Flag any puzzle over 90 s and move. |
 | 3 | 50–125 min | **Part III CS (100 Q)** — first sweep theory and one-liners, flag every multi-step numerical. Then return for the flagged numericals. |
-| 4 | 125–145 min | Flagged questions, educated elimination | |
-| 5 | 145–150 min | Confirm zero unattempted (if no negative marking); confirm nothing is accidentally left marked-for-review-only | |
+| 4 | 125–145 min | Flagged questions, educated elimination |
+| 5 | 145–150 min | Confirm zero unattempted (if no negative marking); confirm nothing is accidentally left marked-for-review-only |
 
 **Hard rule:** no question gets more than 2 minutes on the first sweep. At 56 s average, one 5-minute question costs you four easy marks elsewhere.
 
