@@ -16,15 +16,22 @@
 ### 2. UCO Bank -- Software Developer in JMGS-I (Specialist Cadre)
 | Field | Details |
 |-------|---------|
-| **Date** | **September 2026 (Tentative) — Reporting & Joining (Deferred)** |
+| **Date** | **September 2026 — Reporting & Joining (Deferred from 20.07.2026)** |
 | **Reporting Time** | **09:30 AM** |
 | **Venue** | UCO BANK STAFF TRAINING CENTRE, PLOT NO. GE-8, SECTOR-III, SALT LAKE, KOLKATA, WEST BENGAL - 700106 |
-| **Status** | **🎉 FINALLY SELECTED! (Appointment Letter Received on 08.07.2026)** |
-| **Format** | Specialist Officer (IT) Scale-I. Requires document verification and 2 weeks induction training at Kolkata. |
-| **Notice Period Strategy** | Written extension of 60 days approved by UCO Bank HR on 14 July 2026. Resignation at Berkadia initiated on 16 July 2026 with a requested release date of 31 August 2026 (utilizing leave adjustment for the 16-day shortfall). |
-| **Priority** | **SECURED / SELECTION** |
+| **Status** | **🎉 SELECTED — ONLY CONFIRMED OFFER IN THE ENTIRE PIPELINE** (Appointment Letter 08.07.2026) |
+| **Advt / App ID** | `HO/HRM/RECR/2025-26/COM-04` (13.01.2026) \| App ID `7241178423` |
+| **Format** | Specialist Officer (IT) Scale-I. Document verification + induction training at Kolkata STC. |
+| **Working Posting** | Department of Information Technology (DIT), Head Office-2, Salt Lake Sector-1, Kolkata. **Zero public dealing.** |
+| **Pay Scale** | `48480-2000/7-62480-2340/2-67160-2680/7-85920` (12th Bipartite Settlement) |
+| **Compensation** | Gross ₹86,589/mo cash-HRA \| ₹80,457/mo + leased accommodation (₹18-22k/mo, tax-free) + employer NPS 14%. **Effective ~₹13.4-14.4 LPA.** |
+| **Bond & Probation** | 2-year probation + **2-year service bond (₹2,00,000 penalty if exited early)**. Clock clears ~Sept 2028 at age 28. |
+| **Notice Period Strategy** | Written 60-day extension approved by UCO Bank HR on 14 July 2026 **before** resigning. Berkadia resignation 16 July 2026, LWD 31 August 2026. |
+| **Priority** | **SECURED — CAREER BASELINE** |
 
-**Interview Debrief (self-reported):** `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`
+**Interview Debrief (self-reported):** `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`  
+**Decision Audit (accept vs decline analysis):** [`.brain/UCO-BANK-DECISION-AUDIT.md`](UCO-BANK-DECISION-AUDIT.md) — **Verdict: correct decision.**  
+**Joining Dossier / DV Checklist:** `Berkadia-Exit-Documents/UCO-BANK-JOINING-DOSSIER.md`
 
 ### 2. STPI -- Member Technical Staff E-I (Scientist ‘B’)
 | Field | Details |

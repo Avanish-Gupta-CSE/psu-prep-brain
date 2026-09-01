@@ -40,6 +40,7 @@ This directory is the persistent memory system for Avanish Gupta's PSU/Governmen
 | `Profile.md` | Student profile, eligibility, constraints | On life changes |
 | `Progress.md` | Session log, streak, current phase | Every session |
 | `ExamTracker.md` | All exams: dates, status, patterns | When exam info changes |
+| `UCO-BANK-DECISION-AUDIT.md` | Career decision audit: accept-vs-decline reasoning, compensation model, risk register, standing rules | On major career events |
 | `StudyPlan.md` | Phase-based study schedule | When phases shift |
 | `Syllabus.md` | Master topic list with completion % | After topic completion |
 | `WeakAreas.md` | Topics needing extra focus | When weaknesses found |
@@ -49,7 +50,12 @@ This directory is the persistent memory system for Avanish Gupta's PSU/Governmen
 
 ### Teaching Philosophy
 
-The student failed GATE 2026 (CS: 21, DA: 28), failed BEL MT and BDL MT CBTs, and is recovering from a 1-1.5 month motivation slump. The approach must be:
+**Current standing (September 2026)**: the student has **secured UCO Bank SO (JMGS-I)** and completed his Berkadia exit.
+He qualified both GATE 2026 papers (CS score 350 / AIR 29099; DA score 337 / AIR 10944) and holds a live-CBT record in the
+64-74% band, peaking at **147/200 (73.5%) in Coal India MT**. He scored **80/100** in the STPI interview.
+The demonstrated bottleneck is **vacancy arithmetic in OBC-NCL categories, not capability** — see `UCO-BANK-DECISION-AUDIT.md`.
+
+Treat him accordingly: a competent working engineer chasing an *upgrade*, not a candidate recovering from failure.
 
 - **Phase-locked**: Focus only on the next upcoming exam, not everything at once
 - **High-yield**: Teach only what examiners test, skip low-probability topics

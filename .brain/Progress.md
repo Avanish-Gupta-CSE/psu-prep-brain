@@ -4,15 +4,30 @@
 
 | Field | Value |
 |-------|-------|
-| **Active Phase** | Phase 3: The Multi-Exam Super-Sprint (22 May 2026 - Present) |
-| **Secondary Track** | Active (CIL MT, STPI Result Tracking, UCO Bank Onboarding, Berkadia Exit) |
+| **Active Phase** | Phase 6: HAL Design Trainee (CS) Precision Sprint (01 - 06 Sept 2026) |
+| **Career Baseline** | **SECURED — UCO Bank SO (JMGS-I), Kolkata.** Berkadia LWD completed 31 Aug 2026. |
+| **Secondary Track** | IOCL CBT (24 Sept), ISRO form (by 16 Sept), CONCOR form (by 30 Sept), CIL/NFL/IFFCO result watch |
 | **MSTC Status** | Not Selected (Merit List Published July 2026) |
-| **Study Streak** | Active (Exam Sprint August 2026) |
-| **Last Session** | 01 Sept 2026 -- HAL Design Trainee (CS) 5-Day Sprint Roadmap & Day 1 OS/COA Drill |
+| **Study Streak** | Active (HAL Sprint, September 2026) |
+| **Last Session** | 01 Sept 2026 -- UCO Bank Decision Audit & Brain-Complex Fact Reconciliation |
 | **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | 100% focused. HAL Design Trainee (CS) exam locked for Sunday, 06 September 2026 in Bengaluru. 5-day precision roadmap created and Day 1 OS & COA diagnostic drill active. |
+| **Overall Mood** | Operating from security, not pressure. Primary career goal achieved; every remaining exam is pure upside. HAL CBT locked for Sunday 06 September 2026 in Bengaluru. |
 
 ## Session Log
+
+### Session 55 -- 01 Sept 2026 (UCO Bank Decision Audit & Brain-Complex Fact Reconciliation)
+- **Type:** Strategic Career Audit, Memory-Layer Integrity Pass
+- **What happened:**
+  - **Authored `.brain/UCO-BANK-DECISION-AUDIT.md`**: Full evidence-based review of the decision to accept UCO Bank JMGS-I and resign from Berkadia. **Verdict: correct decision.** Grounds: (1) only confirmed offer from ~25 tracked recruitment tracks (~4% conversion); (2) effective package ~₹13.4-14.4 LPA versus Berkadia's ₹11.0 LPA CTC once leased accommodation and 14% employer NPS are counted; (3) the extension was secured in writing *before* resigning, eliminating all downside; (4) bond clears ~Sept 2028 at age 28, leaving ISRO/CERT-In/SEBI/BSNL/IOCL fully open.
+  - **Identified the structural bottleneck**: performance is not the constraint — vacancy arithmetic is. STPI scored **80/100 in interview** and still lost to a single OBC-NCL seat; NFL has 1 OBC-NCL backlog post; HAL DT CS has 1 OBC-NCL seat of 3. UCO Bank shortlisted ~61 candidates — a structurally wider funnel.
+  - **Reconciled stale facts across the brain-complex**:
+    - `Profile.md`: corrected GATE 2026 scores (were logged as CS 21 / DA 28; actual **CS 350 score / 30.03 marks / AIR 29099** and **DA 337 score / 25.33 marks / AIR 10944**, both qualified), age 25→26, location Kota→Bareilly/Kolkata, Berkadia moved to past employment, study-constraint block rewritten for the current unconstrained window.
+    - `MockTestLog.md`: replaced the empty "no mocks logged" state with the real live-CBT scorecard record (STPI 96/150, NFL 99/150, **CIL 147/200 = 73.5% peak**, IFFCO CBT2, ISP, HLL) and a trend table showing 64% → 66% → 73.5% progression.
+    - `WeakAreas.md`: corrected the propagated GATE marks error in the remediation header.
+    - `StudyPlan.md`: was frozen at June 2026 with Phase 4 marked active; rebuilt phase table through Phase 8 with HAL sprint as the live phase.
+    - `ExamTracker.md`: enriched the UCO Bank entry with pay scale, effective compensation, DIT posting detail, and bond/probation terms.
+- **Topics covered:** Career decision analysis, PSU compensation modelling (12th Bipartite Settlement), opportunity cost, memory-layer data integrity.
+- **Next goals:** Execute HAL Day 1 OS/COA drill; do not withdraw any pending application; opt for leased accommodation at UCO Bank joining.
 
 ### Session 54 -- 01 Sept 2026 (HAL Design Trainee CS 5-Day Precision Sprint Activation)
 - **Type:** Sprint Activation, High-Yield MCQ Drills, Exam Roadmap Deployment

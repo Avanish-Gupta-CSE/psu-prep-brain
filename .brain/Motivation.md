@@ -2,25 +2,25 @@
 
 ## Current Streak
 
-**Study Streak: 1 day** (Restarted on 22 Apr 2026 -- system sync and HPCL sprint restart)
+**Study Streak: 1 day** (Restarted 01 Sept 2026 -- HAL Design Trainee precision sprint)
 
 _A "study day" counts if you spent at least 30 minutes on exam-relevant material._
 
 | Longest Streak | Current Streak | Target Streak |
 |---------------|---------------|---------------|
-| 1 day | 1 day | 12 days (carry through HPCL CBT) |
+| -- | 1 day | 6 days (carry unbroken through HAL CBT on 06 Sept) |
 
-## Streak Calendar (April 2026)
+## Streak Calendar (September 2026)
 
 ```
 Mon Tue Wed Thu Fri Sat Sun
-     1   2   3   4   5
- 6   7   8   9  10  11  12
-13  14  15  16  17  18  19
-20  21  22X 23  24  25  26
-27  28  29  30
+     1X  2   3   4   5   6*
+ 7   8   9  10  11  12  13
+14  15  16  17  18  19  20
+21  22  23  24* 25  26  27
+28  29  30
 
-Mark each study day with [X], missed day with [ ]
+X = study day   * = EXAM DAY (06 Sept HAL, 24 Sept IOCL)
 ```
 
 ## Milestones
@@ -34,20 +34,28 @@ Mark each study day with [X], missed day with [ ]
 - [x] 1.5+ years industry experience at Berkadia
 - [x] Applied to 10+ PSU/Govt exams in 2025-2026
 
+### Achieved (2026 Cycle)
+- [x] **Cleared a PSU interview** — UCO Bank JMGS-I, 17 June 2026
+- [x] **Received a PSU appointment letter** — UCO Bank, 08 July 2026
+- [x] Scored **80/100** in the STPI Scientist 'B' personal interview
+- [x] Scored **65%+ in a full-length CBT** — Coal India MT 147/200 (73.5%), 24 Aug 2026
+- [x] Qualified both GATE 2026 papers (CS 350 / DA 337)
+- [x] Negotiated a written 60-day joining extension *before* resigning — zero-risk exit
+- [x] Completed the Berkadia exit cleanly (LWD 31 Aug 2026)
+
 ### Next Milestones
-- [ ] Carry the streak through HPCL CBT day
-- [ ] Submit / finalize IFFCO GET application before 30 Apr 2026
-- [ ] Build MSTC interview answer bank before 21 May 2026
-- [ ] First mock test score logged
-- [ ] Score 50%+ in a subject-wise mock
-- [ ] Complete 30-day study streak
-- [ ] Score 65%+ in a full-length mock
-- [ ] Receive positive result from SEBI/ECIL
+- [ ] Score **125+/160 in HAL Design Trainee CBT** (06 Sept 2026)
+- [ ] Clear IOCL Engineers/Officers CBT (24 Sept 2026) and reach GD/GT
+- [ ] Submit ISRO ICRB application before 16 Sept 2026
+- [ ] Submit CONCOR MT/AO application before 30 Sept 2026
+- [ ] Report and complete UCO Bank induction at Kolkata
+- [ ] Collect Berkadia relieving letter (~11 Sept 2026) and forward to UCO Bank HR
 
 ### Dream Milestones
 - [x] Get interview call from any PSU
-- [ ] Clear a PSU interview
-- [ ] Receive PSU joining letter
+- [x] Clear a PSU interview
+- [x] Receive PSU joining letter
+- [ ] **Upgrade to a Maharatna / Level-10 Gazetted post before the bond clears (~Sept 2028)**
 
 ## The Reality Check (Read When Demotivated)
 
@@ -93,11 +101,14 @@ You went from "I can't manage all these exams" to having a system that:
 
 | Date | Setback | How I Responded |
 |------|---------|----------------|
-| Feb 2026 | GATE CS: 21, DA: 28 | Felt devastated. 1-1.5 month slump. |
+| Feb 2026 | GATE 2026 CS 30.03 marks / DA 25.33 marks (both qualified, but low raw scores) | Felt devastated. 1-1.5 month slump. |
 | Mar 2026 | BEL MT: Failed CBT | Added to frustration |
 | Mar 2026 | BDL MT: Failed CBT | Added to frustration |
 | 14 Mar 2026 | BARC OCES: attempted ~60/100, couldn't solve CN/TOC/COA/Algo | "I felt violated." BUT: immediately pivoted to MSTC GD prep. No wallowing. That's the mindset. "If you don't burn like the sun, you won't shine like it." |
 | 22 Apr 2026 | Brain state went stale after the March phase | Restarted cleanly, reprioritized around HPCL, kept IFFCO in parallel, and preserved MSTC as an interview-readiness track instead of abandoning it. |
+| Jul 2026 | MSTC MT final merit list — **Not Selected**, plus skeptics openly mocking the UCO Bank selection | Channelled it into the STPI final sprint instead of wallowing. Flew to Delhi and executed. |
+| Aug 2026 | STPI Scientist 'B' — **Not Selected** at 68.80/100 despite scoring **80/100 in the interview**, beaten by a single OBC-NCL seat | Recognised the constraint was vacancy arithmetic, not ability. Kept the pipeline wide: applied to IOCL, ISRO, CERT-In, CONCOR, SPMCIL rather than narrowing. |
+| 31 Aug 2026 | Left a ₹11 LPA private engineering job for a standardised officer pay scale | Verified the maths before committing: effective package is ~₹13.4-14.4 LPA once lease and employer NPS are counted. Not a sacrifice — a net gain. See `UCO-BANK-DECISION-AUDIT.md`. |
 
 ## Weekly Reflection
 

@@ -1,16 +1,16 @@
 # PSU Study Plan & Tracker
 
-## Current Planning Assumption (as of June 7, 2026)
+## Current Planning Assumption (as of September 1, 2026)
 
-- **Completed Events**:
-  - `MSTC MT (Systems)` interview completed on `21 May 2026` (Awaiting Results).
-  - `STPI Exams` completed on `30 & 31 May 2026` (Done).
-  - `UCO Bank GD` completed on `01 June 2026` (Done).
-  - `BSNL SET Exam` completed on `first week of June 2026` (Done).
-- **Active Focus Phase**: Transition to the **CIL MT (Systems), Balmer Lawrie, and NFL MT (IT) Campaign**.
-  - Immediate action items: Complete pending form submissions for **CIL, Balmer Lawrie, and NFL**.
-  - Core study strategy: 80% focus on upcoming exams, leveraging the fact that Core CS subjects (OS, DBMS, CN, DSA) directly build SDE-level interview readiness.
-- **UPPSC Polytechnic Lecturer (CS)** is officially scheduled for **September 6, 2026**. Preparation for it will run as a dedicated secondary sprint.
+- **Career baseline secured**: `UCO Bank SO (JMGS-I)` selected, Berkadia LWD completed 31 Aug 2026.
+  Every remaining exam is now an **upgrade attempt from a position of security**, not a survival attempt.
+  Full rationale: [`UCO-BANK-DECISION-AUDIT.md`](UCO-BANK-DECISION-AUDIT.md).
+- **Completed Events**: MSTC interview (21 May), STPI CBTs (30-31 May), UCO Bank GD (01 Jun) & Interview (17 Jun),
+  BSNL SET (05 Jul), NFL MT (11 Jul), Balmer Lawrie (15 Jul), IFFCO CBT 2 (02 Aug), ISP SPMCIL (19 Aug),
+  HLL MT (23 Aug), CIL MT (24 Aug).
+- **Active Focus Phase**: **HAL Design Trainee (CS) precision sprint**, exam Sunday **06 September 2026**.
+- **Study capacity**: currently **unconstrained** (no employment until UCO Bank induction). This is the highest-leverage
+  window of the whole cycle and must absorb both HAL (06 Sept) and IOCL (24 Sept).
 
 ---
 
@@ -21,24 +21,33 @@
 | **Phase 1** | 14-18 Mar 2026 | MSTC MT GD | GD prep, company research, current affairs | ✅ COMPLETED |
 | **Phase 2** | 09 May - 21 May 2026 | MSTC MT Final Interview | HR + technical drills + resume deep-dive | ✅ COMPLETED |
 | **Phase 3** | 22 May - 06 Jun 2026 | Multi-Exam Sprint | STPI, UCO Bank GD, BSNL SET | ✅ COMPLETED |
-| **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ⏳ ACTIVE |
-| **Phase 5** | 01 Aug - 06 Sep 2026 | UPPSC PL / Advanced Core CS | General Hindi + UP General Studies + Advanced GATE Core | 📅 PLANNED |
+| **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
+| **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
+| **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | 🔥 **ACTIVE** |
+| **Phase 7** | 07 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | 75 Tech + 25 Non-Tech, then GD/GT + Interview prep | 📅 NEXT |
+| **Phase 8** | Sept 2026 onward | UCO Bank onboarding (Kolkata) | Induction, DIT placement, Finacle/CBS domain ramp-up | 📅 PARALLEL |
 
 ---
 
-## Phase 4: CIL MT / Balmer Lawrie Campaign (ACTIVE)
+## Phase 6: HAL Design Trainee (CS) Sprint (ACTIVE)
+
+Detailed day-by-day roadmap lives in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md).
+Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
+
+- **01 Sept** — OS & COA + Defence/Aviation GK
+- **02 Sept** — Computer Networks & Digital Logic + Reasoning
+- **03 Sept** — DBMS & Data Structures + English
+- **04 Sept** — TOC, Compilers & Software Engineering + 2026 Current Affairs
+- **05 Sept** — 160-question full simulation + master formula review
+- **06 Sept** — **HAL CBT (Bengaluru), target 125+/160**
 
 ### Core Study Materials (Single Sources of Truth)
-- Standard GATE preparation materials for Paper-II (OS, DBMS, CN, DSA, Discrete Maths).
-- Quantitative Aptitude, Reasoning, and General English practice tests for Paper-I.
+- `Notes/Shared-Core/` for all reusable CS fundamentals.
+- Quantitative Aptitude, Reasoning, and General English practice sets for the non-tech sections.
 - Current Affairs & GK capsule notes (updated weekly via web searches).
 
-### Daily Study Cadence
-- **Morning (04:15 AM - 05:30 AM)**: Core CS Academic Drill (GATE-level OS / DBMS / CN theory & numericals).
-- **Mid-Day Slot (07:30 AM - 10:15 AM / 11:30 AM)**: Non-Tech Aptitude & General Studies (Reasoning, English, Quant, GK).
-- **Evening Slot (08:30 PM - 11:30 PM)**: Core DSA Practice / Problem Solving (Striver TUF+ JavaScript/TypeScript) or Azure AI-900 module study.
-
 ### Weekly Deliverables & Rules
-- Solve 1 Full-Length Non-Tech Mock paper every weekend to lock in speed for Paper-I.
-- Update `psu-prep-brain\.brain\Progress.md` and `psu-prep-brain\.brain\Syllabus.md` after every active academic study session.
+- Solve 1 full-length mock before every CBT to lock in pacing.
+- Update `.brain/Progress.md` and `.brain/MockTestLog.md` after every scored attempt.
+- Log every new gap into `.brain/WeakAreas.md` the same day it is found.
 - Ensure 100% of study notes are committed to git regularly.

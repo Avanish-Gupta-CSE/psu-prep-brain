@@ -28,9 +28,10 @@ Remediation (10 min/day, 7 days):
 - Speak answers aloud (5 repeats each), then do 2 random-order retakes.
 - Source: `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`
 
-### From GATE 2026 (CS: 21/100, DA: 28/100)
+### From GATE 2026 (CS: 30.03/100, Score 350, AIR 29099 | DA: 25.33/100, Score 337, AIR 10944)
 
-The GATE scores indicate broad weakness across the CS syllabus. Based on typical GATE question distribution and a score of 21, the following areas likely need the most work:
+Both papers were **qualified** (CS above the General cutoff of 30.0; DA above the OBC-NCL cutoff of 23.7),
+but the raw marks confirm broad thinness across the CS syllabus. The areas below still need the most work:
 
 | Area | Likely Weakness | Priority | Remediation |
 |------|----------------|----------|-------------|

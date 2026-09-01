@@ -7,6 +7,23 @@ Read this file first to understand the current priority queue and the immediate 
 
 ---
 
+## ✅ Career Baseline: SECURED
+
+**UCO Bank Software Developer (JMGS-I), Kolkata — selected, appointment letter received 08.07.2026.**
+Berkadia LWD completed 31 August 2026. Joining/induction at UCO Bank STC Salt Lake in September 2026.
+
+Every remaining exam is now an **upgrade attempt from a position of security**, not a survival attempt.
+Full accept-vs-decline reasoning, compensation model, and risk register:
+[`UCO-BANK-DECISION-AUDIT.md`](UCO-BANK-DECISION-AUDIT.md) — **Verdict: correct decision.**
+
+Standing rules arising from that audit:
+- **Do not withdraw any pending application.** HAL, IOCL, ISRO, CONCOR all continue.
+- **Opt for leased accommodation over cash HRA** at joining (worth ₹2.16-2.64 LPA tax-free vs ₹6,133/mo taxable).
+- **Bond + probation clear ~September 2028** (age 28). Re-evaluate the market then, not before.
+- **Collect the Berkadia relieving letter** (~11 Sept 2026) and forward it to UCO Bank HR immediately.
+
+---
+
 ## 🚨 Immediate Priority: HAL Design Trainee (CS) 5-Day Precision Sprint (Exam: 06 Sept 2026)
 
 Active sprint roadmap configured in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md) and Day 1 diagnostic drill in [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
