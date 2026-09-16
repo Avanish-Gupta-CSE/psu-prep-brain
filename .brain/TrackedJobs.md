@@ -14,8 +14,11 @@ Before answering any user query, the agent must check this file, compare it with
 These are jobs where Avanish has already completed significant selection rounds. We are actively monitoring them for results or next round schedules.
 
 ### 1. MSTC -- Management Trainee (Systems)
-* **Status**: **Not Selected** (Final merit list published July 2026).
-* **Next Event**: None (closed).
+* **Status**: **WAITLISTED (Reserve Panel)** (Active for 1 year, ~July 2026 to July 2027).
+* **Score Breakdown**: CBT `26.50 / 60` (44.17%) + GD **`17.50 / 25`** (70.00%) + Interview **`9.00 / 15`** (60.00%) = **`53.00 / 100`**.
+* **Credentials**: Roll: `1110000165` | Reg: `712000369` | Category: OBC-NCL.
+* **Audit & Notes**: `MSTC/SCORECARD-AUDIT.md`. Qualified all individual stage bars (40%); fell ~5–7 marks short of direct Main List cutoff due to 7-seat (2 OBC) limit. Reserve panel operates only if empanelled candidate drops out.
+* **Next Event**: Passive monitoring only (MSTC HR calls directly if panel operates).
 * **Website**: `mstcindia.co.in/careers`
 
 ### 2. STPI -- MTS E-I (Scientist B)
@@ -78,7 +81,7 @@ These are immediate high-priority applications that Avanish must fill now:
 
 ### 1. HAL (Hindustan Aeronautics Limited) -- Design Trainee (DT) Computer Science
 * **Advt No.**: `HAL/CHRC-TM/RECT-02/2026` (Dated 29.07.2026)
-* **Status**: **ACTIVE / OPEN NOW (Closes August 14, 2026 at 2:00 PM)** 🟢
+* **Status**: **❌ CLOSED — CBT done 06 Sept 2026 (Bengaluru), DID NOT MAKE THE CUT (result 09 Sept 2026)**
 * **Target Post**: **Design Trainee (DT) CS** (MT CS has 0 seats for Gen/OBC; DT CS is the exact post for CS/IT).
 * **Saved PDF Copy**: `HAL/Detailed_Advertisement_29072026.pdf`
 * **Dedicated Workspace Guide**: `HAL/README.md`
@@ -107,18 +110,21 @@ These are immediate high-priority applications that Avanish must fill now:
 
 ### 3. NMDC Steel Limited (NSL) -- Executive Trainee (ET) -- Computer & Information Technology
 * **Advt No.**: `Notification No. 05 of 2026`
-* **Status**: **REGISTRATION SUBMITTED -- PAYMENT PENDING** 
+* **Status**: **🎫 ADMIT CARD RECEIVED (15 Sept 2026)** — ⚠️ **clashes with UCO Bank joining/induction (28 Sept)**
+* **CBT DATE**: **01 October 2026 (Thursday), 10:30 AM – 12:30 PM** (report 08:30 AM, gate closes 10:15 AM)
+* **CBT Centre**: **Oxford Public School, Pragati Path, Samlong, RANCHI, Jharkhand – 834001**
+* **Roll No**: `1134327` | **Registration No.**: `126595`
 * **Applicant Details**:
   - Name: AVANISH KUMAR GUPTA
-  - Registration No.: **126595**
   - Phone: 8107432468
   - Email: avanish.gupta.official1@gmail.com
-  - Fee: ₹500.00 (Paid on portal, awaiting gateway confirmation)
+  - Fee: ₹500.00 (URN `DUP8322730`, paid 04-08-2026)
   - Applied Discipline: EXECUTIVE TRAINEE - COMPUTER & INFORMATION TECHNOLOGY
-* **Payment Note**: Click "Pay Now" on portal, select category `RECRUITMENT NOTIFICATION NO. 05/2026 NSL`. After payment, wait 48-72 hours for bank validation before downloading application form.
+  - Category: OBC-NCL
+* **Saved Files**: `NMDCSteel/Admit-Card-126595.pdf` | `NMDCSteel/Application-126595.pdf`
+* **Clash Analysis**: UCO Bank joining is 28 Sept 2026 (Kolkata STC); NMDC CBT is 01 Oct 2026 (Ranchi) — 3-day gap, travel ~2 days. **Decision deadline 29 Sept** after obtaining UCO induction timetable + leave policy. **Guardrail: do not jeopardise UCO probation/bond — skip if leave unclear.**
 * **Location & Pay**: Nagarnar, Chhattisgarh. Pay Scale: ₹50,000 - 1,60,000.
 * **Selection**: CBT + Group Discussion (GD) + Interview.
-* **Last Date**: **11 August 2026**
 * **Website**: `nmdcsteel.nmdc.co.in`
 * **Folder**: `NMDCSteel/`
 
@@ -141,7 +147,7 @@ These are immediate high-priority applications that Avanish must fill now:
 
 ### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS/IT)
 * **Advt No.**: `IOCL/CO-HR/RECTT/2026/01` (Dated 14.08.2026)
-* **Status**: **🔥 FORM FILLED & SUBMITTED ON 30 AUGUST 2026** 🟢
+* **Status**: **🔥 FORM FILLED & SUBMITTED ON 30 AUGUST 2026 — ACTIVE 9-DAY 18H/DAY (Completion 16–21 + Revision 22–23, DL 6.1.1 done)** 🟢
 * **Vacancies**: **22 Posts for CS/IT** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2)
 * **Pay Scale**: Grade ‘A’ (₹50,000 – ₹1,60,000, Annual CTC ~₹18.4 LPA).
 * **OFFICIAL CBT DATE**: **24 September 2026 (Wednesday)** 🔥

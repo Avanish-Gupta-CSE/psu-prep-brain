@@ -4,16 +4,122 @@
 
 | Field | Value |
 |-------|-------|
-| **Active Phase** | Phase 6: HAL Design Trainee (CS) Precision Sprint (01 - 06 Sept 2026) |
-| **Career Baseline** | **SECURED — UCO Bank SO (JMGS-I), Kolkata.** Berkadia LWD completed 31 Aug 2026. |
-| **Secondary Track** | IOCL CBT (24 Sept), ISRO form (by 16 Sept), CONCOR form (by 30 Sept), CIL/NFL/IFFCO result watch |
-| **MSTC Status** | Not Selected (Merit List Published July 2026) |
-| **Study Streak** | Active (HAL Sprint, September 2026) |
-| **Last Session** | 01 Sept 2026 -- UCO Bank Decision Audit & Brain-Complex Fact Reconciliation |
-| **Resume From** | `.brain/NextSteps.md` |
-| **Overall Mood** | Operating from security, not pressure. Primary career goal achieved; every remaining exam is pure upside. HAL CBT locked for Sunday 06 September 2026 in Bengaluru. |
+| **Active Phase** | Phase 7: IOCL Engineers/Officers (CS/IT) Sprint (11–24 Sept) → **Phase 8 UCO joining 28 Sept** |
+| **Career Baseline** | **SECURED — UCO Bank SO (JMGS-I), Kolkata.** Berkadia LWD 31 Aug 2026; **relieving letter + service certificate received 15 Sept 2026**. |
+| **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
+| **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
+| **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
+| **Last Session** | 16 Sept 2026 -- 9-day 18h/day crack-by-any-means replan (DL 6.1.1 done, continue DL today) |
+| **Resume From** | `.brain/NextSteps.md` — 16 Sept DL 6.1.2→6.9; 18h/day until 24 Sept 06:00; tracker at /tracker/. |
+| **Overall Mood** | All-in. 162h in 9 days. Will crack it by hook or crook. |
 
 ## Session Log
+
+### Session 64 -- 16 Sept 2026 (9-Day 18h/Day Crack-by-Any-Means Replan + Tracker Build)
+- **Type:** Replan, Brain Sync, Tooling
+- **What happened:**
+  - **Replanned 16–24 Sept (9 days, 18h/day = 162h) from scratch, 1 completion + 1 revision + mocks.** Daily budget: 24h − 3h sleep − 1.5h gym − 1h misc = 18h study. Previous 11–19 plan missed; new Phase A 16–21 (DL→COA→Compiler→OS→DBMS→CN→DS→Algo→Eng Maths→SE/Cloud→Quant→Reasoning→English→GA), Phase B 22–23 (revision + 3 mocks), 24 Sept CBT 06:00 stop.
+  - **Progress:** DL 6.1.1 complete (16 Sept) — continuing DL 6.1.2→6.9 today.
+  - **Built GitHub Pages tracker** at `docs/tracker/` → `https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/` (live checkboxes, countdown, daily targets).
+  - **Brain synced:** `NextSteps.md`, `Progress.md` (Session 64), `StudyPlan.md` Phase 7, `ExamTracker.md`, `TrackedJobs.md`.
+- **Topics covered:** IOCL 9-day sprint math; DL continuation.
+- **Next goals:** DL 6.1.2→6.9 + ISRO submit 16 Sept; COA+Compiler 17 Sept; OS+DBMS 18 Sept; CN+DS 19 Sept; Algo+Eng Maths+delta 20 Sept; Quant+Reasoning+English+GA 21 Sept; revision+mocks 22–23 Sept; CBT 24 Sept.
+
+### Session 63 -- 15 Sept 2026 (Berkadia Exit Docs + NMDC Admit Card + UCO Joining Mail)
+- **Type:** Document Filing, Deadline Tracking, Email Draft
+- **What happened:**
+  - **Berkadia relieving documents received** (dated 03 Sept 2026): *Employee Relieving Letter* (relieved as of close of business **31 Aug 2026**) + *Service Certificate* (Designation on LWD: **Associate Software Engineer**; DOJ 26 Jun 2024 → DOR 31 Aug 2026). Filed to `Berkadia-Exit-Documents/Letters/` as `Employee-Relieving-Letter-2026-09-03.pdf` and `Service-Letter-2026-09-03.pdf`; `CHECKLIST.md` updated.
+  - **UCO Bank HR mail (10 Sept, 1:10 PM)** — Chief Manager, Admission Room/Recruitment Cell: asked for the previous organisation's **relieving letter**, required for **joining on 28.09.2026 at STC Kolkata**. Draft reply created at `UCOBank/RELIEVING-LETTER-REPLY-EMAIL.md` (send by 16–17 Sept, attach both Berkadia PDFs).
+  - **NMDC Steel ET admit card received** (Roll `1134327`): CBT **01 Oct 2026 (Thu) 10:30 AM–12:30 PM**, Oxford Public School, Samlong, **Ranchi, Jharkhand**. Filed `NMDCSteel/Admit-Card-126595.pdf` + `Application-126595.pdf`.
+  - **⚠️ Clash flagged:** UCO joining 28 Sept vs NMDC CBT 01 Oct — 3-day gap, ~2 days travel. Stance: *observe* — obtain induction timetable + leave policy on 28 Sept, decide by **29 Sept**; do not withdraw candidature; guardrail = do not risk UCO probation/bond.
+  - **CONCOR + NSPCL registrations filed** (earlier same day): `CONCOR/CONCOR-MT-MIS-Application-260026030.pdf` (Reg `CONC261017771`, App `MTMIS260026030`, ₹885 paid, centres Kolkata/Delhi-NCR/Lucknow) and `NSPCL/NSPCL-SrAsstEngg-IT-ERP-2606002174.pdf` (Reg `2606002174`, Sr Assistant Engineer IT/ERP, cities Kolkata/Bhubaneshwar, ₹300 challan `DUQ0000200`).
+- **Topics covered:** Document filing, joining compliance, exam-clash risk analysis.
+- **Next goals:** Send UCO relieving-letter email by 16–17 Sept; ISRO ICRB submit by 16 Sept; IOCL admit card 15 Sept; IOCL CBT 24 Sept; UCO joining 28 Sept; NMDC decision 29 Sept.
+
+### Session 62 -- 11 Sept 2026 (1+1 From-Scratch Replan Locked + Day-1 TOC Start)
+- **Type:** Replan, Brain Sync, Execution Start
+- **What happened:**
+  - **Locked 1 completion (11–19 Sept) + 1 revision (20–23 Sept), from scratch.** Toned down from 1+2 per user.
+  - **Corrected totals:** 2,095 videos (~288h) = 1,801 Tech (193h 50m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests.
+  - **Day-1 order:** TOC 7.1→7.10 in KG order, then DL 3.1 start. Notes + PYQ first, 2x concepts for gaps.
+- **Topics covered:** Replan math; TOC sequence queue.
+- **Next goals:** Finish TOC 7.1–7.10 + DL start 11 Sept; DL+COA+Compiler 12 Sept; admit 15 Sept; ISRO 16 Sept.
+
+### Session 61 -- 11 Sept 2026 08:00 (Bareilly Restart: 13-Day Course→Rev1→Rev2 + Video Count)
+- **Type:** Restart Planning, Load Mapping, Brain Sync
+- **What happened:**
+  - **Restart logged:** back at Bareilly home, 13 days to IOCL CBT (24 Sept). Plan: complete course → revision-1 → revision-2.
+  - **Video load corrected (screenshot 11 Sept, supersedes 03 Sept scrape):** Paper-2 Tech = 1,801 videos (193h 50m) + 3,205 PYQs + 2,338 PQs + 16 tests. Full watch at 1x impossible — 2x + hotspot/PYQ-first.
+  - **Start order (user):** TOC first, then Digital Logic, today 11 Sept.
+- **Topics covered:** IOCL restart sequencing; KG load math.
+- **Next goals:** TOC → Digital Logic 11 Sept; admit card 15 Sept; ISRO close 16 Sept; Rev-1 + mocks 18–20; Rev-2 taper 21–23; CBT 24 Sept.
+
+### Session 60 -- 09 Sept 2026 (HAL CBT Result + Return to Bareilly)
+- **Type:** Result Logging, Travel, Phase Transition
+- **What happened:**
+  - **HAL Design Trainee (CS) CBT result declared — did not make the cut** (App No `D321947`, CBT 06 Sept Bengaluru). Source: user report 09 Sept 2026. Score/cutoff not yet recorded.
+  - **Returned to Bareilly 09 Sept:** HYD→BE 06:35 AM, arr 11:30 AM per travel lock. Home-base IOCL sprint live from 09 Sept afternoon.
+  - **Phase transition:** Phase 6 HAL closed; Phase 7 IOCL (24 Sept) is now the sole focus.
+- **Topics covered:** HAL closure, IOCL sprint activation.
+- **Next goals:** IOCL Delta + full-syllabus sprint 09–23 Sept; ISRO form by 16 Sept; CONCOR form by 30 Sept; IOCL admit card 15 Sept.
+
+### Session 59 -- 04 Sept 2026 (MSTC MT Official Scorecard Audit & Learning Integration)
+- **Type:** Scorecard Audit, Competency Validation, Brain Sync
+- **What happened:**
+  - **Audited MSTC MT (Advt 01/2025) Official Scorecard:** Candidate Avanish Kumar Gupta (Roll `1110000165`, Reg `712000369`, MT Systems, OBC-NCL).
+  - **Official Component Breakdown (Confirmed from Executive Recruitment Rules 60:25:15):**
+    - Written Exam (CBT): `26.50 / 60.00` (44.17%) — Cleared 40% qualifying bar.
+    - Group Discussion (GD): **`17.50 / 25.00` (70.00%)** — High-ranking performance before corporate board.
+    - Personal Interview (PI): **`9.00 / 15.00` (60.00%)** — Above average performance.
+    - Combined Total: **`53.00 / 100.00`** — Status: **WAITLISTED (Reserve Panel)**.
+  - **Key Analysis & Strategic Insights:**
+    - Cleared all 3 stage qualifying gates; empanelled on the Reserve Panel (valid for 1 year, ~July 2026 to July 2027).
+    - Deficit was solely ~6–8 marks in CBT against an extreme 7-seat (2 OBC) nationwide constraint.
+    - Stage-3 personality/communication conversion is proven elite (70% in GD, 60% in PI) in actual PSU panels.
+    - Direct carryover to HAL (85% CBT, 15% Interview) & IOCL: Technical CBT score is the sole determining lever. Maximizing technical accuracy eliminates any dependency on interview margins.
+  - **Files Updated & Created:**
+    - Created `MSTC/SCORECARD-AUDIT.md` (comprehensive official audit).
+    - Updated `MSTC/README.md` (status corrected to Waitlisted).
+    - Updated `.brain/TrackedJobs.md`, `.brain/ExamTracker.md`, `.brain/Motivation.md`, and `.brain/Progress.md`.
+- **Topics covered:** MSTC scorecard audit, reserve panel mechanics, interview/GD validation, HAL/IOCL technical prioritization.
+- **Next goals:** Execute Friday 04 Sept 3-Day Sprint blocks (TOC, Compiler, COA, Backlog DBMS/DSA); Gym at 15:00.
+
+### Session 58 -- 03 Sept 2026 15:30 (DEFINITIVE Travel Lock: 09 Sept Confirmed)
+- **Type:** Travel Lock, Priority Re-alignment, Brain Sync
+- **What happened:**
+  - **DEFINITIVE FLIGHT DECISION LOCKED: 09 Sept at 06:35 AM (HYD → BE, arriving 11:30 AM).**
+  - **User Priority Clarified:** The student explicitly stated that job preparation is the non-negotiable priority, and personal meetings can happen anytime once career goals are accomplished.
+  - **Objective Math:**
+    - Flying on 09 Sept recovers **16.5 focused study hours** (6.5h on 09th afternoon/evening + 10h full-day on 10th).
+    - Staying till 10th would have burned 24 full hours of unconstrained study time.
+    - Hyderabad window still gives a solid **~36 hours** (07th afternoon + 08th full day) of quality personal reunion.
+  - **Schedule Protocol for 09 Sept:**
+    - 06:35 AM Flight → 11:30 AM Land Bareilly.
+    - 12:30 PM – 14:30 PM Lunch + mandatory recovery nap.
+    - **15:00 PM Sharp:** Home desk study starts (CONCOR form submission + Quant/OOP block).
+- **Topics covered:** Travel scheduling, study-hour maximization, IOCL single-minded priority.
+- **Next goals:** Execute today's (03 Sept) 14:00 DBMS + DSA sprint block; book 09 Sept 06:35 AM flight.
+
+### Session 57 -- 03 Sept 2026 14:00 (Day-3 Restart Sequence + Hyderabad Travel Decision)
+
+### Session 57 -- 03 Sept 2026 14:00 (Day-3 Restart Sequence + Hyderabad Travel Decision)
+- **Type:** Daily Sequencing, Travel Planning, Brain Sync
+- **What happened:**
+  - **Issued 03 Sept 2PM→11PM sequential plan:** DBMS core (2-4PM) → SQL traps (4-5:30PM) → Transactions/indexing (5:45-7PM) → DSA (7-8:30PM) → Algorithms (8:30-9:45PM) → English (9:45-10:25PM) → mixed set + close (10:25-11PM). All timed, all with file pointers + deliverables.
+  - **Decided Hyderabad→Bareilly: 09 Sept 06:35 (not 10th).** Grounds: (1) 09 Sept is CONCOR deadline day — submit from Bareilly home base, not a hotel; (2) 10 Sept is HAL result day — absorb it at home; (3) 11-12 Sept Quant/DI + carry queue need full home setup; (4) extra Hyderabad day costs the highest-value Delta morning (Quant block 1). Girlfriend time preserved (07 + 08 full days). Study makeup claim accepted but travel days are low-yield — minimise exposure.
+  - **Logged relocation:** leaving Bangalore for good; HAL CBT 06 Sept is last Bangalore event; 07 Sept 06:30 BLR→HYD flight; 09 Sept 06:35 HYD→BE (arr 11:30).
+- **Topics covered:** DBMS, DSA/Algo sequencing; travel vs IOCL-goal tradeoff analysis.
+- **Next goals:** Execute 2PM sequence today; book 09 Sept flight; submit ISRO 08 Sept (from Hyderabad), CONCOR 09 Sept (from Bareilly).
+
+### Session 56 -- 03 Sept 2026 (IOCL-by-any-means Sprint Activation + Sprint Planner UI)
+- **Type:** Sprint Planning, Plan Retweak (03→23 Sept), Free Tooling Build
+- **What happened:**
+  - **Retweaked `combined-HAL-then-IOCL-plan.md` for 03→23 Sept reality:** today is 03 Sept (not 01). Days 1-2 (OS/COA/CN/DL) are assumed done or compressed; sprint restarts from Day 3 (DBMS + DSA/Algo + English) through 23 Sept taper. IOCL CBT 24 Sept (Thursday per calendar; repo says Wednesday — R2 re-verify). Target 80+/100 (Sec A 60+, Sec B 20+), gates 40/40/45 (OBC-NCL).
+  - **Built `tools/sprint-planner/index.html`:** free Azure-DevOps-style sprint board (no MCP needed — zero-install local HTML). 21 days (03→23 Sept), 69 tasks, filters (tech/apt/mock/admin/carry/delta), progress bars, localStorage persistence, per-day open/collapse. Opened in browser for immediate use.
+  - **MCP decision:** no MCP install — sprint planner is a static local HTML file (free, offline, no server). No MCP server required or installed.
+  - **CIL asset mapping confirmed:** `CoalIndiaLimited-PSU/Paper-2-Notes/DBMS/`, `Paper-2/OS/ + Engg-Maths/`, `Paper-1/Quant/Reasoning/English/GA/`, `.brain/Paper-2-Tracker.md` (question-bank index) are the drill sources for every sprint day.
+- **Topics covered:** IOCL syllabus (75 Tech + 25 Non-Tech), HAL→IOCL stacking (~73% pre-covered, ~27 Delta marks), sprint planning, free tooling.
+- **Next goals:** Execute 03 Sept DBMS + DSA/Algo + English day; run sprint board daily; ISRO by 08 Sept, CONCOR by 09 Sept, HAL call letter check 12 Sept.
 
 ### Session 55 -- 01 Sept 2026 (UCO Bank Decision Audit & Brain-Complex Fact Reconciliation)
 - **Type:** Strategic Career Audit, Memory-Layer Integrity Pass

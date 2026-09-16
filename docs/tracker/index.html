@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IOCL 9-Day Crack Tracker — 16–24 Sept 2026</title>
+<style>
+:root{--bg:#0f1115;--card:#1a1d24;--border:#2a2e3a;--accent:#42b983;--accent2:#3aa0ff;--warn:#f5a623;--danger:#e74c3c;--muted:#8b92a8;--text:#e6e8ef}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display",Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.5}
+a{color:var(--accent2);text-decoration:none}
+a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:10;background:rgba(15,17,21,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--border);padding:14px 18px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}
+header h1{font-size:18px;letter-spacing:.02em}
+header h1 span{color:var(--accent)}
+.badges{display:flex;gap:8px;flex-wrap:wrap}
+.badge{font-size:12px;padding:4px 10px;border-radius:999px;border:1px solid var(--border);background:var(--card);color:var(--muted)}
+.badge.live{color:var(--accent);border-color:var(--accent)}
+.badge.warn{color:var(--warn);border-color:var(--warn)}
+.countdown{font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent)}
+.wrap{max-width:1100px;margin:0 auto;padding:18px}
+.grid{display:grid;grid-template-columns:1fr;gap:14px}
+@media(min-width:900px){.grid{grid-template-columns:1.15fr .85fr}}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px}
+.card h2{font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+.card h3{font-size:15px;margin:10px 0 6px}
+.progress{height:10px;background:#0f1115;border:1px solid var(--border);border-radius:999px;overflow:hidden}
+.progress>div{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));width:0;transition:width .3s}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:10px}
+.stat{background:#0f1115;border:1px solid var(--border);border-radius:10px;padding:10px;text-align:center}
+.stat b{font-size:18px;display:block}
+.stat span{font-size:11px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.day{border:1px solid var(--border);border-radius:12px;overflow:hidden;background:#0f1115;margin-bottom:10px}
+.day-head{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;background:var(--card);cursor:pointer;user-select:none}
+.day-head b{font-size:13px}
+.day-head small{color:var(--muted);font-size:12px}
+.day-body{padding:10px 12px;display:none}
+.day.open .day-body{display:block}
+.task{display:flex;gap:10px;align-items:flex-start;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.06)}
+.task:last-child{border-bottom:none}
+.task input{margin-top:3px;accent-color:var(--accent)}
+.task label{flex:1;font-size:13px}
+.task label small{color:var(--muted);display:block;font-size:11px;margin-top:2px}
+.task.done label{color:var(--muted);text-decoration:line-through}
+.pill{font-size:10px;padding:2px 6px;border-radius:999px;border:1px solid var(--border);color:var(--muted);white-space:nowrap}
+.pill.tech{color:var(--accent);border-color:var(--accent)}
+.pill.apt{color:var(--accent2);border-color:var(--accent2)}
+.pill.mock{color:var(--warn);border-color:var(--warn)}
+.controls{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.btn{font-size:12px;padding:7px 12px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);color:#0f1115;border-color:var(--accent);font-weight:700}
+.kv{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:12px}
+.kv div{background:#0f1115;border:1px solid var(--border);border-radius:8px;padding:8px}
+.kv b{color:var(--muted);font-size:10px;letter-spacing:.06em;text-transform:uppercase;display:block;margin-bottom:2px}
+footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
+</style>
+</head>
+<body>
+<header>
+  <h1>🔥 IOCL <span>9-Day Crack</span> — 16→24 Sept 2026</h1>
+  <div class="badges">
+    <span class="badge live">● LIVE — 18h/day</span>
+    <span class="badge">DL 6.1.1 ✓</span>
+    <span class="badge warn" id="countdown">—</span>
+    <span class="badge" id="todayBadge">—</span>
+  </div>
+</header>
+<div class="wrap">
+  <div class="grid">
+    <div class="card">
+      <h2>Overall Progress</h2>
+      <div class="progress"><div id="overallBar"></div></div>
+      <div class="stats">
+        <div class="stat"><b id="overallPct">0%</b><span>Overall</span></div>
+        <div class="stat"><b id="doneCount">0 / 0</b><span>Tasks done</span></div>
+        <div class="stat"><b id="hoursLeft">162h</b><span>Budget left</span></div>
+      </div>
+      <div class="controls">
+        <button class="btn" onclick="expandAll(true)">Expand all</button>
+        <button class="btn" onclick="expandAll(false)">Collapse all</button>
+        <button class="btn" onclick="resetDay()">Reset today</button>
+        <button class="btn primary" onclick="exportProgress()">Export JSON</button>
+      </div>
+      <h3 style="margin-top:14px">Daily budget</h3>
+      <div class="kv">
+        <div><b>Sleep</b> 3h</div><div><b>Gym</b> 1.5h</div>
+        <div><b>Misc</b> 1h</div><div><b>Study</b> 18h/day → 162h total</div>
+      </div>
+      <p style="font-size:11px;color:var(--muted);margin-top:8px">Stop study 24 Sept 06:00. CBT target 80+/100 (Sec A 60+, Sec B 20+). Gates 40%/40%/45% OBC-NCL.</p>
+    </div>
+    <div class="card">
+      <h2>Today — Continue Digital Logic</h2>
+      <p style="font-size:13px;color:var(--muted)">16 Sept: DL 6.1.2→6.9 + PQs/PYQs. ISRO ICRB closes 11:55 PM — submit today. Progress: DL 6.1.1 ✓ done.</p>
+      <h3>Quick links</h3>
+      <ul style="font-size:13px;list-style:none;display:grid;gap:6px">
+        <li>📄 <a href="../../IOCL/SYLLABUS.md">IOCL/SYLLABUS.md</a> — official 100Q pattern</li>
+        <li>📄 <a href="../../IOCL/KG-IOCL-COURSE-CONTENTS.md">KG-IOCL-COURSE-CONTENTS.md</a> — 2,095 videos / 3,841 PYQs</li>
+        <li>📄 <a href="../../CoalIndiaLimited-PSU/.brain/Paper-2-Tracker.md">CIL Paper-2-Tracker</a> — subtopic counts</li>
+        <li>📄 <a href="../../.brain/NextSteps.md">.brain/NextSteps.md</a> — resume point</li>
+      </ul>
+      <h3>Load (Confirmed)</h3>
+      <div class="kv">
+        <div><b>Paper-2 Tech</b> 1,801 vids · 193h 50m</div><div><b>Paper-1 Apt</b> 294 vids · 93h 56m</div>
+        <div><b>PYQs</b> 3,841</div><div><b>PQs + Notes + Tests</b> 3,039 + 848 + 16</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:14px">
+    <h2>9-Day Plan — Check off as you go (saved locally)</h2>
+    <div id="days"></div>
+  </div>
+
+  <div class="card" style="margin-top:14px">
+    <h2>How to use</h2>
+    <ul style="font-size:13px;color:var(--muted);padding-left:18px;display:grid;gap:4px">
+      <li>Check tasks as you finish — progress + countdown update automatically and persist in this browser (localStorage).</li>
+      <li>Continue from <b>DL 6.1.2</b> today (6.1.1 already done). Notes + PYQ first, concept videos at 2× for gaps only.</li>
+      <li>Export JSON daily and commit to git if you want history across devices.</li>
+      <li>Hosted via GitHub Pages from <code>docs/</code> — push to <code>main</code> to publish.</li>
+    </ul>
+  </div>
+</div>
+<footer>Built 16 Sept 2026 · Bareilly · 18h/day · Will crack it by hook or crook. · <a href="https://github.com/Avanish-Gupta-CSE/psu-prep-brain">psu-prep-brain</a></footer>
+<script>
+const DAYS=[
+  {id:'d16',date:'16 Sept (Tue)',title:'Day 1 — Digital Logic 6.1.2→6.9 + ISRO submit',hours:'18h',tasks:[
+    {t:'DL 6.1.2 Logic Gates & Hardware (11 vids)',k:'tech'},{t:'DL 6.3 Boolean Expression (24 vids)',k:'tech'},{t:'DL 6.4 Boolean Minimization (23 vids)',k:'tech'},{t:'DL 6.5 Combinational Circuit (34 vids)',k:'tech'},{t:'DL 6.6 Sequential Circuits (34 vids)',k:'tech'},{t:'DL 6.7 Number System (5 vids)',k:'tech'},{t:'DL 6.8 Number Representation (10 vids)',k:'tech'},{t:'DL 6.9 Floating Point (7 vids)',k:'tech'},{t:'DL PQs + PYQs sweep (today\'s subtopics)',k:'tech'},{t:'ISRO ICRB submit by 11:55 PM',k:'apt'}
+  ]},
+  {id:'d17',date:'17 Sept (Wed)',title:'Day 2 — COA + Compiler',hours:'18h',tasks:[
+    {t:'COA 9.1 Basics (28 vids) + 9.2 Cache (34 vids)',k:'tech'},{t:'COA 9.3 I/O (18) + 9.4 Pipelining (17) + 9.5 Instr Formats (17)',k:'tech'},{t:'COA 9.6 Control Unit (9) + 9.7 Programming (18)',k:'tech'},{t:'Compiler 10.1 Intro (11) + 10.2 Lexical (4) + 10.3 Grammar (30)',k:'tech'},{t:'Compiler 10.4 Top-Down (17) + 10.5 Bottom-Up (18)',k:'tech'},{t:'Compiler 10.6 Semantic (9) + 10.7 Intermediate (5) + 10.8 Optimization (12)',k:'tech'},{t:'COA + Compiler PQs/PYQs',k:'tech'}
+  ]},
+  {id:'d18',date:'18 Sept (Thu)',title:'Day 3 — OS + DBMS (high-weight core)',hours:'18h',tasks:[
+    {t:'OS 7.1 Intro (18) + 7.2 Process Mgmt (11) + 7.3 CPU Scheduling (21)',k:'tech'},{t:'OS 7.4 Sync (19) + 7.5 Threads (3) + 7.6 Deadlock (17)',k:'tech'},{t:'OS 7.7 Memory (30) + 7.8 Virtual Memory (16) + 7.9 Disc (9) + 7.10 File (15)',k:'tech'},{t:'DBMS 3.1 Basics (8) + 3.2 ER (14) + 3.3 Relational + FD (15)',k:'tech'},{t:'DBMS 3.4 Keys (9) + 3.5 Normalization (13) + 3.6 Decomposition (6)',k:'tech'},{t:'DBMS 3.7 File Org (21) + 3.8 Relational Algebra (14) + 3.9 SQL (33)',k:'tech'},{t:'DBMS 3.10 Calculus (6) + 3.11 Transactions (25) + 3.12 Concurrency (11)',k:'tech'},{t:'OS + DBMS PQs/PYQs',k:'tech'}
+  ]},
+  {id:'d19',date:'19 Sept (Fri)',title:'Day 4 — CN + Programming & DS',hours:'18h',tasks:[
+    {t:'CN 5.1 Intro (25) + 5.2 Data Comm (5) + 5.3 DLL Access (20)',k:'tech'},{t:'CN 5.4 Flow (10) + 5.5 Error (16) + 5.6 Framing (4) + 5.7 Ethernet (6)',k:'tech'},{t:'CN 5.8 IPv4 (23) + 5.9 IP Addressing (27) + 5.10 Routing (12)',k:'tech'},{t:'CN 5.11 Transport (18) + 5.12 Congestion (15) + 5.13 App Layer (16) + 5.16 Security (11)',k:'tech'},{t:'Prog & DS 2.1 C Fundamentals (26) + 2.2 Control Flow (9) + 2.3 Functions (4)',k:'tech'},{t:'Prog & DS 2.4 Arrays & Pointers (14) + 2.5 Storage (6) + 2.6 DMA (10)',k:'tech'},{t:'Prog & DS 2.7 Intro DS (7) + 2.8 Array (16) + 2.9 Stack (32) + 2.10 Queue (12)',k:'tech'},{t:'Prog & DS 2.11 Linked List (17) + 2.12 Tree (51) + 2.13 Graphs (13) + 2.14 Hashing (12)',k:'tech'}
+  ]},
+  {id:'d20',date:'20 Sept (Sat)',title:'Day 5 — Algorithms + Eng Maths + SE/Cloud delta',hours:'18h',tasks:[
+    {t:'Algo 4.1 Analysis (24) + 4.2 Time Complexity (41) + 4.3 Sorting (35)',k:'tech'},{t:'Algo 4.4 Greedy (8) + 4.5 DP (8) + 4.6 MST (4) + 4.7 Shortest Path (10)',k:'tech'},{t:'Eng Maths (Module 16) — 80 PYQs + 641 PQs (probability, LA, calculus)',k:'tech'},{t:'SE / Cloud / OOP / Web delta — IOCL/SYLLABUS.md §5–6 + Shared-Core (no KG module)',k:'tech'},{t:'Algo + Eng Maths PQs/PYQs',k:'tech'}
+  ]},
+  {id:'d21',date:'21 Sept (Sun)',title:'Day 6 — Quant + Reasoning + English + GA (close completion)',hours:'18h',tasks:[
+    {t:'Quant 13.1 Number System (19) + 13.2 HCF LCM (24) + 13.3 Average (13)',k:'apt'},{t:'Quant 13.5 Percentage (16) + 13.6 Ratio (16) + 13.7 Profit/Loss (16)',k:'apt'},{t:'Quant 13.8 Speed/Distance (31) + 13.9 Time/Work (10) + 13.12 SI/CI (19)',k:'apt'},{t:'Quant 13.15 Probability (12) + 13.16 P&C (35) + 13.14 Mensuration (4)',k:'apt'},{t:'Reasoning 12.1 Series (18) + 12.2 Coding (16) + 12.4 Syllogisms (4) + 12.12 Non-Verbal (16)',k:'apt'},{t:'English — Paper-1 English (vocab, grammar, RC)',k:'apt'},{t:'GA selective — Static + Current (if time)',k:'apt'},{t:'Quant + Reasoning PQs/PYQs',k:'apt'}
+  ]},
+  {id:'d22',date:'22 Sept (Mon)',title:'Day 7 — Revision-1 Tech + Mock-1',hours:'18h',tasks:[
+    {t:'Revision-1: OS + DBMS + CN (notes + 848 notes pool)',k:'tech'},{t:'Revision-1: DS + Algo + DL + COA + TOC + Compiler',k:'tech'},{t:'Mock-1 (full 100Q, 120 min, 72s/Q) — from 16-test pool',k:'mock'},{t:'Mock-1 analysis + WeakAreas + error-log',k:'mock'}
+  ]},
+  {id:'d23',date:'23 Sept (Tue)',title:'Day 8 — Revision-1 Apt + Mocks 2 & 3 + taper',hours:'18h',tasks:[
+    {t:'Revision-1: Quant + Reasoning + English + GA',k:'apt'},{t:'Mock-2 (full 100Q)',k:'mock'},{t:'Mock-3 light (Sec A or Sec B) + formula taper',k:'mock'},{t:'Final error-log triage + admit + centre + docs check',k:'mock'}
+  ]},
+  {id:'d24',date:'24 Sept (Wed)',title:'Day 9 — IOCL CBT 🔥',hours:'—',tasks:[
+    {t:'Stop study 06:00 — travel to centre',k:'mock'},{t:'CBT 100Q / 120 min — target 80+/100 (Sec A 60+, Sec B 20+)',k:'mock'}
+  ]},
+];
+const LS_KEY='iocl-9day-tracker-v1';
+function load(){try{return JSON.parse(localStorage.getItem(LS_KEY)||'{}')}catch{return{}}}
+function save(s){localStorage.setItem(LS_KEY,JSON.stringify(s))}
+function render(){
+  const s=load();
+  const root=document.getElementById('days');
+  root.innerHTML='';
+  let total=0,done=0;
+  DAYS.forEach((d,idx)=>{
+    total+=d.tasks.length;
+    const wrap=document.createElement('div');
+    wrap.className='day'+(idx===0?' open':'');
+    const head=document.createElement('div');
+    head.className='day-head';
+    head.innerHTML=`<b>${d.date} — ${d.title}</b><small>${d.hours} · <span id="c-${d.id}">0/${d.tasks.length}</span></small>`;
+    head.onclick=()=>wrap.classList.toggle('open');
+    const body=document.createElement('div');
+    body.className='day-body';
+    d.tasks.forEach((t,i)=>{
+      const key=`${d.id}:${i}`;
+      const isDone=!!s[key];
+      if(isDone) done++;
+      const row=document.createElement('div');
+      row.className='task'+(isDone?' done':'');
+      row.innerHTML=`<input type="checkbox" ${isDone?'checked':''}><label>${t.t}<small>${t.k==='tech'?'Tech':t.k==='apt'?'Aptitude':'Mock'} · ${d.date}</small></label><span class="pill ${t.k}">${t.k}</span>`;
+      const cb=row.querySelector('input');
+      cb.onchange=()=>{s[key]=cb.checked; save(s); renderStats(); row.classList.toggle('done',cb.checked); updateDayCount(d.id)};
+      body.appendChild(row);
+    });
+    wrap.appendChild(head); wrap.appendChild(body); root.appendChild(wrap);
+  });
+  renderStats();
+  DAYS.forEach(d=>updateDayCount(d.id));
+}
+function updateDayCount(id){
+  const s=load();
+  const d=DAYS.find(x=>x.id===id);
+  let c=0; d.tasks.forEach((_,i)=>{if(s[`${id}:${i}`]) c++});
+  const el=document.getElementById(`c-${id}`);
+  if(el) el.textContent=`${c}/${d.tasks.length}`;
+}
+function renderStats(){
+  const s=load();
+  let total=0,done=0;
+  DAYS.forEach(d=>d.tasks.forEach((_,i)=>{total++; if(s[`${d.id}:${i}`]) done++}));
+  const pct=total?Math.round(done/total*100):0;
+  document.getElementById('overallBar').style.width=pct+'%';
+  document.getElementById('overallPct').textContent=pct+'%';
+  document.getElementById('doneCount').textContent=`${done} / ${total}`;
+  const hoursLeft=Math.max(0,162 - Math.round(done/total*162));
+  document.getElementById('hoursLeft').textContent=hoursLeft+'h';
+}
+function expandAll(open){document.querySelectorAll('.day').forEach(d=>d.classList.toggle('open',open))}
+function resetDay(){
+  const s=load();
+  const today=DAYS[0].id;
+  DAYS[0].tasks.forEach((_,i)=>delete s[`${today}:${i}`]);
+  save(s); render();
+}
+function exportProgress(){
+  const s=load();
+  const blob=new Blob([JSON.stringify({exportedAt:new Date().toISOString(),state:s},null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='iocl-9day-progress.json'; a.click();
+}
+function tick(){
+  const exam=new Date('2026-09-24T06:00:00+05:30').getTime();
+  const now=Date.now();
+  const diff=Math.max(0,exam-now);
+  const d=Math.floor(diff/86400000),h=Math.floor(diff%86400000/3600000),m=Math.floor(diff%3600000/60000);
+  document.getElementById('countdown').textContent=`⏳ ${d}d ${h}h ${m}m to 24 Sept 06:00`;
+  document.getElementById('todayBadge').textContent=new Date().toLocaleDateString('en-IN',{weekday:'short',day:'2-digit',month:'short',year:'numeric'});
+}
+render(); tick(); setInterval(tick,60000);
+</script>
+</body>
+</html>

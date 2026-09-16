@@ -16,18 +16,21 @@
 ### 2. UCO Bank -- Software Developer in JMGS-I (Specialist Cadre)
 | Field | Details |
 |-------|---------|
-| **Date** | **September 2026 — Reporting & Joining (Deferred from 20.07.2026)** |
+| **Date** | **28 September 2026 (Monday) — CONFIRMED JOINING** (deferred from 20.07.2026) |
 | **Reporting Time** | **09:30 AM** |
 | **Venue** | UCO BANK STAFF TRAINING CENTRE, PLOT NO. GE-8, SECTOR-III, SALT LAKE, KOLKATA, WEST BENGAL - 700106 |
-| **Status** | **🎉 SELECTED — ONLY CONFIRMED OFFER IN THE ENTIRE PIPELINE** (Appointment Letter 08.07.2026) |
+| **Status** | 🔥 **JOINING CONFIRMED 28.09.2026 — RELIEVING LETTER SUBMITTED (email draft ready 15 Sept)** |
 | **Advt / App ID** | `HO/HRM/RECR/2025-26/COM-04` (13.01.2026) \| App ID `7241178423` |
+| **HR Contact** | `hohrd_calcutta@ucobank.in` \| 033-4455-7379 (Chief Manager, Admission Room/Recruitment Cell, HRM Dept, HO) |
+| **HR Requirement** | **Relieving letter of previous organisation** — received from Berkadia 15 Sept; reply draft at `UCOBank/RELIEVING-LETTER-REPLY-EMAIL.md` (send by 16–17 Sept) |
+| **Berkadia Exit Docs** | `Berkadia-Exit-Documents/Letters/Employee-Relieving-Letter-2026-09-03.pdf` \| `Service-Letter-2026-09-03.pdf` |
 | **Format** | Specialist Officer (IT) Scale-I. Document verification + induction training at Kolkata STC. |
 | **Working Posting** | Department of Information Technology (DIT), Head Office-2, Salt Lake Sector-1, Kolkata. **Zero public dealing.** |
 | **Pay Scale** | `48480-2000/7-62480-2340/2-67160-2680/7-85920` (12th Bipartite Settlement) |
 | **Compensation** | Gross ₹86,589/mo cash-HRA \| ₹80,457/mo + leased accommodation (₹18-22k/mo, tax-free) + employer NPS 14%. **Effective ~₹13.4-14.4 LPA.** |
 | **Bond & Probation** | 2-year probation + **2-year service bond (₹2,00,000 penalty if exited early)**. Clock clears ~Sept 2028 at age 28. |
 | **Notice Period Strategy** | Written 60-day extension approved by UCO Bank HR on 14 July 2026 **before** resigning. Berkadia resignation 16 July 2026, LWD 31 August 2026. |
-| **Priority** | **SECURED — CAREER BASELINE** |
+| **Priority** | **SECURED — CAREER BASELINE (joining 28 Sept; do not jeopardise for NMDC CBT 01 Oct)** |
 
 **Interview Debrief (self-reported):** `UCOBank/INTERVIEW-DEBRIEF-2026-06-17.md`  
 **Decision Audit (accept vs decline analysis):** [`.brain/UCO-BANK-DECISION-AUDIT.md`](UCO-BANK-DECISION-AUDIT.md) — **Verdict: correct decision.**  
@@ -89,9 +92,9 @@
 | Field | Details |
 | :--- | :--- |
 | **Advt No.** | **HAL/CHRC-TM/RECT-02/2026** (Dated 29.07.2026) |
-| **OFFICIAL CBT DATE** | **06 September 2026 (Sunday)** 🔥 |
+| **OFFICIAL CBT DATE** | **06 September 2026 (Sunday)** — CBT DONE |
 | **Test Location** | **Bengaluru** |
-| **Status** | **🔥 ACTIVE 5-DAY SPRINT (01–05 Sept 2026)** 🟢 |
+| **Status** | **❌ CBT DONE 06 SEPT — DID NOT MAKE THE CUT (result 09 Sept 2026)** |
 | **Application No** | `D321947` |
 | **Saved Registration** | `C:\Programs\Learning\Gov jobs\HAL\HAL ONLINE REGISTRATION.pdf` |
 | **Admit Card Date** | **20 August 2026 (Downloaded)** |
@@ -99,14 +102,14 @@
 | **Domain & Posting** | R&D Centres (predominantly **Bengaluru**!). Avionics, flight control software, radar, embedded systems, RTOS, defence AI/ML. |
 | **Format** | CBT (85% weightage) + Personal Interview (15% weightage). 160 MCQs in 150 mins. |
 | **Sprint & Drills** | `HAL/5-DAY-SPRINT-PLAN.md` \| `HAL/DRILL-01-OS-COA.md` |
-| **Priority** | **TOP IMMEDIATE TARGET (Bengaluru R&D Posting!)** 🔥 |
+| **Priority** | **CLOSED 09 SEPT 2026 — carry lessons to IOCL** |
 
 ### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS & IT)
 | Field | Details |
 | :--- | :--- |
 | **Advt No.** | **IOCL/CO-HR/RECTT/2026/01** (Dated 14.08.2026) |
 | **OFFICIAL CBT DATE** | **24 September 2026 (Wednesday)** 🔥 |
-| **Status** | **🔥 FORM FILLED & SUBMITTED (30 August 2026)** 🟢 |
+| **Status** | **🔥 FORM FILLED & SUBMITTED (30 August 2026) — ACTIVE 9-DAY 18H/DAY (Completion 16–21 + Revision 22–23, DL 6.1.1 done)** 🟢 |
 | **Vacancies (CS/IT)** | **22 Posts** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2) |
 | **Pay Scale & CTC** | Grade ‘A’ (`₹50,000 – ₹1,60,000`), **Annual CTC: ~₹18.4 Lakhs** |
 | **Selection Format** | CBT (100 MCQs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview |
@@ -174,15 +177,18 @@
 | Field | Details |
 |-------|---------|
 | **Advt No.** | **Notification No. 05 of 2026** |
-| **Last Date** | **11 August 2026** |
-| **Status** | **PAYMENT DETAILS VERIFIED (Reg No: 126595) -- Fee: ₹500** |
+| **Status** | **🎫 ADMIT CARD RECEIVED (15 Sept 2026)** — ⚠️ clashes with UCO Bank induction |
+| **CBT DATE** | **01 October 2026 (Thursday), 10:30 AM – 12:30 PM** (report 08:30, gate closes 10:15) |
+| **CBT Centre** | **Oxford Public School, Pragati Path, Samlong, RANCHI, Jharkhand – 834001** |
+| **Roll No / Reg No** | `1134327` / `126595` |
 | **Location & Pay** | Nagarnar, Chhattisgarh. Pay Scale: ₹50,000 - 1,60,000 (Basic during training ₹50,000/mo, after training ₹60,000). |
 | **Format** | CBT + Group Discussion (GD) + Interview. |
-| **Applicant** | AVANISH KUMAR GUPTA \| Reg No: 126595 \| Fee: ₹500 (OBC Category) |
-| **Payment Status** | **PAYMENT DETAILS VERIFIED -- Awaiting bank reconciliation (48-72 hrs) to download final form.** |
+| **Applicant** | AVANISH KUMAR GUPTA \| Category OBC-NCL \| Fee: ₹500 (URN DUP8322730, paid 04-08-2026) |
+| **Saved Files** | `NMDCSteel/Admit-Card-126595.pdf` \| `NMDCSteel/Application-126595.pdf` |
+| **Clash** | UCO Bank joining 28 Sept (Kolkata STC) — only 3 days prior. **Decide by 29 Sept** after checking induction leave policy. Guardrail: do not risk UCO probation/bond. |
 | **Website** | `nmdcsteel.nmdc.co.in` |
 | **Folder** | `NMDCSteel/` |
-| **Priority** | **HIGH TARGET** |
+| **Priority** | **CONDITIONAL — attend only if UCO induction leave is sanctioned** |
 
 ### 5. Airports Authority of India (AAI) -- Junior Executive (Operations) / Manager
 | Field | Details |
@@ -243,6 +249,18 @@
 ### Missed Recruitments (Carelessness / Closed Before Applying)
 - **Cotton Corporation of India Ltd. (CCI)** (Advt No. DR/CCI/2026): **MISSED / CLOSED** 🔴 (Direct Recruitment / Regular).
 - **Armoured Vehicles Nigam Limited (AVNL)**: **MISSED / CLOSED** 🔴 (Fixed Term Contract / Contractual).
+
+### MSTC Limited -- Management Trainee (Systems)
+* **Advt No.**: `01/2025`
+* **Status**: **WAITLISTED (Reserve Panel)** — Active for 1 year (~July 2026 to July 2027)
+* **Score Breakdown**: **Combined Score: `53.00 / 100.00`**
+  * Written Exam (CBT): `26.50 / 60.00` (44.17%) — Qualified 40% threshold
+  * Group Discussion (GD): **`17.50 / 25.00` (70.00%)** — High-ranking performance
+  * Personal Interview: **`9.00 / 15.00` (60.00%)** — Solid above-average conversion
+* **Applicant**: AVANISH KUMAR GUPTA | Roll: `1110000165` | Reg: `712000369` (OBC-NCL)
+* **Vacancies**: 7 Posts nationwide (~2 OBC-NCL)
+* **Audit File**: `MSTC/SCORECARD-AUDIT.md`
+* **Key Learning**: Cleared all 3 stage qualifying gates; missed Main List by ~5–7 marks solely due to CBT margin; GD (70%) & Interview (60%) proved Stage-3 conversion capability.
 
 ### National Fertilizers Limited (NFL) -- Management Trainee (IT)
 * **Advt No.**: `01 (NFL)/2026`
