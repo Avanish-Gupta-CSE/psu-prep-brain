@@ -74,4 +74,23 @@ The selection process is governed strictly by ICRB centralized recruitment rules
 
 - [ADVERTISEMENT.md](ADVERTISEMENT.md) — Complete official notice and reservation rules.
 - [SYLLABUS.md](SYLLABUS.md) — Detailed ICRB CS curriculum, previous year question trends, and preparation sprint.
+- `ICRB-SC-CS-Application-ICRBS260037880.pdf` — Submitted application (16 Sept 2026, App No `ICRBS260037880`, Payment Success, Txn `1609260018555`, ₹750, ISRO + PRL, centres Kolkata/Ranchi/Delhi-NCR).
 - Uploaded Assets (Clean White BG): `C:\Users\agupt1\Downloads\IOCL_Uploads\`
+
+---
+
+## ✅ Submitted Application (Confirmed — 16 Sept 2026)
+
+| Field | Detail |
+| :--- | :--- |
+| **Application No** | `ICRBS260037880` |
+| **Post** | Scientist/Engineer SC (Computer Science) — `BE003` (ISRO Centres) + `BE003A` (PRL) |
+| **Organisation choice** | **ISRO and PRL** (both, no extra fee) |
+| **Payment** | **₹750** — Payment Success, Txn `1609260018555`, online, 16 Sept 2026 |
+| **Test cities** | 1. Kolkata (West Bengal) · 2. Ranchi (Jharkhand) · 3. Delhi/NCR (Delhi) |
+| **Category** | OBC (Non Creamy Layer) · Male · DOB 31/03/2000 · Age 26Y 5M 17D as on 16.09.2026 |
+| **Qualification** | BE/B.Tech CSE, KIIT, CGPA 9.60/10.00 (admission 01/08/2020, passing 07/05/2024, semester-wise, within duration) |
+| **10th / 12th** | 10th CGPA 10.00/10.00 (28/05/2016, KV, CBSE) · 12th 370/500 = 74.00% (26/05/2018, Bhagat Public, CBSE) |
+| **Bank** | Axis Bank, Noida, A/C `923010037428571`, IFSC `UTIB0000022` |
+| **Addresses** | Correspondence: C29 IFFCO Township, Bareilly 243403 · Permanent: Subhash Chauk, Bankata Bazaar, Koilasawa Buzurg, Kasya, Kushinagar 274401 |
+| **File** | `ISRO/ICRB-SC-CS-Application-ICRBS260037880.pdf` (6 pages) |

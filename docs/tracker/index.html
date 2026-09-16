@@ -118,7 +118,7 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
       <li>Check tasks as you finish — progress + countdown update automatically and persist in this browser (localStorage).</li>
       <li>Continue from <b>DL 6.1.2</b> today (6.1.1 already done). Notes + PYQ first, concept videos at 2× for gaps only.</li>
       <li>Export JSON daily and commit to git if you want history across devices.</li>
-      <li>Hosted via GitHub Pages from <code>docs/</code> — push to <code>main</code> to publish.</li>
+      <li>Hosted locally from <code>docs/tracker/</code> — open <code>index.html</code> directly or run <code>python3 -m http.server</code> in <code>docs/tracker/</code>.</li>
     </ul>
   </div>
 </div>
@@ -221,11 +221,21 @@ function tick(){
   const exam=new Date('2026-09-24T06:00:00+05:30').getTime();
   const now=Date.now();
   const diff=Math.max(0,exam-now);
-  const d=Math.floor(diff/86400000),h=Math.floor(diff%86400000/3600000),m=Math.floor(diff%3600000/60000);
-  document.getElementById('countdown').textContent=`⏳ ${d}d ${h}h ${m}m to 24 Sept 06:00`;
+  const el=document.getElementById('countdown');
+  if(diff===0){
+    el.textContent='🔥 CBT LIVE — 24 Sept 06:00';
+    el.className='badge danger';
+    document.getElementById('todayBadge').textContent=new Date().toLocaleDateString('en-IN',{weekday:'short',day:'2-digit',month:'short',year:'numeric'});
+    return;
+  }
+  const d=Math.floor(diff/86400000),h=Math.floor(diff%86400000/3600000),m=Math.floor(diff%3600000/60000),s=Math.floor(diff%60000/1000);
+  el.textContent=`⏳ ${d}d ${h}h ${m}m ${s}s to 24 Sept 06:00`;
+  // pill turns warn in last 24h, danger in last 6h — matches screenshot orange pill
+  el.className='badge '+(diff<6*3600000?'danger':diff<24*3600000?'warn':'warn');
+  el.style.fontVariantNumeric='tabular-nums';
   document.getElementById('todayBadge').textContent=new Date().toLocaleDateString('en-IN',{weekday:'short',day:'2-digit',month:'short',year:'numeric'});
 }
-render(); tick(); setInterval(tick,60000);
+render(); tick(); setInterval(tick,1000);
 </script>
 </body>
 </html>

@@ -9,21 +9,35 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 16 Sept 2026 -- 9-day 18h/day crack-by-any-means replan (DL 6.1.1 done, continue DL today) |
-| **Resume From** | `.brain/NextSteps.md` — 16 Sept DL 6.1.2→6.9; 18h/day until 24 Sept 06:00; tracker at /tracker/. |
+| **Last Session** | 16 Sept 2026 17:10 -- DL Digital Fundamentals & Boolean Algebra 13/31 done (42%) |
+| **Resume From** | `.brain/NextSteps.md` — 16 Sept DL continue 6.1.2→6.9 (13/31 done); ISRO submitted; 18h/day until 24 Sept 06:00; tracker per-second. |
 | **Overall Mood** | All-in. 162h in 9 days. Will crack it by hook or crook. |
 
 ## Session Log
 
-### Session 64 -- 16 Sept 2026 (9-Day 18h/Day Crack-by-Any-Means Replan + Tracker Build)
+### Session 65 -- 16 Sept 2026 (Live Countdown Per-Second Upgrade + Local Verify + ISRO Submit + DL 13/31)
+- **Type:** Tooling, Verification, Form Submission, Study Progress, Brain Sync
+- **What happened:**
+  - **Upgraded tracker countdown to per-second live pill** (`Xd Xh Xm Xs to 24 Sept 06:00`, IST, `setInterval` 1000ms, warn <24h, danger <6h, `CBT LIVE` at 0). HTML fully supports live countdown — no React needed for local hosting.
+  - **Verified locally:** `http://127.0.0.1:8766/index.html` serves 200, `setInterval(tick,1000)` present, `CBT LIVE` zero-state present.
+  - **ISRO ICRB SC (CS) submitted 16 Sept 11:36** — App No `ICRBS260037880`, Post BE003/BE003A (ISRO + PRL), ₹750 paid (Txn `1609260018555`), centres Kolkata/Ranchi/Delhi-NCR. Filed `ISRO/ICRB-SC-CS-Application-ICRBS260037880.pdf` (6 pages).
+  - **DL progress 16 Sept 17:10:** **Digital Fundamentals & Boolean Algebra 13/31 complete (42%)** — 7 concept videos + 7 PYQs + 16 PQs section; subsections Blueprint/History/Advantage/Designing/Boolean Laws/De Morgan's done (screenshot verified).
+  - **Brain synced:** `NextSteps.md` (live countdown + ISRO submitted + DL 13/31), `Progress.md` (Session 65), `ISRO/README.md`.
+- **Topics covered:** Live countdown, local hosting, ISRO submission, DL fundamentals.
+- **Next goals:** Continue DL 6.1.2→6.9 (remaining 18/31) today; COA+Compiler 17 Sept; OS+DBMS 18 Sept.
+
+### Session 64 -- 16 Sept 2026 (9-Day 18h/Day Crack-by-Any-Means Replan + Tracker Build + Live Countdown)
 - **Type:** Replan, Brain Sync, Tooling
 - **What happened:**
   - **Replanned 16–24 Sept (9 days, 18h/day = 162h) from scratch, 1 completion + 1 revision + mocks.** Daily budget: 24h − 3h sleep − 1.5h gym − 1h misc = 18h study. Previous 11–19 plan missed; new Phase A 16–21 (DL→COA→Compiler→OS→DBMS→CN→DS→Algo→Eng Maths→SE/Cloud→Quant→Reasoning→English→GA), Phase B 22–23 (revision + 3 mocks), 24 Sept CBT 06:00 stop.
   - **Progress:** DL 6.1.1 complete (16 Sept) — continuing DL 6.1.2→6.9 today.
-  - **Built GitHub Pages tracker** at `docs/tracker/` → `https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/` (live checkboxes, countdown, daily targets).
+  - **Built local tracker** at `docs/tracker/index.html` (local-only, `http://127.0.0.1:8766/index.html`, live checkboxes, daily targets). No GitHub Pages per user request.
+  - **Upgraded countdown to per-second live pill** (`Xd Xh Xm Xs to 24 Sept 06:00`, IST, warn <24h, danger <6h, `CBT LIVE` at 0, `setInterval` 1000ms). Verified locally.
   - **Brain synced:** `NextSteps.md`, `Progress.md` (Session 64), `StudyPlan.md` Phase 7, `ExamTracker.md`, `TrackedJobs.md`.
-- **Topics covered:** IOCL 9-day sprint math; DL continuation.
+- **Topics covered:** IOCL 9-day sprint math; DL continuation; live countdown.
 - **Next goals:** DL 6.1.2→6.9 + ISRO submit 16 Sept; COA+Compiler 17 Sept; OS+DBMS 18 Sept; CN+DS 19 Sept; Algo+Eng Maths+delta 20 Sept; Quant+Reasoning+English+GA 21 Sept; revision+mocks 22–23 Sept; CBT 24 Sept.
+
+### Session 65 -- 16 Sept 2026 (Live Countdown Per-Second Upgrade + Local Verify)
 
 ### Session 63 -- 15 Sept 2026 (Berkadia Exit Docs + NMDC Admit Card + UCO Joining Mail)
 - **Type:** Document Filing, Deadline Tracking, Email Draft

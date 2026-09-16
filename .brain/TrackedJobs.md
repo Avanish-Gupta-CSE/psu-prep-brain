@@ -158,7 +158,10 @@ These are immediate high-priority applications that Avanish must fill now:
 
 ### 9. ISRO ICRB -- Scientist / Engineer ‘SC’ (Computer Science - Direct CBT)
 * **Advt No.**: `ISRO:ICRB:03(EMC):2026` (Dated 27.08.2026)
-* **Status**: **ACTIVE / OPEN NOW (Closes 16 September 2026 at 11:55 PM)** 🟢
+* **Status**: **✅ SUBMITTED 16 SEPT 2026 (11:36 AM)** — App No `ICRBS260037880` — Payment Success (Txn `1609260018555`, ₹750)
+* **Post / Code**: Scientist/Engineer SC (CS) — `BE003` (ISRO Centres) + `BE003A` (PRL) — applied for **ISRO and PRL**
+* **Test Cities**: 1. Kolkata (West Bengal) · 2. Ranchi (Jharkhand) · 3. Delhi/NCR (Delhi)
+* **File**: `ISRO/ICRB-SC-CS-Application-ICRBS260037880.pdf` (6 pages)
 * **Vacancies**: **22 Posts for CS** (21 ISRO Centres + 1 PRL Ahmedabad)
 * **Pay Scale**: Group ‘A’ Gazetted, Level 10 (₹56,100 – ₹1,77,500).
 * **Selection**: Written Test (50% Weightage: 80 Tech + 15 Apt) + Personal Interview (50% Weightage).

@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 16, 2026 (Bareilly — 9-day 18h/day crack-by-any-means replan, DL 6.1.1 done)
+Last updated: September 16, 2026 (Bareilly — DL Digital Fundamentals & Boolean Algebra 13/31 done, 42% + ISRO submitted)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -69,10 +69,10 @@ Standing rules arising from that audit:
 
 **Daily budget (Confirmed, 16 Sept):** 24h − 3h sleep − 1.5h gym − 1h misc = **18.5h gross → 18h study** (rounded). 9 days × 18h = **162h** until 24 Sept 06:00.
 
-**Load (Confirmed, 11 Sept screenshot + KG-IOCL-COURSE-CONTENTS.md):** 2,095 videos (~288h) = 1,801 Tech (193h 50m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. From-scratch = every topic touched via notes + PYQ first, concept videos at 2x for gaps only. **Progress: DL 6.1.1 complete (16 Sept).**
+**Load (Confirmed, 11 Sept screenshot + KG-IOCL-COURSE-CONTENTS.md):** 2,095 videos (~288h) = 1,801 Tech (193h 50m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. From-scratch = every topic touched via notes + PYQ first, concept videos at 2x for gaps only. **Progress (16 Sept 17:10): DL Digital Fundamentals & Boolean Algebra 13/31 complete (42%) — 7 concept videos + 7 PYQs + 16 PQs section; subsections Blueprint/History/Advantage/Designing/Boolean Laws/De Morgan's done.**
 
 **Phase A — Completion 16–21 Sept (6 days, 18h/day = 108h, from-scratch, continue DL):**
-* **16 Sept (Today, DL day):** DL 6.1.2→6.9 (Number System → Floating Point) + DL PQs/PYQs. *ISRO ICRB closes 11:55 PM — submit today.*
+* **16 Sept (Today, DL day — 13/31 done, 42%):** DL Digital Fundamentals & Boolean Algebra section complete (7 vids + 7 PYQs + 16 PQs; Blueprint/History/Advantage/Designing/Boolean Laws/De Morgan's done) → continue DL 6.1.2→6.9 (Number System → Floating Point) + DL PQs/PYQs. *ISRO ICRB submitted 16 Sept 11:36 — App No `ICRBS260037880`.*
 * **17 Sept:** COA (9.1–9.7) + Compiler (10.1–10.9) — heavy numericals.
 * **18 Sept:** OS (7.1–7.10) + DBMS (3.1–3.12) — high-weight PSU core.
 * **19 Sept:** CN + Security (5.1–5.16) + Prog & DS (2.1–2.14) — largest breadth day.
@@ -85,7 +85,7 @@ Standing rules arising from that audit:
 
 **24 Sept:** 🔥 **IOCL CBT** — target 80+/100 (Sec A 60+, Sec B 20+). Gates: 40%/40%/45% (OBC-NCL). **Stop study 06:00, travel to centre.**
 
-**Tracker:** `https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/` — live progress, daily checkboxes, countdown. Source: `docs/tracker/` in repo.
+**Tracker:** `docs/tracker/index.html` — local-only (open via `file://` or `http://127.0.0.1:8766/index.html`). **Live countdown: per-second pill `Xd Xh Xm Xs to 24 Sept 06:00` (IST, warn <24h, danger <6h, `CBT LIVE` at 0).** No GitHub Pages. Source: `docs/tracker/` in repo.
 
 ---
 
@@ -108,7 +108,7 @@ Standing rules arising from that audit:
 | Target / Focus Area | Key Objectives | Status / Action |
 | :--- | :--- | :--- |
 | **IOCL Engineers/Officers (Grade A - CS/IT)** | Advt: IOCL/CO-HR/RECTT/2026/01. 22 Posts (4 OBC, 11 UR). Pay: ₹50k-160k (CTC ₹18.4 LPA). | **FILLED ON 30 AUG 2026** 🟢 (`IOCL/`) |
-| **ISRO ICRB Scientist/Engineer 'SC' (CS)** | Advt: ISRO:ICRB:03(EMC):2026. 22 CS Posts (Level 10, ₹56.1k basic). Closes 16 Sept 2026. | **READY TO FILL** 🟢 (`ISRO/`) |
+| **ISRO ICRB Scientist/Engineer 'SC' (CS)** | Advt: ISRO:ICRB:03(EMC):2026. 22 CS Posts (Level 10, ₹56.1k basic). Closes 16 Sept 2026. | **✅ SUBMITTED 16 SEPT 2026** — App No `ICRBS260037880`, ISRO+PRL, ₹750 paid, centres Kolkata/Ranchi/Delhi-NCR (`ISRO/ICRB-SC-CS-Application-ICRBS260037880.pdf`) |
 | **CONCOR MT / Assistant Officer (MIS/IT)** | Advt: 05/2026. 77 Posts (MT MIS: 3, AO MIS: 2). Window: 31 Aug – 30 Sept 2026. | **OPENS 31 AUG (10 AM)** 🟢 (`CONCOR/`) |
 | **SPMCIL Assistant Manager (IT)** | Advt: 02/2026. 24 Posts (AM IT: 2 Posts, E-1 Level). Written (75%) + Interview (25%). | **TRACKED FOR CBT** 🟢 (`SPMCIL/`) |
 | **CERT-In Scientist 'B' (MeitY)** | Advt: CERT-In/SCB/2026/1. 83 Posts for CS/IT, Level 10 Pay. **App No: 261030011869**. | **SUBMITTED SUCCESSFULLY** 🟢 |

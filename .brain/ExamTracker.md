@@ -121,13 +121,17 @@
 | Field | Details |
 | :--- | :--- |
 | **Advt No.** | **ISRO:ICRB:03(EMC):2026** (Dated 27.08.2026) |
-| **Application Window** | **27 August 2026 to 16 September 2026 (11:55 PM)** 🔥 |
-| **Status** | **ACTIVE / OPEN NOW -- READY TO FILL** 🟢 |
+| **Status** | **✅ SUBMITTED 16 SEPT 2026 (11:36 AM)** — App No `ICRBS260037880` |
+| **Post / Code** | Scientist/Engineer SC (CS) — `BE003` (ISRO Centres) + `BE003A` (PRL) — applied for **ISRO and PRL** |
+| **Payment** | **₹750** — Payment Success, Txn `1609260018555`, online, 16 Sept 2026 |
+| **Test Cities** | 1. Kolkata (West Bengal) · 2. Ranchi (Jharkhand) · 3. Delhi/NCR (Delhi) |
+| **Category** | OBC (Non Creamy Layer) · Age 26Y 5M 17D as on 16.09.2026 |
+| **File** | `ISRO/ICRB-SC-CS-Application-ICRBS260037880.pdf` (6 pages) |
 | **Vacancies (CS)** | **22 Posts** (ISRO Centres: 21, PRL: 1) |
 | **Cadre & Pay** | Group ‘A’ Gazetted, Level 10 (`₹56,100 – ₹1,77,500`), Gross ~₹1,15,000/mo |
 | **Selection Format** | Written Test (50% Weightage: 80 Tech + 15 Apt) + Interview (50% Weightage) |
 | **Folder** | `ISRO/` |
-| **Priority** | **PREMIER R&D TARGET** 🔥 |
+| **Priority** | **SUBMITTED — await written test date (Oct/Nov 2026 tentative)** |
 
 ### 10. Container Corporation of India Limited (CONCOR) -- Management Trainee (MIS) & Assistant Officer (MIS)
 | Field | Details |

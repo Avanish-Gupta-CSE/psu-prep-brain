@@ -39,9 +39,7 @@
 
 ## Phase 7: IOCL 9-Day 18h/Day Crack-by-Any-Means (ACTIVE 16–24 Sept — Completion 16–21 + 1 Revision 22–23)
 
-**Daily budget (16 Sept):** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study** (162h total until 24 Sept 06:00). **Progress: DL 6.1.1 done, continue DL 6.1.2→6.9 today.**
-
-Completion 16–21 (from scratch, DL-first): 16 DL 6.1.2→6.9 + ISRO submit · 17 COA + Compiler · 18 OS + DBMS · 19 CN + Prog/DS · 20 Algo + Eng Maths + SE/Cloud/OOP/Web delta · 21 Quant + Reasoning + English + GA. Revision 22–23 + 3 mocks. CBT 24 Sept 06:00 (72s/Q). Tracker: `docs/tracker/`.
+**Daily budget (16 Sept):** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study** (162h total until 24 Sept 06:00). **Progress 16 Sept 17:10: DL Digital Fundamentals & Boolean Algebra 13/31 done (42%) — continue DL 6.1.2→6.9 (remaining 18/31).** **Tracker: `docs/tracker/index.html` — local-only, per-second live countdown `Xd Xh Xm Xs to 24 Sept 06:00` (IST).** Completion 16–21 (from scratch, DL-first): 16 DL 6.1.2→6.9 + ISRO submitted · 17 COA + Compiler · 18 OS + DBMS · 19 CN + Prog/DS · 20 Algo + Eng Maths + SE/Cloud/OOP/Web delta · 21 Quant + Reasoning + English + GA. Revision 22–23 + 3 mocks. CBT 24 Sept 06:00 (72s/Q).
 
 Detailed day-by-day roadmap lives in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md).
 Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
