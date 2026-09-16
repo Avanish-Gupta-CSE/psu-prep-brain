@@ -2,10 +2,46 @@
 
 ## Current Status
 
-- Application status: `PAYMENT DETAILS VERIFIED -- AWAITING BANK CONFIRMATION / VALIDATION`
+- Application status: **ADMIT CARD RECEIVED (15 Sept 2026) — CBT 01 OCT 2026, Ranchi**
 - Role type: `Executive Trainee (ET) -- Computer & Information Technology`
-- Priority: `HIGH TARGET (Closes 11 August 2026)`
+- Priority: **⚠️ CLASH WITH UCO BANK JOINING (28 Sept) — see conflict analysis below**
 - Objective: Secure selection in NMDC Steel's ET recruitment through CBT + GD + Interview.
+- Files: `Application-126595.pdf` (submitted form) · `Admit-Card-126595.pdf` (CBT call letter)
+
+---
+
+## 🎫 CBT Call Letter (Confirmed — from `Admit-Card-126595.pdf`)
+
+| Field | Details |
+| :--- | :--- |
+| **Roll No** | `1134327` |
+| **Registration No** | `126595` |
+| **CBT Date** | **01 October 2026 (Thursday)** |
+| **CBT Time** | **10:30 AM – 12:30 PM** (Shift I, 2 hours) |
+| **Reporting Time** | **08:30 AM** |
+| **Gate Closing Time** | **10:15 AM** (no entry after) |
+| **CBT Centre** | **OXFORD PUBLIC SCHOOL, Pragati Path, Samlong, RANCHI, Jharkhand – 834001** |
+| **Post** | Executive Trainee – Computer & Information Technology |
+| **Category** | OBC-NCL · Male · DOB 31-03-2000 |
+| **Notification** | 05/2026 dated 22-07-2026 |
+
+**Documents to carry:** Printed call letter (original submitted to invigilator — retain a photocopy), original photo ID (PAN/Passport/DL/Voter ID/Bank passbook with photo/Aadhaar), blue or black ballpoint pen. Mobile phones, smartwatches, Bluetooth gear, wallets, bags strictly prohibited. Parents/guardians not allowed inside venue premises. No centre/date change requests entertained.
+
+---
+
+## ⚠️ Conflict Analysis: NMDC CBT vs UCO Bank Joining
+
+| Event | Date | Detail |
+| :--- | :--- | :--- |
+| **UCO Bank joining + induction** | **28 Sept 2026 (Mon)** | Staff Training Centre, Salt Lake, Kolkata (09:30 AM reporting) |
+| **NMDC CBT** | **01 Oct 2026 (Thu)** | Ranchi, Jharkhand — 08:30 AM reporting |
+
+- **Gap is only 3 days.** Induction/training block will be live on 01 Oct (week 1).
+- **Travel:** Kolkata → Ranchi is ~1h by flight (CCU→IXR) or ~8–9h by train/overnight. Realistically 2 days consumed (30 Sept travel + 1 Oct exam, return 1–2 Oct).
+- **Constraint:** Absenting from induction training in week 1 requires leave sanction from UCO Bank STC/HR. UCO bond + probation make early friction costly.
+- **Decision stance (user, 15 Sept):** *Observe* whether attendance is feasible once the induction schedule is issued; do not withdraw the NMDC candidature either way (standing rule: do not withdraw pending applications).
+- **Action items:** (1) Get UCO induction timetable + leave policy at joining on 28 Sept; (2) Decide by **29 Sept**; (3) If attending, book CCU→IXR on 30 Sept evening/1 Oct early and return same evening. 
+- **Priority guidance:** UCO joining is the secured baseline — **do not jeopardise it** for a CBT. If leave is unclear, skip NMDC CBT rather than risk a probation/bond issue.
 
 ---
 

@@ -38,6 +38,7 @@ X = study day   * = EXAM DAY (06 Sept HAL, 24 Sept IOCL)
 - [x] **Cleared a PSU interview** — UCO Bank JMGS-I, 17 June 2026
 - [x] **Received a PSU appointment letter** — UCO Bank, 08 July 2026
 - [x] Scored **80/100** in the STPI Scientist 'B' personal interview
+- [x] Scored **17.50/25 (70.00%) in GD & 9.00/15 (60.00%) in Interview** — MSTC MT Systems (Empanelled on Reserve Panel at 53.00/100)
 - [x] Scored **65%+ in a full-length CBT** — Coal India MT 147/200 (73.5%), 24 Aug 2026
 - [x] Qualified both GATE 2026 papers (CS 350 / DA 337)
 - [x] Negotiated a written 60-day joining extension *before* resigning — zero-risk exit
@@ -66,7 +67,7 @@ X = study day   * = EXAM DAY (06 Sept HAL, 24 Sept IOCL)
 3. **GATE scores don't define you** -- most PSU exams you're targeting don't need GATE
 4. **9.60 CGPA** -- you clearly have the academic ability
 5. **You're 25-26 years old** -- you have 3-7+ years of eligibility for most exams
-6. **You have real industry experience** -- this is an advantage in interviews and GDs that most freshers don't have
+6. **You have real industry experience** -- this is an advantage in interviews and GDs that most freshers don't have (Proven: 70% in MSTC GD, 60% in MSTC PI, 80/100 in STPI Interview, UCO Bank Interview cleared)
 
 ### Age Comfort Map
 
@@ -106,7 +107,7 @@ You went from "I can't manage all these exams" to having a system that:
 | Mar 2026 | BDL MT: Failed CBT | Added to frustration |
 | 14 Mar 2026 | BARC OCES: attempted ~60/100, couldn't solve CN/TOC/COA/Algo | "I felt violated." BUT: immediately pivoted to MSTC GD prep. No wallowing. That's the mindset. "If you don't burn like the sun, you won't shine like it." |
 | 22 Apr 2026 | Brain state went stale after the March phase | Restarted cleanly, reprioritized around HPCL, kept IFFCO in parallel, and preserved MSTC as an interview-readiness track instead of abandoning it. |
-| Jul 2026 | MSTC MT final merit list — **Not Selected**, plus skeptics openly mocking the UCO Bank selection | Channelled it into the STPI final sprint instead of wallowing. Flew to Delhi and executed. |
+| Jul 2026 | MSTC MT final scorecard — **WAITLISTED (53.00/100)** with **70% GD & 60% Interview**, plus skeptics mocking UCO selection | Proved Stage-3 conversion is already elite; the sole deficit was a few CBT technical marks. Channelled that exact lesson into CIL (147/200) and the HAL/IOCL technical sprint. |
 | Aug 2026 | STPI Scientist 'B' — **Not Selected** at 68.80/100 despite scoring **80/100 in the interview**, beaten by a single OBC-NCL seat | Recognised the constraint was vacancy arithmetic, not ability. Kept the pipeline wide: applied to IOCL, ISRO, CERT-In, CONCOR, SPMCIL rather than narrowing. |
 | 31 Aug 2026 | Left a ₹11 LPA private engineering job for a standardised officer pay scale | Verified the maths before committing: effective package is ~₹13.4-14.4 LPA once lease and employer NPS are counted. Not a sacrifice — a net gain. See `UCO-BANK-DECISION-AUDIT.md`. |
 

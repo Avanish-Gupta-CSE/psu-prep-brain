@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IOCL Sprint Planner — 03→23 Sept 2026</title>
+<style>
+:root{--bg:#0f172a;--card:#1e293b;--accent:#38bdf8;--green:#22c55e;--amber:#f59e0b;--red:#ef4444;--text:#e2e8f0;--muted:#94a3b8}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);padding:16px;max-width:1200px;margin:0 auto}
+header{text-align:center;margin-bottom:16px}
+header h1{font-size:1.4rem;color:var(--accent)}
+header p{color:var(--muted);font-size:.85rem}
+.stats{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin:12px 0}
+.stat{background:var(--card);border-radius:10px;padding:10px 16px;text-align:center;min-width:110px}
+.stat b{font-size:1.3rem;display:block}
+.stat span{font-size:.72rem;color:var(--muted)}
+.filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin:12px 0}
+.filters button{background:var(--card);color:var(--text);border:1px solid #334155;border-radius:20px;padding:6px 14px;cursor:pointer;font-size:.8rem}
+.filters button.active{background:var(--accent);color:#0f172a;font-weight:700;border-color:var(--accent)}
+.day{background:var(--card);border-radius:12px;margin:12px 0;overflow:hidden;border-left:4px solid var(--accent)}
+.day.done{border-left-color:var(--green);opacity:.75}
+.day.today{border-left-color:var(--amber);box-shadow:0 0 0 2px var(--amber)}
+.day-head{padding:12px 14px;cursor:pointer;display:flex;justify-content:space-between;align-items:center}
+.day-head h2{font-size:1rem}
+.day-head .meta{font-size:.75rem;color:var(--muted)}
+.day-body{display:none;padding:0 14px 14px}
+.day.open .day-body{display:block}
+.task{display:flex;gap:10px;align-items:flex-start;background:#0f172a;border-radius:8px;padding:10px;margin:8px 0}
+.task input[type=checkbox]{width:20px;height:20px;margin-top:2px;accent-color:var(--green);flex-shrink:0}
+.task .t-body{flex:1}
+.task .t-title{font-weight:600;font-size:.9rem}
+.task .t-detail{font-size:.78rem;color:var(--muted);margin-top:2px}
+.task .t-tags{display:flex;gap:6px;margin-top:4px;flex-wrap:wrap}
+.tag{font-size:.68rem;padding:2px 8px;border-radius:10px;background:#334155}
+.tag.tech{background:#1d4ed8}.tag.apt{background:#7c3aed}.tag.mock{background:#b45309}.tag.admin{background:#be123c}.tag.carry{background:#0e7490}.tag.delta{background:#4d7c0f}
+.task.done .t-title{text-decoration:line-through;color:var(--muted)}
+.progress{height:6px;background:#334155;border-radius:3px;margin-top:8px;overflow:hidden}
+.progress i{display:block;height:100%;background:var(--green);width:0;transition:width .3s}
+footer{text-align:center;color:var(--muted);font-size:.75rem;margin:20px 0}
+button.reset{background:transparent;border:1px solid var(--red);color:var(--red);border-radius:8px;padding:6px 14px;cursor:pointer;font-size:.8rem;margin-top:8px}
+</style>
+</head>
+<body>
+<header>
+<h1>🔥 IOCL Sprint — 03 → 23 Sept 2026</h1>
+<p>HAL 06 Sept (160Q/150min) → IOCL 24 Sept (100Q: 75 Tech + 25 Non-Tech) · Target 80+/100 · Gates 40/40/45</p>
+<div class="stats">
+<div class="stat"><b id="st-total">0</b><span>Total tasks</span></div>
+<div class="stat"><b id="st-done">0</b><span>Done</span></div>
+<div class="stat"><b id="st-pct">0%</b><span>Complete</span></div>
+<div class="stat"><b id="st-mocks">0/8</b><span>Mocks done</span></div>
+</div>
+</header>
+<div class="filters" id="filters">
+<button data-f="all" class="active">All</button>
+<button data-f="tech">Tech</button>
+<button data-f="apt">Aptitude</button>
+<button data-f="mock">Mocks</button>
+<button data-f="admin">Admin</button>
+<button data-f="carry">Carry</button>
+<button data-f="delta">Delta</button>
+</div>
+<div id="board"></div>
+<footer>
+Progress saves in this browser (localStorage). Tick tasks as you finish. 56s/Q HAL · 72s/Q IOCL.<br>
+<button class="reset" onclick="if(confirm('Reset all progress?')){localStorage.removeItem('iocl-sprint-v1');location.reload()}">Reset progress</button>
+</footer>
+<script>
+const DAYS=[
+{d:"03 Sept (Thu)",s:"DBMS + DSA/Algo + English",t:[
+["DBMS core — FD closure, candidate keys, Armstrong, minimal cover, 1NF→BCNF, lossless + dependency tests","CoalIndiaLimited-PSU/Paper-2-Notes/DBMS/03-* + Notes/DBMS/11 · 30Q candidate-key + normal-form","tech carry"],
+["SQL traps — NULL semantics, IS NULL, WHERE vs HAVING, GROUP BY, correlated subqueries, EXISTS vs IN, JOINs","Notes/DBMS/04,07,12 · 30 output-prediction Q (BARC weakness #4)","tech carry"],
+["Transactions + indexing — ACID, serializability, precedence graphs, 2PL/strict/rigorous, timestamp, Thomas, B-Tree/B+ order + fan-out + height","25Q","tech carry"],
+["DSA — recurrences + Master theorem, BST/AVL, heap, hashing, sorting table (time/space/stability)","Notes/DSA/ · 35Q + formula section","tech carry"],
+["Algorithms — BFS/DFS, Dijkstra, Bellman-Ford, Floyd-Warshall, Kruskal/Prim, topo sort, greedy, DP (LCS/knapsack/MCM)","Notes/DSA/06 · 30Q (GATE weakness #6)","tech carry"],
+["English — error spotting, SVA, prepositions, tenses, active/passive, synonyms, idioms, para-jumbles","50Q in 40min","apt"],
+["Mixed timed set #2 — 60Q in 55min across Days 1-3","Log score; analysis + error log + re-solve Day-1 misses","mock"],
+["Brain sync — Progress.md + WeakAreas.md + ERROR-LOG.md","5 min close","admin"]]},
+{d:"04 Sept (Fri)",s:"TOC + Compiler + SE + Engg Maths + GA",t:[
+["TOC tables — Chomsky hierarchy, DFA/NFA, minimization, closure matrix, pumping lemma as recognition, decidability/Rice","New Notes/Shared-Core/TOC-TABLES.md · 30Q (0/7 → 5/7 goal)","tech"],
+["Compiler tables — phases, LL(1) FIRST/FOLLOW, LR(0)→SLR→LALR→CLR, S-vs-L attributed, TAC, CSE/loop opts","New Notes/Shared-Core/COMPILER-TABLES.md · 25Q","tech"],
+["Software Engineering — Waterfall/Spiral/Agile, SRS, coupling/cohesion, V(G)=E−N+2P, black/white-box, COCOMO, UML, patterns","New Notes/Shared-Core/SOFTWARE-ENGINEERING.md · 25Q (partial IOCL carry)","tech carry"],
+["Engg Maths — logic, sets/relations, counting, graph theory, matrices/eigenvalues, probability/Bayes","CoalIndiaLimited-PSU/Paper-2/Engg-Maths/notes.md · 25Q","tech"],
+["Error-log sweep — re-solve every Day 1-4 miss","Target 90% on re-solve","mock"],
+["GA final pass — static GK, polity, economy, science, defence, HAL-specific","Capsule to 200 facts, read twice","apt"],
+["Mixed timed set #3 — 80Q in 70min all subjects","Score logged; freeze HAL/FORMULA-CARD.md to 4 pages","mock"],
+["Brain sync + admit card/ID/photos ready","Logistics check","admin"]]},
+{d:"05 Sept (Sat)",s:"Full simulation + taper",t:[
+["Formula card read-through only — no new topics from today","HAL/FORMULA-CARD.md","tech"],
+["FULL MOCK — 160Q in 150min, exam conditions (no phone, single sitting)","IFFCO banks + KG tracker + Day 1-4 sets · both marking modes","mock"],
+["Score + log to MockTestLog.md","Target 125+/160; <110 = pacing fix not content","mock"],
+["Analysis only — classify every miss, top 5 error topics","No new material","mock"],
+["Targeted repair of top 5 error topics only","2h","tech"],
+["Formula + TOC + Compiler + GA — 3 read-through passes","Evening","tech"],
+["Logistics lock — admit card, ID, photos, pen, route, reporting time, snack","Bag by the door","admin"],
+["Lights out 21:30 — non-negotiable","Sleep","admin"]]},
+{d:"06 Sept (Sun)",s:"HAL CBT DAY 🔥",t:[
+["HAL CBT Bengaluru — 160Q/150min","Pass 1: GA 20Q (0-15m) · Pass 2: Eng+Reas 40Q (15-50m) · Pass 3: CS 100Q (50-125m) · Pass 4-5: flagged + verify","mock"],
+["Confirm negative marking from on-screen instructions before Q1","Zero negative → attempt all; else 50%+ confidence only","mock"],
+["MEMORY DUMP (mandatory, 90min) — every recalled Q, topic distribution, difficulty, time sinks, unseen items","Create IOCL/HAL-CARRYFORWARD.md — highest-leverage 90min of month","carry"],
+["Rest — no more study","Recovery","admin"]]},
+{d:"07 Sept (Mon)",s:"Transfer day (half-day)",t:[
+["Carry-forward triage — sort HAL/ERROR-LOG.md into CARRY/PARK/DROP","CARRY→IOCL/CARRY-FORWARD-QUEUE.md · PARK→Shared-Core · DROP→archive","carry"],
+["Rest of day OFF — scheduled recovery (R9)","Rest is prescribed","admin"]]},
+{d:"08 Sept (Mon)",s:"Delta — Cloud + DevOps",t:[
+["Cloud + DevOps — IaaS/PaaS/SaaS, public/private/hybrid, hypervisor T1/T2, Docker, K8s (pod/deploy/svc/ingress), CI/CD, AWS (EC2/S3/RDS/Lambda/VPC/IAM/EKS/ECR)","Resume-Berkadia.tex is the syllabus — convert lived experience to MCQ facts","delta tech"],
+["ADMIN GATE: submit ISRO ICRB application (closes 16 Sept)","Form-Filling-Dossier/ docs ready","admin"],
+["Collect Berkadia relieving letter (~11 Sept window opens)","Forward to UCO HR when received","admin"]]},
+{d:"09 Sept (Tue)",s:"Delta — OOP + Web",t:[
+["OOP + Programming — encapsulation, inheritance, polymorphism, abstraction, abstract vs interface, SOLID, C pointers, fork() counting, macros, JVM/JRE/JDK","30Q","delta tech"],
+["Web tech — HTTP methods/status, REST/idempotency, JSON vs XML, DOM/events, HTML5, CSS box/specificity, cookies/sessions/JWT, CORS, SOAP vs REST","25Q","delta tech"],
+["ADMIN GATE: submit CONCOR application (closes 30 Sept)","Do not defer to last week","admin"]]},
+{d:"10 Sept (Wed)",s:"Delta — Security + NoSQL/Linux + HAL result",t:[
+["Network security + crypto — symmetric/asymmetric, DES/AES, RSA worked numerically, DH, MD5/SHA, signatures, PKI, SSL/TLS, IPSec, firewall, IDS/IPS, MITM/DoS/SQLi/XSS/CSRF","30Q","delta tech"],
+["NoSQL + Linux — document/KV/column/graph, CAP, BASE vs ACID, sharding/replication, MongoDB; chmod octal, commands, pipes, processes/signals, syscalls","25Q","delta tech"],
+["HAL RESULT DAY — log outcome, do not move schedule either way",".brain/MockTestLog.md + ExamTracker.md","admin"]]},
+{d:"11 Sept (Thu)",s:"Delta — Quant block",t:[
+["QUANT 1 — percentage, P&L, SI/CI, ratio/proportion, averages, mixtures/alligation","CoalIndiaLimited-PSU/Paper-1/Quant/notes.md + APTITUDE.md","delta apt"],
+["QUANT 2 — TSD, time+work, pipes+cisterns, P&C, probability","Zero HAL benefit — needs real reps","delta apt"],
+["50 Quant Q in 45min","Timed","mock"]]},
+{d:"12 Sept (Fri)",s:"Delta — DI + Carry + call letter",t:[
+["Data Interpretation — tables, bars, pies, lines, caselets (approximation + elimination)","25Q","delta apt"],
+["CARRY queue part 1 — OS/DBMS items from D2","IOCL/CARRY-FORWARD-QUEUE.md","carry"],
+["HAL INTERVIEW CALL LETTER — check date vs 24 Sept, act on R1 today if clash","halmtdt2026@gmail.com same day","admin"]]},
+{d:"13 Sept (Sat)",s:"Carry + IOCL Mock #1",t:[
+["CARRY queue part 2 — CN/DSA/Algo items from D2","Morning","carry"],
+["MOCK #1 — IOCL pattern 100Q/120min (75 tech + 25 non-tech)","Target 70+/100","mock"],
+["Analysis + log to MockTestLog.md","Evening","mock"]]},
+{d:"14 Sept (Sun)",s:"Core — OS + DBMS + HAL stories",t:[
+["Full OS + DBMS revision at IOCL depth — 60 mixed Q","Phase 4 start","tech carry"],
+["HAL interview track — rebuild project stories (ReservesAI, DMS, CMS)","Resume-Berkadia.tex + MSTC/CAREER-STORY-BANK.md","tech"]]},
+{d:"15 Sept (Mon)",s:"Core — CN + security + admit card",t:[
+["Full CN + network security revision — 60 mixed Q","—","tech carry"],
+["Download IOCL admit card — settle R4 (negative marking) + R2 (date/weekday)","15 Sept release","admin"],
+["HAL interview track — Design Trainee role, avionics, RTOS, DO-178C","—","tech"]]},
+{d:"16 Sept (Tue)",s:"Core — DSA + Algo",t:[
+["Full DSA + Algorithms revision — 60 mixed Q","—","tech carry"],
+["HAL interview track — 'Why HAL, why defence, why leave bank offer'","Decides the interview","tech"]]},
+{d:"17 Sept (Wed)",s:"Core — SE + Cloud + OOP + Web",t:[
+["SE + Cloud + OOP + Web revision — 60 mixed Q","—","tech delta"],
+["HAL interview track — technical rapid-fire 30s answers","MSTC/TECHNICAL-QUESTION-BANK.md","tech"]]},
+{d:"18 Sept (Thu)",s:"IOCL Mock #2",t:[
+["MOCK #2 — 100Q/120min + full analysis","Target 75+","mock"],
+["HAL interview track — HR bank (strengths, conflict, failure, 5yr plan)","—","tech"]]},
+{d:"19 Sept (Fri)",s:"Repair + speed",t:[
+["Weak-area repair from Mock #2 + Quant/Reasoning speed sets","—","tech apt"],
+["Mock interview spoken aloud, recorded + reviewed","—","mock"]]},
+{d:"20 Sept (Sat)",s:"IOCL Mock #3",t:[
+["MOCK #3 — 100Q/120min + full analysis","Target 80+","mock"],
+["Documents for interview panel + Bengaluru travel plan","—","admin"]]},
+{d:"21 Sept (Sun)",s:"Taper / HAL interview",t:[
+["HAL interview if scheduled, else revise CARRY-FORWARD-QUEUE + error logs","—","carry mock"],
+["Section B light touch — keep Quant warm","—","apt"]]},
+{d:"22 Sept (Mon)",s:"Taper / Section B blitz",t:[
+["HAL interview if scheduled, else Section B blitz (Quant/Reasoning/English speed)","Thinnest section — protect it","apt"],
+["Formula card + error-log re-solve","—","tech"]]},
+{d:"23 Sept (Tue)",s:"Taper — no new material",t:[
+["Formula card + error-log re-solve only","Morning","tech"],
+["IOCL logistics — admit card, ID, photos, pen, route, reporting time","Bag by the door","admin"],
+["Lights out 22:00 — non-negotiable","Sleep","admin"]]},
+];
+const KEY='iocl-sprint-v1';
+let state={};try{state=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){state={}};
+let filter='all';
+function tid(d,i){return d+'-'+i}
+function render(){
+const board=document.getElementById('board');board.innerHTML='';
+const today=new Date();const todayStr=today.getDate()+'';
+DAYS.forEach((day,di)=>{
+let tasks=day.t.filter((_,i)=>filter==='all'||day.t[i][2].includes(filter));
+if(filter!=='all'&&tasks.length===0)return;
+let done=day.t.filter((_,i)=>state[tid(di,i)]).length;
+let total=day.t.length;
+let cls='day'+(done===total&&total>0?' done':'')+(di===0?' open':'');
+let pct=total?Math.round(done/total*100):0;
+let div=document.createElement('div');div.className=cls;
+div.innerHTML=`<div class="day-head" onclick="this.parentElement.classList.toggle('open')"><h2>${day.d} — ${day.s}</h2><div class="meta">${done}/${total} · ${pct}%</div></div><div class="day-body"></div><div style="padding:0 14px 10px"><div class="progress"><i style="width:${pct}%"></i></div></div>`;
+let body=div.querySelector('.day-body');
+day.t.forEach((task,i)=>{
+if(filter!=='all'&&!task[2].includes(filter))return;
+let id=tid(di,i);let isDone=!!state[id];
+let tags=task[2].split(' ').map(t=>`<span class="tag ${t}">${t}</span>`).join('');
+let el=document.createElement('div');el.className='task'+(isDone?' done':'');
+el.innerHTML=`<input type="checkbox" ${isDone?'checked':''} onchange="toggle('${id}')"><div class="t-body"><div class="t-title">${task[0]}</div><div class="t-detail">${task[1]}</div><div class="t-tags">${tags}</div></div>`;
+body.appendChild(el);
+});
+board.appendChild(div);
+});
+let all=DAYS.reduce((a,d)=>a+d.t.length,0);
+let dn=Object.values(state).filter(Boolean).length;
+document.getElementById('st-total').textContent=all;
+document.getElementById('st-done').textContent=dn;
+document.getElementById('st-pct').textContent=Math.round(dn/all*100)+'%';
+let mocks=DAYS.flatMap((d,di)=>d.t.map((t,i)=>({t,i:tid(di,i)}))).filter(x=>x.t[2].includes('mock'));
+let md=mocks.filter(x=>state[x.i]).length;
+document.getElementById('st-mocks').textContent=md+'/'+mocks.length;
+}
+function toggle(id){state[id]=!state[id];localStorage.setItem(KEY,JSON.stringify(state));render()}
+document.getElementById('filters').addEventListener('click',e=>{
+if(e.target.tagName!=='BUTTON')return;
+document.querySelectorAll('#filters button').forEach(b=>b.classList.remove('active'));
+e.target.classList.add('active');filter=e.target.dataset.f;render();
+});
+render();
+</script>
+</body>
+</html>

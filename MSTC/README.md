@@ -1,13 +1,14 @@
 # MSTC Interview Track
 
-## Current Status
+## Final Outcome & Scorecard Audit
 
-- CBT: cleared
-- GD: completed
-- Discipline: `Systems` (confirmed)
-- Interview shortlist: confirmed
-- Interview slot: `21 May 2026`, `9.00 A.M.` (New Delhi)
-- Priority mode: MSTC only
+* **Status**: **WAITLISTED (Reserve Panel)** — Active for 1 year (~July 2026 to July 2027)
+* **Candidate**: Avanish Kumar Gupta | Roll: `1110000165` | Reg: `712000369` | Discipline: `Systems` (OBC-NCL)
+* **Score**: **`53.00 / 100.00`**
+  * Written Exam (CBT): `26.50 / 60.00` (44.17%) — Cleared 40% qualifying bar
+  * Group Discussion (GD): `17.50 / 25.00` (**70.00%**) — High rank performance
+  * Personal Interview (PI): `9.00 / 15.00` (**60.00%**) — Above average performance
+* **Detailed Audit & Learnings**: See [`SCORECARD-AUDIT.md`](SCORECARD-AUDIT.md)
 
 ## Source Set
 

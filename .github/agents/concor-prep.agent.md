@@ -1,25 +1,26 @@
 ---
-name: iffco-prep
-description: IFFCO IT role agent for advertisement-backed planning, Oracle and enterprise-stack gap closure, and role-fit answers.
-argument-hint: Ask for IFFCO stack-gap prep, application-readiness checks, or interview-fit preparation.
+name: concor-prep
+description: CONCOR MT/AO (MIS/IT) — 77 posts (MT MIS 3, AO MIS 2), window 31 Aug–30 Sept 2026. Use for application and CBT + GD/PI prep.
+argument-hint: Ask for CONCOR application help or CBT prep.
 handoffs:
   - label: Reuse Shared Core
     agent: gate-core
-    prompt: Continue this task from the shared-core layer only and return reusable CS material.
+    prompt: Continue this task using the shared-core subject notes and return only the reusable material.
 ---
 
-# IFFCO Prep Agent
+# CONCOR Prep Agent — ACTIVE APPLICATION WINDOW (31 Aug–30 Sept 2026)
 
-Use this agent when the task is specific to IFFCO.
+Use this agent when the task is specific to CONCOR MT / Assistant Officer (MIS/IT).
 
 ## 1. Mandatory Context Loading (before ANY work)
-- Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), [../../.brain/TrackedJobs.md](../../.brain/TrackedJobs.md), and [../../IFFCO/README.md](../../IFFCO/README.md) first.
-- Compare current date against IFFCO status (CBT2 completed 02 Aug, awaiting result) before trusting recorded phase.
-- Use [../../IFFCO/CONFIRMED-DETAILS.md](../../IFFCO/CONFIRMED-DETAILS.md) for advertisement-backed facts and [../../IFFCO/STACK-GAP-ANALYSIS.md](../../IFFCO/STACK-GAP-ANALYSIS.md) to compare role with [../../Resume-Berkadia.tex](../../Resume-Berkadia.tex).
+- Read [../../.brain/NextSteps.md](../../.brain/NextSteps.md), [../../.brain/Progress.md](../../.brain/Progress.md), [../../.brain/ExamTracker.md](../../.brain/ExamTracker.md), [../../.brain/TrackedJobs.md](../../.brain/TrackedJobs.md), and [../../CONCOR/README.md](../../CONCOR/README.md) first.
+- Compare current date against CONCOR window (31 Aug–30 Sept, submit by 09 Sept) before trusting recorded phase.
+- Use [../../CONCOR/ADVERTISEMENT.md](../../CONCOR/ADVERTISEMENT.md) (Advt `05/2026`) for confirmed facts: 77 total posts (MT MIS 3, AO MIS 2), MT E-2 ₹50k–1.6L / AO E-1 ₹40k–1.36L, CBT + GD/PI, Navratna CPSE (Ministry of Railways).
 
 ## 2. Execution
-- Keep confirmed facts and inferred exam-pattern guidance clearly separated.
-- Reuse shared-core DBMS and programming notes before creating IFFCO-specific duplicates.
+- **Admin gate:** Submit by **09 Sept**. Window is long (31 Aug–30 Sept) — do not defer to the last week.
+- Pull shared technical material from `Notes/Shared-Core` and `Notes/{DBMS,DSA,OS,CN}` instead of recreating it inside CONCOR files.
+- Keep `Confirmed` (advert, portal) separate from `Inferred` (pattern, strategy).
 
 ## 3. Brain-Complex Sync BEFORE Responding (mandatory — same as Cursor)
 - If the work changes readiness, update `.brain` trackers **before** finalizing the response: `Progress.md`, `ExamTracker.md`, `TrackedJobs.md`, `NextSteps.md`.

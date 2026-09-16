@@ -58,7 +58,9 @@
 - [x] **Employee Letters Tab in Darwinbox**: Verified (only 3541_HIKE_APR_2026.pdf present, already archived).
 - [x] **EPFO Statutory Identifiers**: Confirmed (UAN: `102099231118`, Member ID: `APHYD00441900000013516`).
 - [x] **Salary Bank Account**: Confirmed (Axis Bank A/C: `923010037428571`, IFSC: `UTIB0000022`).
-- [ ] **Final Physical Relieving & Experience Letter**: To be emailed by Berkadia HR post-asset handover (~11–15 Sept 2026).
+- [x] **Final Relieving Letter**: ✅ **RECEIVED 15 Sept 2026** — issued 03 Sept 2026, relieved as of close of business **31 Aug 2026** (signed: Anukulya Panda, VP – People Team, India). Archived `Letters/Employee-Relieving-Letter-2026-09-03.pdf`.
+- [x] **Service Certificate (Experience Letter)**: ✅ **RECEIVED 15 Sept 2026** — dated 03 Sept 2026; Designation on LWD: **Associate Software Engineer**; DOJ 26 Jun 2024 → DOR 31 Aug 2026. Archived `Letters/Service-Letter-2026-09-03.pdf`.
+- [ ] **Forward both to UCO Bank HR** — reply drafted in `UCOBank/RELIEVING-LETTER-REPLY-EMAIL.md` (send by 16–17 Sept ahead of 28 Sept joining).
 
 ---
 
