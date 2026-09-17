@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 16, 2026 (Bareilly — DL Digital Fundamentals & Boolean Algebra 13/31 done, 42% + ISRO submitted)
+Last updated: September 17, 2026 (11:07 — plan redistributed 17 Sept 11:00 → 23 Sept 23:59 ~120h; DL 3.1 done 42%, DL 3.2 in progress 20%)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -65,27 +65,32 @@ Standing rules arising from that audit:
 **HAL Design Trainee (CS) CBT 06 Sept (Bengaluru, App No D321947) — result 09 Sept: DID NOT MAKE THE CUT.** HAL track closed; interview 21–25 Sept clash (risk R1) is moot.
 **Canonical September plan: [`combined-HAL-then-IOCL-plan.md`](../CoalIndiaLimited-PSU/combined-HAL-then-IOCL-plan.md)** — IOCL sections only now.
 
-### 📅 IOCL Sprint (16–24 Sept 2026) — 9-DAY 18H/DAY CRACK-BY-ANY-MEANS (Bareilly, from-scratch, DL 6.1.1 done)
+### 📅 IOCL Sprint — REDISTRIBUTED 17 Sept 11:00 → 23 Sept 23:59 (~120h)
 
-**Daily budget (Confirmed, 16 Sept):** 24h − 3h sleep − 1.5h gym − 1h misc = **18.5h gross → 18h study** (rounded). 9 days × 18h = **162h** until 24 Sept 06:00.
+**Why redistributed (17 Sept 11:07):** 16 Sept under-delivered — only DL 3.1 (13/31 = 42%) + DL 3.2 partial (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%). Window is now **13h today (17 Sept 11:00–23:59) + 6 × 18h = ~120h** to 23 Sept 23:59 (previously 162h to 24 Sept 06:00).
 
-**Load (Confirmed, 11 Sept screenshot + KG-IOCL-COURSE-CONTENTS.md):** 2,095 videos (~288h) = 1,801 Tech (193h 50m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. From-scratch = every topic touched via notes + PYQ first, concept videos at 2x for gaps only. **Progress (16 Sept 17:10): DL Digital Fundamentals & Boolean Algebra 13/31 complete (42%) — 7 concept videos + 7 PYQs + 16 PQs section; subsections Blueprint/History/Advantage/Designing/Boolean Laws/De Morgan's done.**
+**Daily budget:** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study/day**. Today truncated to 11.5h (11:00 start).
 
-**Phase A — Completion 16–21 Sept (6 days, 18h/day = 108h, from-scratch, continue DL):**
-* **16 Sept (Today, DL day — 13/31 done, 42%):** DL Digital Fundamentals & Boolean Algebra section complete (7 vids + 7 PYQs + 16 PQs; Blueprint/History/Advantage/Designing/Boolean Laws/De Morgan's done) → continue DL 6.1.2→6.9 (Number System → Floating Point) + DL PQs/PYQs. *ISRO ICRB submitted 16 Sept 11:36 — App No `ICRBS260037880`.*
-* **17 Sept:** COA (9.1–9.7) + Compiler (10.1–10.9) — heavy numericals.
-* **18 Sept:** OS (7.1–7.10) + DBMS (3.1–3.12) — high-weight PSU core.
-* **19 Sept:** CN + Security (5.1–5.16) + Prog & DS (2.1–2.14) — largest breadth day.
-* **20 Sept:** Algorithms (4.1–4.7) + Eng Maths (16) + SE/Cloud/OOP/Web delta (no KG module — use `IOCL/SYLLABUS.md` §5–6 + `Notes/Shared-Core`).
-* **21 Sept:** Quant (13.1–13.19) + Reasoning (12.1–12.15) + English (Paper-1 Eng) + GA selective — close completion.
+**Load (Confirmed):** 2,095 videos (~288h) = 1,801 Tech (193h 52m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. **120h vs 288h video ⇒ notes + PYQ first, concept videos at 2x for high-weight only.**
 
-**Phase B — 1 Revision + Mocks 22–23 Sept (2 days, 36h):**
-* **22 Sept:** Revision-1 Tech core (OS/DBMS/CN/DS-Algo/DL/COA/TOC/Compiler) via 848 notes + 3,039 PQs + Mock-1 (16-test pool).
-* **23 Sept:** Revision-1 Apt + Tech remainder + Mock-2 + Mock-3 light + error-log triage + formula taper.
+**Progress snapshot (17 Sept 11:07):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Logic Gates & Hardware **~20%** (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%; Ex-OR/Ex-NOR 0/27; Logic Families 0/11) · PYQ bank 1/15 attempted · PQ bank 8/40 attempted.
 
-**24 Sept:** 🔥 **IOCL CBT** — target 80+/100 (Sec A 60+, Sec B 20+). Gates: 40%/40%/45% (OBC-NCL). **Stop study 06:00, travel to centre.**
+**Phase A — Completion (17–21 Sept):**
+* **17 Sept (Thu, 11:00–23:59, 11.5h) — DL FINISH:** 3.2 Universal Gates → Ex-OR/Ex-NOR → Logic Families → module sweep → 3.3 Boolean Expression → 3.4 Boolean Minimization → 3.5 Combinational → 3.6 Sequential → 3.7 Number System + 3.8 Number Representation + Floating Point.
+* **18 Sept (Fri, 18h):** COA (4.1–4.7) + Compiler (8.1–8.9) — heavy numericals.
+* **19 Sept (Sat, 18h):** OS (9.1–9.10) + DBMS (10.1–10.13) — high-weight core.
+* **20 Sept (Sun, 18h):** CN (11.1–11.13) + Prog & DS (5.1–5.8).
+* **21 Sept (Mon, 18h):** Prog & DS (5.9–5.14) + Algorithms (6.1–6.7) + TOC (7.1–7.10).
 
-**Tracker:** `docs/tracker/index.html` — local-only (open via `file://` or `http://127.0.0.1:8766/index.html`). **Live countdown: per-second pill `Xd Xh Xm Xs to 24 Sept 06:00` (IST, warn <24h, danger <6h, `CBT LIVE` at 0).** No GitHub Pages. Source: `docs/tracker/` in repo.
+**Phase B — Revision + Mocks (22–23 Sept):**
+* **22 Sept (Tue, 18h):** Eng Maths (2.1–2.11) + SE/Cloud/OOP/Web delta + **Mock-1** + Revision-1(a) DL/COA/Compiler + Mock analysis.
+* **23 Sept (Wed, 18h):** Quant (1.1–1.13) + Reasoning (2.1–2.6) + English (3.1–3.19) + Revision-1(b) OS/DBMS/CN/DS/Algo/TOC + **Mock-2 + Mock-3 light** + error-log triage + formula taper → **STOP 23:59**.
+
+**24 Sept:** 🔥 **IOCL CBT** — target 80+/100 (Sec A 60+, Sec B 20+). Gates: 40%/40%/45% (OBC-NCL). Rest + travel only; no new study.
+
+**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — GitHub Pages from `main` → `/docs` (status: built, HTTPS enforced, repo public). **Per-second countdown pill `Xd Xh Xm Xs to 24 Sept 06:00`** (IST, warn <24h, danger <6h, `CBT LIVE` at 0). `DAYS` redistributed 17–24 Sept (`LS_KEY='iocl-9day-tracker-v3'`), budget 120h (8 days / 70 tasks).
+- **Local fallback:** `docs/tracker/index.html` via `file://` or `python3 -m http.server 8766 --directory docs/tracker`.
+- ⚠️ **Progress is per-browser `localStorage`** — hosted and local copies track separately. Use **Export JSON** to move state; push to `main` to publish code changes.
 
 ---
 

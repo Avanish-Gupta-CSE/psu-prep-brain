@@ -9,11 +9,34 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 16 Sept 2026 17:10 -- DL Digital Fundamentals & Boolean Algebra 13/31 done (42%) |
-| **Resume From** | `.brain/NextSteps.md` — 16 Sept DL continue 6.1.2→6.9 (13/31 done); ISRO submitted; 18h/day until 24 Sept 06:00; tracker per-second. |
+| **Last Session** | 17 Sept 2026 -- Tracker published to GitHub Pages (live URL) + plan redistribution logged |
+| **Resume From** | `.brain/NextSteps.md` — 17 Sept 11:00–12:00 DL Universal Gates NAND & NOR (finish 16 items); 12:00–13:00 DL Ex-OR/Ex-NOR; DL must finish tonight. Dashboard: https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/ |
 | **Overall Mood** | All-in. 162h in 9 days. Will crack it by hook or crook. |
 
 ## Session Log
+
+### Session 67 -- 17 Sept 2026 (Tracker Published to GitHub Pages)
+- **Type:** Deployment, Brain Sync
+- **What happened:**
+  - **Tracker now LIVE on GitHub Pages** → **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/**
+    - Pages config verified via API: branch `main`, path `/docs`, status `built`, `https_enforced: true`, repo **public** (no Pro needed).
+    - No new Pages enablement was required (already configured) — only a push was needed.
+  - **Changed from Session 64/66 stance** (local-only) → user requested hosting 17 Sept.
+  - **Caveat logged:** checkbox state lives in browser `localStorage`, so the hosted and local copies track **separately**. `Export JSON` moves state between them; only code changes propagate via `git push`.
+  - **Files updated:** `docs/tracker/index.html` (live URL + local fallback + storage caveat in "How to use"), `.brain/NextSteps.md`, `.brain/StudyPlan.md`.
+- **Deploy:** `main` → `/docs` auto-builds; typical propagation 30–60s after push.
+- **Next goals:** Dashboard reachable on the hosted URL from any device; continue DL 3.2 Universal Gates → 17/17.
+
+### Session 66 -- 17 Sept 2026 11:07 (Plan Redistribution: 17 Sept 11:00 → 23 Sept 23:59)
+- **Type:** Replan, Tracker Rewrite, Brain Sync
+- **What happened:**
+  - **16 Sept under-delivered.** Verified from KG `Logic Gates & Hardware` screenshot (17 Sept 11:07): DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)**; DL 3.2 **~20%** — Evolution/NOT/OR/AND **13/14 (93%)**, Universal Gates NAND & NOR **1/17 (6%)**, Ex-OR/Ex-NOR **0/27 (0%)**, Logic Families & Hardware **0/11 (0%)**. Module bank: PYQs 1/15 (7%), PQs 8/40 (20%).
+  - **Window recalculated:** 17 Sept 11:00 → 23 Sept 23:59 = **13h today + 6 × 18h = ~120h** (was 162h to 24 Sept 06:00). 288h of video ⇒ notes + PYQ first, 2x concepts for high-weight only.
+  - **New distribution:** 17 DL finish (3.2→3.8) · 18 COA + Compiler · 19 OS + DBMS · 20 CN + Prog/DS 1–8 · 21 Prog/DS 9–14 + Algorithms + TOC · 22 Eng Maths + SE/Cloud delta + Mock-1 + Rev-1(a) · 23 Apt (Quant/Reasoning/English) + Rev-1(b) + Mock-2/3 + taper → STOP 23:59.
+  - **Tracker rewritten:** `docs/tracker/index.html` `DAYS` = 17–24 Sept, `LS_KEY='iocl-9day-tracker-v3'`, budget 120h, badge `DL 3.1 ✓ 42% · 3.2 20%`, today card shows the 11:00–12:00 and 12:00–13:00 targets.
+  - **Brain synced:** `NextSteps.md`, `Progress.md` (Session 66), `StudyPlan.md`.
+- **Topics covered:** Replan math, DL 3.2 sub-section status, hourly chunking.
+- **Next goals:** 17 Sept 11:00–12:00 DL Universal Gates NAND & NOR → 17/17; 12:00–13:00 DL Ex-OR/Ex-NOR → 27/27; finish DL tonight.
 
 ### Session 65 -- 16 Sept 2026 (Live Countdown Per-Second Upgrade + Local Verify + ISRO Submit + DL 13/31)
 - **Type:** Tooling, Verification, Form Submission, Study Progress, Brain Sync

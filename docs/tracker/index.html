@@ -61,7 +61,7 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
   <h1>🔥 IOCL <span>9-Day Crack</span> — 16→24 Sept 2026</h1>
   <div class="badges">
     <span class="badge live">● LIVE — 18h/day</span>
-    <span class="badge">DL 6.1.1 ✓</span>
+    <span class="badge">DL 3.1 ✓ 42% · 3.2 20%</span>
     <span class="badge warn" id="countdown">—</span>
     <span class="badge" id="todayBadge">—</span>
   </div>
@@ -74,7 +74,7 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
       <div class="stats">
         <div class="stat"><b id="overallPct">0%</b><span>Overall</span></div>
         <div class="stat"><b id="doneCount">0 / 0</b><span>Tasks done</span></div>
-        <div class="stat"><b id="hoursLeft">162h</b><span>Budget left</span></div>
+        <div class="stat"><b id="hoursLeft">120h</b><span>Budget left</span></div>
       </div>
       <div class="controls">
         <button class="btn" onclick="expandAll(true)">Expand all</button>
@@ -85,13 +85,13 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
       <h3 style="margin-top:14px">Daily budget</h3>
       <div class="kv">
         <div><b>Sleep</b> 3h</div><div><b>Gym</b> 1.5h</div>
-        <div><b>Misc</b> 1h</div><div><b>Study</b> 18h/day → 162h total</div>
+        <div><b>Misc</b> 1h</div><div><b>Study</b> 18h/day → ~120h total</div>
       </div>
-      <p style="font-size:11px;color:var(--muted);margin-top:8px">Stop study 24 Sept 06:00. CBT target 80+/100 (Sec A 60+, Sec B 20+). Gates 40%/40%/45% OBC-NCL.</p>
+      <p style="font-size:11px;color:var(--muted);margin-top:8px"><b>Redistributed 17 Sept 11:00 → 23 Sept 23:59 (~120h).</b> Stop study 23:59, rest, travel 24 Sept. CBT target 80+/100 (Sec A 60+, Sec B 20+). Gates 40%/40%/45% OBC-NCL.</p>
     </div>
     <div class="card">
-      <h2>Today — Continue Digital Logic</h2>
-      <p style="font-size:13px;color:var(--muted)">16 Sept: DL 6.1.2→6.9 + PQs/PYQs. ISRO ICRB closes 11:55 PM — submit today. Progress: DL 6.1.1 ✓ done.</p>
+      <h2>Today — 17 Sept, 11:00 onward</h2>
+      <p style="font-size:13px;color:var(--muted)"><b>11:00–12:00:</b> DL Universal Gates NAND &amp; NOR — finish 16 items → 17/17.<br><b>12:00–13:00:</b> DL Ex-OR / Ex-NOR Gate &amp; Relation — 5 vids + 7 PYQs + 14 PQs → 27/27.<br>Then Logic Families → Boolean Expression → Minimization → Combinational → Sequential → Number Rep. <b>DL must be 100% touched tonight.</b></p>
       <h3>Quick links</h3>
       <ul style="font-size:13px;list-style:none;display:grid;gap:6px">
         <li>📄 <a href="../../IOCL/SYLLABUS.md">IOCL/SYLLABUS.md</a> — official 100Q pattern</li>
@@ -118,42 +118,41 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
       <li>Check tasks as you finish — progress + countdown update automatically and persist in this browser (localStorage).</li>
       <li>Continue from <b>DL 6.1.2</b> today (6.1.1 already done). Notes + PYQ first, concept videos at 2× for gaps only.</li>
       <li>Export JSON daily and commit to git if you want history across devices.</li>
-      <li>Hosted locally from <code>docs/tracker/</code> — open <code>index.html</code> directly or run <code>python3 -m http.server</code> in <code>docs/tracker/</code>.</li>
+      <li><b>Hosted live:</b> <a href="https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/">https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/</a> — push to <code>main</code> to publish.</li>
+      <li><b>Local fallback:</b> open <code>docs/tracker/index.html</code> via <code>file://</code> or run <code>python3 -m http.server 8766 --directory docs/tracker</code>.</li>
+      <li><b>Note:</b> checkboxes are stored per-browser in <code>localStorage</code> — the hosted and local copies keep <b>separate</b> progress. Use <b>Export JSON</b> to move progress between them.</li>
     </ul>
   </div>
 </div>
 <footer>Built 16 Sept 2026 · Bareilly · 18h/day · Will crack it by hook or crook. · <a href="https://github.com/Avanish-Gupta-CSE/psu-prep-brain">psu-prep-brain</a></footer>
 <script>
 const DAYS=[
-  {id:'d16',date:'16 Sept (Tue)',title:'Day 1 — Digital Logic 6.1.2→6.9 + ISRO submit',hours:'18h',tasks:[
-    {t:'DL 6.1.2 Logic Gates & Hardware (11 vids)',k:'tech'},{t:'DL 6.3 Boolean Expression (24 vids)',k:'tech'},{t:'DL 6.4 Boolean Minimization (23 vids)',k:'tech'},{t:'DL 6.5 Combinational Circuit (34 vids)',k:'tech'},{t:'DL 6.6 Sequential Circuits (34 vids)',k:'tech'},{t:'DL 6.7 Number System (5 vids)',k:'tech'},{t:'DL 6.8 Number Representation (10 vids)',k:'tech'},{t:'DL 6.9 Floating Point (7 vids)',k:'tech'},{t:'DL PQs + PYQs sweep (today\'s subtopics)',k:'tech'},{t:'ISRO ICRB submit by 11:55 PM',k:'apt'}
+  {id:'d17',date:'17 Sept (Thu)',title:'Day 1 — Digital Logic FINISH (3.2 → 3.8)',hours:'11.5h · 11:00–23:59',tasks:[
+    {t:'DL 3.2 Universal Gates NAND & NOR — finish 16 items (2 vids @2x + 2 PYQs + 12 PQs) → 17/17',k:'tech'},{t:'DL 3.2 Ex-OR / Ex-NOR Gate & Relation (5 vids @2x + 7 PYQs + 14 PQs) → 27/27',k:'tech'},{t:'DL 3.2 Logic Families & Hardware (5 PYQs + 6 PQs) → 11/11',k:'tech'},{t:'DL 3.2 module sweep — all 15 PYQs + all 40 PQs attempted',k:'tech'},{t:'DL 3.3 Boolean Expression (24 vids @2x) + module PQs',k:'tech'},{t:'DL 3.4 Boolean Minimization (23 vids @2x) + module PQs',k:'tech'},{t:'DL 3.5 Combinational Circuit (34 vids @2x) + module PQs',k:'tech'},{t:'DL 3.6 Sequential Circuits (34 vids @2x) + module PQs',k:'tech'},{t:'DL 3.7 Number System (5) + 3.8 Number Representation (10) + Floating Point (7)',k:'tech'},{t:'Day close — mark DL 100% touched, export JSON, log weak sub-topics',k:'tech'}
   ]},
-  {id:'d17',date:'17 Sept (Wed)',title:'Day 2 — COA + Compiler',hours:'18h',tasks:[
-    {t:'COA 9.1 Basics (28 vids) + 9.2 Cache (34 vids)',k:'tech'},{t:'COA 9.3 I/O (18) + 9.4 Pipelining (17) + 9.5 Instr Formats (17)',k:'tech'},{t:'COA 9.6 Control Unit (9) + 9.7 Programming (18)',k:'tech'},{t:'Compiler 10.1 Intro (11) + 10.2 Lexical (4) + 10.3 Grammar (30)',k:'tech'},{t:'Compiler 10.4 Top-Down (17) + 10.5 Bottom-Up (18)',k:'tech'},{t:'Compiler 10.6 Semantic (9) + 10.7 Intermediate (5) + 10.8 Optimization (12)',k:'tech'},{t:'COA + Compiler PQs/PYQs',k:'tech'}
+  {id:'d18',date:'18 Sept (Fri)',title:'Day 2 — Computer Architecture + Compiler Design',hours:'18h',tasks:[
+    {t:'COA 4.1 Floating Point Representation + 4.2 Cache Memory Organization',k:'tech'},{t:'COA 4.3 Input-Output Organisation + 4.4 Pipelining',k:'tech'},{t:'COA 4.5 Instruction Formats & Modes + 4.6 Control Unit Design + 4.7',k:'tech'},{t:'COA sweep — 108 PYQs + 314 PQs',k:'tech'},{t:'Compiler 8.1 Intro + 8.2 Lexical Analysis + 8.3 Grammar & CFG',k:'tech'},{t:'Compiler 8.4 Top-Down Parsing + 8.5 Bottom-Up Parsing',k:'tech'},{t:'Compiler 8.6 Semantic Analysis & SDT + 8.7 Intermediate Code Gen',k:'tech'},{t:'Compiler 8.8 Code Optimization + 8.9',k:'tech'},{t:'Compiler sweep — 63 PYQs + 189 PQs',k:'tech'}
   ]},
-  {id:'d18',date:'18 Sept (Thu)',title:'Day 3 — OS + DBMS (high-weight core)',hours:'18h',tasks:[
-    {t:'OS 7.1 Intro (18) + 7.2 Process Mgmt (11) + 7.3 CPU Scheduling (21)',k:'tech'},{t:'OS 7.4 Sync (19) + 7.5 Threads (3) + 7.6 Deadlock (17)',k:'tech'},{t:'OS 7.7 Memory (30) + 7.8 Virtual Memory (16) + 7.9 Disc (9) + 7.10 File (15)',k:'tech'},{t:'DBMS 3.1 Basics (8) + 3.2 ER (14) + 3.3 Relational + FD (15)',k:'tech'},{t:'DBMS 3.4 Keys (9) + 3.5 Normalization (13) + 3.6 Decomposition (6)',k:'tech'},{t:'DBMS 3.7 File Org (21) + 3.8 Relational Algebra (14) + 3.9 SQL (33)',k:'tech'},{t:'DBMS 3.10 Calculus (6) + 3.11 Transactions (25) + 3.12 Concurrency (11)',k:'tech'},{t:'OS + DBMS PQs/PYQs',k:'tech'}
+  {id:'d19',date:'19 Sept (Sat)',title:'Day 3 — Operating System + DBMS (high-weight core)',hours:'18h',tasks:[
+    {t:'OS 9.1 Intro + 9.2 Process Management + 9.3 CPU Scheduling',k:'tech'},{t:'OS 9.4 Synchronization + 9.5 Threads & Process Creation + 9.6 Deadlock',k:'tech'},{t:'OS 9.7 Memory Management + 9.8 Virtual Memory',k:'tech'},{t:'OS 9.9 Disk Scheduling + 9.10 File Management',k:'tech'},{t:'OS sweep — 160 PYQs + 314 PQs',k:'tech'},{t:'DBMS 10.1 Basics + 10.2 ER Diagram + 10.3 Relational Model & FD + 10.4 Keys',k:'tech'},{t:'DBMS 10.5 Normalization (1NF–BCNF) + 10.6 Decomposition & 4NF',k:'tech'},{t:'DBMS 10.7 File Org & Indexing + 10.8 Relational Algebra + 10.9 SQL',k:'tech'},{t:'DBMS 10.10 Relational Calculus + 10.11 Transactions + 10.12 Concurrency + 10.13',k:'tech'},{t:'DBMS sweep — 111 PYQs + 402 PQs',k:'tech'}
   ]},
-  {id:'d19',date:'19 Sept (Fri)',title:'Day 4 — CN + Programming & DS',hours:'18h',tasks:[
-    {t:'CN 5.1 Intro (25) + 5.2 Data Comm (5) + 5.3 DLL Access (20)',k:'tech'},{t:'CN 5.4 Flow (10) + 5.5 Error (16) + 5.6 Framing (4) + 5.7 Ethernet (6)',k:'tech'},{t:'CN 5.8 IPv4 (23) + 5.9 IP Addressing (27) + 5.10 Routing (12)',k:'tech'},{t:'CN 5.11 Transport (18) + 5.12 Congestion (15) + 5.13 App Layer (16) + 5.16 Security (11)',k:'tech'},{t:'Prog & DS 2.1 C Fundamentals (26) + 2.2 Control Flow (9) + 2.3 Functions (4)',k:'tech'},{t:'Prog & DS 2.4 Arrays & Pointers (14) + 2.5 Storage (6) + 2.6 DMA (10)',k:'tech'},{t:'Prog & DS 2.7 Intro DS (7) + 2.8 Array (16) + 2.9 Stack (32) + 2.10 Queue (12)',k:'tech'},{t:'Prog & DS 2.11 Linked List (17) + 2.12 Tree (51) + 2.13 Graphs (13) + 2.14 Hashing (12)',k:'tech'}
+  {id:'d20',date:'20 Sept (Sun)',title:'Day 4 — Computer Networks + Programming & DS (part 1)',hours:'18h',tasks:[
+    {t:'CN 11.1 Intro + 11.2 DLL Access Control + 11.3 Flow Control + 11.4 Error Control',k:'tech'},{t:'CN 11.5 Framing + 11.6 Ethernet + 11.7 IPv4 & Protocols',k:'tech'},{t:'CN 11.8 IP Addressing & Subnetting + 11.9 Routing Protocols',k:'tech'},{t:'CN 11.10 Transport Layer Services + 11.11 Congestion & UDP',k:'tech'},{t:'CN 11.12 Application Layer + 11.13 Hardware Basics',k:'tech'},{t:'CN sweep — 166 PYQs + 417 PQs',k:'tech'},{t:'Prog & DS 5.1 C Fundamentals + 5.2 Control Flow + 5.3 Functions',k:'tech'},{t:'Prog & DS 5.4 Arrays & Pointers + 5.5 Storage Classes/Structures + 5.6 DMA/Macros/File',k:'tech'},{t:'Prog & DS 5.7 Intro to DS + 5.8 Array',k:'tech'}
   ]},
-  {id:'d20',date:'20 Sept (Sat)',title:'Day 5 — Algorithms + Eng Maths + SE/Cloud delta',hours:'18h',tasks:[
-    {t:'Algo 4.1 Analysis (24) + 4.2 Time Complexity (41) + 4.3 Sorting (35)',k:'tech'},{t:'Algo 4.4 Greedy (8) + 4.5 DP (8) + 4.6 MST (4) + 4.7 Shortest Path (10)',k:'tech'},{t:'Eng Maths (Module 16) — 80 PYQs + 641 PQs (probability, LA, calculus)',k:'tech'},{t:'SE / Cloud / OOP / Web delta — IOCL/SYLLABUS.md §5–6 + Shared-Core (no KG module)',k:'tech'},{t:'Algo + Eng Maths PQs/PYQs',k:'tech'}
+  {id:'d21',date:'21 Sept (Mon)',title:'Day 5 — Prog/DS part 2 + Algorithms + Theory of Computation',hours:'18h',tasks:[
+    {t:'Prog & DS 5.9 Stack + 5.10 Queue + 5.11 Linked List',k:'tech'},{t:'Prog & DS 5.12 Tree + 5.13 Graphs + 5.14 Hashing',k:'tech'},{t:'Prog & DS sweep — 169 PYQs + 453 PQs',k:'tech'},{t:'Algorithms 6.1 Analysis + 6.2 Time Complexity + 6.3 Sorting (all 9 sub-modules)',k:'tech'},{t:'Algorithms 6.4 Greedy (Huffman, Optimal Merge, Knapsack, Job/Activity) + 6.5 DP',k:'tech'},{t:'Algorithms 6.6 MST + 6.7 Shortest Path + sweep (82 PYQs + 253 PQs)',k:'tech'},{t:'TOC 7.1 Intro + 7.2 DFA + 7.3 NFA + 7.4 Regular Expressions',k:'tech'},{t:'TOC 7.5 Grammar + 7.6 Regular Language Properties + 7.7 Moore & Mealy',k:'tech'},{t:'TOC 7.8 PDA & CFG + 7.9 Turing Machines + 7.10 Complexity Theory',k:'tech'},{t:'TOC sweep — 75 PYQs + 212 PQs',k:'tech'}
   ]},
-  {id:'d21',date:'21 Sept (Sun)',title:'Day 6 — Quant + Reasoning + English + GA (close completion)',hours:'18h',tasks:[
-    {t:'Quant 13.1 Number System (19) + 13.2 HCF LCM (24) + 13.3 Average (13)',k:'apt'},{t:'Quant 13.5 Percentage (16) + 13.6 Ratio (16) + 13.7 Profit/Loss (16)',k:'apt'},{t:'Quant 13.8 Speed/Distance (31) + 13.9 Time/Work (10) + 13.12 SI/CI (19)',k:'apt'},{t:'Quant 13.15 Probability (12) + 13.16 P&C (35) + 13.14 Mensuration (4)',k:'apt'},{t:'Reasoning 12.1 Series (18) + 12.2 Coding (16) + 12.4 Syllogisms (4) + 12.12 Non-Verbal (16)',k:'apt'},{t:'English — Paper-1 English (vocab, grammar, RC)',k:'apt'},{t:'GA selective — Static + Current (if time)',k:'apt'},{t:'Quant + Reasoning PQs/PYQs',k:'apt'}
+  {id:'d22',date:'22 Sept (Tue)',title:'Day 6 — Engineering Maths + SE/Cloud delta + Mock-1 + Revision-1(a)',hours:'18h',tasks:[
+    {t:'Eng Maths 2.1 Set Theory + 2.2 Relations + 2.3 Functions + 2.4 Graph Theory',k:'tech'},{t:'Eng Maths 2.5 Group Theory + 2.6 Propositional & Predicate Logic',k:'tech'},{t:'Eng Maths 2.7 Linear Algebra + 2.8 Calculus',k:'tech'},{t:'Eng Maths 2.9 Permutation & Combination + 2.10 Probability + 2.11 Statistics',k:'tech'},{t:'Eng Maths sweep — 89 PYQs + 249 PQs',k:'tech'},{t:'SE / Cloud / OOP / Web delta — IOCL/SYLLABUS.md §5–6 + Notes/Shared-Core',k:'tech'},{t:'Mock-1 — full 100Q / 120 min IOCL pattern (72s/Q: Sec B 20 min, Sec A 90 min, 10 min review)',k:'mock'},{t:'Revision-1(a) — DL + COA + Compiler via notes + PYQs',k:'tech'},{t:'Mock-1 analysis → WeakAreas + error-log',k:'mock'}
   ]},
-  {id:'d22',date:'22 Sept (Mon)',title:'Day 7 — Revision-1 Tech + Mock-1',hours:'18h',tasks:[
-    {t:'Revision-1: OS + DBMS + CN (notes + 848 notes pool)',k:'tech'},{t:'Revision-1: DS + Algo + DL + COA + TOC + Compiler',k:'tech'},{t:'Mock-1 (full 100Q, 120 min, 72s/Q) — from 16-test pool',k:'mock'},{t:'Mock-1 analysis + WeakAreas + error-log',k:'mock'}
+  {id:'d23',date:'23 Sept (Wed)',title:'Day 7 — Aptitude + Revision-1(b) + Mocks 2 & 3 — FINISH 23:59',hours:'18h',tasks:[
+    {t:'Quant 1.1–1.7 (Speed Maths, Percentage, Ratio, Powers/Surds, Logarithm, Series, P&C)',k:'apt'},{t:'Quant 1.8–1.13 (Probability, Mensuration, Statistics, DI, Average, Arithmetic)',k:'apt'},{t:'Quant sweep — 33 PYQs + 366 PQs',k:'apt'},{t:'Reasoning 2.1 Non-Verbal (15 sub) + 2.2 Series + 2.3 Deductive & Inductive',k:'apt'},{t:'Reasoning 2.4 Analogy + 2.5 Cubes & Dices + 2.6 Syllogisms + sweep (13 PYQs + 442 PQs)',k:'apt'},{t:'English 3.1–3.19 (Vocab, Grammar, Sentence Correction, RC, Para Jumbles)',k:'apt'},{t:'English sweep — 2 PYQs + 538 PQs',k:'apt'},{t:'Revision-1(b) — OS + DBMS + CN + DS + Algo + TOC via notes + PYQs',k:'tech'},{t:'Mock-2 — full 100Q / 120 min',k:'mock'},{t:'Mock-3 light (Sec A or Sec B) + formula card taper',k:'mock'},{t:'Final — error-log triage + admit + centre + docs check → STOP 23:59',k:'mock'}
   ]},
-  {id:'d23',date:'23 Sept (Tue)',title:'Day 8 — Revision-1 Apt + Mocks 2 & 3 + taper',hours:'18h',tasks:[
-    {t:'Revision-1: Quant + Reasoning + English + GA',k:'apt'},{t:'Mock-2 (full 100Q)',k:'mock'},{t:'Mock-3 light (Sec A or Sec B) + formula taper',k:'mock'},{t:'Final error-log triage + admit + centre + docs check',k:'mock'}
-  ]},
-  {id:'d24',date:'24 Sept (Wed)',title:'Day 9 — IOCL CBT 🔥',hours:'—',tasks:[
-    {t:'Stop study 06:00 — travel to centre',k:'mock'},{t:'CBT 100Q / 120 min — target 80+/100 (Sec A 60+, Sec B 20+)',k:'mock'}
+  {id:'d24',date:'24 Sept (Thu)',title:'Day 8 — IOCL CBT 🔥',hours:'—',tasks:[
+    {t:'Travel to centre — reporting per admit card',k:'mock'},{t:'CBT 100Q / 120 min — target 80+/100 (Sec A 60+, Sec B 20+)',k:'mock'}
   ]},
 ];
-const LS_KEY='iocl-9day-tracker-v1';
+const LS_KEY='iocl-9day-tracker-v3'; // v3 = 17 Sept 11:00 → 23 Sept 23:59 redistribution
 function load(){try{return JSON.parse(localStorage.getItem(LS_KEY)||'{}')}catch{return{}}}
 function save(s){localStorage.setItem(LS_KEY,JSON.stringify(s))}
 function render(){
@@ -202,7 +201,7 @@ function renderStats(){
   document.getElementById('overallBar').style.width=pct+'%';
   document.getElementById('overallPct').textContent=pct+'%';
   document.getElementById('doneCount').textContent=`${done} / ${total}`;
-  const hoursLeft=Math.max(0,162 - Math.round(done/total*162));
+  const hoursLeft=Math.max(0,120 - Math.round(done/total*120));
   document.getElementById('hoursLeft').textContent=hoursLeft+'h';
 }
 function expandAll(open){document.querySelectorAll('.day').forEach(d=>d.classList.toggle('open',open))}

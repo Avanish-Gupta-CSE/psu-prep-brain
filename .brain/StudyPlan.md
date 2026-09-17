@@ -25,7 +25,7 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 16 Sep - 24 Sept 2026 | **IOCL Engineers/Officers (CS/IT)** | 9-day 18h/day crack-by-any-means: completion 16–21 (DL 6.1.1 done, continue DL) + 1 revision + mocks 22–23; CBT 24 Sept 06:00 | 🔥 **ACTIVE (sole focus from Bareilly home base)** |
+| **Phase 7** | 17 Sep 11:00 - 23 Sep 23:59 2026 | **IOCL Engineers/Officers (CS/IT)** | **REDISTRIBUTED ~120h:** completion 17–21 (DL finish → COA+Compiler → OS+DBMS → CN+Prog/DS → Algo+TOC) + revision & mocks 22–23; CBT 24 Sept | 🔥 **ACTIVE (sole focus from Bareilly home base)** |
 | **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
@@ -37,9 +37,15 @@
 
 ---
 
-## Phase 7: IOCL 9-Day 18h/Day Crack-by-Any-Means (ACTIVE 16–24 Sept — Completion 16–21 + 1 Revision 22–23)
+## Phase 7: IOCL Crack Sprint — REDISTRIBUTED (ACTIVE 17 Sept 11:00 → 23 Sept 23:59, ~120h)
 
-**Daily budget (16 Sept):** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study** (162h total until 24 Sept 06:00). **Progress 16 Sept 17:10: DL Digital Fundamentals & Boolean Algebra 13/31 done (42%) — continue DL 6.1.2→6.9 (remaining 18/31).** **Tracker: `docs/tracker/index.html` — local-only, per-second live countdown `Xd Xh Xm Xs to 24 Sept 06:00` (IST).** Completion 16–21 (from scratch, DL-first): 16 DL 6.1.2→6.9 + ISRO submitted · 17 COA + Compiler · 18 OS + DBMS · 19 CN + Prog/DS · 20 Algo + Eng Maths + SE/Cloud/OOP/Web delta · 21 Quant + Reasoning + English + GA. Revision 22–23 + 3 mocks. CBT 24 Sept 06:00 (72s/Q).
+**Daily budget:** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study/day**. Today (17 Sept) truncated to **11.5h** (11:00 start). Total window ≈ **120h** (was 162h to 24 Sept 06:00 — 16 Sept under-delivered).
+
+**Progress snapshot (17 Sept 11:07):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Logic Gates & Hardware **~20%** (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%; Ex-OR/Ex-NOR 0/27; Logic Families 0/11).
+
+**Distribution:** 17 DL finish (3.2→3.8) · 18 COA (4.1–4.7) + Compiler (8.1–8.9) · 19 OS (9.1–9.10) + DBMS (10.1–10.13) · 20 CN (11.1–11.13) + Prog/DS (5.1–5.8) · 21 Prog/DS (5.9–5.14) + Algorithms (6.1–6.7) + TOC (7.1–7.10) · 22 Eng Maths (2.1–2.11) + SE/Cloud/OOP/Web delta + Mock-1 + Rev-1(a) · 23 Quant (1.1–1.13) + Reasoning (2.1–2.6) + English (3.1–3.19) + Rev-1(b) + Mock-2 + Mock-3 light → **STOP 23:59**.
+
+**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — GitHub Pages (`main` → `/docs`, HTTPS enforced). Per-second countdown, `LS_KEY='iocl-9day-tracker-v3'`, budget 120h, 8 days / 70 tasks. Local fallback: `docs/tracker/index.html` + `python3 -m http.server 8766 --directory docs/tracker`. CBT 24 Sept (72s/Q).
 
 Detailed day-by-day roadmap lives in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md).
 Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
