@@ -15,6 +15,17 @@
 
 ## Session Log
 
+### Session 68 -- 17 Sept 2026 (Sync Strategy Decided + Import Button Shipped)
+- **Type:** Architecture Decision, Tooling
+- **Decision:** **Manual Export/Import sync is the right call for the next 7 days — NOT a live DB.**
+  - Reasoning: single user ⇒ no concurrent-write conflicts ⇒ a DB adds auth, security rules, and cost/time with no payoff. Live DB re-evaluated **after 24 Sept IOCL CBT** for the next cycle (ISRO written, CONCOR CBT, UCO induction).
+- **Real gap found and fixed:** tracker had **Export JSON but no Import** — so cross-device sync was impossible.
+  - Shipped **⬆ Import JSON** (merge-only: never deletes existing ticks, safe to run both directions), file input `#importFile`, and an `exportProgress()` upgrade that stamps `exportedAt`, `key`, and a dated filename.
+  - Added sync protocol + backup guidance to the "How to use" card.
+- **Sync protocol (manual, ~20s/day):** Export on the device that's ahead → Import on the other → optionally commit the JSON into `IOCL/` for dated git history.
+- **Credential safety:** explicitly rejected token-in-page sync (GitHub PAT / Gist / GDrive) because the repo and page are **public** — any embedded token would be world-readable.
+- **Files:** `docs/tracker/index.html`.
+
 ### Session 67 -- 17 Sept 2026 (Tracker Published to GitHub Pages)
 - **Type:** Deployment, Brain Sync
 - **What happened:**

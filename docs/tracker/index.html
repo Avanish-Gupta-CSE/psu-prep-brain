@@ -80,8 +80,11 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
         <button class="btn" onclick="expandAll(true)">Expand all</button>
         <button class="btn" onclick="expandAll(false)">Collapse all</button>
         <button class="btn" onclick="resetDay()">Reset today</button>
-        <button class="btn primary" onclick="exportProgress()">Export JSON</button>
+        <button class="btn primary" onclick="exportProgress()">⬇ Export JSON</button>
+        <button class="btn primary" onclick="document.getElementById('importFile').click()">⬆ Import JSON</button>
+        <input type="file" id="importFile" accept=".json,application/json" style="display:none" onchange="importProgress(event)">
       </div>
+      <p style="font-size:11px;color:var(--muted);margin-top:6px">Sync between devices: <b>Export</b> on the device that's ahead → <b>Import</b> on the other. Import <b>merges</b> (never clears existing ticks), so it's safe to run both ways.</p>
       <h3 style="margin-top:14px">Daily budget</h3>
       <div class="kv">
         <div><b>Sleep</b> 3h</div><div><b>Gym</b> 1.5h</div>
@@ -117,7 +120,8 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
     <ul style="font-size:13px;color:var(--muted);padding-left:18px;display:grid;gap:4px">
       <li>Check tasks as you finish — progress + countdown update automatically and persist in this browser (localStorage).</li>
       <li>Continue from <b>DL 6.1.2</b> today (6.1.1 already done). Notes + PYQ first, concept videos at 2× for gaps only.</li>
-      <li>Export JSON daily and commit to git if you want history across devices.</li>
+      <li><b>Cross-device sync:</b> <b>Export JSON</b> on the device that's ahead → <b>Import JSON</b> on the other. Import <b>merges</b> and never deletes ticks, so it is safe both ways. Do it once at end of day.</li>
+      <li><b>Backup:</b> after Export, drop the JSON into <code>IOCL/</code> and commit — gives you dated progress history in git.</li>
       <li><b>Hosted live:</b> <a href="https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/">https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/</a> — push to <code>main</code> to publish.</li>
       <li><b>Local fallback:</b> open <code>docs/tracker/index.html</code> via <code>file://</code> or run <code>python3 -m http.server 8766 --directory docs/tracker</code>.</li>
       <li><b>Note:</b> checkboxes are stored per-browser in <code>localStorage</code> — the hosted and local copies keep <b>separate</b> progress. Use <b>Export JSON</b> to move progress between them.</li>
@@ -213,8 +217,32 @@ function resetDay(){
 }
 function exportProgress(){
   const s=load();
-  const blob=new Blob([JSON.stringify({exportedAt:new Date().toISOString(),state:s},null,2)],{type:'application/json'});
-  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='iocl-9day-progress.json'; a.click();
+  const blob=new Blob([JSON.stringify({exportedAt:new Date().toISOString(),key:LS_KEY,state:s},null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='iocl-progress-'+new Date().toISOString().slice(0,10)+'.json'; a.click();
+}
+// Merge-import: never deletes existing ticks, so it is safe to run in both directions.
+function importProgress(ev){
+  const f=ev.target.files&&ev.target.files[0];
+  if(!f) return;
+  const r=new FileReader();
+  r.onload=()=>{
+    try{
+      const parsed=JSON.parse(r.result);
+      const incoming=parsed.state||parsed;
+      if(!incoming||typeof incoming!=='object'||Array.isArray(incoming)) throw new Error('no state object found');
+      const cur=load();
+      const before=Object.keys(cur).filter(k=>cur[k]).length;
+      const merged=Object.assign({},cur,incoming);
+      save(merged);
+      render();
+      const after=Object.keys(merged).filter(k=>merged[k]).length;
+      alert('Import OK\nEntries in file: '+Object.keys(incoming).length+'\nTicked before: '+before+'\nTicked now:    '+after);
+    }catch(e){
+      alert('Import failed: '+e.message+'\n\nPick a file produced by the Export JSON button.');
+    }
+  };
+  r.readAsText(f);
+  ev.target.value='';
 }
 function tick(){
   const exam=new Date('2026-09-24T06:00:00+05:30').getTime();
