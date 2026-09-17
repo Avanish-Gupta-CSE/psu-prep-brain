@@ -15,6 +15,17 @@
 
 ## Session Log
 
+### Session 69 -- 17 Sept 2026 (HLL 62.5 Logged + Focus Crisis Protocol Built)
+- **Type:** Result Logging, Wellness/Focus Intervention, Brain Sync
+- **What happened:**
+  - **HLL Lifecare MT (Engg/CS-IT) CBT marks released: `62.5 / 100`** (scorecard 17 Sept; shortlist awaited). Pattern confirmed: **100 Qs — 50 General + 50 Domain, 90 min**; fractional score ⇒ 1/4 negative marking. 40 MT posts total, Engineering = 17 across 8 branches ⇒ very few IT/CS seats. Logged to `ExamTracker.md`, `MockTestLog.md` (row + trend −11 pts, low end of band).
+  - **Focus crisis acknowledged** — 16–17 Sept lost to phone/YouTube/compulsive-habit loop; near-zero study since returning 10 Sept; confidence dropping. **Diagnosis: access problem, not ability problem.**
+  - **Created `.brain/FOCUS-PROTOCOL.md`** — the loop diagram, 5 hard rules (phone out of room · SelfControl blocks · CleanBrowsing DNS filter · offline breaks · 6h floor), 3-block daily skeleton, 15-minute urge rule, shame reset, hourly check-in protocol.
+  - **`Motivation.md` updated** — Recovery Log row (16–17 Sept) + "Focus Reset — 17 Sept 2026" section.
+  - **Tracker `docs/tracker/index.html`** — "Today" card rewritten as tonight's salvage plan (19:45 setup → Universal Gates 17/17 → Ex-OR/Ex-NOR 27/27 → Logic Families 11/11).
+- **Topics covered:** HLL scorecard analysis, behavioural loop mechanics, environment design.
+- **Next goals:** Salvage night 17 Sept; from 18 Sept run the 3-block floor (06:30–09:30 / 10:00–13:00 / 19:00–22:30). DL 3.2 → 100% tonight.
+
 ### Session 68 -- 17 Sept 2026 (Sync Strategy Decided + Import Button Shipped)
 - **Type:** Architecture Decision, Tooling
 - **Decision:** **Manual Export/Import sync is the right call for the next 7 days — NOT a live DB.**

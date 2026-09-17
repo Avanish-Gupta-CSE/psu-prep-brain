@@ -110,6 +110,7 @@ You went from "I can't manage all these exams" to having a system that:
 | Jul 2026 | MSTC MT final scorecard — **WAITLISTED (53.00/100)** with **70% GD & 60% Interview**, plus skeptics mocking UCO selection | Proved Stage-3 conversion is already elite; the sole deficit was a few CBT technical marks. Channelled that exact lesson into CIL (147/200) and the HAL/IOCL technical sprint. |
 | Aug 2026 | STPI Scientist 'B' — **Not Selected** at 68.80/100 despite scoring **80/100 in the interview**, beaten by a single OBC-NCL seat | Recognised the constraint was vacancy arithmetic, not ability. Kept the pipeline wide: applied to IOCL, ISRO, CERT-In, CONCOR, SPMCIL rather than narrowing. |
 | 31 Aug 2026 | Left a ₹11 LPA private engineering job for a standardised officer pay scale | Verified the maths before committing: effective package is ~₹13.4-14.4 LPA once lease and employer NPS are counted. Not a sacrifice — a net gain. See `UCO-BANK-DECISION-AUDIT.md`. |
+| 16–17 Sept 2026 | **Focus collapse at home** — phone/YouTube/compulsive-habit loop burned both days, near-zero study output since returning 10 Sept, confidence dropping | Named the loop and built `.brain/FOCUS-PROTOCOL.md` — environment-first: phone out of room, SelfControl blocks, DNS filter, 3-block/6h floor, 15-min urge rule. Reframed correctly: **access problem, not ability problem.** Salvage night 17 Sept executed. |
 
 ## Weekly Reflection
 
@@ -125,3 +126,12 @@ _Fill this out every Sunday evening:_
 - Next week's priority: __
 - Motivation level (1-10): __
 ```
+
+## Focus Reset — 17 Sept 2026 (IOCL Final Week)
+
+- **Diagnosis:** the enemy is *access*, not ability. A phone in the room beats good intentions. A laptop with unfiltered YouTube guarantees the loop.
+- **Protocol:** `.brain/FOCUS-PROTOCOL.md` — 5 hard rules, 3-block floor (≈6h), 15-minute urge rule, shame reset.
+- **Reframe:** 16–17 Sept were salvage days, not lost days. **The only day that matters is the next one.**
+- **Floor rule:** never zero. A bad day still gets 6h. A great day gets 12h+.
+- **Confidence comes from evidence, and the evidence exists:** CIL 73.5% · HLL 62.5% · STPI interview 80/100 · UCO offer letter.
+- **Hours are not the goal — blocks are.** 3 protected blocks/day for 6 days = 108 protected hours. That is enough.

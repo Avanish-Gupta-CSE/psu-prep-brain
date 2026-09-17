@@ -69,14 +69,14 @@
 | Field | Details |
 | :--- | :--- |
 | **Advt No.** | **HLL/HR/020/2026** |
-| **OFFICIAL CBT DATE** | **23 August 2026 (Sunday, 10:00 AM - 12:00 PM)** 🔥 |
-| **Reporting / Gate** | Entry: 8:00 AM \| Gate Closure: 9:30 AM |
+| **OFFICIAL CBT DATE** | **23 August 2026 (Sunday, 10:00 AM - 12:00 PM)** — CBT DONE |
 | **Test Location** | **LUCKNOW** |
-| **Travel Status** | **✈️ FLIGHTS TO LUCKNOW BOOKED!** |
 | **Application No** | `117272` |
-| **Saved Admit Card** | `C:\Programs\Learning\Gov jobs\HLL\HLL _ Admit Card.pdf` |
-| **Status** | **ADMIT CARD DOWNLOADED & FLIGHTS BOOKED** 🟢 |
-| **Priority** | **HIGH TARGET** |
+| **Marks Released** | **🎯 62.5 / 100 (scorecard 17 Sept 2026)** — Order/marksheet PDF received; **shortlist still awaited** |
+| **Pattern (Confirmed)** | **100 Qs — 50 General + 50 Domain, 90 min.** Fractional score ⇒ 1/4 negative marking in play |
+| **Vacancies (Confirmed)** | 40 total MT posts; **Engineering group = 17 across 8 branches** (Chem/Mech/Mechatronics/Biomed/Instr/EEE/Civil/IT/CS) ⇒ very few IT/CS seats, OBC subset smaller still |
+| **Status** | **MARKS OUT (62.5%) — result/shortlist awaited.** Within historical band; low end vs CIL peak |
+| **Priority** | **MONITOR ONLY — zero study bandwidth. IOCL 24 Sept is the only score that matters this week** |
 
 ### 6. Coal India Limited (CIL) -- Management Trainee (Systems)
 | Field | Details |

@@ -44,12 +44,12 @@ performance data available and supersede any practice mock as evidence of readin
 | 15 Jul 2026 | Balmer Lawrie ET (IT) | Not published | -- | 100 Qs/90 min, 1/4 negative | Awaiting result |
 | 02 Aug 2026 | **IFFCO GET (CS) CBT 2** | 100/100 attempted | -- | 100 Qs in 56 min (server delay) | 70-80 high-confidence + 20-30 educated guesses. Awaiting result |
 | 19 Aug 2026 | ISP / SPMCIL Supervisor (IT) | Not published | -- | 150 Qs/120 min, no negative | Awaiting result |
-| 23 Aug 2026 | HLL Lifecare MT (Engg/CS-IT) | Not published | -- | 2-hour CBT, Lucknow | Awaiting result |
+| 23 Aug 2026 | **HLL Lifecare MT (Engg/CS-IT)** | **62.5 / 100** | **62.5%** | 100 Qs (50 Gen + 50 Domain), 90 min, 1/4 negative | **Marks released 17 Sept 2026** — shortlist awaited. 40 posts; IT/CS within 17 Engg seats |
 | 24 Aug 2026 | **Coal India MT (Systems)** | **147 / 200** | **73.5%** | CBT-only, no interview | **Best score on record.** Awaiting merit list |
 
 ### What This Record Proves
 
-- **Consistent 64-74% band across every CS-core CBT.** That is a stable, repeatable performance level, not variance.
+- **Consistent 62.5–73.5% band across every CS-core CBT.** That is a stable, repeatable performance level, not variance. HLL (62.5%) sits at the low end of the band; CIL (73.5%) at the peak.
 - **CIL 147/200 (73.5%) is the ceiling demonstrated so far** and came from the super-accelerated 30-day track -- evidence that focused sprints materially outperform diffuse study.
 - **Interview capability is elite**: STPI panel scored 80/100, UCO Bank panel converted to an offer. Interviews are a strength, not a risk.
 - **The failure mode is vacancy arithmetic, not scores.** STPI and NFL both had exactly 1 OBC-NCL seat. See `.brain/UCO-BANK-DECISION-AUDIT.md` §2.
@@ -65,6 +65,7 @@ _No standalone practice mocks logged. The live CBT record above is being used as
 | 30 May 2026 | STPI CBT | Mixed CS + Apt | 96/150 | 64.0% | Baseline |
 | 11 Jul 2026 | NFL CBT | Mixed CS + Apt | 99/150 | 66.0% | ↗ +2.0 pts |
 | 24 Aug 2026 | CIL CBT | Mixed CS + Apt | 147/200 | 73.5% | ↗ **+7.5 pts (peak)** |
+| 17 Sept 2026 | HLL CBT | Mixed (50 Gen + 50 Domain) | 62.5/100 | 62.5% | ↘ −11 pts (low end — heavy General half) |
 
 ## Monthly Analysis
 
