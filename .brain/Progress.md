@@ -9,8 +9,8 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 18 Sept 2026 -- 🎫 IOCL admit card received (exam IN BAREILLY, report 12:30 PM) + plan rebuilt 18–24 Sept (~60h) |
-| **Resume From** | `.brain/NextSteps.md` — 18 Sept = DL completion day (3.2 close → 3.8); exam 24 Sept in Bareilly; **study stops 09:30** on exam day. Tracker: v4 (7 days / 57 tasks). |
+| **Last Session** | 18 Sept 2026 15:48 -- DL 3.2 = 27/69 (39%); Universal Gates questions done 14/17; Ex-OR/Ex-NOR + Logic Families pending |
+| **Resume From** | `.brain/NextSteps.md` — 18 Sept evening: finish DL 3.2 (Ex-OR/XNOR → Logic Families) then 3.3→3.8 fast-track; **DL 100% by tonight**. Exam 24 Sept in Bareilly · report 12:30 PM · study stops 09:30. |
 | **Overall Mood** | All-in. 162h in 9 days. Will crack it by hook or crook. |
 
 ## Session Log

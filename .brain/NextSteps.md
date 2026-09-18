@@ -76,7 +76,7 @@ Standing rules arising from that audit:
 
 **Why replanned (18 Sept):** 16–17 Sept under-delivered. Final window = **18 → 23 Sept ≈ 6 days (~60h floor: 3 blocks ≈ 9.5h/day + stretch)**, then exam day. 288h video vs ~60h ⇒ **notes + PYQ first, concept videos @2x for high-weight only.**
 
-**Progress (last confirmed 17–18 Sept):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Evolution/NOT/OR/AND ✓ + Universal Gates videos done (questions in flight); Ex-OR/Ex-NOR + Logic Families pending.
+**Progress (18 Sept 3:48 PM):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** — Evolution/NOT/OR/AND 13/14 (93%) · **Universal Gates 14/17 (82%)** ✓ questions done · **Ex-OR/Ex-NOR 0/27 (36.8% weight) ← NEXT** · Logic Families & Hardware 0/11 (31.6%) · **DL 3.3–3.8 untouched** (130 vids: 3.3–3.4 Boolean expr/minimization · 3.5 Combinational · 3.6 Sequential · 3.7–3.8 Number Rep).
 
 **Daily rhythm:** Block A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30 · ★stretch 14:30–17:00. **Floor = 3 blocks — never zero.**
 
