@@ -25,7 +25,7 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 17 Sep 11:00 - 23 Sep 23:59 2026 | **IOCL Engineers/Officers (CS/IT)** | **REDISTRIBUTED ~120h:** completion 17–21 (DL finish → COA+Compiler → OS+DBMS → CN+Prog/DS → Algo+TOC) + revision & mocks 22–23; CBT 24 Sept | 🔥 **ACTIVE (sole focus from Bareilly home base)** |
+| **Phase 7** | 18 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **FINAL ~60h:** DL finish 18 → OS 19 → DBMS+CN 20 → CN+DS 21 → DS+Algo+COA+Mock-1 22 → TOC/Compiler/EngMaths+Mock-2 23; **CBT 24 Sept IN BAREILLY (report 12:30 PM, study stops 09:30)** | 🔥 **ACTIVE (sole focus from Bareilly home base)** |
 | **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
@@ -37,15 +37,17 @@
 
 ---
 
-## Phase 7: IOCL Crack Sprint — REDISTRIBUTED (ACTIVE 17 Sept 11:00 → 23 Sept 23:59, ~120h)
+## Phase 7: IOCL Final Sprint — 18 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
 
-**Daily budget:** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study/day**. Today (17 Sept) truncated to **11.5h** (11:00 start). Total window ≈ **120h** (was 162h to 24 Sept 06:00 — 16 Sept under-delivered).
+**Daily budget:** 3 blocks ≈ **9.5h/day** (A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30) + ★14:30–17:00 stretch. Window **18–23 Sept ≈ 60h floor** (was 120h plan — 17 Sept under-delivered). 288h video vs 60h ⇒ notes + PYQ first, videos @2x for high-weight only.
 
-**Progress snapshot (17 Sept 11:07):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Logic Gates & Hardware **~20%** (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%; Ex-OR/Ex-NOR 0/27; Logic Families 0/11).
+**🎫 Admit card (18 Sept):** Roll `1171000327` · **Report 12:30 PM, 24 Sept (Thu)** · ION Digital Zone IDZ Dohna, Nainital Road, Bareilly (home city). **3h buffer: study stops 09:30** on exam day.
 
-**Distribution:** 17 DL finish (3.2→3.8) · 18 COA (4.1–4.7) + Compiler (8.1–8.9) · 19 OS (9.1–9.10) + DBMS (10.1–10.13) · 20 CN (11.1–11.13) + Prog/DS (5.1–5.8) · 21 Prog/DS (5.9–5.14) + Algorithms (6.1–6.7) + TOC (7.1–7.10) · 22 Eng Maths (2.1–2.11) + SE/Cloud/OOP/Web delta + Mock-1 + Rev-1(a) · 23 Quant (1.1–1.13) + Reasoning (2.1–2.6) + English (3.1–3.19) + Rev-1(b) + Mock-2 + Mock-3 light → **STOP 23:59**.
+**Distribution:** 18 DL complete (3.2→3.8) · 19 OS (9.1–9.10) + Quant · 20 DBMS (10.1–10.13) + CN 11.1–11.4 + Reasoning · 21 CN complete (11.5–11.13, subnetting drills!) + DS 5.1–5.11 + English · 22 DS+Algo complete + COA numerics + Mock-1 · 23 TOC + Compiler + Eng Maths selective + Mock-2 + taper → sleep 23:00.
 
-**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — GitHub Pages (`main` → `/docs`, HTTPS enforced). Per-second countdown, `LS_KEY='iocl-9day-tracker-v3'`, budget 120h, 8 days / 70 tasks. Local fallback: `docs/tracker/index.html` + `python3 -m http.server 8766 --directory docs/tracker`. CBT 24 Sept (72s/Q).
+**Progress (last confirmed):** DL 3.1 **13/31 (42%)** · DL 3.2 Evolution/NOT/OR/AND ✓ + Universal Gates videos ✓ (questions in flight); Ex-OR/Ex-NOR + Logic Families pending.
+
+**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — `LS_KEY='iocl-9day-tracker-v4'`, 7 days / 57 tasks, countdown → **24 Sept 12:30 PM**. Local fallback: `python3 -m http.server 8766 --directory docs/tracker`.
 
 Detailed day-by-day roadmap lives in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md).
 Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).

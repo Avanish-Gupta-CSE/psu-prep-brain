@@ -147,11 +147,11 @@ These are immediate high-priority applications that Avanish must fill now:
 
 ### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS/IT)
 * **Advt No.**: `IOCL/CO-HR/RECTT/2026/01` (Dated 14.08.2026)
-* **Status**: **🔥 FORM FILLED & SUBMITTED ON 30 AUGUST 2026 — ACTIVE 9-DAY 18H/DAY (Completion 16–21 + Revision 22–23, DL 6.1.1 done)** 🟢
+* **Status**: **🎫 ADMIT CARD RECEIVED (18 Sept) — FINAL SPRINT 18–23 Sept (~60h) — EXAM 24 SEPT IN BAREILLY** 🟢
 * **Vacancies**: **22 Posts for CS/IT** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2)
 * **Pay Scale**: Grade ‘A’ (₹50,000 – ₹1,60,000, Annual CTC ~₹18.4 LPA).
-* **OFFICIAL CBT DATE**: **24 September 2026 (Wednesday)** 🔥
-* **Admit Card Release**: **15 September 2026**
+* **OFFICIAL CBT DATE**: **24 September 2026 (Thursday)** 🔥 — **IN BAREILLY: report 12:30 PM, gate closes 13:00** (ION Digital Zone IDZ Dohna, Nainital Road; Roll `1171000327`)
+* **Admit Card**: **RECEIVED 18 September 2026** ✅
 * **Selection Process**: CBT (100 Qs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview.
 * **Workspace Folder**: `IOCL/`
 * **Website**: `iocl.com`

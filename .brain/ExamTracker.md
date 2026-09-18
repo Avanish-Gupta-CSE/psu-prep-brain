@@ -108,12 +108,15 @@
 | Field | Details |
 | :--- | :--- |
 | **Advt No.** | **IOCL/CO-HR/RECTT/2026/01** (Dated 14.08.2026) |
-| **OFFICIAL CBT DATE** | **24 September 2026 (Wednesday)** 🔥 |
-| **Status** | **🔥 FORM FILLED & SUBMITTED (30 August 2026) — ACTIVE 9-DAY 18H/DAY (Completion 16–21 + Revision 22–23, DL 6.1.1 done)** 🟢 |
+| **OFFICIAL CBT DATE** | **24 September 2026 (Thursday)** 🔥 — **exam IN BAREILLY** (home city) |
+| **🎫 Admit Card** | **RECEIVED 18 Sept 2026** — Roll `1171000327` · Password `41090186` · Reg `839223297` · Venue Code `12015` |
+| **Venue** | **ION Digital Zone IDZ Dohna** — Shri Siddhi Vinayak Institute of Technology, 10 km milestone, Nainital Road, near Dohna Rly Stn, Bareilly UP 243202 |
+| **Timing** | **Reporting 12:30 PM · Gate closes 13:00** → exam ~13:30–15:30. **Study stops 09:30 (3h buffer)** |
+| **Status** | **🔥 FINAL SPRINT 18–23 Sept (~60h, 3 blocks/day) + Mock-1/2 — DL 3.1 42%, DL 3.2 partly done** 🟢 |
 | **Vacancies (CS/IT)** | **22 Posts** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2) |
 | **Pay Scale & CTC** | Grade ‘A’ (`₹50,000 – ₹1,60,000`), **Annual CTC: ~₹18.4 Lakhs** |
 | **Selection Format** | CBT (100 MCQs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview |
-| **Admit Card Release**| **15 September 2026** |
+| **Target** | **80+/100** (Sec A 60+, Sec B 20+). Gates 40%/40%/45% (OBC-NCL) |
 | **Folder** | `IOCL/` |
 | **Priority** | **TOP MAHARATNA TARGET** 🔥 |
 

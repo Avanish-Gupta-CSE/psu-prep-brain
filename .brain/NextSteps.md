@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 17, 2026 (11:07 — plan redistributed 17 Sept 11:00 → 23 Sept 23:59 ~120h; DL 3.1 done 42%, DL 3.2 in progress 20%)
+Last updated: September 18, 2026 (🎫 IOCL admit card received — exam IN BAREILLY 24 Sept 12:30 PM reporting; plan rebuilt 18–24 Sept ~60h)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -65,30 +65,38 @@ Standing rules arising from that audit:
 **HAL Design Trainee (CS) CBT 06 Sept (Bengaluru, App No D321947) — result 09 Sept: DID NOT MAKE THE CUT.** HAL track closed; interview 21–25 Sept clash (risk R1) is moot.
 **Canonical September plan: [`combined-HAL-then-IOCL-plan.md`](../CoalIndiaLimited-PSU/combined-HAL-then-IOCL-plan.md)** — IOCL sections only now.
 
-### 📅 IOCL Sprint — REDISTRIBUTED 17 Sept 11:00 → 23 Sept 23:59 (~120h)
+### 📅 IOCL Final Sprint — 18 → 24 Sept 2026 · EXAM IN BAREILLY 🎫
 
-**Why redistributed (17 Sept 11:07):** 16 Sept under-delivered — only DL 3.1 (13/31 = 42%) + DL 3.2 partial (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%). Window is now **13h today (17 Sept 11:00–23:59) + 6 × 18h = ~120h** to 23 Sept 23:59 (previously 162h to 24 Sept 06:00).
+**🎫 Admit card received 18 Sept 2026:**
+- **Roll `1171000327` · Password `41090186` · Reg `839223297` · Venue Code `12015`**
+- **Date: 24 Sept 2026 (Thu) · Reporting 12:30 PM · Gate closes 13:00** → exam ~13:30–15:30
+- **Venue: ION Digital Zone IDZ Dohna** — Shri Siddhi Vinayak Institute of Technology, 10 km milestone, Nainital Road, near Dohna Rly Stn, Bareilly UP 243202 (**home city — no travel**)
+- **3h buffer rule:** study HALTS **09:30** on exam day; 09:30–12:30 = shower/food/docs/travel/settle.
+- Carry: printed call letter + photo affixed & signed · original photo ID + photocopy · blue/black ball pen.
 
-**Daily budget:** 24h − 3h sleep − 1.5h gym − 1h misc = **18h study/day**. Today truncated to 11.5h (11:00 start).
+**Why replanned (18 Sept):** 16–17 Sept under-delivered. Final window = **18 → 23 Sept ≈ 6 days (~60h floor: 3 blocks ≈ 9.5h/day + stretch)**, then exam day. 288h video vs ~60h ⇒ **notes + PYQ first, concept videos @2x for high-weight only.**
 
-**Load (Confirmed):** 2,095 videos (~288h) = 1,801 Tech (193h 52m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. **120h vs 288h video ⇒ notes + PYQ first, concept videos at 2x for high-weight only.**
+**Progress (last confirmed 17–18 Sept):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Evolution/NOT/OR/AND ✓ + Universal Gates videos done (questions in flight); Ex-OR/Ex-NOR + Logic Families pending.
+
+**Daily rhythm:** Block A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30 · ★stretch 14:30–17:00. **Floor = 3 blocks — never zero.**
+
+**Load (Confirmed):** 2,095 videos (~288h) = 1,801 Tech (193h 52m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. **60h floor vs 288h video ⇒ notes + PYQ first, concept videos at 2x for high-weight only.**
 
 **Progress snapshot (17 Sept 11:07):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Logic Gates & Hardware **~20%** (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%; Ex-OR/Ex-NOR 0/27; Logic Families 0/11) · PYQ bank 1/15 attempted · PQ bank 8/40 attempted.
 
-**Phase A — Completion (17–21 Sept):**
-* **17 Sept (Thu, 11:00–23:59, 11.5h) — DL FINISH:** 3.2 Universal Gates → Ex-OR/Ex-NOR → Logic Families → module sweep → 3.3 Boolean Expression → 3.4 Boolean Minimization → 3.5 Combinational → 3.6 Sequential → 3.7 Number System + 3.8 Number Representation + Floating Point.
-* **18 Sept (Fri, 18h):** COA (4.1–4.7) + Compiler (8.1–8.9) — heavy numericals.
-* **19 Sept (Sat, 18h):** OS (9.1–9.10) + DBMS (10.1–10.13) — high-weight core.
-* **20 Sept (Sun, 18h):** CN (11.1–11.13) + Prog & DS (5.1–5.8).
-* **21 Sept (Mon, 18h):** Prog & DS (5.9–5.14) + Algorithms (6.1–6.7) + TOC (7.1–7.10).
+**Phase A — Completion (18–21 Sept):**
+* **18 Sept (Fri) — DL COMPLETE:** DL 3.2 close (Ex-OR/Ex-NOR → 27/27 · Logic Families → 11/11 · module sweep 15 PYQ + 40 PQ) → 3.3 Boolean Expression → 3.4 Minimization → 3.5 Combinational → 3.6 Sequential → 3.7 + 3.8 Number System/Rep + Floating Point → **DL 100% touched**.
+* **19 Sept (Sat) — OS COMPLETE:** 9.1–9.10 + FCFS/SJF/RR/SRTF numericals + Banker's + page-replacement drills + OS PYQ bank 60+ · Apt block 1 (Quant).
+* **20 Sept (Sun) — DBMS COMPLETE + CN start:** 10.1–10.13 + FD/normalization/SQL drills + DBMS PYQ 50+ · CN 11.1–11.4 (sliding window + CRC) · Apt block 2 (Reasoning).
+* **21 Sept (Mon) — CN COMPLETE + DS start:** CN 11.5–11.13 + **20 subnetting numericals (weak area)** + CN PYQ 60+ · DS 5.1–5.11 · Apt block 3 (English).
 
 **Phase B — Revision + Mocks (22–23 Sept):**
-* **22 Sept (Tue, 18h):** Eng Maths (2.1–2.11) + SE/Cloud/OOP/Web delta + **Mock-1** + Revision-1(a) DL/COA/Compiler + Mock analysis.
-* **23 Sept (Wed, 18h):** Quant (1.1–1.13) + Reasoning (2.1–2.6) + English (3.1–3.19) + Revision-1(b) OS/DBMS/CN/DS/Algo/TOC + **Mock-2 + Mock-3 light** + error-log triage + formula taper → **STOP 23:59**.
+* **22 Sept (Tue) — DS+Algo COMPLETE + COA + MOCK-1:** DS 5.12–5.14 + DS PYQ 60+ · Algo 6.1–6.7 (sorting/Greedy/DP/MST/SP) · COA 4.1–4.7 (cache + pipelining numericals) · **Mock-1 full 100Q / 120 min** + error-log analysis.
+* **23 Sept (Wed) — TOC + Compiler + Eng Maths + MOCK-2 + taper:** TOC 7.1–7.10 + 75 PYQ sweep · Compiler 8.1–8.9 + PQs · Eng Maths selective (Probability / Linear Algebra / P&C / Logic) · **Mock-2** · error-log triage + formula card · pack bag · sleep by 23:00.
 
-**24 Sept:** 🔥 **IOCL CBT** — target 80+/100 (Sec A 60+, Sec B 20+). Gates: 40%/40%/45% (OBC-NCL). Rest + travel only; no new study.
+**24 Sept (Thu):** 🔥 **IOCL CBT IN BAREILLY** — **study stops 09:30**, report **12:30 PM** at IDZ Dohna. Target **80+/100** (Sec A 60+, Sec B 20+). Gates: 40%/40%/45% (OBC-NCL). No new study — formula-card skim only.
 
-**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — GitHub Pages from `main` → `/docs` (status: built, HTTPS enforced, repo public). **Per-second countdown pill `Xd Xh Xm Xs to 24 Sept 06:00`** (IST, warn <24h, danger <6h, `CBT LIVE` at 0). `DAYS` redistributed 17–24 Sept (`LS_KEY='iocl-9day-tracker-v3'`), budget 120h (8 days / 70 tasks).
+**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — rebuilt 18 Sept: `DAYS` = **18–24 Sept** (`LS_KEY='iocl-9day-tracker-v4'`, 7 days / 57 tasks, budget **60h**). **Countdown now targets `24 Sept 12:30 PM` (reporting time)**; exam-day card = formula skim → 09:30 stop → docs check → travel → report 12:30 → CBT.
 - **Local fallback:** `docs/tracker/index.html` via `file://` or `python3 -m http.server 8766 --directory docs/tracker`.
 - ⚠️ **Progress is per-browser `localStorage`** — hosted and local copies track separately. Use **Export JSON** to move state; push to `main` to publish code changes.
 
@@ -99,7 +107,7 @@ Standing rules arising from that audit:
 | Date | Exam / PSU Target | Location | Status | Action / Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **06 Sept 2026 (Sunday)** | **HAL Design Trainee (CS)** | Bengaluru | **❌ CBT DONE — DID NOT MAKE CUT (result 09 Sept)** | Closed; carry lessons to IOCL |
-| **24 Sept 2026 (Wed)** | **IOCL Engineers/Officers (CS/IT)** | All India | **FORM FILLED ON 30.08.2026** 🟢 | **SOLE FOCUS — MAHARATNA PSU TARGET (100 MCQs, ₹18.4 LPA)** 🔥 |
+| **24 Sept 2026 (Thu) · report 12:30 PM · BAREILLY** | **IOCL Engineers/Officers (CS/IT)** | **Bareilly (IDZ Dohna)** | **🎫 ADMIT CARD IN HAND — Roll `1171000327`** 🟢 | **SOLE FOCUS — MAHARATNA PSU TARGET (100 MCQs, ₹18.4 LPA)** 🔥 |
 | **Late Sept / Oct 2026** | **RCFL MT (Information Tech)** | TBD | Applied (Advt: 16022026) | Navratna PSU (5 Posts) |
 | **Late Sept / Oct 2026** | **SPMCIL Assistant Manager (IT)** | TBD | Applied (Advt: 02/2026) | Mini-Ratna (E-1 Level, 120 Qs) |
 | **October / Nov 2026** | **ISRO ICRB Scientist/Engineer 'SC' (CS)** | 37 Cities | To Fill by 16 Sept 2026 | Group A Gazetted (Level 10, 80 Tech + 15 Apt) |

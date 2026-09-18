@@ -9,11 +9,23 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 17 Sept 2026 -- Tracker published to GitHub Pages (live URL) + plan redistribution logged |
-| **Resume From** | `.brain/NextSteps.md` — 17 Sept 11:00–12:00 DL Universal Gates NAND & NOR (finish 16 items); 12:00–13:00 DL Ex-OR/Ex-NOR; DL must finish tonight. Dashboard: https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/ |
+| **Last Session** | 18 Sept 2026 -- 🎫 IOCL admit card received (exam IN BAREILLY, report 12:30 PM) + plan rebuilt 18–24 Sept (~60h) |
+| **Resume From** | `.brain/NextSteps.md` — 18 Sept = DL completion day (3.2 close → 3.8); exam 24 Sept in Bareilly; **study stops 09:30** on exam day. Tracker: v4 (7 days / 57 tasks). |
 | **Overall Mood** | All-in. 162h in 9 days. Will crack it by hook or crook. |
 
 ## Session Log
+
+### Session 70 -- 18 Sept 2026 (🎫 IOCL Admit Card + Bareilly Replan 18–24 Sept)
+- **Type:** Exam Logistics, Replan, Tracker Rewrite, Brain Sync
+- **What happened:**
+  - **🎫 IOCL admit card received.** Roll `1171000327` · Password `41090186` · Reg `839223297` · Venue Code `12015`.
+    **CBT 24 Sept 2026 (Thu) — IN BAREILLY** (home city): **ION Digital Zone IDZ Dohna**, Shri Siddhi Vinayak Institute of Technology, 10 km milestone, Nainital Road, near Dohna Railway Station. **Reporting 12:30 PM · Gate closes 13:00** ⇒ exam ~13:30–15:30.
+  - **Plan rebuilt 18 → 24 Sept (~60h floor).** 3 blocks/day (A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30) + ★stretch 14:30–17:00. Old 120h plan superseded (17 Sept under-delivered). 288h video vs 60h ⇒ notes + PYQ first.
+  - **3-hour buffer rule locked:** study HALTS **09:30** on exam day; 09:30–12:30 = get ready → documents → travel → settle. Pack list: call letter (photo affixed & signed) + photo ID original + photocopy + pen.
+  - **Tracker rewritten:** `docs/tracker/index.html` — `DAYS` = **18–24 Sept** (7 days / 57 tasks), `LS_KEY='iocl-9day-tracker-v4'`, budget **60h**, countdown retargeted to **24 Sept 12:30 PM (reporting)**, exam-day card = 6 steps (skim → 09:30 stop → docs → travel → report → CBT). Validated via node (DAYS parses, 57 tasks).
+  - **Brain synced:** `NextSteps.md` (admit-card block + phases + tracker line), `StudyPlan.md` (Phase 7 + overview row), `ExamTracker.md` (IOCL entry), `Progress.md`.
+- **Topics covered:** Exam logistics, replan math, countdown retarget.
+- **Next goals:** 18 Sept finish DL (3.2→3.8) · OS 19 · DBMS+CN 20 · CN 21 · DS+Algo+COA+Mock-1 22 · TOC/Compiler/EngMaths+Mock-2 23 · **exam 24 Sept — report 12:30 PM, study stops 09:30**.
 
 ### Session 69 -- 17 Sept 2026 (HLL 62.5 Logged + Focus Crisis Protocol Built)
 - **Type:** Result Logging, Wellness/Focus Intervention, Brain Sync
