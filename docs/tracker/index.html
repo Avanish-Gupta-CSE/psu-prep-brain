@@ -93,7 +93,27 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
       <p style="font-size:11px;color:var(--muted);margin-top:8px"><b>FINAL window 19 (tonight) → 23 Sept (~40h: tonight 2.5h + 4 days × 9.5h/day + exam morning 1.5h).</b> Exam 24 Sept IN BAREILLY — report 12:30 PM, gate closes 13:00. Study stops <b>09:30</b> (3h buffer). CBT target 50-65/100. Gates 40%/40%/45% OBC-NCL. <b>Strategy: Notes → PYQs → Wrong-answer solutions. No full video watching.</b></p>
     </div>
     <div class="card">
-      <h2>Strategy — Notes + PYQs ONLY (NO full video watching)</h2>
+      <h2>🚀 NOW — Saturday 19 Sept 10:31 PM · Block C (ends 10:30 PM → extended to 12:30 AM)</h2>
+      <p style="font-size:13px;color:var(--muted)"><b>Current time:</b> <span style="color:var(--accent);font-weight:700" id="currentTime">10:31 PM</span> · <b>Block C remaining:</b> <span style="color:var(--warn);font-weight:700" id="blockRemaining">~1h 59m</span> to hit DL close target · <b>Hours to exam:</b> <span style="color:var(--accent);font-weight:700" id="hoursToExam">~110h</span></p>
+      <div style="background:var(--bg);border:1px solid var(--accent);border-radius:10px;padding:12px;margin-top:10px">
+        <p style="font-size:13px;margin:0 0 6px"><b style="color:var(--accent)">▶ START NOW (next 2 minutes):</b></p>
+        <ol style="font-size:13px;color:var(--text);padding-left:20px;line-height:1.7">
+          <li><b>Phone → another room.</b> Charge it. Airplane mode. Out of sight.</li>
+          <li>Open <a href="https://www.knowledgegate.ai/learn/IOCL-ENGINEERS-OFFICERS-GRADE-A-PAPER-2/">KG IOCL Paper-2 → Digital Logic → Notes (557)</a> — login already active.</li>
+          <li>Click into <b>DL 3.2 Logic Gates & Hardware</b> → scroll to Ex-OR/Ex-NOR (27 PYQs) → start with <b>Notes</b> tab if not already done.</li>
+        </ol>
+      </div>
+      <h3 style="margin-top:14px">Tonight's Block C · 10:30 PM → 12:30 AM (2h target)</h3>
+      <table style="font-size:12px;width:100%;border-collapse:collapse;margin-top:4px">
+        <tr style="border-bottom:1px solid var(--border)"><td style="padding:4px 8px;color:var(--muted);width:120px">10:30–10:45</td><td><b>Setup & DL 3.2 Ex-OR/Ex-NOR notes</b> — truth tables, Ex-OR as parity, Ex-NOR as equality</td></tr>
+        <tr style="border-bottom:1px solid var(--border)"><td style="padding:4px 8px;color:var(--muted)">10:45–11:15</td><td><b>DL 3.2 Logic Families notes</b> — TTL vs CMOS, propagation delay, fan-out, noise margin</td></tr>
+        <tr style="border-bottom:1px solid var(--border)"><td style="padding:4px 8px;color:var(--muted)">11:15–11:45</td><td><b>DL 3.3-3.4 notes</b> — Boolean expressions, K-map rules (2/3/4 var), Quine-McCluskey if quick</td></tr>
+        <tr style="border-bottom:1px solid var(--border)"><td style="padding:4px 8px;color:var(--muted)">11:45–12:15</td><td><b>DL 3.5-3.6 notes</b> — MUX/DEMUX/decoder/encoder + flip-flop table (SR/JK/D/T), counters</td></tr>
+        <tr><td style="padding:4px 8px;color:var(--muted)">12:15–12:30</td><td><b>DL 3.7-3.8 notes</b> — number system, BCD, signed (2's comp), IEEE 754 quick</td></tr>
+      </table>
+      <p style="font-size:12px;color:var(--accent);margin-top:10px"><b>🛏 HARD STOP at 12:30 AM — sleep ≥ 6h → 06:30 AM Day 1 Block A</b></p>
+
+      <h3 style="margin-top:14px">Strategy — Notes + PYQs ONLY (NO full video watching)</h3>
       <p style="font-size:13px;color:var(--muted)"><b>40h budget × strategic targeting = maximize score.</b><br>
       <b>IOCL Paper-2:</b> 3,202 PYQs (68h solutions) + 557 Notes → read notes → attempt PYQs → watch solution videos for WRONG answers only.<br>
       <b>CIL Course:</b> 5,180 PQs + 1,397 Notes → use for extra practice + gap-fill notes.<br>
@@ -304,6 +324,57 @@ function tick(){
   el.className='badge '+(diff<6*3600000?'danger':diff<24*3600000?'warn':'warn');
   el.style.fontVariantNumeric='tabular-nums';
   document.getElementById('todayBadge').textContent=new Date().toLocaleDateString('en-IN',{weekday:'short',day:'2-digit',month:'short',year:'numeric'});
+  // === Live block tracker ===
+  const ct=document.getElementById('currentTime');
+  const br=document.getElementById('blockRemaining');
+  const he=document.getElementById('hoursToExam');
+  if(ct){
+    const t=new Date();
+    const h12=t.getHours()%12||12, mn=String(t.getMinutes()).padStart(2,'0'), ap=t.getHours()>=12?'PM':'AM';
+    ct.textContent=`${h12}:${mn} ${ap}`;
+  }
+  if(br){
+    // Tonight Block C: extended to 12:30 AM (00:30 next day)
+    const t=new Date();
+    const h=t.getHours(), mn=t.getMinutes();
+    const nowMin=h*60+mn;
+    let label='', remMin=0;
+    if(nowMin<6*60+30){ // before 06:30 = sleep
+      label='🌙 Sleep';
+      remMin=(6*60+30)-nowMin;
+    } else if(nowMin<9*60+30){ // block A
+      label='☀️ Block A';
+      remMin=(9*60+30)-nowMin;
+    } else if(nowMin<13){ // block B
+      label='☀️ Block B';
+      remMin=(13*60)-nowMin;
+    } else if(nowMin<14*60+30){ // lunch
+      label='🍽️ Lunch';
+      remMin=(14*60+30)-nowMin;
+    } else if(nowMin<17){ // stretch
+      label='⭐ Stretch';
+      remMin=(17*60)-nowMin;
+    } else if(nowMin<19){ // break
+      label='🚶 Break';
+      remMin=(19*60)-nowMin;
+    } else if(nowMin<22*60+30){ // block C
+      label='🌙 Block C';
+      remMin=(22*60+30)-nowMin;
+    } else { // night extension
+      label='🌙 Night extension (DL sweep)';
+      // hard stop 00:30 next day
+      const stopMin = 24*60+30;
+      remMin = stopMin - nowMin;
+      if(remMin<0) remMin=0;
+    }
+    if(remMin<0) remMin=0;
+    const rh=Math.floor(remMin/60), rm=remMin%60;
+    br.textContent=`${label} · ${rh}h ${rm}m left`;
+    br.style.color = remMin<15 ? 'var(--danger)' : remMin<60 ? 'var(--warn)' : 'var(--accent)';
+  }
+  if(he){
+    he.textContent = `~${Math.round(diff/36000)/10}h`;
+  }
 }
 render(); tick(); setInterval(tick,1000);
 </script>
