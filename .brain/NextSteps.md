@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 18, 2026 (🎫 IOCL admit card received — exam IN BAREILLY 24 Sept 12:30 PM reporting; plan rebuilt 18–24 Sept ~60h)
+Last updated: September 19, 2026 10:00 PM (🔥 FINAL 5-day battle plan — Notes+PYQ ONLY strategy, all 5 KG courses owned, ~40h budget)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -74,29 +74,32 @@ Standing rules arising from that audit:
 - **3h buffer rule:** study HALTS **09:30** on exam day; 09:30–12:30 = shower/food/docs/travel/settle.
 - Carry: printed call letter + photo affixed & signed · original photo ID + photocopy · blue/black ball pen.
 
-**Why replanned (18 Sept):** 16–17 Sept under-delivered. Final window = **18 → 23 Sept ≈ 6 days (~60h floor: 3 blocks ≈ 9.5h/day + stretch)**, then exam day. 288h video vs ~60h ⇒ **notes + PYQ first, concept videos @2x for high-weight only.**
+**Why replanned (19 Sept 10 PM):** 18–19 Sept under-delivered again (DL 3.2 still at 39%, nothing else started). **FINAL replan.** All 5 KG courses now owned (IOCL Paper-2 + Paper-1 + Paper-2 Test Series + Paper-1 Test Series + CIL MT). **Strategy shift: STOP watching full videos. Notes → PYQs → Wrong-answer solution videos ONLY.** CIL = superset (5,180 PQs, 1,397 notes); IOCL Paper-2 = best PYQ bank (3,202 PYQs from GATE+ISRO+CIL+BEL). Full course inventory: `IOCL/KG-COURSE-INVENTORY-19SEPT.md`.
 
-**Progress (18 Sept 3:48 PM):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** — Evolution/NOT/OR/AND 13/14 (93%) · **Universal Gates 14/17 (82%)** ✓ questions done · **Ex-OR/Ex-NOR 0/27 (36.8% weight) ← NEXT** · Logic Families & Hardware 0/11 (31.6%) · **DL 3.3–3.8 untouched** (130 vids: 3.3–3.4 Boolean expr/minimization · 3.5 Combinational · 3.6 Sequential · 3.7–3.8 Number Rep).
+**Progress (19 Sept 10:00 PM):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** — Universal Gates done (14/17) · **Ex-OR/Ex-NOR 0/27, Logic Families 0/11 ← TONIGHT** · **DL 3.3–3.8 untouched** · **ALL OTHER 9 TECH SUBJECTS = ZERO** · **APTITUDE = ZERO** · **MOCKS = ZERO**.
+
+**Budget:** Tonight ~2.5h + 4 full days (20-23 Sept) × 9.5h/day + exam morning 1.5h = **~42h realistic**. Strategy: maximize score by PYQ pattern-matching, not full coverage.
 
 **Daily rhythm:** Block A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30 · ★stretch 14:30–17:00. **Floor = 3 blocks — never zero.**
 
-**Load (Confirmed):** 2,095 videos (~288h) = 1,801 Tech (193h 52m) + 294 Apt (93h 56m); 3,841 PYQs + 3,039 PQs + 848 notes + 16 tests. **60h floor vs 288h video ⇒ notes + PYQ first, concept videos at 2x for high-weight only.**
+**Detailed plan:** `IOCL/FINAL-5DAY-BATTLE-PLAN.md` — hour-by-hour breakdown for each day.
 
-**Progress snapshot (17 Sept 11:07):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · DL 3.2 Logic Gates & Hardware **~20%** (Evolution/NOT/OR/AND 13/14 = 93%; Universal Gates 1/17 = 6%; Ex-OR/Ex-NOR 0/27; Logic Families 0/11) · PYQ bank 1/15 attempted · PQ bank 8/40 attempted.
+**TONIGHT — 19 Sept (close DL notes sweep):**
+* 10:00–10:45 DL 3.2 close (Ex-OR/XNOR + Logic Families) — notes + PYQs only
+* 10:45–12:30 DL 3.3–3.8 quick notes sweep (K-map, combinational, sequential, number system)
+* 12:30 SLEEP (6h minimum — non-negotiable)
 
-**Phase A — Completion (18–21 Sept):**
-* **18 Sept (Fri) — DL COMPLETE:** DL 3.2 close (Ex-OR/Ex-NOR → 27/27 · Logic Families → 11/11 · module sweep 15 PYQ + 40 PQ) → 3.3 Boolean Expression → 3.4 Minimization → 3.5 Combinational → 3.6 Sequential → 3.7 + 3.8 Number System/Rep + Floating Point → **DL 100% touched**.
-* **19 Sept (Sat) — OS COMPLETE:** 9.1–9.10 + FCFS/SJF/RR/SRTF numericals + Banker's + page-replacement drills + OS PYQ bank 60+ · Apt block 1 (Quant).
-* **20 Sept (Sun) — DBMS COMPLETE + CN start:** 10.1–10.13 + FD/normalization/SQL drills + DBMS PYQ 50+ · CN 11.1–11.4 (sliding window + CRC) · Apt block 2 (Reasoning).
-* **21 Sept (Mon) — CN COMPLETE + DS start:** CN 11.5–11.13 + **20 subnetting numericals (weak area)** + CN PYQ 60+ · DS 5.1–5.11 · Apt block 3 (English).
+**Phase A — High-Weight Cores (20–21 Sept):**
+* **20 Sept (Sat) — OS + DBMS:** Notes + numericals + PYQ sprints (60 OS PYQs + 50 DBMS PYQs) + Quant formulas + 30 PQs → ~15 Qs secured
+* **21 Sept (Sun) — CN + DS + Apt:** CN notes + 15 subnetting drills + 50 PYQs · DS notes + 50 PYQs · Reasoning 30 PQs + English 30 PQs → ~13 more Qs
 
-**Phase B — Revision + Mocks (22–23 Sept):**
-* **22 Sept (Tue) — DS+Algo COMPLETE + COA + MOCK-1:** DS 5.12–5.14 + DS PYQ 60+ · Algo 6.1–6.7 (sorting/Greedy/DP/MST/SP) · COA 4.1–4.7 (cache + pipelining numericals) · **Mock-1 full 100Q / 120 min** + error-log analysis.
-* **23 Sept (Wed) — TOC + Compiler + Eng Maths + MOCK-2 + taper:** TOC 7.1–7.10 + 75 PYQ sweep · Compiler 8.1–8.9 + PQs · Eng Maths selective (Probability / Linear Algebra / P&C / Logic) · **Mock-2** · error-log triage + formula card · pack bag · sleep by 23:00.
+**Phase B — Secondary + Mocks (22–23 Sept):**
+* **22 Sept (Mon) — COA + Algo + Eng Maths cherry-pick + MOCK-1:** COA cache+pipeline numericals + 30 PYQs · Algo notes · Eng Maths 40 PYQs (Probability, P&C, Linear Algebra, Logic) · Full 100Q mock simulation + error log
+* **23 Sept (Tue) — TOC/Compiler PYQ-only + DL PYQs + REVISION + MOCK-2:** TOC 40 PYQs · Compiler 25 PYQs · DL 40 PYQs · Full revision pass (OS → DBMS → CN → DS → COA → Algo → Apt) · Mock-2 + error log · Pack bag · SLEEP 23:00
 
-**24 Sept (Thu):** 🔥 **IOCL CBT IN BAREILLY** — **study stops 09:30**, report **12:30 PM** at IDZ Dohna. Target **80+/100** (Sec A 60+, Sec B 20+). Gates: 40%/40%/45% (OBC-NCL). No new study — formula-card skim only.
+**24 Sept (Wed):** 🔥 **IOCL CBT IN BAREILLY** — formula-card skim 08:00–09:30, **study stops 09:30**, report **12:30 PM** at IDZ Dohna. **Realistic target 50-65/100** (passes OBC-NCL gates: 30/75 tech, 10/25 apt, 45/100 overall). No new study — formula-card skim only.
 
-**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — rebuilt 18 Sept: `DAYS` = **18–24 Sept** (`LS_KEY='iocl-9day-tracker-v4'`, 7 days / 57 tasks, budget **60h**). **Countdown now targets `24 Sept 12:30 PM` (reporting time)**; exam-day card = formula skim → 09:30 stop → docs check → travel → report 12:30 → CBT.
+**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — rebuilt 19 Sept: `DAYS` = **19–24 Sept** (`LS_KEY='iocl-final-tracker-v5'`, 6 days / 50 tasks, budget **~42h**). **Countdown targets `24 Sept 12:30 PM` (reporting time)**.
 - **Local fallback:** `docs/tracker/index.html` via `file://` or `python3 -m http.server 8766 --directory docs/tracker`.
 - ⚠️ **Progress is per-browser `localStorage`** — hosted and local copies track separately. Use **Export JSON** to move state; push to `main` to publish code changes.
 

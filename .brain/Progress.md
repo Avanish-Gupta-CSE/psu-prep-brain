@@ -9,11 +9,23 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 18 Sept 2026 15:48 -- DL 3.2 = 27/69 (39%); Universal Gates questions done 14/17; Ex-OR/Ex-NOR + Logic Families pending |
-| **Resume From** | `.brain/NextSteps.md` — 18 Sept evening: finish DL 3.2 (Ex-OR/XNOR → Logic Families) then 3.3→3.8 fast-track; **DL 100% by tonight**. Exam 24 Sept in Bareilly · report 12:30 PM · study stops 09:30. |
-| **Overall Mood** | All-in. 162h in 9 days. Will crack it by hook or crook. |
+| **Last Session** | 19 Sept 2026 22:00 -- FINAL 5-day battle plan created: all 5 KG courses scraped, Notes+PYQ strategy, ~42h budget, tracker v5, brain synced |
+| **Resume From** | `.brain/NextSteps.md` — 19 Sept night: close DL notes (3.2→3.8) then sleep; 20 Sept OS+DBMS; 21 CN+DS+Apt; 22 COA+Algo+EngMaths+Mock-1; 23 TOC/Compiler PYQ+revision+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
+| **Overall Mood** | Realistic and strategic. UCO floor secured. Maximize score with notes+PYQ, not full coverage. |
 
 ## Session Log
+
+### Session 72 -- 19 Sept 2026 (🔥 FINAL 5-Day Battle Plan — Notes+PYQ Strategy)
+- **Type:** Strategic Replan, Course Scraping, Tracker Rewrite, Brain Sync
+- **What happened:**
+  - **All 5 KG courses re-scraped (19 Sept ~10 PM):** IOCL Paper-2 (1,802 vids / 3,202 PYQs / 23 tests / 557 notes) · IOCL Paper-1 (294 vids / 691 PYQs / 15 tests) · IOCL Paper-2 Test Series (23 tests) · IOCL Paper-1 Test Series (15 tests) · CIL MT superset (2,940 vids / 5,180 PQs / 1,397 notes).
+  - **Key finding:** IOCL Paper-2 PYQ weightage — Eng Maths 15.8%, Prog+DS 14.2%, OS 11.3%, COA 9.6%, CN 9.3%, DBMS 9.2%, TOC 9.0%, DL 8.8%, Algo 7.3%, Compiler 5.5%.
+  - **Strategy shift:** Notes → PYQs → Wrong-answer videos ONLY. No full video watching.
+  - **FINAL Battle Plan:** `IOCL/FINAL-5DAY-BATTLE-PLAN.md` — hour-by-hour, ROI-ranked, expected score model 50-65/100.
+  - **Tracker v5:** `LS_KEY='iocl-final-tracker-v5'`, 6 days (19–24 Sept) / 50 tasks.
+  - **Course inventory:** `IOCL/KG-COURSE-INVENTORY-19SEPT.md`.
+- **Honest assessment:** DL ~15% done, everything else zero. ~42h left. Target 50-65 (realistic). UCO floor secured.
+- **Next goals:** Tonight DL notes sweep → 20 OS+DBMS → 21 CN+DS+Apt → 22 COA+Algo+EngMaths+Mock-1 → 23 revision+Mock-2 → 24 CBT.
 
 ### Session 70 -- 18 Sept 2026 (🎫 IOCL Admit Card + Bareilly Replan 18–24 Sept)
 - **Type:** Exam Logistics, Replan, Tracker Rewrite, Brain Sync

@@ -25,7 +25,7 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 18 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **FINAL ~60h:** DL finish 18 → OS 19 → DBMS+CN 20 → CN+DS 21 → DS+Algo+COA+Mock-1 22 → TOC/Compiler/EngMaths+Mock-2 23; **CBT 24 Sept IN BAREILLY (report 12:30 PM, study stops 09:30)** | 🔥 **ACTIVE (sole focus from Bareilly home base)** |
+| **Phase 7** | 19 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **FINAL ~42h:** Tonight DL sweep → 20 OS+DBMS → 21 CN+DS+Apt → 22 COA+Algo+EngMaths+Mock-1 → 23 TOC/Compiler PYQ+revision+Mock-2; **CBT 24 Sept IN BAREILLY (report 12:30 PM, study stops 09:30)** · **Notes+PYQ ONLY strategy** | 🔥 **ACTIVE (FINAL BATTLE)** |
 | **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
@@ -37,17 +37,24 @@
 
 ---
 
-## Phase 7: IOCL Final Sprint — 18 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
+## Phase 7: IOCL FINAL Battle — 19 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
 
-**Daily budget:** 3 blocks ≈ **9.5h/day** (A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30) + ★14:30–17:00 stretch. Window **18–23 Sept ≈ 60h floor** (was 120h plan — 17 Sept under-delivered). 288h video vs 60h ⇒ notes + PYQ first, videos @2x for high-weight only.
+**Daily budget:** 3 blocks ≈ **9.5h/day** (A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30) + ★14:30–17:00 stretch. Window **tonight + 20–23 Sept ≈ 42h**. **Strategy: Notes → PYQs → Wrong-answer solution videos ONLY. No full video courses.**
 
-**🎫 Admit card (18 Sept):** Roll `1171000327` · **Report 12:30 PM, 24 Sept (Thu)** · ION Digital Zone IDZ Dohna, Nainital Road, Bareilly (home city). **3h buffer: study stops 09:30** on exam day.
+**🎫 Admit card (18 Sept):** Roll `1171000327` · **Report 12:30 PM, 24 Sept (Wed)** · ION Digital Zone IDZ Dohna, Nainital Road, Bareilly (home city). **3h buffer: study stops 09:30** on exam day.
 
-**Distribution:** 18 DL complete (3.2→3.8) · 19 OS (9.1–9.10) + Quant · 20 DBMS (10.1–10.13) + CN 11.1–11.4 + Reasoning · 21 CN complete (11.5–11.13, subnetting drills!) + DS 5.1–5.11 + English · 22 DS+Algo complete + COA numerics + Mock-1 · 23 TOC + Compiler + Eng Maths selective + Mock-2 + taper → sleep 23:00.
+**All 5 KG courses OWNED:**
+- IOCL Paper-2: 1,802 vids / 3,202 PYQs / 557 notes / 23 tests
+- IOCL Paper-1: 294 vids / 691 PYQs / 291 notes / 15 tests
+- CIL MT (superset): 2,940 vids / 5,180 PQs / 1,397 notes / 19 tests
 
-**Progress (last confirmed):** DL 3.1 **13/31 (42%)** · DL 3.2 Evolution/NOT/OR/AND ✓ + Universal Gates videos ✓ (questions in flight); Ex-OR/Ex-NOR + Logic Families pending.
+**Distribution (PYQ-weight ranked):** Tonight DL close (notes) · 20 OS+DBMS (high-weight, ~15 Qs) · 21 CN+DS+Apt (Reasoning+English) · 22 COA+Algo+EngMaths(cherry-pick)+Mock-1 · 23 TOC/Compiler(PYQ-only)+DL PYQ+revision+Mock-2+taper → sleep 23:00.
 
-**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — `LS_KEY='iocl-9day-tracker-v4'`, 7 days / 57 tasks, countdown → **24 Sept 12:30 PM**. Local fallback: `python3 -m http.server 8766 --directory docs/tracker`.
+**Progress (19 Sept 10 PM):** DL 3.1 **13/31 (42%)** · DL 3.2 **27/69 (39%)**. ALL other subjects = ZERO. Target: **50-65/100** (realistic, passes OBC-NCL gates).
+
+**Detailed plan:** `IOCL/FINAL-5DAY-BATTLE-PLAN.md` — hour-by-hour breakdown.
+
+**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — `LS_KEY='iocl-final-tracker-v5'`, 6 days / 50 tasks, countdown → **24 Sept 12:30 PM**. Local fallback: `python3 -m http.server 8766 --directory docs/tracker`.
 
 Detailed day-by-day roadmap lives in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md).
 Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
