@@ -77,7 +77,7 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
       <div class="stats">
         <div class="stat"><b id="overallPct">0%</b><span>Overall</span></div>
         <div class="stat"><b id="doneCount">0 / 0</b><span>Tasks done</span></div>
-        <div class="stat"><b id="hoursLeft">60h</b><span>Budget left</span></div>
+        <div class="stat"><b id="hoursLeft">42h</b><span>Budget left</span></div>
       </div>
       <div class="controls">
         <button class="btn" onclick="expandAll(true)">Expand all</button>
@@ -271,7 +271,7 @@ function renderStats(){
   document.getElementById('overallBar').style.width=pct+'%';
   document.getElementById('overallPct').textContent=pct+'%';
   document.getElementById('doneCount').textContent=`${done} / ${total}`;
-  const hoursLeft=Math.max(0,60 - Math.round(done/total*60));
+  const hoursLeft=Math.max(0,42 - Math.round(done/total*42));
   document.getElementById('hoursLeft').textContent=hoursLeft+'h';
 }
 function expandAll(open){document.querySelectorAll('.day').forEach(d=>d.classList.toggle('open',open))}
