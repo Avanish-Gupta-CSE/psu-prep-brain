@@ -112,7 +112,7 @@
 | **🎫 Admit Card** | **RECEIVED 18 Sept 2026** — Roll `1171000327` · Password `41090186` · Reg `839223297` · Venue Code `12015` |
 | **Venue** | **ION Digital Zone IDZ Dohna** — Shri Siddhi Vinayak Institute of Technology, 10 km milestone, Nainital Road, near Dohna Rly Stn, Bareilly UP 243202 |
 | **Timing** | **Reporting 12:30 PM · Gate closes 13:00** → exam ~13:30–15:30. **Study stops 09:30 (3h buffer)** |
-| **Status** | **🔥 V6 FINAL 4-DAY BATTLE (20–24 Sept, ~55h): today DL close + OS start → Mon OS+DBMS → Tue CN+DS+Mock-1 → Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2 → CBT. Target 50-65/100** 🟢 |
+| **Status** | **🔥 V7 ALTERNATION MODE (W↔I cycles + Monk Mode 15.5h/day): Sun DL✅+OS start · Mon OS✅+CN+DBMS · Tue CN✅+DBMS✅+COA+Mock-1 · Wed DS+Algo+TOC+Compiler+EngM+COA wrap+Mock-2 → CBT 24 Sept. Target 50-65/100** 🟢 |
 | **Vacancies (CS/IT)** | **22 Posts** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2) |
 | **Pay Scale & CTC** | Grade ‘A’ (`₹50,000 – ₹1,60,000`), **Annual CTC: ~₹18.4 Lakhs** |
 | **Selection Format** | CBT (100 MCQs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview |

@@ -15,6 +15,15 @@
 
 ## Session Log
 
+### Session 74b/74c -- 20 Sept 2026 12:40 PM (🧩 W↔I Cycle Format Implemented — user feedback)
+- **Type:** Structure Fix, Tracker Rebuild, Brain Sync
+- **What happened:**
+  - **User feedback:** day plans still read as subject-wise continuous blocks — "did we not implement grouping?"
+  - **Fixed:** every day rebuilt as **numbered cycles** (`C1: W-topic → I-topic → Apt → Chunk`): d20 = 7 cycles (DL↔OS) · d21 = 8 (OS wrap + CN↔DBMS) · d22 = 8 (CN✅+DBMS✅+COA+Mock-1) · d23 = 3 pair-sessions A/B/C (COA↔DS · TOC↔Algo · Compiler↔EngM) + Mock-2.
+  - **PROGRESS-TRACKER.md §2c** = cycle tables per day; tracker tasks = cycles (tickable); Unit SOP added to §3.
+  - **Clock fixes:** monk-mode block clock (5 blocks), hours-to-exam math (was 10x too big).
+- **Next goals:** Start at C1 (DL 3.2 close → OS 9.1 → Quant 20m).
+
 ### Session 74 -- 20 Sept 2026 12:10 PM (🔁 V7 ALTERNATION MODE — W↔I Pairs + Monk Mode)
 - **Type:** Strategy Finalization via clarifying questionnaire, PROGRESS-TRACKER.md v2, Tracker/Site Sync
 - **What happened:**

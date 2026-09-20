@@ -1,6 +1,7 @@
 # IOCL FINAL 4-DAY BATTLE PLAN — 20 Sept 11:30 AM → 24 Sept 09:30 AM
 
 > **Created:** 20 Sept 2026, 11:30 AM (supersedes FINAL-5DAY-BATTLE-PLAN.md — window collapsed)
+> 🔄 **Day queues superseded 20 Sept 12:40 PM (V7):** operational cycle plan now lives in [`PROGRESS-TRACKER.md`](PROGRESS-TRACKER.md) §2c (W↔I cycles C1…Cn) + tracker site. This file keeps the hour-by-hour detail + CBT strategy.
 > **Exam:** 24 Sept 2026 · Report 12:30 PM, gate closes 13:00 · IDZ Dohna, Bareilly · Roll `1171000327`
 > **Position:** DL 3.1 (42%) + DL 3.2 (39%) done. Everything else = ZERO.
 > **Window:** 20 Sept 11:30 AM → 24 Sept 09:30 AM = **~95h real → ~55h study**

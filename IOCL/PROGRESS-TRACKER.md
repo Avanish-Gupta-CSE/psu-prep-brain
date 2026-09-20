@@ -173,6 +173,38 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 **Golden loop per topic:** Read notes (20–30 min) → **solve 10–20 PYQs immediately** → wrong ones: watch solution video only → jot to one-pager → next topic.
 
+### 🔁 UNIT SOP — how to START & FINISH any topic (the exact recipe)
+
+**Example: "3.2 close — Ex-OR/XNOR + Logic Families"**
+
+| Step | Time | Do exactly this |
+|:-----|:-----|:----------------|
+| **0. Prep** | 1 min | KG → Digital Logic → 3.2 open · fresh one-pager on Tab · phone away · **timer 30 min** |
+| **1. Notes read** | 10-12 min | Read the **Notes (slides)** for the subtopic. Tab = keywords only, NO sentences. Concept not clicking in ~3 min? Note it, move on (no rabbit-holes). |
+| **2. PYQ hit** | 10-12 min | Scroll to the topic's **PYQ bank** → attempt **5-8 questions**. **60-sec rule:** can't eliminate 2 options in 60 sec? guess-eliminate or skip — never stare. |
+| **3. Fix loop** | 5-8 min | Wrong/skipped Qs → **watch the solution video for THAT Q only** (2x). Same concept wrong twice? → concept video for that narrow bit (2x, ≤15 min total). |
+| **4. One-pager** | 3-5 min | Write: **3 rules/formulas + 2 traps + 1 mnemonic.** This page = your Day-4 revision set. |
+| **5. Close** | 30 sec | Tick the cycle in the tracker. Unresolved doubts → ONE scratch line on the one-pager. → next topic (other side of the cycle). |
+
+**"FINISHED" means (do not exceed):**
+- ✅ You can state *what it is / where it's used / its one key rule* WITHOUT opening notes.
+- ✅ You attempted ≥5 PYQs; ≥60% correct OR the misses were silly (not knowledge gaps).
+- ✅ **Time-box: 30 min (25–35 allowed). Past 35 → mark & MOVE.** Catch it later in the subject sprint / chunk / mock analysis.
+
+**Video permission rule:** Notes first → PYQs second → video ONLY if both failed. 2x always. Video-needing topics get extra PYQ reps in the sprint.
+
+**Subject-finish rule (e.g., "DL ✅"):** after the last topic → **PYQ sweep: 20 mixed Qs (25 min, timed) → review wrong → tick subject ✅.**
+
+**Sample one-pager (the actual Ex-OR/XNOR + Logic Families page):**
+```
+XOR = 1 when inputs DIFFER (odd # of 1s = parity circuit)
+XNOR = 1 when inputs SAME (= equality detector)
+XOR with 1 → INVERTS · XOR with 0 → PASSES
+XNOR = NOT(XOR) · 2-input: 0⊕0=0, 0⊕1=1, 1⊕0=1, 1⊕1=0
+Logic families: TTL = BJT, 5V, robust, power-hungry vs CMOS = MOSFET, low power, high noise margin
+Trap: fan-out / speed / power trade off — propagation delay ↑ with load
+```
+
 ---
 
 ## 4️⃣ QUESTION LADDER (where mocks & PYQs slot in)
