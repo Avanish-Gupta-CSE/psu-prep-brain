@@ -141,7 +141,7 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
   </div>
 
   <div class="card" style="margin-top:14px">
-    <h2>FINAL PLAN 20–24 Sept — 4 days · 55h · Check off as you go (saved locally) · v6</h2>
+    <h2>FINAL PLAN — ALTERNATION MODE (W↔I) · day queue: IOCL/PROGRESS-TRACKER.md · tick here</h2>
     <div id="days"></div>
   </div>
 
@@ -171,7 +171,7 @@ const DAYS=[
     {t:'DL PYQ sweep — 20 quick PYQs (cover 3.1–3.8)',k:'tech'},
     {t:'Close — Export JSON + sleep by 12:30 AM',k:'mock'}
   ]},
-  {id:'d21',date:'MON 21 Sept',title:'Day 1 — OS COMPLETE + DBMS COMPLETE + QUANT',hours:'06:30 AM → 12:30 AM (~13.5h)',tasks:[
+  {id:'d21',date:'MON 21 Sept',title:'Day 1 — OS ✅ + CN START + DBMS (part) + QUANT',hours:'06:00 AM → 01:00 AM (~15.5h)',tasks:[
     {t:'OS part 3 — Memory (paging/segmentation) + Virtual memory (FIFO/LRU/Optimal) + 10 page-replacement numericals',k:'tech'},
     {t:'OS part 4 — Disk scheduling (FCFS/SSTF/SCAN/C-SCAN) + File systems quick notes',k:'tech'},
     {t:'OS PYQ sprint 1 — 30 PYQs',k:'tech'},
@@ -184,31 +184,28 @@ const DAYS=[
     {t:'APTITUDE Quant — formula sheet (%, ratio, avg, TSD, time-work, SI/CI) + 40 PQs',k:'apt'},
     {t:'Close — Export JSON + sleep by 12:30 AM',k:'mock'}
   ]},
-  {id:'d22',date:'TUE 22 Sept',title:'Day 2 — CN COMPLETE + DS + MOCK-1 + REASONING',hours:'06:30 AM → 12:30 AM (~13h)',tasks:[
-    {t:'CN 1 — OSI/TCP-IP + Data Link (framing, CRC, sliding window, GBN, SR) + 10 numericals',k:'tech'},
-    {t:'CN 2 — IPv4 addressing + SUBNETTING 15 drills (WEAK AREA — non-negotiable)',k:'tech'},
-    {t:'CN 3 — Routing (DV/LS/RIP/OSPF/BGP) + Transport (TCP/UDP, handshake, congestion)',k:'tech'},
-    {t:'CN 4 — App layer (DNS/HTTP/FTP/SMTP) + Security (RSA/TLS) + CN PYQs 30',k:'tech'},
-    {t:'DS 1 — Arrays/Stack/Queue/Linked List — operations + complexity + 10 drills',k:'tech'},
-    {t:'DS 2 — Trees: BST ops + AVL rotations + heaps + traversals + 10 drills',k:'tech'},
-    {t:'DS 3 — Graphs (BFS/DFS) + Hashing + C pointers quick',k:'tech'},
-    {t:'MOCK-1 — Full 100Q / 120 min (IOCL Test Series)',k:'mock'},
-    {t:'Mock-1 analysis — error log: concept gap vs silly vs time pressure',k:'mock'},
-    {t:'APTITUDE Reasoning — series, coding, syllogism, blood relations + 30 PQs',k:'apt'},
-    {t:'Close — Export JSON + sleep by 12:30 AM',k:'mock'}
+  {id:'d22',date:'TUE 22 Sept',title:'Day 2 — CN ✅ + DBMS ✅ + COA start + MOCK-1',hours:'06:00 AM → 01:00 AM (~15.5h)',tasks:[
+    {t:'CN 11.8–11.13 — Subnetting 15 drills + routing + transport + app + security',k:'tech'},
+    {t:'CN PYQ sprint 40Q → CN COMPLETE',k:'tech'},
+    {t:'DBMS 10.7–10.12 — Indexing + Relational Algebra/Calculus + SQL drills + transactions + concurrency',k:'tech'},
+    {t:'DBMS PYQ sprint 40Q → DBMS COMPLETE',k:'tech'},
+    {t:'COA 4.1–4.3 — Floating point + cache numericals + I/O',k:'tech'},
+    {t:'MOCK-1 — Full 100Q / 120 min (18:30)',k:'mock'},
+    {t:'Mock-1 analysis — error log (20:30–21:15)',k:'mock'},
+    {t:'APTITUDE English — 20 min rotation slot',k:'apt'},
+    {t:'Chunk tests ×2 — 10Q each (PYQs/mock)',k:'mock'},
+    {t:'One-pagers + Export JSON + sleep by 01:00',k:'mock'}
   ]},
-  {id:'d23',date:'WED 23 Sept',title:'Day 3 — COA + ALGO + TOC + COMPILER + ENG MATHS + MOCK-2',hours:'06:30 AM → 12:00 AM (~13.5h)',tasks:[
-    {t:'COA 1 — Number rep (IEEE 754) + Cache memory + 10 cache numericals',k:'tech'},
-    {t:'COA 2 — Pipelining 5 numericals + I/O + COA PYQs 30',k:'tech'},
-    {t:'Algo 1 — Complexity + Master theorem + Sorting (all 9) notes + drills',k:'tech'},
-    {t:'Algo 2 — Greedy + DP + MST (Prim/Kruskal) + SP (Dijkstra) + Algo PYQs 25',k:'tech'},
-    {t:'TOC 1 — DFA/NFA + RE→DFA + Grammar classification + 20 PYQs',k:'tech'},
-    {t:'TOC 2 — Moore/Mealy + PDA basics (skip TM deep) + 20 PYQs',k:'tech'},
-    {t:'Compiler — PYQ-FIRST: parsing (LL/LR) + first/follow + SDT — 25 PYQs',k:'tech'},
-    {t:'Eng Maths cherry-pick — Probability + P&C + Linear Algebra + Logic + 30 PYQs',k:'tech'},
-    {t:'MOCK-2 — Full 100Q / 120 min (different mock)',k:'mock'},
-    {t:'Mock-2 quick analysis + pack bag (call letter + photo + ID + pen) + alarms',k:'mock'},
-    {t:'Close — Export JSON + sleep by 12:30 AM (exam tomorrow)',k:'mock'}
+  {id:'d23',date:'WED 23 Sept',title:'Day 3 — DS + ALGO + TOC + COMPILER + ENG MATHS + COA wrap + MOCK-2',hours:'06:00 AM → 00:00 (~15.5h)',tasks:[
+    {t:'DS 5.7–5.14 — Array/Stack/Queue/LL/Tree/Graph/Hashing + C-basics skim → DS PYQ 30Q',k:'tech'},
+    {t:'COA wrap 4.4–4.6 — Pipeline numericals + instruction formats + control unit + 25 PYQs',k:'tech'},
+    {t:'Algo 6.1–6.7 — Complexity, sorting, greedy, MST/SP (DP = pattern-read) + 25 PYQs',k:'tech'},
+    {t:'TOC 7.1–7.5 — DFA/NFA/RE/Grammar fast + 25 PYQs (skip TM/PDA deep)',k:'tech'},
+    {t:'Compiler 8.1–8.5 PYQ-FIRST — 25 PYQs, learn patterns (no videos)',k:'tech'},
+    {t:'Eng Maths — Probability + P&C deep; Logic + Linear Algebra recall + 25 PYQs',k:'tech'},
+    {t:'MOCK-2 — Full 100Q / 120 min (21:30)',k:'mock'},
+    {t:'Mock-2 analysis + pack bag (call letter + photo + ID + pen) + alarm',k:'mock'},
+    {t:'SLEEP BY 00:15 — exam tomorrow (6.5h)',k:'mock'}
   ]},
   {id:'d24',date:'THU 24 Sept — EXAM DAY 🔥',title:'CBT — REPORT 12:30 PM · IDZ Dohna',hours:'study ends 09:30',tasks:[
     {t:'07:00–09:30 — FORMULA CARD SKIM ONLY (no new topics, no questions)',k:'tech'},

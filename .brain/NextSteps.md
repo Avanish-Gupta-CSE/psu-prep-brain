@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 20, 2026 11:30 AM (🔥 V6 4-DAY battle plan — window 20 Sept 11:30 AM → 24 Sept 09:30 AM = ~55h, Notes+PYQ strategy, tracker v6)
+Last updated: September 20, 2026 12:10 PM (🔥 V7 ALTERNATION MODE — W↔I pairs locked, Monk Mode 15.5h/day, day queue in IOCL/PROGRESS-TRACKER.md; window 20 Sept 12:00 → 24 Sept 09:30 = ~58h)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -76,7 +76,7 @@ Standing rules arising from that audit:
 
 **Why replanned again (20 Sept 11:30 AM):** 19 Sept night + 20 Sept morning lost again. **V6 FINAL plan.** Window: **20 Sept 11:30 AM → 24 Sept 09:30 AM = ~95h real → ~55h study** (today ~11h · Mon ~13.5h · Tue ~13h · Wed ~13.5h · exam morning 2.5h skim). Strategy unchanged: **Notes → PYQs → wrong-answer solution videos ONLY.** CIL re-scraped 20 Sept: 2,940 vids / 1,235 PYQs / 5,188 PQs / 1,397 notes. Full plan: `IOCL/FINAL-4DAY-BATTLE-PLAN.md`.
 
-**Progress (20 Sept 11:30 AM):** DL 3.1 **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** — Ex-OR/Ex-NOR 0/27 + Logic Families 0/11 pending · **DL 3.3–3.8 untouched** · **ALL OTHER 9 TECH SUBJECTS = ZERO** · **APTITUDE = ZERO** · **MOCKS = ZERO**.
+**Progress (20 Sept 12:10 PM):** DL 3.1 **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** · all else ZERO. **W/I locked (Session 74):** W = CN · COA · DL · TOC · Compiler | I = OS · DBMS · DS · Algo · Eng Maths. Aptitude woven into cycles. **Pairs:** P1 DL↔OS (today→Mon AM) · P2 CN↔DBMS (Mon→Tue) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed). **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk (every 2nd cycle). **Mocks:** Mock-1 Tue 18:30 · Mock-2 Wed 21:30. **Monk Mode:** 15.5h/day grid (06:00→01:00), 5h sleep + power nap. **Day queue file: `IOCL/PROGRESS-TRACKER.md` (v2 — the file to open daily).**
 
 **V6 Phase Plan (super-detailed hour-by-hour in the battle plan file):**
 * **Sun 20 Sept (11:30 AM → 12:30 AM) — DL CLOSE + OS START:** DL 3.2 close (Ex-OR/XNOR + Logic Families) → DL 3.3–3.8 notes → DL PYQ sweep 20 → OS: process/scheduling (+8 numericals) → OS: sync/deadlock/Banker's (+5 numericals).

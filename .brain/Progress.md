@@ -9,11 +9,27 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 20 Sept 2026 11:30 -- V6 4-DAY battle plan: CIL re-scraped, ~55h window mapped hour-by-hour, tracker v6, target 50-65/100 |
+| **Last Session** | 20 Sept 2026 12:10 -- V7 ALTERNATION MODE: W↔I pairs locked (user-marked), Monk Mode 15.5h/day grid, cycle = W→I→Apt→Chunk, PROGRESS-TRACKER.md live |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 74 -- 20 Sept 2026 12:10 PM (🔁 V7 ALTERNATION MODE — W↔I Pairs + Monk Mode)
+- **Type:** Strategy Finalization via clarifying questionnaire, PROGRESS-TRACKER.md v2, Tracker/Site Sync
+- **What happened:**
+  - **User answered 7 clarifying questions** → strategy locked:
+    - **W (weak):** Computer Networks · COA · Digital Logic · TOC · Compiler Design
+    - **I (interesting/strong):** OS · DBMS · DS · Algo · Engineering Mathematics
+    - **Aptitude:** woven INTO alternation cycles (not extra time): Quant → Reasoning → English rotation, 20m/cycle
+    - **Cycle (user's design):** W-topic complete (notes→5-8 PYQs) → I-topic complete → Apt 20m → [every 2nd cycle] 10-Q Chunk Test (12 min from PYQs/mocks)
+    - **Capacity:** user offered 20h/day; tutor capped at **15.5h/day + 5h sleep + 20-min nap** (max EFFECTIVE load; sleep = consolidation tool)
+    - **Study method:** Mac Notes-tab → solve immediately; Tab = one-pagers only (no lecture transcription); printer = cheat sheets only
+  - **Pairs locked:** P1 DL↔OS (Sun→Mon AM) · P2 CN↔DBMS (Mon→Tue) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed)
+  - **Mock system:** chunks from Day 1 (10Q every 2 cycles); **Mock-1 Tue 18:30; Mock-2 Wed 21:30**
+  - **Triage locked:** DS 5.1-5.6, TOC 7.6-7.10, Compiler 8.6-8.8, EngM 2.1-2.5/2.8/2.11 = skim/PYQ-only. Depth pays in OS/DBMS/CN/DS.
+  - **Created/updated:** `IOCL/PROGRESS-TRACKER.md` (v2, the file user opens for day queue), tracker site d21-d23 rebuilt, memory note saved (user study prefs).
+- **Next goals:** TODAY 12:00 → 01:00: DL 3.2 close → DL complete → OS 9.1-9.6; Quant 20m; 2 chunk tests.
 
 ### Session 73 -- 20 Sept 2026 11:30 AM (🔥 V6 4-DAY Battle Plan — 55h Window Locked)
 - **Type:** Strategic Replan, Course Re-scrape, Tracker v6, Brain Sync
