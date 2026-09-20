@@ -81,34 +81,77 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 ---
 
-## 2️⃣c DAY QUEUES (complete in order; alternate W ↔ I within each)
+## 2️⃣c DAY QUEUES — AS CYCLES (W → I → Apt → Chunk) — follow IN ORDER
 
-### Sun 20 (now → 01:00) — P1: DL ↔ OS
-- **DL → COMPLETE:** close 3.2 (Ex-OR/XNOR + Logic Families) → 3.3 → 3.4 → 3.5 → 3.6 → 3.7 → 3.8 → DL PYQ 20Q sweep
-- **OS:** 9.1 → 9.2 → 9.3 (scheduling + numericals) → 9.4 → 9.5 → 9.6 (deadlock + Banker's)
-- Apt: **Quant 20m** · Chunks ×2
+**Cycle ≈ 60–75 min** = W-topic (~30m: notes → 5-8 PYQs) + I-topic (~30m) + micro-slot (Apt 20m / Chunk 10Q). Past 35 min on a topic → mark it & move; it gets fixed in the sprint or mock analysis.
 
-### Mon 21 — OS wrap + P2 (CN ↔ DBMS)
-- **OS:** 9.7 → 9.8 (page-replacement numericals) → 9.9 → 9.10 → **OS PYQ sprint 40Q → ✅**
-- **CN:** 11.1 → 11.2 → 11.3 → 11.4 → 11.5 → 11.6 → 11.7
-- **DBMS:** 10.1 → 10.2 → 10.3 → 10.4 → 10.5 → 10.6
-- Apt: **Reasoning 20m** · Chunks ×3
+### ☀️ Sun 20 — P1: DL ↔ OS · 7 cycles
 
-### Tue 22 — CN ✅ + DBMS ✅ + P3 start + MOCK-1
-- **CN:** 11.8 (**15 subnetting drills**) → 11.9 → 11.10 → 11.11 → 11.12 → 11.13 → **CN PYQ 40Q → ✅**
-- **DBMS:** 10.7 → 10.8 → 10.9 (SQL drills) → 10.11 → 10.12 → **DBMS PYQ 40Q → ✅**
-- **COA (P3 start):** 4.1 → 4.2 (cache numericals) → 4.3
-- **18:30 MOCK-1** (100Q/120m) → analysis 20:30–21:15
-- Apt: **English 20m** · Chunks ×2
+| # | W-side (Digital Logic) | I-side (Operating Systems) | Micro |
+|:--|:-----------------------|:---------------------------|:------|
+| C1 | 3.2 close — Ex-OR/XNOR + Logic Families | 9.1 Intro | Quant 20m |
+| C2 | 3.3 Boolean Expression | 9.2 Process Mgmt | **Chunk #1** |
+| C3 | 3.4 Minimization / K-map | 9.3 CPU Scheduling (+8 numericals) | Quant 20m |
+| C4 | 3.5 Combinational | 9.4 Synchronization | **Chunk #2** |
+| C5 | 3.6 Sequential | 9.5 Threads | Quant 20m |
+| C6 | 3.7 Number System | 9.6 Deadlock + Banker's (5 numericals) | **Chunk #3** |
+| C7 | 3.8 Number Rep + DL PYQ 20Q → **DL ✅** | — | one-pagers · sleep 01:00 |
 
-### Wed 23 — DS + COA ✅ + Algo + TOC + Compiler + EngM + MOCK-2
-- **DS:** 5.1–5.6 one fast C-basics skim (30m) → 5.7 → 5.8 → 5.9 → 5.10 → 5.11 → 5.12 → 5.13 → 5.14 → **DS PYQ 30Q**
-- **COA wrap:** 4.4 (pipeline numericals) → 4.5 → 4.6 → COA PYQ 25Q → **COA ✅**
-- **Algo:** 6.1 → 6.2 → 6.3 → 6.4 → 6.6 → 6.7 (6.5 DP = pattern-read only) → Algo PYQ 25Q
-- **TOC:** 7.1 → 7.2 → 7.3 → 7.4 → 7.5 (fast) → TOC PYQ 25Q (7.9/7.10 = PYQ-encounter only) → **TOC ✅**
-- **Compiler:** PYQ-FIRST 8.1 → 8.5 (25 PYQs; read the solutions; no videos) → **Compiler ✅**
-- **EngM:** 2.10 Probability → 2.9 P&C (deep) → 2.6 Logic → 2.7 Linear Algebra (recall) → EngM PYQ 25Q → **EngM ✅**
-- **21:30 MOCK-2** → analysis → pack bag → **sleep by 00:15**
+### Mon 21 — OS wrap + P2: CN ↔ DBMS · 8 cycles
+
+| # | W-side (Computer Networks) | I-side (OS → DBMS) | Micro |
+|:--|:---------------------------|:-------------------|:------|
+| C1 | CN 11.1 Intro | OS 9.7 Memory (paging) | Reasoning 20m |
+| C2 | CN 11.2 Access Control | OS 9.8 Virtual Memory (+10 page-replacement numericals) | **Chunk #1** |
+| C3 | CN 11.3 Flow Control | OS 9.9 Disk Scheduling | Reasoning 20m |
+| C4 | CN 11.4 Error Control / CRC | OS 9.10 File Mgmt | **Chunk #2** |
+| C5 | CN 11.5 Framing | **OS PYQ 40Q → OS ✅** | Reasoning 20m |
+| C6 | CN 11.6 Ethernet | DBMS 10.1 Basics | **Chunk #3** |
+| C7 | CN 11.7 IPv4 & protocols | DBMS 10.2 ER Diagram | Reasoning 20m |
+| C8 | DBMS 10.3 Rel/FD → DBMS 10.4 Keys | — | **Chunk #4** · sleep 01:00 |
+
+### Tue 22 — CN ✅ + DBMS ✅ + P3 start + MOCK-1 · 8 cycles
+
+| # | W-side (Computer Networks) | I-side (DBMS) | Micro |
+|:--|:---------------------------|:--------------|:------|
+| C1 | CN 11.8 Subnetting — **15 drills** | DBMS 10.5 Normalization (1NF→3NF) | English 20m |
+| C2 | CN 11.9 Routing | DBMS 10.6 BCNF + Decomposition | **Chunk #1** |
+| C3 | CN 11.10 Transport | DBMS 10.7 Indexing | English 20m |
+| C4 | CN 11.11 Congestion/UDP | DBMS 10.8 Relational Algebra | **Chunk #2** |
+| C5 | CN 11.12 App layer | DBMS 10.9 SQL drills | English 20m |
+| C6 | CN 11.13 Hardware | DBMS 10.11 Transactions | **Chunk #3** |
+| C7 | **CN PYQ 40Q → CN ✅** | DBMS 10.12 Concurrency + **DBMS PYQ 40Q → DBMS ✅** | — |
+| C8 | COA 4.1 → 4.2 (cache numericals) → 4.3 | — | **MOCK-1 18:30** → analysis · sleep 01:00 |
+
+### Wed 23 — FINALS: 3 pair-sessions + MOCK-2
+
+**Session A — P3: COA ↔ DS**
+
+| # | W-side (COA) | I-side (Data Structures) | Micro |
+|:--|:-------------|:-------------------------|:------|
+| A1 | COA 4.4 Pipeline (+5 numericals) | DS 5.1–5.6 C-basics skim | **Chunk #1** |
+| A2 | COA 4.5 Instruction Formats | DS 5.7+5.8 Intro / Array | English 20m |
+| A3 | COA 4.6 Control Unit | DS 5.9+5.10 Stack / Queue | **Chunk #2** |
+| A4 | **COA PYQ 25Q → COA ✅** | DS 5.11 Linked List + 5.12 Tree | English 20m |
+| A5 | — | DS 5.13 Graphs + 5.14 Hashing + **DS PYQ 30Q → DS ✅** | **Chunk #3** |
+
+**Session B — P4: TOC ↔ Algo**
+
+| # | W-side (TOC) | I-side (Algorithms) | Micro |
+|:--|:-------------|:--------------------|:------|
+| B1 | TOC 7.1+7.2 DFA | Algo 6.1+6.2 Analysis / Complexity | English 20m |
+| B2 | TOC 7.3 NFA | Algo 6.3 Sorting | **Chunk #4** |
+| B3 | TOC 7.4 RE + 7.5 Grammar | Algo 6.4 Greedy | English 20m |
+| B4 | **TOC PYQ 25Q → TOC ✅** | Algo 6.6 MST + 6.7 SP + **Algo PYQ 25Q → Algo ✅** | — |
+
+**Session C — P5: Compiler ↔ EngM**
+
+| # | W-side (Compiler) | I-side (Eng Maths) | Micro |
+|:--|:------------------|:-------------------|:------|
+| C1 | Compiler 8.1–8.5 PYQ-FIRST (25 Qs) | EngM 2.10 Probability | **Chunk #5** |
+| C2 | — | EngM 2.9 P&C + 2.6 Logic + 2.7 Linear Algebra + **PYQ 25Q → EngM ✅** | — |
+
+**Evening:** **MOCK-2 21:30–23:30** → analysis → pack bag (call letter + photo + ID + pen) → **sleep by 00:15**
 
 ### Thu 24 — EXAM DAY
 07:00–09:30 formula/one-pager skim → **09:30 STOP** → docs 10:15 → leave 10:45 → **report 12:30 PM**

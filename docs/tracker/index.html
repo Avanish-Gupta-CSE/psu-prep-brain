@@ -63,7 +63,7 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
 <header>
   <h1>🔥 IOCL <span>Crack</span> — 20→24 Sept 2026 · <span>Bareilly</span> · V6</h1>
   <div class="badges">
-    <span class="badge live">● LIVE — 55h / 4 days · Notes+PYQ</span>
+    <span class="badge live">● LIVE — W↔I CYCLES · Monk Mode</span>
     <span class="badge">🎫 Admit ✓ · Roll 1171000327</span>
     <span class="badge warn" id="countdown">—</span>
     <span class="badge" id="todayBadge">—</span>
@@ -158,53 +158,55 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
     </ul>
   </div>
 </div>
-<footer>Rebuilt 20 Sept 2026 11:30 AM · V6 4-DAY plan · Exam 24 Sept @ Bareilly (report 12:30 PM) · UCO floor secured · <a href="https://github.com/Avanish-Gupta-CSE/psu-prep-brain">psu-prep-brain</a></footer>
+<footer>Rebuilt 20 Sept 2026 12:30 PM · V7 · W↔I CYCLE mode · Exam 24 Sept @ Bareilly (report 12:30 PM) · UCO floor secured · <a href="https://github.com/Avanish-Gupta-CSE/psu-prep-brain">psu-prep-brain</a></footer>
 <script>
 const DAYS=[
-  {id:'d20',date:'SUN 20 Sept (today)',title:'Day 0 — DL CLOSE + OS START',hours:'11:30 AM → 12:30 AM (~11h)',tasks:[
-    {t:'DL 3.2 CLOSE — Ex-OR/Ex-NOR notes (27) + Logic Families notes (11) + attempt PQs',k:'tech'},
-    {t:'DL 3.3–3.4 — Boolean expressions + K-map rules (2/3/4-var) notes + 15 PQs',k:'tech'},
-    {t:'DL 3.5–3.6 — Combinational (MUX/decoder/adder) + Sequential (flip-flops/counters) notes + 15 PQs',k:'tech'},
-    {t:'DL 3.7–3.8 — Number systems + representation + IEEE 754 notes',k:'tech'},
-    {t:'OS part 1 — Process mgmt + CPU scheduling (FCFS/SJF/SRTF/RR) + 8 numericals',k:'tech'},
-    {t:'OS part 2 — Synchronization + Deadlock + Banker algorithm 5 numericals',k:'tech'},
-    {t:'DL PYQ sweep — 20 quick PYQs (cover 3.1–3.8)',k:'tech'},
-    {t:'Close — Export JSON + sleep by 12:30 AM',k:'mock'}
+  {id:'d20',date:'SUN 20 Sept (today)',title:'P1: DL ↔ OS — 7 CYCLES (W→I→Apt→Chunk)',hours:'12:00 PM → 01:00 AM',tasks:[
+    {t:'C1: DL 3.2 close (Ex-OR/XNOR + Logic Families) → OS 9.1 Intro → Quant 20m',k:'tech'},
+    {t:'C2: DL 3.3 Boolean Expression → OS 9.2 Process Mgmt → Chunk #1 (10Q)',k:'tech'},
+    {t:'C3: DL 3.4 Minimization / K-map → OS 9.3 CPU Scheduling (+8 numericals) → Quant 20m',k:'tech'},
+    {t:'C4: DL 3.5 Combinational → OS 9.4 Synchronization → Chunk #2 (10Q)',k:'tech'},
+    {t:'C5: DL 3.6 Sequential → OS 9.5 Threads → Quant 20m',k:'tech'},
+    {t:"C6: DL 3.7 Number System → OS 9.6 Deadlock + Banker's (5 numericals) → Chunk #3 (10Q)",k:'tech'},
+    {t:'C7: DL 3.8 Number Rep → DL PYQ 20Q sweep → DL ✅',k:'tech'},
+    {t:'Close — one-pagers + Export JSON + sleep 01:00 (5h core)',k:'mock'}
   ]},
-  {id:'d21',date:'MON 21 Sept',title:'Day 1 — OS ✅ + CN START + DBMS (part) + QUANT',hours:'06:00 AM → 01:00 AM (~15.5h)',tasks:[
-    {t:'OS part 3 — Memory (paging/segmentation) + Virtual memory (FIFO/LRU/Optimal) + 10 page-replacement numericals',k:'tech'},
-    {t:'OS part 4 — Disk scheduling (FCFS/SSTF/SCAN/C-SCAN) + File systems quick notes',k:'tech'},
-    {t:'OS PYQ sprint 1 — 30 PYQs',k:'tech'},
-    {t:'DBMS 1 — ER + Relational + FD + Keys notes + 5 FD closure drills',k:'tech'},
-    {t:'DBMS 2 — Normalization 1NF→BCNF notes + 8 decomposition drills',k:'tech'},
-    {t:'DBMS 3 — SQL (JOINs/nested/GROUP BY) + Indexing (B/B+ trees) + 10 query drills',k:'tech'},
-    {t:'DBMS 4 — Transactions (ACID/2PL/Timestamp) + Recovery notes',k:'tech'},
-    {t:'OS PYQ sprint 2 — 40 more PYQs (70 total today)',k:'tech'},
-    {t:'DBMS PYQ sprint — 50 PYQs',k:'tech'},
-    {t:'APTITUDE Quant — formula sheet (%, ratio, avg, TSD, time-work, SI/CI) + 40 PQs',k:'apt'},
-    {t:'Close — Export JSON + sleep by 12:30 AM',k:'mock'}
+  {id:'d21',date:'MON 21 Sept',title:'OS ✅ + P2: CN ↔ DBMS — 8 CYCLES',hours:'06:00 AM → 01:00 AM',tasks:[
+    {t:'C1: CN 11.1 Intro → OS 9.7 Memory (paging) → Reasoning 20m',k:'tech'},
+    {t:'C2: CN 11.2 Access Control → OS 9.8 Virtual Memory (+10 page-replacement numericals) → Chunk #1',k:'tech'},
+    {t:'C3: CN 11.3 Flow Control → OS 9.9 Disk Scheduling → Reasoning 20m',k:'tech'},
+    {t:'C4: CN 11.4 Error Control / CRC → OS 9.10 File Mgmt → Chunk #2',k:'tech'},
+    {t:'C5: CN 11.5 Framing → OS PYQ sprint 40Q → OS ✅ → Reasoning 20m',k:'tech'},
+    {t:'C6: CN 11.6 Ethernet → DBMS 10.1 Basics → Chunk #3',k:'tech'},
+    {t:'C7: CN 11.7 IPv4 & protocols → DBMS 10.2 ER Diagram → Reasoning 20m',k:'tech'},
+    {t:'C8: DBMS 10.3 Relational/FD → DBMS 10.4 Keys → Chunk #4',k:'tech'},
+    {t:'Close — one-pagers + Export JSON + sleep 01:00',k:'mock'}
   ]},
-  {id:'d22',date:'TUE 22 Sept',title:'Day 2 — CN ✅ + DBMS ✅ + COA start + MOCK-1',hours:'06:00 AM → 01:00 AM (~15.5h)',tasks:[
-    {t:'CN 11.8–11.13 — Subnetting 15 drills + routing + transport + app + security',k:'tech'},
-    {t:'CN PYQ sprint 40Q → CN COMPLETE',k:'tech'},
-    {t:'DBMS 10.7–10.12 — Indexing + Relational Algebra/Calculus + SQL drills + transactions + concurrency',k:'tech'},
-    {t:'DBMS PYQ sprint 40Q → DBMS COMPLETE',k:'tech'},
-    {t:'COA 4.1–4.3 — Floating point + cache numericals + I/O',k:'tech'},
-    {t:'MOCK-1 — Full 100Q / 120 min (18:30)',k:'mock'},
-    {t:'Mock-1 analysis — error log (20:30–21:15)',k:'mock'},
-    {t:'APTITUDE English — 20 min rotation slot',k:'apt'},
-    {t:'Chunk tests ×2 — 10Q each (PYQs/mock)',k:'mock'},
-    {t:'One-pagers + Export JSON + sleep by 01:00',k:'mock'}
+  {id:'d22',date:'TUE 22 Sept',title:'CN ✅ + DBMS ✅ + P3 start + MOCK-1 — 8 CYCLES',hours:'06:00 AM → 01:00 AM',tasks:[
+    {t:'C1: CN 11.8 Subnetting (15 drills) → DBMS 10.5 Normalization → English 20m',k:'tech'},
+    {t:'C2: CN 11.9 Routing → DBMS 10.6 BCNF + decomposition → Chunk #1',k:'tech'},
+    {t:'C3: CN 11.10 Transport → DBMS 10.7 Indexing → English 20m',k:'tech'},
+    {t:'C4: CN 11.11 Congestion/UDP → DBMS 10.8 Relational Algebra → Chunk #2',k:'tech'},
+    {t:'C5: CN 11.12 App layer → DBMS 10.9 SQL drills → English 20m',k:'tech'},
+    {t:'C6: CN 11.13 Hardware → DBMS 10.11 Transactions → Chunk #3',k:'tech'},
+    {t:'C7: CN PYQ 40Q → CN ✅ → DBMS 10.12 Concurrency → DBMS PYQ 40Q → DBMS ✅',k:'tech'},
+    {t:'C8: COA 4.1 Float → 4.2 Cache (+10 numericals) → 4.3 I/O',k:'tech'},
+    {t:'MOCK-1 — Full 100Q / 120 min (18:30) → analysis 20:30–21:15',k:'mock'},
+    {t:'Close — one-pagers + Export JSON + sleep 01:00',k:'mock'}
   ]},
-  {id:'d23',date:'WED 23 Sept',title:'Day 3 — DS + ALGO + TOC + COMPILER + ENG MATHS + COA wrap + MOCK-2',hours:'06:00 AM → 00:00 (~15.5h)',tasks:[
-    {t:'DS 5.7–5.14 — Array/Stack/Queue/LL/Tree/Graph/Hashing + C-basics skim → DS PYQ 30Q',k:'tech'},
-    {t:'COA wrap 4.4–4.6 — Pipeline numericals + instruction formats + control unit + 25 PYQs',k:'tech'},
-    {t:'Algo 6.1–6.7 — Complexity, sorting, greedy, MST/SP (DP = pattern-read) + 25 PYQs',k:'tech'},
-    {t:'TOC 7.1–7.5 — DFA/NFA/RE/Grammar fast + 25 PYQs (skip TM/PDA deep)',k:'tech'},
-    {t:'Compiler 8.1–8.5 PYQ-FIRST — 25 PYQs, learn patterns (no videos)',k:'tech'},
-    {t:'Eng Maths — Probability + P&C deep; Logic + Linear Algebra recall + 25 PYQs',k:'tech'},
-    {t:'MOCK-2 — Full 100Q / 120 min (21:30)',k:'mock'},
-    {t:'Mock-2 analysis + pack bag (call letter + photo + ID + pen) + alarm',k:'mock'},
+  {id:'d23',date:'WED 23 Sept',title:'FINALS: P3/P4/P5 — 3 pair-sessions + MOCK-2',hours:'06:00 AM → 00:00',tasks:[
+    {t:'A1 (P3 COA↔DS): COA 4.4 Pipeline (+5 numericals) → DS 5.1–5.6 C-basics skim → Chunk #1',k:'tech'},
+    {t:'A2: COA 4.5 Instruction Formats → DS 5.7+5.8 Intro/Array → English 20m',k:'tech'},
+    {t:'A3: COA 4.6 Control Unit → DS 5.9+5.10 Stack/Queue → Chunk #2',k:'tech'},
+    {t:'A4: COA PYQ 25Q → COA ✅ → DS 5.11 Linked List + 5.12 Tree → English 20m',k:'tech'},
+    {t:'A5: DS 5.13 Graphs + 5.14 Hashing → DS PYQ 30Q → DS ✅ → Chunk #3',k:'tech'},
+    {t:'B1 (P4 TOC↔Algo): TOC 7.1+7.2 DFA → Algo 6.1+6.2 Analysis → English 20m',k:'tech'},
+    {t:'B2: TOC 7.3 NFA → Algo 6.3 Sorting → Chunk #4',k:'tech'},
+    {t:'B3: TOC 7.4 RE + 7.5 Grammar → Algo 6.4 Greedy → English 20m',k:'tech'},
+    {t:'B4: TOC PYQ 25Q → TOC ✅ → Algo 6.6 MST + 6.7 SP → Algo PYQ 25Q → Algo ✅',k:'tech'},
+    {t:'C1 (P5 Compiler↔EngM): Compiler 8.1–8.5 PYQ-FIRST 25Q → EngM 2.10 Probability → Chunk #5',k:'tech'},
+    {t:'C2: EngM 2.9 P&C + 2.6 Logic + 2.7 LinAlg → EngM PYQ 25Q → EngM ✅',k:'tech'},
+    {t:'MOCK-2 — Full 100Q / 120 min (21:30) → analysis → pack bag + alarm',k:'mock'},
     {t:'SLEEP BY 00:15 — exam tomorrow (6.5h)',k:'mock'}
   ]},
   {id:'d24',date:'THU 24 Sept — EXAM DAY 🔥',title:'CBT — REPORT 12:30 PM · IDZ Dohna',hours:'study ends 09:30',tasks:[
