@@ -147,12 +147,13 @@ These are immediate high-priority applications that Avanish must fill now:
 
 ### 8. Indian Oil Corporation Limited (IOCL) -- Engineers / Officers (Grade 'A' - CS/IT)
 * **Advt No.**: `IOCL/CO-HR/RECTT/2026/01` (Dated 14.08.2026)
-* **Status**: **🎫 ADMIT CARD RECEIVED (18 Sept) — FINAL SPRINT 18–23 Sept (~60h) — EXAM 24 SEPT IN BAREILLY** 🟢
+* **Status**: **🔥 V6 FINAL 4-DAY BATTLE (20–24 Sept, ~55h) — EXAM 24 SEPT IN BAREILLY** 🟢
+* **Plan of record**: `IOCL/FINAL-4DAY-BATTLE-PLAN.md` — today DL close + OS start → Mon OS+DBMS → Tue CN+DS+Mock-1 → Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2 → exam. Target 50-65/100.
 * **Vacancies**: **22 Posts for CS/IT** (UR: 11, OBC-NCL: 4, EWS: 2, SC: 3, ST: 2)
 * **Pay Scale**: Grade ‘A’ (₹50,000 – ₹1,60,000, Annual CTC ~₹18.4 LPA).
-* **OFFICIAL CBT DATE**: **24 September 2026 (Thursday)** 🔥 — **IN BAREILLY: report 12:30 PM, gate closes 13:00** (ION Digital Zone IDZ Dohna, Nainital Road; Roll `1171000327`)
+* **OFFICIAL CBT DATE**: **24 September 2026 (Thursday)** 🔥 — **IN BAREILLY: report 12:30 PM, gate closes 13:00** (ION Digital Zone IDZ Dohna, Nainital Road; Roll `1171000327` · Password `41090186` · Reg `839223297` · Venue Code `12015`)
 * **Admit Card**: **RECEIVED 18 September 2026** ✅
-* **Selection Process**: CBT (100 Qs: 75 Tech + 25 Non-Tech) + GD/GT + Personal Interview.
+* **Selection Process**: CBT (100 Qs: 75 Tech + 25 Non-Tech, +1/−0.25) + GD/GT + Personal Interview. Gates (OBC-NCL): 40% Sec A (30/75) · 40% Sec B (10/25) · 45% overall.
 * **Workspace Folder**: `IOCL/`
 * **Website**: `iocl.com`
 
