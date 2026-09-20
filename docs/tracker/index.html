@@ -333,37 +333,41 @@ function tick(){
     ct.textContent=`${h12}:${mn} ${ap}`;
   }
   if(br){
-    // Tonight Block C: extended to 12:30 AM (00:30 next day)
+    // Monk Mode grid: 06:00-09:00 B1 · 09:30-13:00 B2 · 14:00-17:30 B3 · 18:00-21:00 B4 · 21:45-00:45 B5
     const t=new Date();
     const h=t.getHours(), mn=t.getMinutes();
     const nowMin=h*60+mn;
     let label='', remMin=0;
-    if(nowMin<6*60+30){ // before 06:30 = sleep
+    if(nowMin<6*60){ // 00:45-06:00 sleep
       label='🌙 Sleep';
-      remMin=(6*60+30)-nowMin;
-    } else if(nowMin<9*60+30){ // block A
-      label='☀️ Block A';
+      remMin=(6*60)-nowMin;
+    } else if(nowMin<9*60){ // Block 1
+      label='☀️ Block 1';
+      remMin=(9*60)-nowMin;
+    } else if(nowMin<9*60+30){ // breakfast
+      label='🍳 Breakfast';
       remMin=(9*60+30)-nowMin;
-    } else if(nowMin<13){ // block B
-      label='☀️ Block B';
+    } else if(nowMin<13*60){ // Block 2
+      label='☀️ Block 2';
       remMin=(13*60)-nowMin;
-    } else if(nowMin<14*60+30){ // lunch
-      label='🍽️ Lunch';
-      remMin=(14*60+30)-nowMin;
-    } else if(nowMin<17){ // stretch
-      label='⭐ Stretch';
-      remMin=(17*60)-nowMin;
-    } else if(nowMin<19){ // break
-      label='🚶 Break';
-      remMin=(19*60)-nowMin;
-    } else if(nowMin<22*60+30){ // block C
-      label='🌙 Block C';
-      remMin=(22*60+30)-nowMin;
-    } else { // night extension
-      label='🌙 Night extension (DL sweep)';
-      // hard stop 00:30 next day
-      const stopMin = 24*60+30;
-      remMin = stopMin - nowMin;
+    } else if(nowMin<14*60){ // lunch + nap
+      label='🍽️ Lunch + nap';
+      remMin=(14*60)-nowMin;
+    } else if(nowMin<17*60+30){ // Block 3
+      label='☀️ Block 3';
+      remMin=(17*60+30)-nowMin;
+    } else if(nowMin<18*60){ // walk
+      label='🚶 Walk';
+      remMin=(18*60)-nowMin;
+    } else if(nowMin<21*60){ // Block 4
+      label='🌙 Block 4';
+      remMin=(21*60)-nowMin;
+    } else if(nowMin<21*60+45){ // dinner
+      label='🍽️ Dinner';
+      remMin=(21*60+45)-nowMin;
+    } else { // Block 5 → hard stop 00:45
+      label='🌙 Block 5';
+      remMin=(24*60+45)-nowMin;
       if(remMin<0) remMin=0;
     }
     if(remMin<0) remMin=0;
@@ -372,7 +376,7 @@ function tick(){
     br.style.color = remMin<15 ? 'var(--danger)' : remMin<60 ? 'var(--warn)' : 'var(--accent)';
   }
   if(he){
-    he.textContent = `~${Math.round(diff/36000)/10}h`;
+    he.textContent = `~${Math.round(diff/360000)/10}h`;
   }
 }
 render(); tick(); setInterval(tick,1000);
