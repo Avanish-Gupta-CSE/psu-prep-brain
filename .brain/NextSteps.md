@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 19, 2026 10:00 PM (🔥 FINAL 5-day battle plan — Notes+PYQ ONLY strategy, all 5 KG courses owned, ~40h budget)
+Last updated: September 20, 2026 11:30 AM (🔥 V6 4-DAY battle plan — window 20 Sept 11:30 AM → 24 Sept 09:30 AM = ~55h, Notes+PYQ strategy, tracker v6)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -74,32 +74,18 @@ Standing rules arising from that audit:
 - **3h buffer rule:** study HALTS **09:30** on exam day; 09:30–12:30 = shower/food/docs/travel/settle.
 - Carry: printed call letter + photo affixed & signed · original photo ID + photocopy · blue/black ball pen.
 
-**Why replanned (19 Sept 10 PM):** 18–19 Sept under-delivered again (DL 3.2 still at 39%, nothing else started). **FINAL replan.** All 5 KG courses now owned (IOCL Paper-2 + Paper-1 + Paper-2 Test Series + Paper-1 Test Series + CIL MT). **Strategy shift: STOP watching full videos. Notes → PYQs → Wrong-answer solution videos ONLY.** CIL = superset (5,180 PQs, 1,397 notes); IOCL Paper-2 = best PYQ bank (3,202 PYQs from GATE+ISRO+CIL+BEL). Full course inventory: `IOCL/KG-COURSE-INVENTORY-19SEPT.md`.
+**Why replanned again (20 Sept 11:30 AM):** 19 Sept night + 20 Sept morning lost again. **V6 FINAL plan.** Window: **20 Sept 11:30 AM → 24 Sept 09:30 AM = ~95h real → ~55h study** (today ~11h · Mon ~13.5h · Tue ~13h · Wed ~13.5h · exam morning 2.5h skim). Strategy unchanged: **Notes → PYQs → wrong-answer solution videos ONLY.** CIL re-scraped 20 Sept: 2,940 vids / 1,235 PYQs / 5,188 PQs / 1,397 notes. Full plan: `IOCL/FINAL-4DAY-BATTLE-PLAN.md`.
 
-**Progress (19 Sept 10:00 PM):** DL 3.1 Digital Fundamentals & Boolean Algebra **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** — Universal Gates done (14/17) · **Ex-OR/Ex-NOR 0/27, Logic Families 0/11 ← TONIGHT** · **DL 3.3–3.8 untouched** · **ALL OTHER 9 TECH SUBJECTS = ZERO** · **APTITUDE = ZERO** · **MOCKS = ZERO**.
+**Progress (20 Sept 11:30 AM):** DL 3.1 **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** — Ex-OR/Ex-NOR 0/27 + Logic Families 0/11 pending · **DL 3.3–3.8 untouched** · **ALL OTHER 9 TECH SUBJECTS = ZERO** · **APTITUDE = ZERO** · **MOCKS = ZERO**.
 
-**Budget:** Tonight ~2.5h + 4 full days (20-23 Sept) × 9.5h/day + exam morning 1.5h = **~42h realistic**. Strategy: maximize score by PYQ pattern-matching, not full coverage.
+**V6 Phase Plan (super-detailed hour-by-hour in the battle plan file):**
+* **Sun 20 Sept (11:30 AM → 12:30 AM) — DL CLOSE + OS START:** DL 3.2 close (Ex-OR/XNOR + Logic Families) → DL 3.3–3.8 notes → DL PYQ sweep 20 → OS: process/scheduling (+8 numericals) → OS: sync/deadlock/Banker's (+5 numericals).
+* **Mon 21 Sept — OS COMPLETE + DBMS COMPLETE + QUANT:** OS memory/page-replacement (+10 numericals) → disk/file → OS PYQ 70 total → DBMS 1–4 (ER/FD/normalization/SQL/transactions + drills) → DBMS PYQ 50 → Quant formulas + 40 PQs.
+* **Tue 22 Sept — CN COMPLETE + DS + MOCK-1 + REASONING:** CN 1–4 (incl. **15 subnetting drills**) + CN PYQ 30 → DS 1–3 (lists/trees/graphs + 20 drills) → **🔥 MOCK-1 100Q/120min** + analysis → Reasoning 30 PQs.
+* **Wed 23 Sept — COA + ALGO + TOC + COMPILER + ENG MATHS + MOCK-2:** COA (cache + pipeline numericals + 30 PYQs) → Algo (complexity/sorting/DP/MST + 25 PYQs) → TOC (DFA/NFA/RE + 40 PYQs) → Compiler PYQ-first (25) → Eng Maths cherry-pick (30 PYQs) → **🔥 MOCK-2** → pack bag → sleep 12:30 AM.
+* **Thu 24 Sept — EXAM DAY:** formula-card skim 07:00–09:30 → **HARD STOP 09:30** → docs 10:15 → leave 10:45 → **REPORT 12:30 PM** IDZ Dohna. Target **50-65/100** (gates: 30/75 + 10/25 + 45/100).
 
-**Daily rhythm:** Block A 06:30–09:30 · B 10:00–13:00 · C 19:00–22:30 · ★stretch 14:30–17:00. **Floor = 3 blocks — never zero.**
-
-**Detailed plan:** `IOCL/FINAL-5DAY-BATTLE-PLAN.md` — hour-by-hour breakdown for each day.
-
-**TONIGHT — 19 Sept (close DL notes sweep):**
-* 10:00–10:45 DL 3.2 close (Ex-OR/XNOR + Logic Families) — notes + PYQs only
-* 10:45–12:30 DL 3.3–3.8 quick notes sweep (K-map, combinational, sequential, number system)
-* 12:30 SLEEP (6h minimum — non-negotiable)
-
-**Phase A — High-Weight Cores (20–21 Sept):**
-* **20 Sept (Sat) — OS + DBMS:** Notes + numericals + PYQ sprints (60 OS PYQs + 50 DBMS PYQs) + Quant formulas + 30 PQs → ~15 Qs secured
-* **21 Sept (Sun) — CN + DS + Apt:** CN notes + 15 subnetting drills + 50 PYQs · DS notes + 50 PYQs · Reasoning 30 PQs + English 30 PQs → ~13 more Qs
-
-**Phase B — Secondary + Mocks (22–23 Sept):**
-* **22 Sept (Mon) — COA + Algo + Eng Maths cherry-pick + MOCK-1:** COA cache+pipeline numericals + 30 PYQs · Algo notes · Eng Maths 40 PYQs (Probability, P&C, Linear Algebra, Logic) · Full 100Q mock simulation + error log
-* **23 Sept (Tue) — TOC/Compiler PYQ-only + DL PYQs + REVISION + MOCK-2:** TOC 40 PYQs · Compiler 25 PYQs · DL 40 PYQs · Full revision pass (OS → DBMS → CN → DS → COA → Algo → Apt) · Mock-2 + error log · Pack bag · SLEEP 23:00
-
-**24 Sept (Wed):** 🔥 **IOCL CBT IN BAREILLY** — formula-card skim 08:00–09:30, **study stops 09:30**, report **12:30 PM** at IDZ Dohna. **Realistic target 50-65/100** (passes OBC-NCL gates: 30/75 tech, 10/25 apt, 45/100 overall). No new study — formula-card skim only.
-
-**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — rebuilt 19 Sept: `DAYS` = **19–24 Sept** (`LS_KEY='iocl-final-tracker-v5'`, 6 days / 50 tasks, budget **~42h**). **Countdown targets `24 Sept 12:30 PM` (reporting time)**.
+**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — V6 rebuilt 20 Sept: `DAYS` = **20–24 Sept** (`LS_KEY='iocl-final-tracker-v6'`, 5 days / 47 tasks, budget **55h**). **Countdown targets `24 Sept 12:30 PM`.**
 - **Local fallback:** `docs/tracker/index.html` via `file://` or `python3 -m http.server 8766 --directory docs/tracker`.
 - ⚠️ **Progress is per-browser `localStorage`** — hosted and local copies track separately. Use **Export JSON** to move state; push to `main` to publish code changes.
 

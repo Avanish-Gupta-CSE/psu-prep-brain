@@ -1,4 +1,4 @@
-# KnowledgeGate Course Inventory — IOCL + CIL (Scraped 19 Sept 2026 ~9:50 PM)
+# KnowledgeGate Course Inventory — IOCL + CIL (Scraped 19 Sept 2026 ~9:50 PM · CIL re-verified 20 Sept 2026 11:20 AM)
 
 > **All 5 courses OWNED.** CIL is the superset; IOCL Paper-2 has exam-specific PYQs from GATE+ISRO+CIL+BEL.
 
@@ -79,7 +79,7 @@
 |--------|-------|
 | Concept Videos | **2,940** (396h) |
 | PYQs | **1,235** (17h solutions) |
-| Practice Questions | **5,180** (22h solutions) |
+| Practice Questions | **5,188** (22h solutions) |
 | Tests | **19** (14 subject + 2 CIL PYP + 3 Mock) |
 | Notes | **1,397** |
 

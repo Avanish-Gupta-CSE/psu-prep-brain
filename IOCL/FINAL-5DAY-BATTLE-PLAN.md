@@ -1,5 +1,7 @@
 # IOCL FINAL 5-DAY BATTLE PLAN — 19 Sept (tonight) → 24 Sept CBT
 
+> ⚠️ **SUPERSEDED 20 Sept 11:30 AM** — the 19-night window was lost; replaced by [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (20 Sept 11:30 AM → 24 Sept 09:30 AM, ~55h). Kept for history; strategy section still valid.
+
 > **Created:** 19 Sept 2026, 10:00 PM
 > **Exam:** 24 Sept 2026, ~13:30 start, Bareilly · Roll 1171000327
 > **Status:** DL 3.1 (42%) + DL 3.2 (39%) done. Everything else = ZERO.

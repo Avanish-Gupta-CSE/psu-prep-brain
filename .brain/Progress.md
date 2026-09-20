@@ -9,11 +9,27 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 19 Sept 2026 22:00 -- FINAL 5-day battle plan created: all 5 KG courses scraped, Notes+PYQ strategy, ~42h budget, tracker v5, brain synced |
-| **Resume From** | `.brain/NextSteps.md` — 19 Sept night: close DL notes (3.2→3.8) then sleep; 20 Sept OS+DBMS; 21 CN+DS+Apt; 22 COA+Algo+EngMaths+Mock-1; 23 TOC/Compiler PYQ+revision+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
-| **Overall Mood** | Realistic and strategic. UCO floor secured. Maximize score with notes+PYQ, not full coverage. |
+| **Last Session** | 20 Sept 2026 11:30 -- V6 4-DAY battle plan: CIL re-scraped, ~55h window mapped hour-by-hour, tracker v6, target 50-65/100 |
+| **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
+| **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 73 -- 20 Sept 2026 11:30 AM (🔥 V6 4-DAY Battle Plan — 55h Window Locked)
+- **Type:** Strategic Replan, Course Re-scrape, Tracker v6, Brain Sync
+- **What happened:**
+  - **CIL course re-scraped (20 Sept 11:20 AM):** 2,940 vids (396h) / 1,235 PYQs / **5,188 PQs** (+8 vs 19 Sept) / 19 tests / 1,397 notes. Stable.
+  - **Window recalculated:** 20 Sept 11:30 AM → 24 Sept 09:30 AM = **~95h real → ~55h study** (today ~11h · Mon 13.5h · Tue 13h · Wed 13.5h · exam morning 2.5h skim).
+  - **V6 battle plan:** `IOCL/FINAL-4DAY-BATTLE-PLAN.md` — hour-by-hour:
+    - **Today:** DL close (3.2→3.8 + PYQ sweep) + OS start (scheduling + deadlock numericals)
+    - **Mon:** OS complete (memory/page-replacement/disk + 70 PYQs) + DBMS complete (ER→BCNF, SQL, transactions + 50 PYQs) + Quant
+    - **Tue:** CN complete (incl. 15 subnetting drills) + DS (lists/trees/graphs) + **Mock-1** + Reasoning
+    - **Wed:** COA (cache/pipeline) + Algo + TOC (DFA/NFA/RE) + Compiler (PYQ-first) + Eng Maths (cherry-pick) + **Mock-2**
+    - **Thu:** formula skim → 09:30 STOP → report 12:30 PM
+  - **Tracker v6:** `LS_KEY='iocl-final-tracker-v6'`, 5 days / 47 tasks, budget 55h, validated via node.
+  - **Brain synced:** NextSteps (V6 phase plan), Progress (this entry), StudyPlan, ExamTracker.
+- **Honest assessment:** 2 more days lost (19 night + 20 morning). Still ~55h study available — enough for 10 subjects at notes+PYQ depth. Target 50-65/100 (gates 30/75+10/25+45/100). UCO floor secured — pure upside.
+- **Next goals:** TODAY 11:30 AM: DL 3.2 close (Ex-OR/XNOR + Logic Families) → DL 3.3-3.8 → OS scheduling + Banker's. No zero hours.
 
 ### Session 72 -- 19 Sept 2026 (🔥 FINAL 5-Day Battle Plan — Notes+PYQ Strategy)
 - **Type:** Strategic Replan, Course Scraping, Tracker Rewrite, Brain Sync
