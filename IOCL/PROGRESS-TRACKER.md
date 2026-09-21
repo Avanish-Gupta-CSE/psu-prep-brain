@@ -104,17 +104,19 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 ### TUE 22 — 06:00 → 01:00 · OS ✅ + P2: CN 11.1–11.8 + DBMS 10.1–10.4 + DS start
 
+> **5 PM Mon adjustment:** Monday night = DL sprint + OS 9.1–9.6 → **Tuesday opens with OS 9.7–9.8** (memory + page replacement), then 9.9–9.10 → **OS ✅**.
+
 | # | W-side (Computer Networks) | I-side (OS finish → DBMS → DS) | Micro |
 |:--|:---------------------------|:-------------------------------|:------|
-| C1 | CN 11.1 Intro | OS 9.9 Disk Scheduling | Reasoning 20m |
-| C2 | CN 11.2 Access Control | OS 9.10 File Mgmt | **Chunk #4** |
-| C3 | CN 11.3 Flow Control | OS PYQ 40Q → **OS ✅** | English 20m |
-| C4 | CN 11.4 Error Control / CRC | DBMS 10.1 Basics | **Chunk #5** |
-| C5 | CN 11.5 Framing | DBMS 10.2 ER Diagram | Reasoning 20m |
-| C6 | CN 11.6 Ethernet | DBMS 10.3 Rel / FD | **Chunk #6** |
-| C7 | CN 11.7 IPv4 & protocols | DBMS 10.4 Keys | English 20m |
-| C8 | CN 11.8 **Subnetting — 15 drills** | DS 5.1–5.6 skim + 5.7 / 5.8 | **Chunk #7** |
-| C9 | — | DS 5.9 / 5.10 Stack & Queue | one-pagers |
+| C1 | CN 11.1 Intro | **OS 9.7 Memory + 9.8 Virtual Memory (+10 page-replacement numericals)** | Reasoning 20m |
+| C2 | CN 11.2 Access Control | OS 9.9 Disk Scheduling | **Chunk #4** |
+| C3 | CN 11.3 Flow Control | OS 9.10 File Mgmt | English 20m |
+| C4 | CN 11.4 Error Control / CRC | OS PYQ 40Q → **OS ✅** | **Chunk #5** |
+| C5 | CN 11.5 Framing | DBMS 10.1 Basics | Reasoning 20m |
+| C6 | CN 11.6 Ethernet | DBMS 10.2 ER Diagram | **Chunk #6** |
+| C7 | CN 11.7 IPv4 & protocols | DBMS 10.3 Rel / FD | English 20m |
+| C8 | CN 11.8 **Subnetting — 15 drills** | DBMS 10.4 Keys | **Chunk #7** |
+| C9 | — | DS 5.1–5.6 skim + 5.7 / 5.8 (5.9–5.10 → Wed if short) | one-pagers |
 | ★ | **MOCK-1 — 20:30–22:30 full 100Q/120min** | analysis 22:30–23:30 | sleep 01:00 |
 
 ### WED 23 — 06:00 → 00:30 · FINALS: CN ✅ · DBMS ✅ · COA ✅ · DS ✅ + light pass
@@ -130,7 +132,7 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 | C7 | COA 4.1 Float + 4.2 Cache (10 numericals) | DBMS 10.12 Concurrency + DBMS PYQ 40Q → **DBMS ✅** | — |
 | C8 | COA 4.3 I/O | **EngM** 2.10 Probability + 2.9 P&C | **Chunk #11** |
 | C9 | COA 4.4 Pipeline (5 numericals) → 4.5/4.6 quick + COA PYQ 25 → **COA ✅** | **TOC** 7.1–7.5 PYQ-first 25Q | — |
-| C10 | **Algo** complexity / sorting / MST-SP (pattern read + 20Q) | **DS** 5.11 LL + 5.12 Tree | **Chunk #12** |
+| C10 | **Algo** complexity / sorting / MST-SP (pattern read + 20Q) | **DS** 5.11 LL + 5.12 Tree (incl. any 5.7–5.10 spillover) | **Chunk #12** |
 | C11 | — | DS 5.13 Graph + 5.14 Hashing + DS PYQ 20Q → **DS ✅** | 2× speed sets (20Q) |
 | ★ | pack bag (call letter + photo + ID + pen) | Export JSON | **sleep by 00:30** |
 

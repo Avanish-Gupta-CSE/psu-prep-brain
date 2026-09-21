@@ -80,7 +80,7 @@ Standing rules arising from that audit:
 
 **V8 Phase Plan (hour-by-hour in `IOCL/PROGRESS-TRACKER.md` §2c):**
 * **Mon 21 (today) 12:00 → 00:45 — DL ✅ DAY + OS start:** DL 3.3 rest → 3.4 K-map → 3.5 → 3.6 → 3.7 → 3.8 → DL PYQ 20Q → **DL ✅** · OS 9.1–9.6 (scheduling + Banker's numericals) · OS 9.7–9.8 (page replacement, 10 numericals).
-* **Tue 22 — OS ✅ + CN 11.1–11.8 (15 subnetting drills) + DBMS 10.1–10.4 + DS 5.7–5.10 + 🔥 MOCK-1 (full, 20:30).**
+* **Tue 22 — OS 9.7–9.10 + 40Q sprint → OS ✅ · CN 11.1–11.8 (15 subnetting drills) · DBMS 10.1–10.4 · DS 5.7–5.10 (5.9–5.10 spillable to Wed) · 🔥 MOCK-1 (full, 20:30).**
 * **Wed 23 — FINALS:** CN ✅ (11.9–11.13) · DBMS ✅ (10.5–10.12) · COA ✅ (4.1–4.6 + numericals) · DS ✅ (5.11–5.14) · EngM cherry (prob/P&C/logic/lin-alg) · TOC PYQ-25 · Algo pattern-20Q · **Compiler cut** · pack bag → sleep 00:30.
 * **Thu 24 — EXAM DAY:** one-pager skim 07:00–09:30 → **HARD STOP 09:30** → docs 10:15 → leave 10:45 → **REPORT 12:30 PM** IDZ Dohna. Target **50-65/100** (gates: 30/75 + 10/25 + 45/100).
 

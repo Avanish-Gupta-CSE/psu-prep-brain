@@ -18,7 +18,7 @@
 ### Session 77 -- 21 Sept 2026 5:00 PM (✅ DL 3.3 DONE — Boolean Expression complete)
 - **Progress:** DL 3.3 ✓ (finished ~5 PM). Remaining DL: 3.4 K-map → 3.5 Combinational → 3.6 Sequential → 3.7/3.8 → 20Q sweep → **DL ✅**.
 - **Tonight (5 PM → 00:45, DL sprint blocks):** 3.4 (5:00) → 3.5 (6:10) → 3.6 (7:20) → 3.7/3.8 (8:30) → DL PYQ sweep (9:00) → **DL ✅ ~9:30 PM** · OS 9.1–9.3 (9:40) · OS 9.4–9.5 (11:10) · OS 9.6 Banker's (00:20). Fallback: OS 9.4–9.6 → Tuesday AM block 1.
-- **Updated:** `IOCL/PROGRESS-TRACKER.md` v3.1 + tracker site (NOW card + evening schedule + d21 title).
+- **Updated:** `IOCL/PROGRESS-TRACKER.md` v3.1 + tracker site (NOW card + evening schedule + d21 title). **Tue opener adjusted: OS 9.7–9.8 moved into C1** (Monday ends at OS 9.6); DS 5.9–5.10 marked spillable to Wed.
 - **Next goals:** DL ✅ tonight; OS 9.1–9.6; Tuesday = OS ✅ + CN 11.1–11.8 (subnetting) + DBMS 10.1–10.4 + DS start + MOCK-1.
 
 ### Session 76 -- 21 Sept 2026 12:00 PM (🔥 V8 FINAL 3-DAY SPRINT — all 5 courses re-scraped + 44h plan)

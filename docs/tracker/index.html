@@ -163,25 +163,25 @@ footer{padding:18px;text-align:center;color:var(--muted);font-size:11px}
 <script>
 const DAYS=[
   {id:'d21',date:'MON 21 Sept (today)',title:'DL ✅ SPRINT — 3.3 ✓ done · evening blocks 5 PM → 00:45',hours:'5:00 PM → 00:45 AM',tasks:[
-    {t:'C1: DL 3.3 rest (finish Boolean Expression) → OS 9.1 Intro → Quant 20m',k:'tech'},
-    {t:"C2: DL 3.4 K-map + don't-cares → OS 9.2 Process Mgmt → Chunk #1 (10Q)",k:'tech'},
-    {t:'C3: DL 3.5 Combinational (MUX/decoder/adder) → OS 9.3 CPU Scheduling (+8 numericals) → Quant 20m',k:'tech'},
-    {t:'C4: DL 3.6 Sequential (flip-flops/counters) → OS 9.4 Synchronization → Chunk #2 (10Q)',k:'tech'},
-    {t:'C5: DL 3.7 Number System → OS 9.5 Threads → Quant 20m',k:'tech'},
-    {t:"C6: DL 3.8 IEEE 754 → OS 9.6 Deadlock + Banker's (5 numericals) → Chunk #3 (10Q)",k:'tech'},
-    {t:'C7: DL PYQ 20Q sweep → DL ✅ → OS 9.7 Memory (paging)',k:'tech'},
-    {t:'C8: OS 9.8 Virtual Memory (+10 page-replacement numericals) → Export JSON + sleep 00:45',k:'tech'}
+    {t:'Block 1 · 5:00–6:00 — DL 3.4 K-map (2/3/4-var + don\'t-cares) + 10 PQs',k:'tech'},
+    {t:'Block 2 · 6:10–7:10 — DL 3.5 Combinational (MUX/DEMUX/decoder/encoder/adders) + 10 PQs',k:'tech'},
+    {t:'Block 3 · 7:20–8:20 — DL 3.6 Sequential (flip-flops SR/JK/D/T, counters, registers) + 10 PQs → Chunk #1',k:'tech'},
+    {t:'Block 4 · 8:30–9:00 — DL 3.7 Number System + 3.8 IEEE 754 (quick)',k:'tech'},
+    {t:'Block 5 · 9:00–9:30 — DL PYQ sweep 20Q → DL ✅',k:'tech'},
+    {t:'Block 6 · 9:40–11:00 — OS 9.1 Intro + 9.2 Process Mgmt + 9.3 CPU Scheduling (+8 numericals)',k:'tech'},
+    {t:'Block 7 · 11:10–00:20 — OS 9.4 Synchronization + 9.5 Threads (+PQs)',k:'tech'},
+    {t:"Block 8 · 00:20–00:45 — OS 9.6 Deadlock + Banker's (5 numericals) → Export JSON → sleep 01:00",k:'tech'}
   ]},
   {id:'d22',date:'TUE 22 Sept',title:'OS ✅ + CN 11.1–11.8 + DBMS 10.1–10.4 + DS start + MOCK-1',hours:'06:00 AM → 01:00 AM',tasks:[
-    {t:'C1: CN 11.1 Intro → OS 9.9 Disk Scheduling → Reasoning 20m',k:'tech'},
-    {t:'C2: CN 11.2 Access Control → OS 9.10 File Mgmt → Chunk #4',k:'tech'},
-    {t:'C3: CN 11.3 Flow Control → OS PYQ 40Q → OS ✅ → English 20m',k:'tech'},
-    {t:'C4: CN 11.4 Error Control / CRC → DBMS 10.1 Basics → Chunk #5',k:'tech'},
-    {t:'C5: CN 11.5 Framing → DBMS 10.2 ER Diagram → Reasoning 20m',k:'tech'},
-    {t:'C6: CN 11.6 Ethernet → DBMS 10.3 Rel/FD → Chunk #6',k:'tech'},
-    {t:'C7: CN 11.7 IPv4 & protocols → DBMS 10.4 Keys → English 20m',k:'tech'},
-    {t:'C8: CN 11.8 SUBNETTING — 15 drills (WEAK) → DS 5.1–5.6 skim + 5.7/5.8 → Chunk #7',k:'tech'},
-    {t:'C9: DS 5.9/5.10 Stack & Queue → one-pagers',k:'tech'},
+    {t:'C1: CN 11.1 Intro → OS 9.7 Memory + 9.8 Virtual Memory (+10 page-replacement numericals) → Reasoning 20m',k:'tech'},
+    {t:'C2: CN 11.2 Access Control → OS 9.9 Disk Scheduling → Chunk #4',k:'tech'},
+    {t:'C3: CN 11.3 Flow Control → OS 9.10 File Mgmt → English 20m',k:'tech'},
+    {t:'C4: CN 11.4 Error Control / CRC → OS PYQ 40Q → OS ✅ → Chunk #5',k:'tech'},
+    {t:'C5: CN 11.5 Framing → DBMS 10.1 Basics → Reasoning 20m',k:'tech'},
+    {t:'C6: CN 11.6 Ethernet → DBMS 10.2 ER Diagram → Chunk #6',k:'tech'},
+    {t:'C7: CN 11.7 IPv4 & protocols → DBMS 10.3 Rel/FD → English 20m',k:'tech'},
+    {t:'C8: CN 11.8 SUBNETTING — 15 drills (WEAK) → DBMS 10.4 Keys → Chunk #7',k:'tech'},
+    {t:'C9: DS 5.1–5.6 skim + 5.7/5.8 (5.9–5.10 → Wed if short) → one-pagers',k:'tech'},
     {t:'MOCK-1 — Full 100Q / 120 min · 20:30–22:30 → analysis 22:30–23:30 → sleep 01:00',k:'mock'}
   ]},
   {id:'d23',date:'WED 23 Sept',title:'FINALS: CN ✅ · DBMS ✅ · COA ✅ · DS ✅ + light pass',hours:'06:00 AM → 00:30 AM',tasks:[
@@ -194,7 +194,7 @@ const DAYS=[
     {t:'C7: COA 4.1 Float + 4.2 Cache (10 numericals) → DBMS 10.12 Concurrency + DBMS PYQ 40Q → DBMS ✅',k:'tech'},
     {t:'C8: COA 4.3 I/O → EngM 2.10 Probability + 2.9 P&C → Chunk #11',k:'tech'},
     {t:'C9: COA 4.4 Pipeline (5 num) → 4.5/4.6 quick + COA PYQ 25 → COA ✅ → TOC 7.1–7.5 PYQ 25',k:'tech'},
-    {t:'C10: Algo — complexity/sorting/MST-SP pattern read + 20Q → DS 5.11 LL + 5.12 Tree → Chunk #12',k:'tech'},
+    {t:'C10: Algo — complexity/sorting/MST-SP pattern read + 20Q → DS 5.11 LL + 5.12 Tree (incl. any 5.7–5.10 spillover) → Chunk #12',k:'tech'},
     {t:'C11: DS 5.13 Graph + 5.14 Hashing + DS PYQ 20Q → DS ✅ → 2× speed sets (20Q each)',k:'tech'},
     {t:'Pack bag (call letter + photo + ID + pen) → Export JSON → SLEEP BY 00:30',k:'mock'}
   ]},
