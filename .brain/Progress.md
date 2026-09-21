@@ -9,11 +9,21 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 20 Sept 2026 12:10 -- V7 ALTERNATION MODE: W↔I pairs locked (user-marked), Monk Mode 15.5h/day grid, cycle = W→I→Apt→Chunk, PROGRESS-TRACKER.md live |
+| **Last Session** | 21 Sept 2026 12:00 -- V8 FINAL 3-DAY SPRINT: all 5 courses re-scraped (stable), ~44h plan locked (Mon/Tue/Wed), Mock-1 Tue full + speed sets Wed, Compiler cut. Status: DL 3.1 ✓ · 3.2 ✓ · 3.3 partial |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 76 -- 21 Sept 2026 12:00 PM (🔥 V8 FINAL 3-DAY SPRINT — all 5 courses re-scraped + 44h plan)
+- **Type:** Course Re-scrape (all 5), Replan, Tracker v8, Brain Sync
+- **What happened:**
+  - **All 5 KG courses re-scraped 21 Sept — counts stable:** CIL (2,940 vids / 1,235 PYQs / 5,180 PQs / 19T / 1,399N) · IOCL P2 (1,802 / 3,202 / 2,424 / 23T / 557N) · IOCL P1 (294 / 707 / 850 / 15T / 291N) · TS 23+15. Section weights confirmed (EngM 15.8 · PDS 14.2 · OS 11.3 · COA 9.6 · CN 9.3 · DBMS 9.2 · TOC 9.0 · DL 8.8 · Algo 7.3 · Compiler 5.5).
+  - **Reality:** DL 3.2 ✓ + 3.3 partial (SOP/POS · function counts · functional completeness). Everything else ZERO.
+  - **V8 plan (3-day, ~44h):** Mon = DL ✅ + OS 9.1–9.8 · Tue = OS ✅ + CN 11.1–11.8 (15 subnetting drills) + DBMS 10.1–10.4 + DS start + **MOCK-1 full** · Wed = CN ✅ + DBMS ✅ + COA ✅ + DS ✅ + EngM cherry + TOC/Algo pattern + pack. **Compiler cut.** Mock-2 → 2× 20Q speed sets.
+  - **Tracker v8:** `LS_KEY='iocl-final-tracker-v8'`, 4 days (21–24), NOW card + budget 44h.
+  - **Files:** `IOCL/PROGRESS-TRACKER.md` v3 (§2c day cycles rewritten), `.brain/NextSteps.md`, `StudyPlan.md`, `ExamTracker.md`, this entry.
+- **Next goals:** TODAY C1 (12:00) — DL 3.3 rest → OS 9.1 → Quant 20m. **DL ✅ by tonight.**
 
 ### Session 75 -- 21 Sept 2026 09:15 AM (📄 Logic Gates Master Sheet — printable MD + PDF)
 - **Type:** Study Asset, Print Material

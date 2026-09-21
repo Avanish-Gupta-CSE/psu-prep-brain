@@ -1,10 +1,10 @@
 # 🔥 IOCL SPRINT — PROGRESS TRACKER (at-a-glance)
 
 > **This is the file you open to see "where am I, what's next".** Updated daily by your tutor-agent.
-> **Window:** 20 Sept (11:45 AM) → 24 Sept (09:30 AM) · **~55h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
-> Companions: [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (hour-by-hour) · tracker website (clickable checkboxes) · [`SYLLABUS.md`](SYLLABUS.md)
+> **Window:** 21 Sept (12:00 PM) → 24 Sept (09:30 AM) · **~44h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
+> Companions: [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (hour detail) · tracker website (clickable) · [`SYLLABUS.md`](SYLLABUS.md)
 
-**Last updated:** 20 Sept 2026, 12:10 PM (**v2 — ALTERNATION PLAN LOCKED · Monk Mode ON**)
+**Last updated:** 21 Sept 2026, 12:00 PM (**v3 — V8 FINAL 3-DAY SPRINT · all 5 courses re-scraped · Compiler cut · Mock-2 → speed sets**)
 
 ---
 
@@ -19,7 +19,7 @@
 | 5 | **Computer Networks** | 9.3% | ~7 | 🔴 0% | 🔴 **W** |
 | 6 | **DBMS** | 9.2% | ~7 | 🔴 0% | 🟢 **I** |
 | 7 | **Theory of Computation** | 9.0% | ~7 | 🔴 0% | 🔴 **W** |
-| 8 | **Digital Logic** | 8.8% | ~7 | 🟡 3.1 ✓ 42% · 3.2 ✓ 39% | 🔴 **W** |
+| 8 | **Digital Logic** | 8.8% | ~7 | 🟡 3.1 ✓ · 3.2 ✓ · **3.3 partial** (SOP/POS ✓ · func-counts ✓ · completeness ✓) | 🔴 **W** |
 | 9 | **Algorithms** | 7.3% | ~5 | 🔴 0% | 🟢 **I** |
 | 10 | **Compiler Design** | 5.5% | ~4 | 🔴 0% | 🔴 **W** |
 | — | **Aptitude (Quant · Reasoning · English)** | — | 25 | 🟢 revision-only | 🟢 **I** |
@@ -42,11 +42,11 @@ This keeps energy up (dopamine: you finish each weak-topic and get an "interesti
 
 | Pair | W (weak) | I (interesting/strong) | When |
 |:----:|:---------|:-----------------------|:-----|
-| **P1** | Digital Logic (finish) | Operating Systems | Sun → Mon AM |
-| **P2** | Computer Networks | DBMS | Mon → Tue |
-| **P3** | COA | Data Structures | Tue PM → Wed |
-| **P4** | TOC | Algorithms | Wed |
-| **P5** | Compiler Design | Engineering Mathematics | Wed |
+| **P1** | Digital Logic (finish) | Operating Systems | **Mon 21 (today)** |
+| **P2** | Computer Networks | DBMS | Tue 22 → Wed 23 |
+| **P3** | COA | Data Structures | Tue evening → Wed |
+| **P4** | TOC | Algorithms | Wed (early) |
+| **P5** | Compiler Design (→ skim ONLY) | Engineering Mathematics (focus) | Wed · Compiler = drop-if-short |
 
 **Cycle format (your design, refined):**
 
@@ -76,7 +76,7 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 | 00:45–01:00 | One-pagers + wind-down |
 | 01:00–06:00 | **Sleep (5h)** |
 
-**Today:** 12:00 → 01:00 (13h clock). **Wed night:** hard stop **00:00**, sleep 00:00–06:30 (6.5h — exam day needs the full brain).
+**Today (Mon 21):** 12:00 → 00:45 (~12h clock — DL ✅ day). **Tue 22:** 06:00 → 01:00. **Wed 23:** 06:00 → 00:30 · sleep 00:45 → 06:15 (5.5h — exam day needs a fresh brain).
 **Safety:** water every block · fixed meal times · no caffeine after 6 PM · micro-sleep at desk → stand + water + 5-min walk (don't fight it 20 min) · 20-20-20 eye rule.
 
 ---
@@ -85,73 +85,52 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 **Cycle ≈ 60–75 min** = W-topic (~30m: notes → 5-8 PYQs) + I-topic (~30m) + micro-slot (Apt 20m / Chunk 10Q). Past 35 min on a topic → mark it & move; it gets fixed in the sprint or mock analysis.
 
-### ☀️ Sun 20 — P1: DL ↔ OS · 7 cycles
+### 🔥 MON 21 (today) — 12:00 → 00:45 · DL ✅ day + OS start
 
-| # | W-side (Digital Logic) | I-side (Operating Systems) | Micro |
-|:--|:-----------------------|:---------------------------|:------|
-| C1 | 3.2 close — Ex-OR/XNOR + Logic Families | 9.1 Intro | Quant 20m |
-| C2 | 3.3 Boolean Expression | 9.2 Process Mgmt | **Chunk #1** |
-| C3 | 3.4 Minimization / K-map | 9.3 CPU Scheduling (+8 numericals) | Quant 20m |
-| C4 | 3.5 Combinational | 9.4 Synchronization | **Chunk #2** |
-| C5 | 3.6 Sequential | 9.5 Threads | Quant 20m |
-| C6 | 3.7 Number System | 9.6 Deadlock + Banker's (5 numericals) | **Chunk #3** |
-| C7 | 3.8 Number Rep + DL PYQ 20Q → **DL ✅** | — | one-pagers · sleep 01:00 |
+| # | W-side (Digital Logic — finish!) | I-side (Operating Systems) | Micro |
+|:--|:---------------------------------|:---------------------------|:------|
+| C1 | DL 3.3 rest (finish Boolean Expression) | OS 9.1 Intro | Quant 20m |
+| C2 | DL 3.4 K-map + don't-cares | OS 9.2 Process Mgmt | **Chunk #1** |
+| C3 | DL 3.5 Combinational (MUX/decoder/adder) | OS 9.3 CPU Scheduling (+8 numericals) | Quant 20m |
+| C4 | DL 3.6 Sequential (flip-flops/counters) | OS 9.4 Synchronization | **Chunk #2** |
+| C5 | DL 3.7 Number System | OS 9.5 Threads | Quant 20m |
+| C6 | DL 3.8 IEEE 754 | OS 9.6 Deadlock + Banker's (5 numericals) | **Chunk #3** |
+| C7 | DL PYQ 20Q sweep → **DL ✅** | OS 9.7 Memory (paging) | one-pagers |
+| C8 | — | OS 9.8 Virtual Memory (+10 page-replacement numericals) | Export · sleep 00:45 |
 
-### Mon 21 — OS wrap + P2: CN ↔ DBMS · 8 cycles
+### TUE 22 — 06:00 → 01:00 · OS ✅ + P2: CN 11.1–11.8 + DBMS 10.1–10.4 + DS start
 
-| # | W-side (Computer Networks) | I-side (OS → DBMS) | Micro |
-|:--|:---------------------------|:-------------------|:------|
-| C1 | CN 11.1 Intro | OS 9.7 Memory (paging) | Reasoning 20m |
-| C2 | CN 11.2 Access Control | OS 9.8 Virtual Memory (+10 page-replacement numericals) | **Chunk #1** |
-| C3 | CN 11.3 Flow Control | OS 9.9 Disk Scheduling | Reasoning 20m |
-| C4 | CN 11.4 Error Control / CRC | OS 9.10 File Mgmt | **Chunk #2** |
-| C5 | CN 11.5 Framing | **OS PYQ 40Q → OS ✅** | Reasoning 20m |
-| C6 | CN 11.6 Ethernet | DBMS 10.1 Basics | **Chunk #3** |
-| C7 | CN 11.7 IPv4 & protocols | DBMS 10.2 ER Diagram | Reasoning 20m |
-| C8 | DBMS 10.3 Rel/FD → DBMS 10.4 Keys | — | **Chunk #4** · sleep 01:00 |
+| # | W-side (Computer Networks) | I-side (OS finish → DBMS → DS) | Micro |
+|:--|:---------------------------|:-------------------------------|:------|
+| C1 | CN 11.1 Intro | OS 9.9 Disk Scheduling | Reasoning 20m |
+| C2 | CN 11.2 Access Control | OS 9.10 File Mgmt | **Chunk #4** |
+| C3 | CN 11.3 Flow Control | OS PYQ 40Q → **OS ✅** | English 20m |
+| C4 | CN 11.4 Error Control / CRC | DBMS 10.1 Basics | **Chunk #5** |
+| C5 | CN 11.5 Framing | DBMS 10.2 ER Diagram | Reasoning 20m |
+| C6 | CN 11.6 Ethernet | DBMS 10.3 Rel / FD | **Chunk #6** |
+| C7 | CN 11.7 IPv4 & protocols | DBMS 10.4 Keys | English 20m |
+| C8 | CN 11.8 **Subnetting — 15 drills** | DS 5.1–5.6 skim + 5.7 / 5.8 | **Chunk #7** |
+| C9 | — | DS 5.9 / 5.10 Stack & Queue | one-pagers |
+| ★ | **MOCK-1 — 20:30–22:30 full 100Q/120min** | analysis 22:30–23:30 | sleep 01:00 |
 
-### Tue 22 — CN ✅ + DBMS ✅ + P3 start + MOCK-1 · 8 cycles
+### WED 23 — 06:00 → 00:30 · FINALS: CN ✅ · DBMS ✅ · COA ✅ · DS ✅ + light pass
 
-| # | W-side (Computer Networks) | I-side (DBMS) | Micro |
-|:--|:---------------------------|:--------------|:------|
-| C1 | CN 11.8 Subnetting — **15 drills** | DBMS 10.5 Normalization (1NF→3NF) | English 20m |
-| C2 | CN 11.9 Routing | DBMS 10.6 BCNF + Decomposition | **Chunk #1** |
-| C3 | CN 11.10 Transport | DBMS 10.7 Indexing | English 20m |
-| C4 | CN 11.11 Congestion/UDP | DBMS 10.8 Relational Algebra | **Chunk #2** |
-| C5 | CN 11.12 App layer | DBMS 10.9 SQL drills | English 20m |
-| C6 | CN 11.13 Hardware | DBMS 10.11 Transactions | **Chunk #3** |
-| C7 | **CN PYQ 40Q → CN ✅** | DBMS 10.12 Concurrency + **DBMS PYQ 40Q → DBMS ✅** | — |
-| C8 | COA 4.1 → 4.2 (cache numericals) → 4.3 | — | **MOCK-1 18:30** → analysis · sleep 01:00 |
+| # | W-side (CN finish / COA / TOC) | I-side (DBMS finish / DS / EngM) | Micro |
+|:--|:-------------------------------|:---------------------------------|:------|
+| C1 | CN 11.9 Routing | DBMS 10.5 Normalization (1NF→BCNF) | English 20m |
+| C2 | CN 11.10 Transport | DBMS 10.6 Decomposition | **Chunk #8** |
+| C3 | CN 11.11 Congestion / UDP | DBMS 10.7 Indexing | English 20m |
+| C4 | CN 11.12 App layer | DBMS 10.8 Relational Algebra | **Chunk #9** |
+| C5 | CN 11.13 Hardware | DBMS 10.9 SQL drills | English 20m |
+| C6 | CN PYQ 25Q → **CN ✅** | DBMS 10.11 Transactions | **Chunk #10** |
+| C7 | COA 4.1 Float + 4.2 Cache (10 numericals) | DBMS 10.12 Concurrency + DBMS PYQ 40Q → **DBMS ✅** | — |
+| C8 | COA 4.3 I/O | **EngM** 2.10 Probability + 2.9 P&C | **Chunk #11** |
+| C9 | COA 4.4 Pipeline (5 numericals) → 4.5/4.6 quick + COA PYQ 25 → **COA ✅** | **TOC** 7.1–7.5 PYQ-first 25Q | — |
+| C10 | **Algo** complexity / sorting / MST-SP (pattern read + 20Q) | **DS** 5.11 LL + 5.12 Tree | **Chunk #12** |
+| C11 | — | DS 5.13 Graph + 5.14 Hashing + DS PYQ 20Q → **DS ✅** | 2× speed sets (20Q) |
+| ★ | pack bag (call letter + photo + ID + pen) | Export JSON | **sleep by 00:30** |
 
-### Wed 23 — FINALS: 3 pair-sessions + MOCK-2
-
-**Session A — P3: COA ↔ DS**
-
-| # | W-side (COA) | I-side (Data Structures) | Micro |
-|:--|:-------------|:-------------------------|:------|
-| A1 | COA 4.4 Pipeline (+5 numericals) | DS 5.1–5.6 C-basics skim | **Chunk #1** |
-| A2 | COA 4.5 Instruction Formats | DS 5.7+5.8 Intro / Array | English 20m |
-| A3 | COA 4.6 Control Unit | DS 5.9+5.10 Stack / Queue | **Chunk #2** |
-| A4 | **COA PYQ 25Q → COA ✅** | DS 5.11 Linked List + 5.12 Tree | English 20m |
-| A5 | — | DS 5.13 Graphs + 5.14 Hashing + **DS PYQ 30Q → DS ✅** | **Chunk #3** |
-
-**Session B — P4: TOC ↔ Algo**
-
-| # | W-side (TOC) | I-side (Algorithms) | Micro |
-|:--|:-------------|:--------------------|:------|
-| B1 | TOC 7.1+7.2 DFA | Algo 6.1+6.2 Analysis / Complexity | English 20m |
-| B2 | TOC 7.3 NFA | Algo 6.3 Sorting | **Chunk #4** |
-| B3 | TOC 7.4 RE + 7.5 Grammar | Algo 6.4 Greedy | English 20m |
-| B4 | **TOC PYQ 25Q → TOC ✅** | Algo 6.6 MST + 6.7 SP + **Algo PYQ 25Q → Algo ✅** | — |
-
-**Session C — P5: Compiler ↔ EngM**
-
-| # | W-side (Compiler) | I-side (Eng Maths) | Micro |
-|:--|:------------------|:-------------------|:------|
-| C1 | Compiler 8.1–8.5 PYQ-FIRST (25 Qs) | EngM 2.10 Probability | **Chunk #5** |
-| C2 | — | EngM 2.9 P&C + 2.6 Logic + 2.7 Linear Algebra + **PYQ 25Q → EngM ✅** | — |
-
-**Evening:** **MOCK-2 21:30–23:30** → analysis → pack bag (call letter + photo + ID + pen) → **sleep by 00:15**
+> **Mock-2 note:** full second mock sacrificed — Wednesday already ends 00:30. Evening simulation = **2× 20Q mixed speed sets** (squeeze into Chunk #12 + C11). **Mock-1 (Tue) is your calibration.** **Drop-if-short order: Algo → TOC → EngM-LinAlg → DS-detail. Compiler skipped (5.5% ≈ 4 Qs — leave blank if unknown).**
 
 ### Thu 24 — EXAM DAY
 07:00–09:30 formula/one-pager skim → **09:30 STOP** → docs 10:15 → leave 10:45 → **report 12:30 PM**
@@ -214,8 +193,8 @@ Trap: fan-out / speed / power trade off — propagation delay ↑ with load
 | 1 | **10-Q Chunk Test** (12 min, review wrong immediately) — 6 Qs from today's topics + 4 from earlier days | **After every 2nd cycle** |
 | 2 | Subject PYQ sprints (30–70 per subject) | Daily (per plan) |
 | 3 | Subject unit tests (KG Paper-2 Test Series has 11) | When a subject completes, if ≥30 min spare |
-| 4 | **Full Mock #1 (100Q/120min)** | **Tue 22 evening** |
-| 5 | **Full Mock #2** | **Wed 23 evening** |
+| 4 | **Full Mock #1 (100Q/120min)** | **Tue 22 · 20:30** |
+| 5 | 2× 20Q speed sets + Mock-1 error review | **Wed 23 evening** |
 
 > **The rule that resolves your confusion:** you will never "finish the course" (288h content vs ~55h). **So questions ARE the syllabus now.** Coverage ≠ marks. Solved questions = marks.
 
@@ -225,10 +204,9 @@ Trap: fan-out / speed / power trade off — propagation delay ↑ with load
 
 | Date | Targets | Hours | Done |
 |:-----|:--------|:-----:|:----:|
-| **Sun 20** | DL close (3.2→3.8) · OS start (scheduling + Banker's) | /12h | ⬜ |
-| **Mon 21** | OS ✅ + CN 11.1–11.7 + DBMS 10.1–10.6 · Reasoning | /15.5h | ⬜ |
-| **Tue 22** | CN ✅ (subnetting drills) + DBMS ✅ + COA 4.1–4.3 · **Mock-1** · English | /15.5h | ⬜ |
-| **Wed 23** | DS + COA wrap ✅ + Algo + TOC + Compiler + EngM · **Mock-2** | /15.5h | ⬜ |
+| **Mon 21** | **DL ✅** (3.3→3.8 + 20Q sweep) · OS 9.1–9.8 (+ numericals) · Quant 60m · 3 chunks | /12h | ⬜ |
+| **Tue 22** | **OS ✅** + CN 11.1–11.8 (subnetting 15 drills) · DBMS 10.1–10.4 · DS 5.7–5.10 · **MOCK-1** | /15h | ⬜ |
+| **Wed 23** | **CN ✅ · DBMS ✅ · COA ✅ · DS ✅** · EngM cherry · TOC/Algo pattern · pack bag | /15h | ⬜ |
 | **Thu 24** | Formula skim → 09:30 STOP → **CBT 12:30 PM** | — | ⬜ |
 
 ## 6️⃣ SCORE BOARD
@@ -236,7 +214,7 @@ Trap: fan-out / speed / power trade off — propagation delay ↑ with load
 | Event | Score | Note |
 |:------|:------|:-----|
 | Mock-1 (Tue) | — | target ≥45 |
-| Mock-2 (Wed) | — | target ≥50 |
+| Speed sets (Wed) | — | target 30+/40 |
 | **Actual CBT (24 Sept)** | — | **gates: 30/75 · 10/25 · 45/100** |
 
 > Your proven live-CBT band: **62.5 – 73.5%** (STPI 64 · NFL 66 · CIL 73.5 · HLL 62.5). Nothing new needed — just execution.

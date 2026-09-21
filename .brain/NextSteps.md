@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 20, 2026 12:10 PM (🔥 V7 ALTERNATION MODE — W↔I pairs locked, Monk Mode 15.5h/day, day queue in IOCL/PROGRESS-TRACKER.md; window 20 Sept 12:00 → 24 Sept 09:30 = ~58h)
+Last updated: September 21, 2026 12:00 PM (🔥 V8 FINAL 3-DAY SPRINT — all 5 courses re-scraped, ~44h: today 12:00 → 24 Sept 09:30; day queue in IOCL/PROGRESS-TRACKER.md v3; tracker v8)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -74,18 +74,17 @@ Standing rules arising from that audit:
 - **3h buffer rule:** study HALTS **09:30** on exam day; 09:30–12:30 = shower/food/docs/travel/settle.
 - Carry: printed call letter + photo affixed & signed · original photo ID + photocopy · blue/black ball pen.
 
-**Why replanned again (20 Sept 11:30 AM):** 19 Sept night + 20 Sept morning lost again. **V6 FINAL plan.** Window: **20 Sept 11:30 AM → 24 Sept 09:30 AM = ~95h real → ~55h study** (today ~11h · Mon ~13.5h · Tue ~13h · Wed ~13.5h · exam morning 2.5h skim). Strategy unchanged: **Notes → PYQs → wrong-answer solution videos ONLY.** CIL re-scraped 20 Sept: 2,940 vids / 1,235 PYQs / 5,188 PQs / 1,397 notes. Full plan: `IOCL/FINAL-4DAY-BATTLE-PLAN.md`.
+**Why replanned again (21 Sept 12:00 PM):** 20 Sept + 21 morning lost (only DL 3.2 ✓ + 3.3 partial: SOP/POS · function-counts · functional completeness). **V8 FINAL — 3-day sprint.** Window: **21 Sept 12:00 PM → 24 Sept 09:30 AM = ~70h real → ~44h study** (Mon ~12h · Tue ~15h · Wed ~15h · Thu skim 2.5h). All 5 KG courses re-scraped 21 Sept — counts stable (CIL 2,940/1,235/5,180 · P2 1,802/3,202 · P1 294/707 · TS 23+15). **Compiler cut (5.5%); Mock-2 → 2× 20Q speed sets.** Full plan: `IOCL/PROGRESS-TRACKER.md` (v3) + tracker site v8.
 
-**Progress (20 Sept 12:10 PM):** DL 3.1 **13/31 (42%)** · **DL 3.2 = 27/69 (39%)** · all else ZERO. **W/I locked (Session 74):** W = CN · COA · DL · TOC · Compiler | I = OS · DBMS · DS · Algo · Eng Maths. Aptitude woven into cycles. **Pairs:** P1 DL↔OS (today→Mon AM) · P2 CN↔DBMS (Mon→Tue) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed). **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk (every 2nd cycle). **Mocks:** Mock-1 Tue 18:30 · Mock-2 Wed 21:30. **Monk Mode:** 15.5h/day grid (06:00→01:00), 5h sleep + power nap. **Day queue file: `IOCL/PROGRESS-TRACKER.md` (v2 — the file to open daily).**
+**Progress (21 Sept 12:00 PM):** DL 3.1 ✓ · DL 3.2 ✓ · **DL 3.3 partial** (SOP/POS ✓ · function-counts ✓ · functional completeness ✓) · all else ZERO. **W/I locked:** W = CN · COA · DL · TOC · Compiler | I = OS · DBMS · DS · Algo · Eng Maths. **Pairs:** P1 DL↔OS (today) · P2 CN↔DBMS (Tue→Wed) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed — Compiler skim only). **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk. **Mocks:** **Mock-1 Tue 20:30 (FULL)** · Mock-2 → 2× 20Q speed sets (Wed). **Monk grid:** today 12:00→00:45 · Tue 06:00→01:00 · Wed 06:00→00:30. **Day queue: `IOCL/PROGRESS-TRACKER.md` §2c (v3).**
 
-**V6 Phase Plan (super-detailed hour-by-hour in the battle plan file):**
-* **Sun 20 Sept (11:30 AM → 12:30 AM) — DL CLOSE + OS START:** DL 3.2 close (Ex-OR/XNOR + Logic Families) → DL 3.3–3.8 notes → DL PYQ sweep 20 → OS: process/scheduling (+8 numericals) → OS: sync/deadlock/Banker's (+5 numericals).
-* **Mon 21 Sept — OS COMPLETE + DBMS COMPLETE + QUANT:** OS memory/page-replacement (+10 numericals) → disk/file → OS PYQ 70 total → DBMS 1–4 (ER/FD/normalization/SQL/transactions + drills) → DBMS PYQ 50 → Quant formulas + 40 PQs.
-* **Tue 22 Sept — CN COMPLETE + DS + MOCK-1 + REASONING:** CN 1–4 (incl. **15 subnetting drills**) + CN PYQ 30 → DS 1–3 (lists/trees/graphs + 20 drills) → **🔥 MOCK-1 100Q/120min** + analysis → Reasoning 30 PQs.
-* **Wed 23 Sept — COA + ALGO + TOC + COMPILER + ENG MATHS + MOCK-2:** COA (cache + pipeline numericals + 30 PYQs) → Algo (complexity/sorting/DP/MST + 25 PYQs) → TOC (DFA/NFA/RE + 40 PYQs) → Compiler PYQ-first (25) → Eng Maths cherry-pick (30 PYQs) → **🔥 MOCK-2** → pack bag → sleep 12:30 AM.
-* **Thu 24 Sept — EXAM DAY:** formula-card skim 07:00–09:30 → **HARD STOP 09:30** → docs 10:15 → leave 10:45 → **REPORT 12:30 PM** IDZ Dohna. Target **50-65/100** (gates: 30/75 + 10/25 + 45/100).
+**V8 Phase Plan (hour-by-hour in `IOCL/PROGRESS-TRACKER.md` §2c):**
+* **Mon 21 (today) 12:00 → 00:45 — DL ✅ DAY + OS start:** DL 3.3 rest → 3.4 K-map → 3.5 → 3.6 → 3.7 → 3.8 → DL PYQ 20Q → **DL ✅** · OS 9.1–9.6 (scheduling + Banker's numericals) · OS 9.7–9.8 (page replacement, 10 numericals).
+* **Tue 22 — OS ✅ + CN 11.1–11.8 (15 subnetting drills) + DBMS 10.1–10.4 + DS 5.7–5.10 + 🔥 MOCK-1 (full, 20:30).**
+* **Wed 23 — FINALS:** CN ✅ (11.9–11.13) · DBMS ✅ (10.5–10.12) · COA ✅ (4.1–4.6 + numericals) · DS ✅ (5.11–5.14) · EngM cherry (prob/P&C/logic/lin-alg) · TOC PYQ-25 · Algo pattern-20Q · **Compiler cut** · pack bag → sleep 00:30.
+* **Thu 24 — EXAM DAY:** one-pager skim 07:00–09:30 → **HARD STOP 09:30** → docs 10:15 → leave 10:45 → **REPORT 12:30 PM** IDZ Dohna. Target **50-65/100** (gates: 30/75 + 10/25 + 45/100).
 
-**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — V6 rebuilt 20 Sept: `DAYS` = **20–24 Sept** (`LS_KEY='iocl-final-tracker-v6'`, 5 days / 47 tasks, budget **55h**). **Countdown targets `24 Sept 12:30 PM`.**
+**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — V8 rebuilt 21 Sept: `DAYS` = **21–24 Sept** (`LS_KEY='iocl-final-tracker-v8'`, 4 days / 36 tasks, budget **44h**). **Countdown targets `24 Sept 12:30 PM`.**
 - **Local fallback:** `docs/tracker/index.html` via `file://` or `python3 -m http.server 8766 --directory docs/tracker`.
 - ⚠️ **Progress is per-browser `localStorage`** — hosted and local copies track separately. Use **Export JSON** to move state; push to `main` to publish code changes.
 

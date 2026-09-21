@@ -25,7 +25,7 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 20 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V7 ALTERNATION MODE (W↔I cycles · Monk Mode ~15.5h/day · ~58h)** — Sun DL✅+OS start → Mon OS✅+CN+DBMS · Tue CN✅+DBMS✅+COA+Mock-1 · Wed DS+Algo+TOC+Compiler+EngM+COA wrap+Mock-2 → **CBT 24 Sept IN BAREILLY (report 12:30 PM, study stops 09:30)** | 🔥 **ACTIVE (V7 FINAL)** |
+| **Phase 7** | 21 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V8 3-DAY SPRINT (~44h: 21st 12:00 PM → 24th 09:30 AM)** — Mon DL✅+OS start · Tue OS✅+CN+DBMS+DS+Mock-1 · Wed CN✅+DBMS✅+COA✅+DS✅+light pass → **CBT 24 Sept IN BAREILLY (report 12:30 PM, study stops 09:30)** · Compiler cut | 🔥 **ACTIVE (V8 FINAL)** |
 | **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
@@ -37,28 +37,27 @@
 
 ---
 
-## Phase 7: IOCL V7 ALTERNATION MODE — 20 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
+## Phase 7: IOCL V8 FINAL 3-DAY SPRINT — 21 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
 
-**Window:** 20 Sept (from 12:00 PM) → 24 Sept 09:30 AM = **~58h study** on the Monk Mode grid (15.5h/day: 06:00→01:00, 5h core sleep + 20-min nap; Wed night 6.5h sleep). **Strategy: Notes → PYQs → wrong-answer solution videos ONLY.**
+**Window:** 21 Sept (12:00 PM) → 24 Sept 09:30 AM = **~44h study** (Mon ~12h · Tue ~15h · Wed ~15h · Thu 2.5h skim). **Strategy: Notes → PYQs → wrong-answer solution videos ONLY.**
 
 **🎫 Admit card:** Roll `1171000327` · **Report 12:30 PM, 24 Sept** · ION Digital Zone IDZ Dohna, Nainital Road, Bareilly (home city). **3h buffer: study stops 09:30** on exam day.
 
-**W↔I PAIRS (user-marked — Session 74):** W = CN · COA · DL · TOC · Compiler || I = OS · DBMS · DS · Algo · Eng Math. **Cycle:** W-topic complete → I-topic complete → Apt 20m → 10-Q chunk (every 2nd cycle). ~30 min/topic time-box.
+**W↔I PAIRS (Session 74):** W = CN · COA · DL · TOC · Compiler || I = OS · DBMS · DS · Algo · Eng Maths. **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk (every 2nd cycle). ~30 min/topic time-box.
 
-**Pairs:** P1 DL↔OS (Sun→Mon AM) · P2 CN↔DBMS (Mon→Tue) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed)
+**Pairs:** P1 DL↔OS (Mon — today) · P2 CN↔DBMS (Tue→Wed) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed — Compiler skim only)
 
-**Day distribution (V7 — cycles C1…Cn, see `IOCL/PROGRESS-TRACKER.md` §2c):**
-- **Sun 20:** DL ✅ (3.2 close → 3.8 + PYQ sweep) + OS 9.1–9.6 (scheduling + Banker's numericals)
-- **Mon 21:** OS ✅ (9.7–9.10 + sprint 40Q) + CN 11.1–11.7 + DBMS 10.1–10.4
-- **Tue 22:** CN ✅ (11.8–11.13 incl. 15 subnetting drills) + DBMS ✅ (10.5–10.12) + COA 4.1–4.3 + **MOCK-1**
-- **Wed 23:** DS + COA ✅ (4.4–4.6) + Algo + TOC + Compiler + EngM + **MOCK-2** + pack bag
-- **Thu 24:** formula skim 07:00–09:30 → STOP → report 12:30 PM → CBT
+**Day distribution (V8 — see `IOCL/PROGRESS-TRACKER.md` §2c):**
+- **Mon 21:** DL ✅ (3.3 rest → 3.8 + 20Q sweep) + OS 9.1–9.8 (scheduling + Banker's + page-replacement numericals)
+- **Tue 22:** OS ✅ (+40Q sprint) + CN 11.1–11.8 (incl. **15 subnetting drills**) + DBMS 10.1–10.4 + DS 5.7–5.10 + **MOCK-1 (full, 20:30)**
+- **Wed 23:** CN ✅ (11.9–11.13) + DBMS ✅ (10.5–10.12) + COA ✅ (4.1–4.6 + numericals) + DS ✅ (5.11–5.14) + EngM cherry-pick + TOC 25Q + Algo 20Q + pack bag → sleep 00:30
+- **Thu 24:** one-pager skim 07:00–09:30 → STOP → report 12:30 PM → CBT
 
-**Progress (20 Sept 12:10 PM):** DL 3.1 **13/31 (42%)** · DL 3.2 **27/69 (39%)**. All other subjects = ZERO. Target: **50-65/100** (gates 30/75 + 10/25 + 45/100).
+**Progress (21 Sept 12:00 PM):** DL 3.1 ✓ · DL 3.2 ✓ · DL 3.3 partial (SOP/POS · func-counts · completeness). All other subjects = ZERO. Target: **50-65/100** (gates 30/75 + 10/25 + 45/100).
 
 **Files:** `IOCL/PROGRESS-TRACKER.md` (day cycles — open daily) · `IOCL/FINAL-4DAY-BATTLE-PLAN.md` (hour detail + CBT strategy).
 
-**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — `LS_KEY='iocl-final-tracker-v6'`, 5 days / 46 tasks (each task = a cycle). Local fallback: `python3 -m http.server 8766 --directory docs/tracker`.
+**Tracker (LIVE): https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — `LS_KEY='iocl-final-tracker-v8'`, 4 days / 36 tasks (each task = a cycle). Local fallback: `python3 -m http.server 8766 --directory docs/tracker`.
 
 Detailed day-by-day roadmap lives in [`HAL/5-DAY-SPRINT-PLAN.md`](../HAL/5-DAY-SPRINT-PLAN.md).
 Day 1 diagnostic drill: [`HAL/DRILL-01-OS-COA.md`](../HAL/DRILL-01-OS-COA.md).
