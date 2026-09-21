@@ -100,6 +100,10 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 | 7 | 11:10–00:20 | **OS 9.4 Synchronization + 9.5 Threads** (+PQs) |
 | 8 | 00:20–00:45 | **OS 9.6 Deadlock + Banker's (5 numericals)** → one-pager + Export → **sleep 01:00** |
 
+**⏱ Per-block thresholds (min–max, ±5′ buffer):** 3.4 K-map → 40–75′ · 3.5 Combinational → 45–75′ · 3.6 Sequential → 50–80′ · 3.7/3.8 → 25–45′ · PYQ sweep → 25–40′ · OS 9.1–9.3 → 60–95′ · OS 9.4–9.5 → 50–80′ · OS 9.6 → 35–55′.
+**🟢 Min rule:** finish ≤ min **and** ≥80% PQs right → tick, +5 extra PQs, break. **🔴 Max rule:** at max → STOP, mark leftovers, tick, move (never extend a block twice).
+**🚩 Milestones:** **DL ✅ by 21:30** (abs max 22:00) · OS 9.1–9.3 by **23:45** · OS 9.4–9.5 by **00:20** (else → Tue) · **sleep 01:00**.
+
 > **If behind at 9:30 PM:** finish DL ✅ first (non-negotiable), then OS 9.1–9.3; OS 9.4–9.6 rolls to Tuesday morning block 1.
 
 ### TUE 22 — 06:00 → 01:00 · OS ✅ + P2: CN 11.1–11.8 + DBMS 10.1–10.4 + DS start
