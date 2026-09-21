@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Logic Gates — Master Sheet (IOCL)</title>
+<style>
+  @page { size: A4; margin: 10mm 11mm; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; font-size: 10px; line-height: 1.32; }
+  h1 { font-size: 16px; letter-spacing: .2px; }
+  h2 { font-size: 11px; margin: 9px 0 4px; padding: 3px 7px; background: #ededed; border-left: 3px solid #222; }
+  .sub { font-size: 9px; color: #444; margin: 2px 0 8px; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border: 1px solid #8a8a8a; padding: 2.5px 5px; text-align: center; vertical-align: middle; font-size: 9.5px; }
+  th { background: #f4f4f4; font-size: 9.5px; }
+  td.law { text-align: left; font-weight: 600; background: #fafafa; width: 21%; }
+  td.gate-h { width: 13.1%; }
+  .y { color: #046b1f; font-weight: 700; }
+  .n { color: #9e0b1e; font-weight: 700; }
+  .box { border: 1.4px solid #222; border-radius: 5px; padding: 6px 8px; margin-top: 7px; }
+  .box p { font-size: 9.5px; margin: 2px 0; }
+  .row { display: flex; gap: 7px; }
+  .row > div { flex: 1; }
+  .big td, .big th { font-size: 11px; padding: 4px 5px; }
+  .note { font-size: 8.5px; color: #333; margin-top: 3px; }
+  ul { padding-left: 14px; font-size: 9.5px; }
+  li { margin: 1.5px 0; }
+  .pagebreak { page-break-before: always; }
+  .foot { margin-top: 8px; font-size: 8px; color: #555; text-align: center; }
+  .kbd { font-weight: 700; }
+</style>
+</head>
+<body>
+
+<h1>LOGIC GATES — MASTER SHEET</h1>
+<p class="sub">IOCL CBT · Digital Logic · Truth tables + Boolean properties matrix · print &amp; pin · 21 Sept 2026</p>
+
+<h2>1 · Truth tables — all six gates (2-input)</h2>
+<table class="big">
+  <tr>
+    <th>A</th><th>B</th>
+    <th>AND<br>A·B</th><th>OR<br>A+B</th>
+    <th>NAND<br>(A·B)′</th><th>NOR<br>(A+B)′</th>
+    <th>XOR<br>A⊕B</th><th>XNOR<br>A⊙B</th>
+  </tr>
+  <tr><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td></tr>
+  <tr><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td></tr>
+  <tr><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td></tr>
+  <tr><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+</table>
+
+<div class="box">
+  <p><span class="kbd">Fast recall:</span> AND → 1 only at (1,1) · OR → 0 only at (0,0) · NAND = AND inverted · NOR = OR inverted</p>
+  <p><span class="kbd">XOR</span> → 1 in the two middle rows (inputs <b>differ</b>; odd count of 1s) · <span class="kbd">XNOR</span> → 1 at (0,0) &amp; (1,1) (inputs <b>same</b>)</p>
+</div>
+
+<h2>2 · Properties matrix — which law does each gate obey?</h2>
+<table>
+  <tr>
+    <th style="text-align:left">Property</th>
+    <th>AND</th><th>OR</th><th>NAND</th><th>NOR</th><th>XOR</th><th>XNOR</th>
+  </tr>
+  <tr>
+    <td class="law">Idempotent<br>X op X = X</td>
+    <td><span class="y">YES</span> X·X=X</td><td><span class="y">YES</span> X+X=X</td>
+    <td><span class="n">NO</span> X↑X=X′</td><td><span class="n">NO</span> X↓X=X′</td>
+    <td><span class="n">NO</span> X⊕X=0</td><td><span class="n">NO</span> X⊙X=1</td>
+  </tr>
+  <tr>
+    <td class="law">Commutative<br>A op B = B op A</td>
+    <td><span class="y">YES</span></td><td><span class="y">YES</span></td><td><span class="y">YES</span></td>
+    <td><span class="y">YES</span></td><td><span class="y">YES</span></td><td><span class="y">YES</span></td>
+  </tr>
+  <tr>
+    <td class="law">Associative<br>(A op B) op C</td>
+    <td><span class="y">YES</span></td><td><span class="y">YES</span></td>
+    <td><span class="n">NO</span></td><td><span class="n">NO</span></td>
+    <td><span class="y">YES</span></td><td><span class="y">YES ★trap</span></td>
+  </tr>
+  <tr>
+    <td class="law">Distributive</td>
+    <td><span class="y">YES</span> over OR &amp; XOR</td><td><span class="y">YES</span> over AND</td>
+    <td><span class="n">NO</span></td><td><span class="n">NO</span></td>
+    <td><span class="n">NO</span> over AND *</td><td><span class="n">NO</span></td>
+  </tr>
+  <tr>
+    <td class="law">Identity element e<br>X op e = X</td>
+    <td>e = <b>1</b></td><td>e = <b>0</b></td><td>none</td><td>none</td><td>e = <b>0</b></td><td>e = <b>1</b></td>
+  </tr>
+  <tr>
+    <td class="law">Constant case<br>(output independent)</td>
+    <td>X·0 = 0</td><td>X+1 = 1</td><td>X↑0 = 1</td><td>X↓1 = 0</td><td>—</td><td>—</td>
+  </tr>
+  <tr>
+    <td class="law">Complement law<br>X op X′</td>
+    <td>X·X′=0</td><td>X+X′=1</td><td>X↑X′=1</td><td>X↓X′=0</td><td>X⊕X′=1</td><td>X⊙X′=0</td>
+  </tr>
+  <tr>
+    <td class="law">Universal gate?</td>
+    <td><span class="n">NO</span></td><td><span class="n">NO</span></td><td><span class="y">YES</span></td>
+    <td><span class="y">YES</span></td><td><span class="n">NO</span></td><td><span class="n">NO</span></td>
+  </tr>
+</table>
+<p class="note">* BUT: AND distributes over XOR → A·(B⊕C) = A·B ⊕ A·C · Summary: all commutative · associative = AND, OR, XOR, XNOR (A-O-X-X) · idempotent = only AND, OR · universal = only NAND, NOR · <b>XNOR is associative (trap!)</b></p>
+
+<div class="pagebreak"></div>
+
+<h1>QUICK-FIRE BOXES — print page 2</h1>
+<p class="sub">De Morgan · universal recipes · XOR/XNOR magic · traps</p>
+
+<div class="row">
+  <div class="box">
+    <p><b>De Morgan — NAND and NOR duals</b></p>
+    <p>(A·B)′ = A′ + B′</p>
+    <p>(A+B)′ = A′ · B′</p>
+    <p class="note">NAND = OR of inverted inputs · NOR = AND of inverted inputs</p>
+  </div>
+  <div class="box">
+    <p><b>Universal recipes</b></p>
+    <p>NOT = A↑A = A↓A</p>
+    <p>OR from NAND: (A↑A) ↑ (B↑B)</p>
+    <p>AND from NAND: (A↑B) ↑ (A↑B)</p>
+    <p>AND from NOR: (A↓A) ↓ (B↓B)</p>
+    <p>OR from NOR: (A↓B) ↓ (A↓B)</p>
+  </div>
+</div>
+
+<div class="row" style="margin-top:7px">
+  <div class="box">
+    <p><b>XOR magic (parity gate)</b></p>
+    <p>X⊕0 = X · X⊕1 = X′ (programmable inverter)</p>
+    <p>X⊕X = 0 · X⊕X′ = 1 · A⊕B⊕B = A</p>
+    <p>n-chain XOR = 1 iff odd number of 1s</p>
+  </div>
+  <div class="box">
+    <p><b>XNOR (equality detector)</b></p>
+    <p>1 iff inputs equal · complement of XOR</p>
+    <p>n-chain XNOR = 1 iff even number of 1s</p>
+    <p>Associative (unlike NAND/NOR!)</p>
+  </div>
+</div>
+
+<div class="box">
+  <p><b>★ Traps that appear in MCQs</b></p>
+  <ul>
+    <li>X⊕X = <b>0</b> — XOR is NOT idempotent (same for XNOR: X⊙X = 1)</li>
+    <li>NAND/NOR commute, but are NOT associative and NOT distributive</li>
+    <li><b>XNOR IS associative</b> — (A⊙B)⊙C = A⊙B⊙C</li>
+    <li>Distributive both ways: only AND and OR</li>
+    <li>Universal: NAND alone, NOR alone — XOR is NOT universal</li>
+  </ul>
+</div>
+
+<div class="box">
+  <p><b>40-second recall script</b> — "Six basic gates: AND (1 iff all 1s), OR (1 iff any 1), NAND/NOR their inverses — both universal. XOR = parity, 1 when inputs differ; XNOR = equality. Properties: all commutative; associative = AND, OR, XOR, XNOR — NAND/NOR are not; idempotent = only AND, OR since X XOR X = 0. De Morgan: (AB)′ = A′+B′. Example: full adder Sum = A⊕B⊕Cin, Carry = AB + Cin(A⊕B)."</p>
+</div>
+
+<p class="foot">Source: IOCL/DE/LOGIC-GATES-TRUTH-TABLES.md · generated 21 Sept 2026 · IOCL CBT 24 Sept — report 12:30 PM</p>
+
+</body>
+</html>

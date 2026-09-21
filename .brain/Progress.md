@@ -15,6 +15,14 @@
 
 ## Session Log
 
+### Session 75 -- 21 Sept 2026 09:15 AM (📄 Logic Gates Master Sheet — printable MD + PDF)
+- **Type:** Study Asset, Print Material
+- **What happened:**
+  - Created **`IOCL/DE/LOGIC-GATES-TRUTH-TABLES.md`** + **`.pdf`** (2-page A4 print sheet): 6-gate master truth table → properties matrix (idempotent · commutative · associative · distributive · identity · constant · complement · universality) → De Morgan + universal recipes + XOR/XNOR magic → MCQ traps → 40s script → 4 follow-ups.
+  - Print source `LOGIC-GATES-TRUTH-TABLES.print.html` kept for re-prints (regenerate: Chrome headless `--print-to-pdf`).
+  - Verified: 2 pages (kMDItemNumberOfPages), symbols render clean (⊕ ⊙ ↑ ↓ ′ ★), page 1 + page 2 visually checked.
+- **Next goals:** Use sheet for DL 3.2 gates revision inside C1 cycle (DL 3.2 close → OS 9.1 → Quant 20m).
+
 ### Session 74b/74c -- 20 Sept 2026 12:40 PM (🧩 W↔I Cycle Format Implemented — user feedback)
 - **Type:** Structure Fix, Tracker Rebuild, Brain Sync
 - **What happened:**
