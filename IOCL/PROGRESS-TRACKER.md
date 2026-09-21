@@ -4,7 +4,7 @@
 > **Window:** 21 Sept (12:00 PM) → 24 Sept (09:30 AM) · **~44h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
 > Companions: [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (hour detail) · tracker website (clickable) · [`SYLLABUS.md`](SYLLABUS.md)
 
-**Last updated:** 21 Sept 2026, 12:00 PM (**v3 — V8 FINAL 3-DAY SPRINT · all 5 courses re-scraped · Compiler cut · Mock-2 → speed sets**)
+**Last updated:** 21 Sept 2026, 5:00 PM (**v3.1 — ✅ DL 3.3 done · tonight: DL 3.4→3.8 close + OS 9.1–9.6**)
 
 ---
 
@@ -19,7 +19,7 @@
 | 5 | **Computer Networks** | 9.3% | ~7 | 🔴 0% | 🔴 **W** |
 | 6 | **DBMS** | 9.2% | ~7 | 🔴 0% | 🟢 **I** |
 | 7 | **Theory of Computation** | 9.0% | ~7 | 🔴 0% | 🔴 **W** |
-| 8 | **Digital Logic** | 8.8% | ~7 | 🟡 3.1 ✓ · 3.2 ✓ · **3.3 partial** (SOP/POS ✓ · func-counts ✓ · completeness ✓) | 🔴 **W** |
+| 8 | **Digital Logic** | 8.8% | ~7 | 🟡 3.1 ✓ · 3.2 ✓ · **3.3 ✅ (done 5 PM)** · tonight 3.4→3.8 → **DL ✅** | 🔴 **W** |
 | 9 | **Algorithms** | 7.3% | ~5 | 🔴 0% | 🟢 **I** |
 | 10 | **Compiler Design** | 5.5% | ~4 | 🔴 0% | 🔴 **W** |
 | — | **Aptitude (Quant · Reasoning · English)** | — | 25 | 🟢 revision-only | 🟢 **I** |
@@ -85,18 +85,22 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 **Cycle ≈ 60–75 min** = W-topic (~30m: notes → 5-8 PYQs) + I-topic (~30m) + micro-slot (Apt 20m / Chunk 10Q). Past 35 min on a topic → mark it & move; it gets fixed in the sprint or mock analysis.
 
-### 🔥 MON 21 (today) — 12:00 → 00:45 · DL ✅ day + OS start
+### 🔥 MON 21 (today) — 5:00 PM → 00:45 · DL ✅ SPRINT (3.3 ✓ done) + OS start
 
-| # | W-side (Digital Logic — finish!) | I-side (Operating Systems) | Micro |
-|:--|:---------------------------------|:---------------------------|:------|
-| C1 | DL 3.3 rest (finish Boolean Expression) | OS 9.1 Intro | Quant 20m |
-| C2 | DL 3.4 K-map + don't-cares | OS 9.2 Process Mgmt | **Chunk #1** |
-| C3 | DL 3.5 Combinational (MUX/decoder/adder) | OS 9.3 CPU Scheduling (+8 numericals) | Quant 20m |
-| C4 | DL 3.6 Sequential (flip-flops/counters) | OS 9.4 Synchronization | **Chunk #2** |
-| C5 | DL 3.7 Number System | OS 9.5 Threads | Quant 20m |
-| C6 | DL 3.8 IEEE 754 | OS 9.6 Deadlock + Banker's (5 numericals) | **Chunk #3** |
-| C7 | DL PYQ 20Q sweep → **DL ✅** | OS 9.7 Memory (paging) | one-pagers |
-| C8 | — | OS 9.8 Virtual Memory (+10 page-replacement numericals) | Export · sleep 00:45 |
+> **Tonight = DL finishing sprint (block mode — last mile of your weak subject). W↔I alternation resumes Tuesday with CN ↔ DBMS.**
+
+| Block | Time | What |
+|:------|:-----|:-----|
+| 1 | 5:00–6:00 | **DL 3.4 K-map** (2/3/4-var + don't-cares) + 10 PQs |
+| 2 | 6:10–7:10 | **DL 3.5 Combinational** (MUX/DEMUX/decoder/encoder/adders) + 10 PQs |
+| 3 | 7:20–8:20 | **DL 3.6 Sequential** (flip-flops SR/JK/D/T, counters, registers) + 10 PQs → **Chunk #1** |
+| 4 | 8:30–9:00 | **DL 3.7 Number System + 3.8 IEEE 754** (quick — notes + few PQs) |
+| 5 | 9:00–9:30 | **DL PYQ sweep 20Q → DL ✅** |
+| 6 | 9:40–11:00 | **OS 9.1 Intro + 9.2 Process Mgmt + 9.3 CPU Scheduling** (+8 numericals) |
+| 7 | 11:10–00:20 | **OS 9.4 Synchronization + 9.5 Threads** (+PQs) |
+| 8 | 00:20–00:45 | **OS 9.6 Deadlock + Banker's (5 numericals)** → one-pager + Export → **sleep 01:00** |
+
+> **If behind at 9:30 PM:** finish DL ✅ first (non-negotiable), then OS 9.1–9.3; OS 9.4–9.6 rolls to Tuesday morning block 1.
 
 ### TUE 22 — 06:00 → 01:00 · OS ✅ + P2: CN 11.1–11.8 + DBMS 10.1–10.4 + DS start
 

@@ -9,11 +9,17 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 21 Sept 2026 12:00 -- V8 FINAL 3-DAY SPRINT: all 5 courses re-scraped (stable), ~44h plan locked (Mon/Tue/Wed), Mock-1 Tue full + speed sets Wed, Compiler cut. Status: DL 3.1 ✓ · 3.2 ✓ · 3.3 partial |
+| **Last Session** | 21 Sept 2026 17:00 -- ✅ DL 3.3 DONE (Boolean Expression complete). Tonight: DL 3.4→3.8 + 20Q → DL ✅ · then OS 9.1–9.6. |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 77 -- 21 Sept 2026 5:00 PM (✅ DL 3.3 DONE — Boolean Expression complete)
+- **Progress:** DL 3.3 ✓ (finished ~5 PM). Remaining DL: 3.4 K-map → 3.5 Combinational → 3.6 Sequential → 3.7/3.8 → 20Q sweep → **DL ✅**.
+- **Tonight (5 PM → 00:45, DL sprint blocks):** 3.4 (5:00) → 3.5 (6:10) → 3.6 (7:20) → 3.7/3.8 (8:30) → DL PYQ sweep (9:00) → **DL ✅ ~9:30 PM** · OS 9.1–9.3 (9:40) · OS 9.4–9.5 (11:10) · OS 9.6 Banker's (00:20). Fallback: OS 9.4–9.6 → Tuesday AM block 1.
+- **Updated:** `IOCL/PROGRESS-TRACKER.md` v3.1 + tracker site (NOW card + evening schedule + d21 title).
+- **Next goals:** DL ✅ tonight; OS 9.1–9.6; Tuesday = OS ✅ + CN 11.1–11.8 (subnetting) + DBMS 10.1–10.4 + DS start + MOCK-1.
 
 ### Session 76 -- 21 Sept 2026 12:00 PM (🔥 V8 FINAL 3-DAY SPRINT — all 5 courses re-scraped + 44h plan)
 - **Type:** Course Re-scrape (all 5), Replan, Tracker v8, Brain Sync
