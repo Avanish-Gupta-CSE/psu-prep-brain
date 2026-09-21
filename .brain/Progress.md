@@ -9,11 +9,17 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 21 Sept 2026 17:00 -- ✅ DL 3.3 DONE (Boolean Expression complete). Tonight: DL 3.4→3.8 + 20Q → DL ✅ · then OS 9.1–9.6. |
+| **Last Session** | 21 Sept 2026 19:15 -- Break till 7:06 PM → DL closure night replanned (3.4 K-map 45-90′ → 3.5 → 3.6 → 3.7/3.8 → sweep → DL ✅ by ~12:15 AM). OS slides to Tue AM. Thresholds grounded in KG lecture times (3.4 = 23v/2h). |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 77d -- 21 Sept 2026 7:15 PM (🔁 Break till 7:06 PM → DL closure night v3.2)
+- **Event:** User took break till 7:06 PM. Replanned evening: DL-only closure (3.4→3.8 + sweep → DL ✅), OS slides to Tuesday AM sprint (9.1–9.6, compressed) — Mock-1 stays Tue 20:30, DS tail → Wed.
+- **Scrape:** KG CIL "Boolean Minimization" (3.4): 23 videos/2h @1x · 12 PYQs (18m) · 27 PQs · 3 notes/40pg. K-Map Structure & PIs = 16/23 vids (33.3% weight).
+- **Thresholds (re-anchored to lecture times):** 3.4 K-map **45′min/90′max** (notes 15′ + 12 PYQs 25′ + stuck-only vids ≤20′) · 3.5 50′/70′ · 3.6 50′/75′ · 3.7+3.8 25′/35′ · sweep 20′/30′. Milestones: 3.4≤8:45 · 3.5≤10:05 · 3.6≤11:30 · DL ✅ ~12:15 (wall 12:45) · sleep 01:00.
+- **Updated:** `IOCL/PROGRESS-TRACKER.md` v3.2 (Mon section + Tue handoff) · tracker site (NOW card, evening schedule, d21 tasks, d22 title, budget) · this log.
 
 ### Session 77 -- 21 Sept 2026 5:00 PM (✅ DL 3.3 DONE — Boolean Expression complete)
 - **Progress:** DL 3.3 ✓ (finished ~5 PM). Remaining DL: 3.4 K-map → 3.5 Combinational → 3.6 Sequential → 3.7/3.8 → 20Q sweep → **DL ✅**.

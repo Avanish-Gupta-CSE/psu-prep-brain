@@ -4,7 +4,7 @@
 > **Window:** 21 Sept (12:00 PM) → 24 Sept (09:30 AM) · **~44h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
 > Companions: [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (hour detail) · tracker website (clickable) · [`SYLLABUS.md`](SYLLABUS.md)
 
-**Last updated:** 21 Sept 2026, 5:00 PM (**v3.1 — ✅ DL 3.3 done · tonight: DL 3.4→3.8 close + OS 9.1–9.6**)
+**Last updated:** 21 Sept 2026, 7:15 PM (**v3.2 — break till 7:06 PM → DL closure night: 3.4→3.8 + sweep · OS slides to Tue AM · thresholds re-anchored to KG lecture times**)
 
 ---
 
@@ -85,30 +85,27 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 **Cycle ≈ 60–75 min** = W-topic (~30m: notes → 5-8 PYQs) + I-topic (~30m) + micro-slot (Apt 20m / Chunk 10Q). Past 35 min on a topic → mark it & move; it gets fixed in the sprint or mock analysis.
 
-### 🔥 MON 21 (today) — 5:00 PM → 00:45 · DL ✅ SPRINT (3.3 ✓ done) + OS start
+### 🔥 MON 21 (today) — 7:15 PM → 00:45 · DL ✅ CLOSURE NIGHT (3.3 ✓) — replanned 7:06 PM
 
-> **Tonight = DL finishing sprint (block mode — last mile of your weak subject). W↔I alternation resumes Tuesday with CN ↔ DBMS.**
+> **Break taken till 7:06 PM. Tonight = DL only (block mode). OS start slides to Tuesday AM — 5h lost today, the chain below self-heals.**
 
-| Block | Time | What |
-|:------|:-----|:-----|
-| 1 | 5:00–6:00 | **DL 3.4 K-map** (2/3/4-var + don't-cares) + 10 PQs |
-| 2 | 6:10–7:10 | **DL 3.5 Combinational** (MUX/DEMUX/decoder/encoder/adders) + 10 PQs |
-| 3 | 7:20–8:20 | **DL 3.6 Sequential** (flip-flops SR/JK/D/T, counters, registers) + 10 PQs → **Chunk #1** |
-| 4 | 8:30–9:00 | **DL 3.7 Number System + 3.8 IEEE 754** (quick — notes + few PQs) |
-| 5 | 9:00–9:30 | **DL PYQ sweep 20Q → DL ✅** |
-| 6 | 9:40–11:00 | **OS 9.1 Intro + 9.2 Process Mgmt + 9.3 CPU Scheduling** (+8 numericals) |
-| 7 | 11:10–00:20 | **OS 9.4 Synchronization + 9.5 Threads** (+PQs) |
-| 8 | 00:20–00:45 | **OS 9.6 Deadlock + Banker's (5 numericals)** → one-pager + Export → **sleep 01:00** |
+| Block | Window | 🟢 Min | 🔴 Max | What |
+|:------|:-------|:------:|:------:|:-----|
+| 1 | 7:15 → 8:45 | 45′ | 90′ | **DL 3.4 K-map + don't-cares** — notes → 12 PYQs → stuck-only videos @2x |
+| 2 | 8:55 → 10:05 | 50′ | 70′ | **DL 3.5 Combinational** (MUX/DEMUX/decoder/encoder/adder) + 10 PQs |
+| 3 | 10:15 → 11:30 | 50′ | 75′ | **DL 3.6 Sequential** (flip-flops SR/JK/D/T, counters, registers) + 10 PQs |
+| 4 | 11:40 → 00:15 | 25′ | 35′ | **DL 3.7 + 3.8** Number System + IEEE 754 (quick) |
+| 5 | 00:15 → 00:45 | 20′ | 30′ | **DL PYQ sweep 10–20Q → DL ✅** → one-pager + Export → **sleep 01:00** |
 
-**⏱ Per-block thresholds (min–max, ±5′ buffer):** 3.4 K-map → 40–75′ · 3.5 Combinational → 45–75′ · 3.6 Sequential → 50–80′ · 3.7/3.8 → 25–45′ · PYQ sweep → 25–40′ · OS 9.1–9.3 → 60–95′ · OS 9.4–9.5 → 50–80′ · OS 9.6 → 35–55′.
-**🟢 Min rule:** finish ≤ min **and** ≥80% PQs right → tick, +5 extra PQs, break. **🔴 Max rule:** at max → STOP, mark leftovers, tick, move (never extend a block twice).
-**🚩 Milestones:** **DL ✅ by 21:30** (abs max 22:00) · OS 9.1–9.3 by **23:45** · OS 9.4–9.5 by **00:20** (else → Tue) · **sleep 01:00**.
-
-> **If behind at 9:30 PM:** finish DL ✅ first (non-negotiable), then OS 9.1–9.3; OS 9.4–9.6 rolls to Tuesday morning block 1.
+**📐 Grounded in KG lecture times (scraped 7:08 PM):** 3.4 = 23 videos / 2h @1x (1h @2x) · 12 PYQs (18m solns) · 27 PQs · 3 notes / 40 pages. K-Map Structure & PIs = 16/23 videos (33.3% PYQ weight) — core of the section.
+**Why 45–90′ for a 2h-video section:** we don't watch the videos — Notes (12–15′) → 12 PYQs (~25′) → 1–2 stuck-only videos @2x (≤20′) → one-pager (5′). MIN path = notes+PYQs click. MAX path = 2 concept videos @2x + extra PQ reps. (+5′ buffer on each max → 3.4 hard stop **8:50 PM**.)
+**🟢 Min rule:** finish ≤ min AND ≥80% PYQs right → tick, +5 PQs, break. **🔴 Max rule:** at max → STOP, mark leftovers on one-pager, tick, next block (never extend twice).
+**🚩 Milestones:** DL 3.4 done ≤ **8:45** · DL 3.5 done ≤ **10:05** · DL 3.6 done ≤ **11:30** · **DL ✅ by ~12:15** (fast path 11:10, wall 12:45) · **sleep 01:00**.
+**Fallback:** 3.4 hits max at 8:45 without clicking → tick + mark the 2 hardest subtopics (they get fixed in the sweep + mock analysis) → move. **DL ✅ is the only non-negotiable tonight.**
 
 ### TUE 22 — 06:00 → 01:00 · OS ✅ + P2: CN 11.1–11.8 + DBMS 10.1–10.4 + DS start
 
-> **5 PM Mon adjustment:** Monday night = DL sprint + OS 9.1–9.6 → **Tuesday opens with OS 9.7–9.8** (memory + page replacement), then 9.9–9.10 → **OS ✅**.
+> **7:06 PM replan:** tonight = DL ✅ only → **Tuesday 06:00–08:30 = OS 9.1–9.6 sprint** (compressed; if 9.1–9.2 done tonight, start at 9.3). Then C1–C3 below as listed (9.7→9.10 → **OS ✅** ~11:30). CN/DBMS slide right ~2h; **Mock-1 stays 20:30**; DS 5.7–5.10 → Wednesday.
 
 | # | W-side (Computer Networks) | I-side (OS finish → DBMS → DS) | Micro |
 |:--|:---------------------------|:-------------------------------|:------|
