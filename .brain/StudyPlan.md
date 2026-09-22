@@ -25,7 +25,7 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 21 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V8 3-DAY SPRINT (~44h: 21st 12:00 PM → 24th 09:30 AM)** — Mon DL✅+OS start · Tue OS✅+CN+DBMS+DS+Mock-1 · Wed CN✅+DBMS✅+COA✅+DS✅+light pass → **CBT 24 Sept IN BAREILLY (report 12:30 PM, study stops 09:30)** · Compiler cut | 🔥 **ACTIVE (V8 FINAL)** |
+| **Phase 7** | 22 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V9 ENDGAME (~19–26h): Tue 22 = DL 3.4 close + 3.5–3.8 + Aptitude + OS core · Wed 23 = OS✅ + MOCK-1 + DBMS + CN + DS + COA + light pass · Thu 24 = skim → CBT 12:30 PM.** Method: 30% shell / 70% PYQ-mining. Compiler skipped. | 🔥 **ACTIVE (V9 ENDGAME)** |
 | **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
@@ -37,9 +37,11 @@
 
 ---
 
-## Phase 7: IOCL V8 FINAL 3-DAY SPRINT — 21 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
+## Phase 7: IOCL V9 ENDGAME — 22 → 24 Sept 2026 (exam IN BAREILLY, report 12:30 PM)
 
-**Window:** 21 Sept (12:00 PM) → 24 Sept 09:30 AM = **~44h study** (Mon ~12h · Tue ~15h · Wed ~15h · Thu 2.5h skim). **Strategy: Notes → PYQs → wrong-answer solution videos ONLY.**
+**Window:** 22 Sept (afternoon) → 24 Sept 09:30 AM = **~19–26h study** (Tue ~7h · Wed ~12h · Thu 2.5h skim). **Strategy: 30% shell / 70% PYQ-mining + attempt-with-elimination (90-sec cap).**
+
+> V8 distribution below = **superseded** (kept for history).
 
 **🎫 Admit card:** Roll `1171000327` · **Report 12:30 PM, 24 Sept** · ION Digital Zone IDZ Dohna, Nainital Road, Bareilly (home city). **3h buffer: study stops 09:30** on exam day.
 

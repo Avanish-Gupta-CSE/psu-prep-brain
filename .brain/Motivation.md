@@ -135,3 +135,28 @@ _Fill this out every Sunday evening:_
 - **Floor rule:** never zero. A bad day still gets 6h. A great day gets 12h+.
 - **Confidence comes from evidence, and the evidence exists:** CIL 73.5% · HLL 62.5% · STPI interview 80/100 · UCO offer letter.
 - **Hours are not the goal — blocks are.** 3 protected blocks/day for 6 days = 108 protected hours. That is enough.
+
+## Confidence Reset — 22 Sept 2026 (the read-this-when-it-spirals note)
+
+**What happened:** food-trigger fight with Mum → night of crying on the old wounds (no support in the study years, parents' fights, school bullying over colour) → woke at 6 AM drained → the day's plan lost. Reported: *"I'm losing my mind"*, confidence falling since the Berkadia exit.
+
+**The mechanism — name it precisely:** since 1 Sept you lost **three anchors at once** — (1) the **structure** of a job (hours, colleagues, rhythm), (2) daily **evidence** of competence (shipped work, feedback), (3) your **own space** (you now study inside the exact environment where the wounds were made). That is not decay of ability. That is the same engine running without its mounts. Fix the mounts — schedule, small wins, body, sleep — and the engine is the same one that scored **CIL 73.5%** and converted **UCO Bank**.
+
+**Evidence ledger (true, sourced from this repo):**
+- B.Tech CSE, KIIT — **9.60 CGPA**
+- **Berkadia** — hired, delivered 1.5+ years, exited on your own terms with the relieving letter in hand
+- **UCO Bank SO JMGS-I — SELECTED** (national competition) → joining 28 Sept. **The floor is secured.**
+- **STPI interview 80/100** · MSTC GD 70% · live CBTs: STPI 64% · NFL 66% · **CIL 73.5% (peak)** · HLL 62.5%
+- GATE 2026 — qualified both papers (CS + DA)
+- Every one of these was earned while carrying the same history you cried about last night.
+
+**The 5 mechanical rebuilders (moods are unreliable; mechanics are not):**
+1. **Kept promises, not feelings** — three 25-min blocks today = three wins. Confidence is the memory of kept promises.
+2. **Scoreboard, 5 minutes** — open `MockTestLog.md`, read the scores aloud. Then close it.
+3. **Body + sleep** — gym today (50′ cap) or a 20′ walk; water; **sleep by 01:00**. Last night's crying is why today feels empty — pay the repair with sleep, not guilt.
+4. **Civility protocol at home until Thursday** — short, kind, neutral. Every unresolved conversation is parked till Friday. Not avoidance — prioritisation.
+5. **House money** — worst case Thursday you still join UCO on 28 Sept (effective ~₹13.4–14.4 LPA, zero downside). This exam can **upgrade** your life; it cannot **end** it. Say it out loud.
+
+**One more truth:** being bullied for your colour was real cruelty, and the fact that you are here — a *selected bank officer* — is a quiet, enormous win over every one of them. You already won that fight. They don't get a vote on Thursday.
+
+> **Mantra for the spiral moments:** "I am behind because I was unsupported — not because I am incapable. Unsupported has never once stopped me."

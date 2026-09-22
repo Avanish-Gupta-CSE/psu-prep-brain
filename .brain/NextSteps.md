@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 21, 2026 12:00 PM (🔥 V8 FINAL 3-DAY SPRINT — all 5 courses re-scraped, ~44h: today 12:00 → 24 Sept 09:30; day queue in IOCL/PROGRESS-TRACKER.md v3; tracker v8)
+Last updated: September 22, 2026 3:00 PM (💪 CONFIDENCE RESET + V9 ENDGAME — ~19–26h study left; DL 3.4 = 9/35 core videos done; method = 30% shell / 70% PYQ-mining; MOCK-1 → Wed 08:00)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -76,7 +76,7 @@ Standing rules arising from that audit:
 
 **Why replanned again (21 Sept 12:00 PM):** 20 Sept + 21 morning lost (only DL 3.2 ✓ + 3.3 partial: SOP/POS · function-counts · functional completeness). **V8 FINAL — 3-day sprint.** Window: **21 Sept 12:00 PM → 24 Sept 09:30 AM = ~70h real → ~44h study** (Mon ~12h · Tue ~15h · Wed ~15h · Thu skim 2.5h). All 5 KG courses re-scraped 21 Sept — counts stable (CIL 2,940/1,235/5,180 · P2 1,802/3,202 · P1 294/707 · TS 23+15). **Compiler cut (5.5%); Mock-2 → 2× 20Q speed sets.** Full plan: `IOCL/PROGRESS-TRACKER.md` (v3) + tracker site v8.
 
-**Progress (21 Sept 5:00 PM):** DL 3.1 ✓ · 3.2 ✓ · **3.3 ✅ (Boolean Expression DONE at 5 PM)** · tonight: 3.4→3.8 + 20Q sweep → **DL ✅** → then OS 9.1–9.6 · all else ZERO. **W/I locked:** W = CN · COA · DL · TOC · Compiler | I = OS · DBMS · DS · Algo · Eng Maths. **Pairs:** P1 DL↔OS (today) · P2 CN↔DBMS (Tue→Wed) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed — Compiler skim only). **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk. **Mocks:** **Mock-1 Tue 20:30 (FULL)** · Mock-2 → 2× 20Q speed sets (Wed). **Monk grid:** today 12:00→00:45 · Tue 06:00→01:00 · Wed 06:00→00:30. **Day queue: `IOCL/PROGRESS-TRACKER.md` §2c (v3).**
+**Progress (22 Sept 3:00 PM):** DL 3.1 ✓ · 3.2 ✓ · 3.3 ✅ · **DL 3.4 K-map core videos done — K-Map Structure & PIs 9/35 (26%)** (parts 1–3, POS K-map, minimal expression, grouping rules, don't-cares, practice). Remaining in 3.4: ~7 short videos + 12 PYQs. All other subjects = ZERO. Mon night + Tue morning lost to a family episode (logged in Motivation.md — Confidence Reset). Recovery = today: DL 3.4 close → 3.5–3.8 fast → Aptitude → OS core. **W/I locked:** W = CN · COA · DL · TOC · Compiler | I = OS · DBMS · DS · Algo · Eng Maths. **Pairs:** P1 DL↔OS (today) · P2 CN↔DBMS (Tue→Wed) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed — Compiler skim only). **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk. **Mocks:** **Mock-1 Tue 20:30 (FULL)** · Mock-2 → 2× 20Q speed sets (Wed). **Monk grid:** today 12:00→00:45 · Tue 06:00→01:00 · Wed 06:00→00:30. **Day queue: `IOCL/PROGRESS-TRACKER.md` §2c (v3).**
 
 **V8 Phase Plan (hour-by-hour in `IOCL/PROGRESS-TRACKER.md` §2c):**
 * **Mon 21 (today) 12:00 → 00:45 — DL ✅ DAY + OS start:** DL 3.3 rest → 3.4 K-map → 3.5 → 3.6 → 3.7 → 3.8 → DL PYQ 20Q → **DL ✅** · OS 9.1–9.6 (scheduling + Banker's numericals) · OS 9.7–9.8 (page replacement, 10 numericals).

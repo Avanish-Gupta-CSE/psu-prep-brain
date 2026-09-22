@@ -1,10 +1,10 @@
 # 🔥 IOCL SPRINT — PROGRESS TRACKER (at-a-glance)
 
 > **This is the file you open to see "where am I, what's next".** Updated daily by your tutor-agent.
-> **Window:** 21 Sept (12:00 PM) → 24 Sept (09:30 AM) · **~44h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
+> **Window:** 22 Sept (afternoon) → 24 Sept (09:30 AM) · **~19–26h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
 > Companions: [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (hour detail) · tracker website (clickable) · [`SYLLABUS.md`](SYLLABUS.md)
 
-**Last updated:** 21 Sept 2026, 7:15 PM (**v3.2 — break till 7:06 PM → DL closure night: 3.4→3.8 + sweep · OS slides to Tue AM · thresholds re-anchored to KG lecture times**)
+**Last updated:** 22 Sept 2026, 3:00 PM (**v4 — 💪 CONFIDENCE RESET + V9 ENDGAME: Tue 22 = DL close + Aptitude + OS core · Wed 23 = OS✅ + MOCK-1 + 4 cores + light pass · method = 30% shell / 70% PYQ-mining**)
 
 ---
 
@@ -85,59 +85,44 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 **Cycle ≈ 60–75 min** = W-topic (~30m: notes → 5-8 PYQs) + I-topic (~30m) + micro-slot (Apt 20m / Chunk 10Q). Past 35 min on a topic → mark it & move; it gets fixed in the sprint or mock analysis.
 
-### 🔥 MON 21 (today) — 7:15 PM → 00:45 · DL ✅ CLOSURE NIGHT (3.3 ✓) — replanned 7:06 PM
+### MON 21 — LOST (break till 7:06 PM → family episode → recovery night). *Kept for the record.*
 
-> **Break taken till 7:06 PM. Tonight = DL only (block mode). OS start slides to Tuesday AM — 5h lost today, the chain below self-heals.**
+> Only **DL 3.4 core videos landed**: K-Map Structure & PIs **9/35 (26%)** — K-map parts 1–3, POS K-map, minimal expression, grouping rules, don't-cares, practice. No OS. The emotional bill was paid; we rebuild today — no shame.
 
-| Block | Window | 🟢 Min | 🔴 Max | What |
-|:------|:-------|:------:|:------:|:-----|
-| 1 | 7:15 → 8:45 | 45′ | 90′ | **DL 3.4 K-map + don't-cares** — notes → 12 PYQs → stuck-only videos @2x |
-| 2 | 8:55 → 10:05 | 50′ | 70′ | **DL 3.5 Combinational** (MUX/DEMUX/decoder/encoder/adder) + 10 PQs |
-| 3 | 10:15 → 11:30 | 50′ | 75′ | **DL 3.6 Sequential** (flip-flops SR/JK/D/T, counters, registers) + 10 PQs |
-| 4 | 11:40 → 00:15 | 25′ | 35′ | **DL 3.7 + 3.8** Number System + IEEE 754 (quick) |
-| 5 | 00:15 → 00:45 | 20′ | 30′ | **DL PYQ sweep 10–20Q → DL ✅** → one-pager + Export → **sleep 01:00** |
+### 🔥 TUE 22 (today) — RESTART + DL CLOSE (~7h study — start at the next clean hour)
 
-**📐 Grounded in KG lecture times (scraped 7:08 PM):** 3.4 = 23 videos / 2h @1x (1h @2x) · 12 PYQs (18m solns) · 27 PQs · 3 notes / 40 pages. K-Map Structure & PIs = 16/23 videos (33.3% PYQ weight) — core of the section.
-**Why 45–90′ for a 2h-video section:** we don't watch the videos — Notes (12–15′) → 12 PYQs (~25′) → 1–2 stuck-only videos @2x (≤20′) → one-pager (5′). MIN path = notes+PYQs click. MAX path = 2 concept videos @2x + extra PQ reps. (+5′ buffer on each max → 3.4 hard stop **8:50 PM**.)
-**🟢 Min rule:** finish ≤ min AND ≥80% PYQs right → tick, +5 PQs, break. **🔴 Max rule:** at max → STOP, mark leftovers on one-pager, tick, next block (never extend twice).
-**🚩 Milestones:** DL 3.4 done ≤ **8:45** · DL 3.5 done ≤ **10:05** · DL 3.6 done ≤ **11:30** · **DL ✅ by ~12:15** (fast path 11:10, wall 12:45) · **sleep 01:00**.
-**Fallback:** 3.4 hits max at 8:45 without clicking → tick + mark the 2 hardest subtopics (they get fixed in the sweep + mock analysis) → move. **DL ✅ is the only non-negotiable tonight.**
+> **V9 ENDGAME.** Method locked: **30% shell → 70% PYQ-mining** (attempt-first; mine every wrong answer → one line on the one-pager). Negative marking: attempt when ≥2 options eliminated; 90-sec cap; blank = 0 guaranteed.
 
-### TUE 22 — 06:00 → 01:00 · OS ✅ + P2: CN 11.1–11.8 + DBMS 10.1–10.4 + DS start
+| Block | Window | What | Tier |
+|:------|:-------|:-----|:----:|
+| A | +0:00 → +1:30 | **DL 3.4 CLOSE** — tail lessons (~30′: Prime Implicant, reverse-solving, practice Qs) + **12 PYQs** → ✅ | 1 |
+| B | +1:40 → +3:00 | **DL 3.5 + 3.6** fast pass (truth tables + 10 PQs each) | 1 |
+| C | +3:00 → +3:30 | **DL 3.7 + 3.8** skim (number systems — quick) | 1 |
+| D | +3:40 → +4:40 | **APTITUDE — Quant + Reasoning** (formula sheet + 20 mixed Qs) — the confidence block | 1 |
+| E | +4:50 → +7:00 | **OS CORE 1** — process + scheduling (8 numericals) + deadlock + Banker's | 1 |
+| F | optional | DBMS shell 30′ — keys + 1NF→3NF one-pager | 2 |
+| — | — | Export JSON + **sleep by 01:00** | — |
 
-> **7:06 PM replan:** tonight = DL ✅ only → **Tuesday 06:00–08:30 = OS 9.1–9.6 sprint** (compressed; if 9.1–9.2 done tonight, start at 9.3). Then C1–C3 below as listed (9.7→9.10 → **OS ✅** ~11:30). CN/DBMS slide right ~2h; **Mock-1 stays 20:30**; DS 5.7–5.10 → Wednesday.
+**Gym today: YES** (50′ cap — mood repair, not a gym day; out the door by ~5 PM, else 20′ walk). **Wed: no gym** (walking breaks only). **Thu: rest.**
 
-| # | W-side (Computer Networks) | I-side (OS finish → DBMS → DS) | Micro |
-|:--|:---------------------------|:-------------------------------|:------|
-| C1 | CN 11.1 Intro | **OS 9.7 Memory + 9.8 Virtual Memory (+10 page-replacement numericals)** | Reasoning 20m |
-| C2 | CN 11.2 Access Control | OS 9.9 Disk Scheduling | **Chunk #4** |
-| C3 | CN 11.3 Flow Control | OS 9.10 File Mgmt | English 20m |
-| C4 | CN 11.4 Error Control / CRC | OS PYQ 40Q → **OS ✅** | **Chunk #5** |
-| C5 | CN 11.5 Framing | DBMS 10.1 Basics | Reasoning 20m |
-| C6 | CN 11.6 Ethernet | DBMS 10.2 ER Diagram | **Chunk #6** |
-| C7 | CN 11.7 IPv4 & protocols | DBMS 10.3 Rel / FD | English 20m |
-| C8 | CN 11.8 **Subnetting — 15 drills** | DBMS 10.4 Keys | **Chunk #7** |
-| C9 | — | DS 5.1–5.6 skim + 5.7 / 5.8 (5.9–5.10 → Wed if short) | one-pagers |
-| ★ | **MOCK-1 — 20:30–22:30 full 100Q/120min** | analysis 22:30–23:30 | sleep 01:00 |
+### 🔥 WED 23 — THE BIG DAY (~12h study) · OS ✅ + MOCK-1 + 4 cores + light pass
 
-### WED 23 — 06:00 → 00:30 · FINALS: CN ✅ · DBMS ✅ · COA ✅ · DS ✅ + light pass
+| Slot | Time | What |
+|:-----|:-----|:-----|
+| 1 | 06:30–08:00 | **OS CORE 2** — memory + page replacement (FIFO/LRU/Optimal, 10 numericals) + disk + **40Q sprint → OS ✅** |
+| 2 | 08:00–10:00 | **🔥 MOCK-1 — full 100Q / 120 min** (KG test series) |
+| 3 | 10:00–10:45 | **Mock analysis** — every wrong → one line: gap vs silly vs time |
+| 4 | 10:45–13:00 | **DBMS CORE** — ER/FD/keys + normalization 1NF→BCNF + SQL joins + ACID/2PL (notes + 40 PYQs) |
+| 5 | 13:00–14:00 | Lunch + 20′ nap |
+| 6 | 14:00–16:30 | **CN CORE** — OSI/device/port tables + **subnetting 10 drills** + TCP/UDP + CRC (30 PYQs) |
+| 7 | 16:30–17:00 | Walk (offline) |
+| 8 | 17:00–19:30 | **DS CORE** — complexity tables + array/stack/queue/LL + tree traversals + BFS/DFS + hashing (30 PYQs) |
+| 9 | 19:30–21:00 | **COA sprint** — IEEE 754 + cache mapping + pipeline numericals (20 PYQs) |
+| 10 | 21:00–21:45 | Dinner |
+| 11 | 21:45–23:45 | **Light pass:** TOC DFA/NFA recognition (15Q) → Algo sorting table + MST/SP (15Q) → EngM probability (10Q) → Apt 20 mixed Qs |
+| 12 | 23:45–00:30 | One-pagers + formula card + **pack bag** + route check → **sleep 00:45 — no later.** |
 
-| # | W-side (CN finish / COA / TOC) | I-side (DBMS finish / DS / EngM) | Micro |
-|:--|:-------------------------------|:---------------------------------|:------|
-| C1 | CN 11.9 Routing | DBMS 10.5 Normalization (1NF→BCNF) | English 20m |
-| C2 | CN 11.10 Transport | DBMS 10.6 Decomposition | **Chunk #8** |
-| C3 | CN 11.11 Congestion / UDP | DBMS 10.7 Indexing | English 20m |
-| C4 | CN 11.12 App layer | DBMS 10.8 Relational Algebra | **Chunk #9** |
-| C5 | CN 11.13 Hardware | DBMS 10.9 SQL drills | English 20m |
-| C6 | CN PYQ 25Q → **CN ✅** | DBMS 10.11 Transactions | **Chunk #10** |
-| C7 | COA 4.1 Float + 4.2 Cache (10 numericals) | DBMS 10.12 Concurrency + DBMS PYQ 40Q → **DBMS ✅** | — |
-| C8 | COA 4.3 I/O | **EngM** 2.10 Probability + 2.9 P&C | **Chunk #11** |
-| C9 | COA 4.4 Pipeline (5 numericals) → 4.5/4.6 quick + COA PYQ 25 → **COA ✅** | **TOC** 7.1–7.5 PYQ-first 25Q | — |
-| C10 | **Algo** complexity / sorting / MST-SP (pattern read + 20Q) | **DS** 5.11 LL + 5.12 Tree (incl. any 5.7–5.10 spillover) | **Chunk #12** |
-| C11 | — | DS 5.13 Graph + 5.14 Hashing + DS PYQ 20Q → **DS ✅** | 2× speed sets (20Q) |
-| ★ | pack bag (call letter + photo + ID + pen) | Export JSON | **sleep by 00:30** |
-
-> **Mock-2 note:** full second mock sacrificed — Wednesday already ends 00:30. Evening simulation = **2× 20Q mixed speed sets** (squeeze into Chunk #12 + C11). **Mock-1 (Tue) is your calibration.** **Drop-if-short order: Algo → TOC → EngM-LinAlg → DS-detail. Compiler skipped (5.5% ≈ 4 Qs — leave blank if unknown).**
+> **Drop-if-short (never touch Tier-1):** EngM → Algo → TOC → COA-deep. **Compiler = skipped** (5.5% ≈ 4 Qs; leave blank if unknown).
 
 ### Thu 24 — EXAM DAY
 07:00–09:30 formula/one-pager skim → **09:30 STOP** → docs 10:15 → leave 10:45 → **report 12:30 PM**

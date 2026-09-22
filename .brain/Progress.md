@@ -9,11 +9,19 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 21 Sept 2026 19:15 -- Break till 7:06 PM → DL closure night replanned (3.4 K-map 45-90′ → 3.5 → 3.6 → 3.7/3.8 → sweep → DL ✅ by ~12:15 AM). OS slides to Tue AM. Thresholds grounded in KG lecture times (3.4 = 23v/2h). |
+| **Last Session** | 22 Sept 2026 15:00 -- 💪 Confidence Reset after a family episode (logged); K-map core done (9/35); V9 ENDGAME locked (mock Wed 08:00, 30/70 method, gym today-only). |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 78 -- 22 Sept 2026 3:00 PM (💪 Confidence Reset + V9 ENDGAME)
+- **Type:** Wellness intervention + Replan
+- **Event:** Mon 21 evening + Tue 22 morning lost — food-trigger fight with mother → night of crying (childhood wounds: no study support, parents' fights, school bullying over colour) → woke 6 AM drained → no study. User: "I'm losing my mind"; confidence falling since Berkadia exit. Logged to `Motivation.md` → **Confidence Reset** section (mechanism: lost structure/evidence/space anchors; evidence ledger; 5 mechanical rebuilders; house-money rule).
+- **Verified progress (screenshots):** DL 3.4 K-map — **K-Map Structure & PIs 9/35 (26%)**: K-map parts 1–3, POS K-map, minimal Boolean expression, grouping rules, don't-cares, practice — the CORE is done. Remaining: ~7 short videos + 12 PYQs.
+- **Decisions (V9 ENDGAME):** (1) Method = **30% shell / 70% PYQ-mining** — not passive mock-reading, not video expansion. (2) MOCK-1 moved → **Wed 08:00** (tonight = coverage recovery). (3) Workout: **today yes** (mood repair, 50′ cap), Wed no (walk), Thu rest. (4) Tiers: Apt + OS + DBMS + CN + DS + DL-close = 70% of time; COA/TOC/Algo/EngM = 25%; Compiler skipped.
+- **Files:** Motivation.md (Confidence Reset) · NextSteps (V9) · StudyPlan (Phase 7 V9) · PROGRESS-TRACKER (Mon/Tue/Wed rewrite) · tracker site v9.
+- **Next goals:** TODAY — DL 3.4 close → DL 3.5/3.6 → Aptitude → OS core 1.
 
 ### Session 77d -- 21 Sept 2026 7:15 PM (🔁 Break till 7:06 PM → DL closure night v3.2)
 - **Event:** User took break till 7:06 PM. Replanned evening: DL-only closure (3.4→3.8 + sweep → DL ✅), OS slides to Tuesday AM sprint (9.1–9.6, compressed) — Mock-1 stays Tue 20:30, DS tail → Wed.
