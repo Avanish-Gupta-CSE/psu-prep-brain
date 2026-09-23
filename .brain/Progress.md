@@ -9,11 +9,23 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 22 Sept 2026 15:00 -- 💪 Confidence Reset after a family episode (logged); K-map core done (9/35); V9 ENDGAME locked (mock Wed 08:00, 30/70 method, gym today-only). |
+| **Last Session** | 23 Sept 2026 19:00 -- HLL merit-list analysis: Sl.89/292 in IT/CS, OBC#16 (62.5) — qualified but likely NOT interview-shortlisted (needs ≥3 IT-CS OBC seats; ~2 exist). HLL = bonus track. |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 79 -- 23 Sept 2026 7:00 PM (📊 HLL Merit List Analysed — qualified, but odds are thin)
+- **Type:** Result analysis, file creation
+- **What happened:**
+  - Downloaded + parsed the official HLL IT/CS marklist (Drive PDF, 7 pages, 292 qualified). **User = Sl. No. 89, App `117272`, OBC-NCL, 62.5 marks → OBC rank #16** (tie at 62.5 with app `121719`). IT/CS list: SC 118 · UR 78 · OBC 54 · ST 31 · EWS 11.
+  - **Vacancy matrix (notification HLL/HR/020/2026):** 40 total — Engineering **17** (all 8 branches), Pharma 6, Marketing 10, HR 2, Social Work 1, Data Analytics 1, Hospital Mgmt 3. Category: UR 14, **OBC-NCL 11**, SC 6, ST 3, EWS 4, PwD 2. **No branch-wise break-up published.**
+  - **Verdict:** IT-CS ≈ 2 seats of the 17; Engg OBC-NCL ≈ 4–5 across 8 branches → IT-CS OBC ≈ 0–1. Shortlist = **1:6 per stream/category** → user (OBC#16) needs **≥3 IT-CS OBC seats** to make the cut. **Almost certainly NOT shortlisted (~5–15%).**
+  - **Key clarification:** the published marklist = **FULL QUALIFIED list**, not the interview shortlist (proof: cut-offs match qualifying marks exactly — SC/ST down to 35%, OBC to 40.75%). That's why no letter arrived.
+  - **Definitive check:** log in at **`hllmt.cbtexam.in`** → individual result/score (per official notice).
+  - **Created** `HLL/HLL-DETAILS.md` (advt/app no, personal details, certificates, merit-list analysis, bond flag). Updated `ExamTracker.md` HLL entry.
+- **Strategic note:** HLL bond = **₹3L / 5 years** (vs UCO ₹2L / 2 years) — would block the pre-2028 upgrade plan. Bonus track only.
+- **Next goals:** **IOCL CBT tomorrow (24 Sept)** — report 12:30 PM, IDZ Dohna. HLL parked till after.
 
 ### Session 78 -- 22 Sept 2026 3:00 PM (💪 Confidence Reset + V9 ENDGAME)
 - **Type:** Wellness intervention + Replan

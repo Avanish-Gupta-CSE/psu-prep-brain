@@ -72,10 +72,14 @@
 | **OFFICIAL CBT DATE** | **23 August 2026 (Sunday, 10:00 AM - 12:00 PM)** — CBT DONE |
 | **Test Location** | **LUCKNOW** |
 | **Application No** | `117272` |
-| **Marks Released** | **🎯 62.5 / 100 (scorecard 17 Sept 2026)** — Order/marksheet PDF received; **shortlist still awaited** |
+| **Marks Released** | **🎯 62.5 / 100 (scorecard 17 Sept 2026)** — merit list published; **no interview letter** |
+| **Merit List (IT/CS)** | **Sl. No. 89 of 292 qualified** · **OBC-NCL rank #16** (tied 62.5 with app `121719`) · IT/CS list = SC 118, UR 78, **OBC 54**, ST 31, EWS 11 |
+| **Vacancy reality** | **Engineering = 17 seats TOTAL across 8 branches** (Mechatronics/Mech/Civil/Chem/Biomed/Elect/Instr/**IT-CS**) → IT-CS ≈ **2 seats**; Engg OBC-NCL ≈ 4–5 across all branches → **IT-CS OBC ≈ 0–1** |
+| **Shortlist math** | Official ratio **1:6 per stream/category**. For OBC#16 to be shortlisted, IT-CS needs **≥3 OBC-NCL seats** — improbable. **Verdict: almost certainly NOT shortlisted (~5–15%)**. Marklist = full QUALIFIED list, NOT the 1:6 interview shortlist (cut-offs match qualifying marks exactly) |
+| **Definitive check** | Log in at **`https://hllmt.cbtexam.in/`** → individual result + score (per official notice) |
 | **Pattern (Confirmed)** | **100 Qs — 50 General + 50 Domain, 90 min.** Fractional score ⇒ 1/4 negative marking in play |
 | **Vacancies (Confirmed)** | 40 total MT posts; **Engineering group = 17 across 8 branches** (Chem/Mech/Mechatronics/Biomed/Instr/EEE/Civil/IT/CS) ⇒ very few IT/CS seats, OBC subset smaller still |
-| **Status** | **MARKS OUT (62.5%) — result/shortlist awaited.** Within historical band; low end vs CIL peak |
+| **Status** | **MERIT LIST OUT — you are on it (IT/CS, Sl. 89, OBC#16, 62.5) but NOT shortlisted for Stage-I interview (~5–15% odds). Bonus track only — UCO floor secured** |
 | **Priority** | **MONITOR ONLY — zero study bandwidth. IOCL 24 Sept is the only score that matters this week** |
 
 ### 6. Coal India Limited (CIL) -- Management Trainee (Systems)

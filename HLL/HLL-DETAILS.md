@@ -84,10 +84,67 @@ All in `Form-Filling-Dossier/02_Category_Caste/`.
 
 ---
 
-## 6. 📌 Next action for HLL
+## 6. � MERIT LIST ANALYSIS (23 Sept 2026) — merit list published, no interview letter yet
 
-- [ ] **Check `hlllifecare.com` → Careers → MT 2026 result/shortlist** (marks were released 17 Sept; shortlist still awaited as of 23 Sept)
-- [ ] If shortlisted → document verification / interview prep (defer until **after IOCL CBT on 24 Sept**)
+### Your exact position (IT/Computer Science stream)
+| Metric | Value |
+| :--- | :--- |
+| **List rank (IT/CS, all categories)** | **Sl. No. 89** of 292 qualified |
+| **OBC-NCL rank within IT/CS** | **#16** (tied at 62.5 with app `121719` = OBC#17) |
+| **Your marks** | **62.5 / 100** |
+| **Category** | OBC-NCL |
+
+**IT/CS marklist composition (292 qualified):** SC 118 · UR 78 · **OBC-NCL 54** · ST 31 · EWS 11
+
+### Official vacancy matrix (from notification HLL/HR/020/2026)
+| Discipline | Seats | | Category | Seats |
+| :--- | :---: | --- | :--- | :---: |
+| **Engineering (ALL branches)** | **17** | | UR | 14 |
+| Pharma | 6 | | **OBC-NCL** | **11** |
+| Marketing | 10 | | SC | 6 |
+| HR | 2 | | ST | 3 |
+| Social Work | 1 | | EWS | 4 |
+| Data Analytics | 1 | | PwD (horizontal) | 2 |
+| Hospital Management | 3 | | **TOTAL** | **40** |
+| **TOTAL** | **40** | | | |
+
+⚠️ **The notification publishes NO branch-wise break-up inside Engineering.** The 17 Engineering seats cover **8 branches**: Mechatronics · Mechanical · Civil · Chemical · Biomedical · Electrical · Instrumentation · **IT-CS**.
+
+### The arithmetic — honest read
+
+| Step | Value |
+| :--- | :--- |
+| Engineering seats ÷ branches | 17 ÷ 8 ≈ **~2 seats per branch** → **IT-CS likely 2** (best case 3) |
+| Engineering's OBC-NCL share (27.5% of 40) | 17 × 27.5% ≈ **4–5 OBC seats across all 8 branches** → IT-CS gets **~0–1** |
+| **Shortlist ratio (official)** | **1:6** against vacancies per **stream/category** |
+| Seats needed for you (OBC#16) to be shortlisted | **≥3 OBC-NCL seats in IT-CS** (3 × 6 = 18 ≥ 16) |
+| Realistic IT-CS OBC-NCL seats | **0–1** |
+| **Verdict** | **You are almost certainly NOT in the Stage I interview shortlist** |
+
+### ⚠️ Critical clarification — the marklist ≠ interview shortlist
+The published "MARKLIST IN THE ORDER OF MERIT" is the **FULL QUALIFIED list** — proof: its lowest marks exactly match the qualifying cut-offs (SC/ST down to 35%, OBC down to 40.75%). A 1:6 shortlist for ~2 seats would have only ~12 names, not 292.
+> **Being on the marklist means you QUALIFIED the CBT (crossed 40% OBC cutoff). It does NOT mean you were shortlisted for the interview.** That is why no letter has arrived.
+
+**Probability estimate: ~5–15%** (only if IT-CS got 3+ OBC-NCL seats AND tie-breaking favours you).
+
+### ✅ How to confirm for certain (do this — takes 2 minutes)
+1. **Log in to `https://hllmt.cbtexam.in/`** with your registered credentials → the official notice says candidates **view their individual result and CBT score** there. This is the definitive answer on shortlist status.
+2. Watch `lifecarehll.com/careers` for the **Stage I Preliminary Interview shortlist** notice (separate from the marklist).
+3. Keep your **OBC-NCL certificate** current-FY ready (yours: `593263013796`, dated 10/06/2026 ✅).
+
+### Eligibility check (you clear it comfortably)
+B.Tech requirement = **65%** (60% SC/ST/PwD). Yours: **CGPA 9.60** → 96% standard / 91% KIIT formula. ✅
+
+### ⚠️ Strategic flag — the 5-year bond
+HLL bond = **₹3,00,000 for 5 years** (vs UCO Bank: ₹2,00,000 for 2 years, clears ~Sept 2028). Your stated goal is upgrading to a Maharatna/Level-10 post before Sept 2028 — **HLL's 5-year bond would block that until 2031.** Factor this in if HLL ever progresses.
+
+---
+
+## 7. 📌 Next action for HLL
+
+- [ ] **Log in to `hllmt.cbtexam.in`** → check individual result / shortlist status (definitive)
+- [ ] If shortlisted → Stage I Preliminary Interview prep (defer until **after IOCL CBT on 24 Sept**)
 - [ ] **Standing rule: do NOT chase this before Thursday.** IOCL (24 Sept) is the only score that matters this week.
+- [ ] Update this file when the interview shortlist notice appears
 
-> ⚠️ Note: HLL has very few IT/CS seats (17 Engineering seats across 8 branches) — treat it as a bonus track, not the plan. **UCO Bank floor is already secured.**
+> ⚠️ Note: HLL has ~2 IT/CS seats inside 17 Engineering seats across 8 branches — treat it as a **bonus track, not the plan**. **UCO Bank floor is already secured (joining 28 Sept).**
