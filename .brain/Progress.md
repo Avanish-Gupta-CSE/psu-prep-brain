@@ -9,11 +9,24 @@
 | **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 23 Sept 2026 19:00 -- HLL merit-list analysis: Sl.89/292 in IT/CS, OBC#16 (62.5) — qualified but likely NOT interview-shortlisted (needs ≥3 IT-CS OBC seats; ~2 exist). HLL = bonus track. |
+| **Last Session** | 23 Sept 2026 19:30 -- 🔁 V10 QUESTION-FIRST MODE + `KG-VIDEO-INDEX.md` built (5,075 videos / 693h / 5,145 PYQs indexed at subtopic level via KG API). Method: mock → harvest gaps → targeted video fix. |
 | **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
 | **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
 
 ## Session Log
+
+### Session 80 -- 23 Sept 2026 7:30 PM (🔁 V10 QUESTION-FIRST MODE — full granular video index built)
+- **Type:** Strategy restructure + tooling (major)
+- **User's proposal:** stop trying to cover subjects; start solving mocks/PYQs, and when a question can't be solved, get pointed to the **exact video**. Confidence up after the HLL merit-list result.
+- **What was built:**
+  - **Discovered the KG public API** — `api.knowledgegate.ai/api/v1/course-content/public/<course>/summary` + `/modules/<slug>` → returns the **full tree**: module → topic → subtopic → **individual video titles + durations** + PYQ counts + practice counts.
+  - **`tools/kg_video_index.py`** — reusable scraper (all 5 owned courses; idempotent re-run).
+  - **`IOCL/KG-VIDEO-INDEX.md`** (348 KB, 10,195 lines) — complete searchable index: **5,075 videos · 693h · 5,145 PYQs · 8,475 PQs** across IOCL P2 (1,822 video titles / 458 subtopics), IOCL P1 (297 / 269), CIL (2,986 / 959), + both test series. Includes a **GAP-FILL PROTOCOL** section at the top (the loop, what to send me, guardrails, timeline-compression table).
+  - **`tools/kg-index.json`** (881 KB) — machine-readable for precise lookups.
+  - Verified lookups: *"subnetting"* → `CN → IP Addressing > Subnetting & FLSM Design` (4 videos, 5–11m each) · *"banker"* → `OS → Deadlock > Avoidance & Banker's Algo` (11m).
+- **Plan restructured (V10, `PROGRESS-TRACKER.md` v5):** Wed 23 = **MOCK-1 (100Q/120m) → harvest gaps → gap-fill rounds (OS→DBMS→CN→DS→COA→DL) → DL 3.4 close → Aptitude → pack bag → sleep 01:00**; Thu 24 = skim → 09:30 STOP → report 12:30 PM.
+- **Status note:** unchanged since 22 Sept 10 AM (HLL result gave confidence but no study time was added). ~14h left to the stop.
+- **Next goals:** run MOCK-1 now; send me the unsolved questions; I return exact videos from the index.
 
 ### Session 79 -- 23 Sept 2026 7:00 PM (📊 HLL Merit List Analysed — qualified, but odds are thin)
 - **Type:** Result analysis, file creation

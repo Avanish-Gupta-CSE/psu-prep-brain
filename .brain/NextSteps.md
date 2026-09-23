@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 22, 2026 3:00 PM (💪 CONFIDENCE RESET + V9 ENDGAME — ~19–26h study left; DL 3.4 = 9/35 core videos done; method = 30% shell / 70% PYQ-mining; MOCK-1 → Wed 08:00)
+Last updated: September 23, 2026 7:30 PM (🔁 V10 QUESTION-FIRST MODE — `IOCL/KG-VIDEO-INDEX.md` built: 5,075 videos indexed at subtopic level with durations + PYQ counts across all 5 courses. Method = mock → harvest gaps → fix only those gaps. IOCL CBT **tomorrow 12:30 PM**)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
@@ -76,15 +76,31 @@ Standing rules arising from that audit:
 
 **Why replanned again (21 Sept 12:00 PM):** 20 Sept + 21 morning lost (only DL 3.2 ✓ + 3.3 partial: SOP/POS · function-counts · functional completeness). **V8 FINAL — 3-day sprint.** Window: **21 Sept 12:00 PM → 24 Sept 09:30 AM = ~70h real → ~44h study** (Mon ~12h · Tue ~15h · Wed ~15h · Thu skim 2.5h). All 5 KG courses re-scraped 21 Sept — counts stable (CIL 2,940/1,235/5,180 · P2 1,802/3,202 · P1 294/707 · TS 23+15). **Compiler cut (5.5%); Mock-2 → 2× 20Q speed sets.** Full plan: `IOCL/PROGRESS-TRACKER.md` (v3) + tracker site v8.
 
-**Progress (22 Sept 3:00 PM):** DL 3.1 ✓ · 3.2 ✓ · 3.3 ✅ · **DL 3.4 K-map core videos done — K-Map Structure & PIs 9/35 (26%)** (parts 1–3, POS K-map, minimal expression, grouping rules, don't-cares, practice). Remaining in 3.4: ~7 short videos + 12 PYQs. All other subjects = ZERO. Mon night + Tue morning lost to a family episode (logged in Motivation.md — Confidence Reset). Recovery = today: DL 3.4 close → 3.5–3.8 fast → Aptitude → OS core. **W/I locked:** W = CN · COA · DL · TOC · Compiler | I = OS · DBMS · DS · Algo · Eng Maths. **Pairs:** P1 DL↔OS (today) · P2 CN↔DBMS (Tue→Wed) · P3 COA↔DS (Tue PM→Wed) · P4 TOC↔Algo (Wed) · P5 Compiler↔EngM (Wed — Compiler skim only). **Cycle:** W-topic → I-topic → Apt 20m → 10-Q chunk. **Mocks:** **Mock-1 Tue 20:30 (FULL)** · Mock-2 → 2× 20Q speed sets (Wed). **Monk grid:** today 12:00→00:45 · Tue 06:00→01:00 · Wed 06:00→00:30. **Day queue: `IOCL/PROGRESS-TRACKER.md` §2c (v3).**
+**Progress (23 Sept 7:30 PM):** DL 3.1 ✓ · 3.2 ✓ · 3.3 ✓ · **DL 3.4 K-map core done — K-Map Structure & PIs 9/35 (26%)** (parts 1–3, POS K-map, minimal expression, grouping rules, don't-cares, practice). Remaining: ~7 short videos + 12 PYQs. **All other subjects = ZERO.** Status unchanged since 22 Sept 10 AM (22–23 Sept lost: family episode → Motivation.md Confidence Reset; HLL merit list gave confidence but no study hours). **~14h left to the 09:30 stop.**
 
-**V8 Phase Plan (hour-by-hour in `IOCL/PROGRESS-TRACKER.md` §2c):**
-* **Mon 21 (today) 12:00 → 00:45 — DL ✅ DAY + OS start:** DL 3.3 rest → 3.4 K-map → 3.5 → 3.6 → 3.7 → 3.8 → DL PYQ 20Q → **DL ✅** · OS 9.1–9.6 (scheduling + Banker's numericals) · OS 9.7–9.8 (page replacement, 10 numericals).
-* **Tue 22 — OS 9.7–9.10 + 40Q sprint → OS ✅ · CN 11.1–11.8 (15 subnetting drills) · DBMS 10.1–10.4 · DS 5.7–5.10 (5.9–5.10 spillable to Wed) · 🔥 MOCK-1 (full, 20:30).**
-* **Wed 23 — FINALS:** CN ✅ (11.9–11.13) · DBMS ✅ (10.5–10.12) · COA ✅ (4.1–4.6 + numericals) · DS ✅ (5.11–5.14) · EngM cherry (prob/P&C/logic/lin-alg) · TOC PYQ-25 · Algo pattern-20Q · **Compiler cut** · pack bag → sleep 00:30.
-* **Thu 24 — EXAM DAY:** one-pager skim 07:00–09:30 → **HARD STOP 09:30** → docs 10:15 → leave 10:45 → **REPORT 12:30 PM** IDZ Dohna. Target **50-65/100** (gates: 30/75 + 10/25 + 45/100).
+**🔁 V10 — QUESTION-FIRST MODE (standing method from 23 Sept):**
+1. **ATTEMPT** a mock / PYQ set / PQ set (mark every Q: ✅ · 🟡 · ❌)
+2. **HARVEST** every 🟡/❌ → grouped by topic
+3. **ASK ME** (paste the question or name the topic)
+4. **I RETURN** — exact subtopic + video titles + durations + the PYQ/PQ drill from **`IOCL/KG-VIDEO-INDEX.md`**
+5. **FIX** — those videos at 2x → **re-attempt immediately**
+6. **LOG** — one line (rule + trap) → one-pager
 
-**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — V8 rebuilt 21 Sept: `DAYS` = **21–24 Sept** (`LS_KEY='iocl-final-tracker-v8'`, 4 days / 36 tasks, budget **44h**). **Countdown targets `24 Sept 12:30 PM`.**
+**Guardrails:** max 2 videos per gap · ≤25 min video per gap · always re-attempt · **never** open a lecture "to cover a subject".
+
+**V10 Plan — Wed 23 (today) → Thu 24:**
+* **Wed 23:** **MOCK-1 full 100Q/120m** (gap-discovery engine) → **harvest** list → **gap-fill round 1** (OS → DBMS → CN → DS → COA → DL) → dinner → **round 2 + DL 3.4 close** (12 PYQs → DL ✅) → Aptitude 20 Qs → one-pagers + pack bag → **sleep 01:00**.
+* **Thu 24 — EXAM DAY:** one-pager skim 07:00–09:30 → **HARD STOP 09:30** → docs 10:15 → leave 10:45 → **REPORT 12:30 PM** IDZ Dohna. Target: **gates secured** (30/75 + 10/25 + 45/100).
+* **Skip-if-short:** EngM → Algo → TOC → COA-deep. **Compiler = leave blank** (5.5% ≈ 4 Qs).
+* **Workout:** Wed = walking breaks only (no gym); Thu = rest.
+
+**🧰 NEW TOOLING (23 Sept) — reusable for ISRO/CONCOR too:**
+* **`IOCL/KG-VIDEO-INDEX.md`** (348 KB) — **5,075 videos · 693h · 5,145 PYQs · 8,475 PQs** indexed at module → topic → subtopic → **video title + duration** level, across all 5 owned courses. Includes the **GAP-FILL PROTOCOL** at the top.
+* **`tools/kg-index.json`** (881 KB) — machine-readable version for precise lookups.
+* **`tools/kg_video_index.py`** — re-runnable scraper (KG public API) to refresh the index.
+* **Verified lookups:** *"subnetting"* → `CN → IP Addressing > Subnetting & FLSM Design` (Basics 11m · Example 5m · VLSM 6m · CIDR 4m) · *"banker"* → `OS → Deadlock > Avoidance & Banker's Algo` (11m).
+
+**Tracker (LIVE):** **https://avanish-gupta-cse.github.io/psu-prep-brain/tracker/** — `LS_KEY='iocl-final-tracker-v8'`, 4 days / 36 tasks. **Countdown targets `24 Sept 12:30 PM`.**
 - **Local fallback:** `docs/tracker/index.html` via `file://` or `python3 -m http.server 8766 --directory docs/tracker`.
 - ⚠️ **Progress is per-browser `localStorage`** — hosted and local copies track separately. Use **Export JSON** to move state; push to `main` to publish code changes.
 

@@ -1,10 +1,10 @@
 # 🔥 IOCL SPRINT — PROGRESS TRACKER (at-a-glance)
 
 > **This is the file you open to see "where am I, what's next".** Updated daily by your tutor-agent.
-> **Window:** 22 Sept (afternoon) → 24 Sept (09:30 AM) · **~19–26h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
+> **Window:** 23 Sept (now) → 24 Sept 09:30 AM · **~14h study** · **Exam: Thu 24 Sept — report 12:30 PM, IDZ Dohna, Bareilly**
 > Companions: [`FINAL-4DAY-BATTLE-PLAN.md`](FINAL-4DAY-BATTLE-PLAN.md) (hour detail) · tracker website (clickable) · [`SYLLABUS.md`](SYLLABUS.md)
 
-**Last updated:** 22 Sept 2026, 3:00 PM (**v4 — 💪 CONFIDENCE RESET + V9 ENDGAME: Tue 22 = DL close + Aptitude + OS core · Wed 23 = OS✅ + MOCK-1 + 4 cores + light pass · method = 30% shell / 70% PYQ-mining**)
+**Last updated:** 23 Sept 2026, 7:30 PM (**v5 — 🔁 V10 QUESTION-FIRST MODE: mock → harvest gaps → fix only those gaps via `KG-VIDEO-INDEX.md` (5,075 videos indexed). Today = MOCK-1 → GAP-FILL → sleep 01:00. Exam tomorrow 12:30 PM.**)
 
 ---
 
@@ -89,40 +89,52 @@ You offered 20h/day. We run **15.5h/day + 5h core sleep + 20-min power nap.** Wh
 
 > Only **DL 3.4 core videos landed**: K-Map Structure & PIs **9/35 (26%)** — K-map parts 1–3, POS K-map, minimal expression, grouping rules, don't-cares, practice. No OS. The emotional bill was paid; we rebuild today — no shame.
 
-### 🔥 TUE 22 (today) — RESTART + DL CLOSE (~7h study — start at the next clean hour)
+### � V10 — QUESTION-FIRST MODE (the new standing method)
 
-> **V9 ENDGAME.** Method locked: **30% shell → 70% PYQ-mining** (attempt-first; mine every wrong answer → one line on the one-pager). Negative marking: attempt when ≥2 options eliminated; 90-sec cap; blank = 0 guaranteed.
+> **Strategy changed 23 Sept.** No more "cover the subject." We now work **mock / PYQ → harvest gaps → fix only those gaps.** The enabler is **`KG-VIDEO-INDEX.md`** — 5,075 videos indexed down to subtopic level with **durations + PYQ/PQ counts**, across all 5 owned courses. Ask me *"I can't solve this"* and I return the exact videos.
 
-| Block | Window | What | Tier |
-|:------|:-------|:-----|:----:|
-| A | +0:00 → +1:30 | **DL 3.4 CLOSE** — tail lessons (~30′: Prime Implicant, reverse-solving, practice Qs) + **12 PYQs** → ✅ | 1 |
-| B | +1:40 → +3:00 | **DL 3.5 + 3.6** fast pass (truth tables + 10 PQs each) | 1 |
-| C | +3:00 → +3:30 | **DL 3.7 + 3.8** skim (number systems — quick) | 1 |
-| D | +3:40 → +4:40 | **APTITUDE — Quant + Reasoning** (formula sheet + 20 mixed Qs) — the confidence block | 1 |
-| E | +4:50 → +7:00 | **OS CORE 1** — process + scheduling (8 numericals) + deadlock + Banker's | 1 |
-| F | optional | DBMS shell 30′ — keys + 1NF→3NF one-pager | 2 |
-| — | — | Export JSON + **sleep by 01:00** | — |
+| # | Step | Output |
+|:--|:-----|:-------|
+| 1 | **ATTEMPT** a mock / PYQ set / PQ set | every question marked ✅ · 🟡 · ❌ |
+| 2 | **HARVEST** every 🟡 and ❌ | a gap list, grouped by topic |
+| 3 | **ASK ME** — paste the question, or just name the topic | — |
+| 4 | **I RETURN** subtopic + exact videos + durations + the PYQ/PQ drill (from `KG-VIDEO-INDEX.md`) | a 5–25 min fix |
+| 5 | **FIX** — watch those videos at 2x → **immediately re-attempt** | question now ✅ |
+| 6 | **LOG** — 1 line: rule + trap → one-pager | your revision set |
 
-**Gym today: YES** (50′ cap — mood repair, not a gym day; out the door by ~5 PM, else 20′ walk). **Wed: no gym** (walking breaks only). **Thu: rest.**
+**Why this is the right call now:** the index makes a gap cost **minutes, not hours**. Total coverage was never achievable (693h of video vs ~14h left) — but **gap-closing is**.
 
-### 🔥 WED 23 — THE BIG DAY (~12h study) · OS ✅ + MOCK-1 + 4 cores + light pass
+**Guardrails:** max **2 videos per gap** · **≤25 min of video per gap** · **always re-attempt immediately** · **never** open a lecture "to cover a subject".
 
-| Slot | Time | What |
-|:-----|:-----|:-----|
-| 1 | 06:30–08:00 | **OS CORE 2** — memory + page replacement (FIFO/LRU/Optimal, 10 numericals) + disk + **40Q sprint → OS ✅** |
-| 2 | 08:00–10:00 | **🔥 MOCK-1 — full 100Q / 120 min** (KG test series) |
-| 3 | 10:00–10:45 | **Mock analysis** — every wrong → one line: gap vs silly vs time |
-| 4 | 10:45–13:00 | **DBMS CORE** — ER/FD/keys + normalization 1NF→BCNF + SQL joins + ACID/2PL (notes + 40 PYQs) |
-| 5 | 13:00–14:00 | Lunch + 20′ nap |
-| 6 | 14:00–16:30 | **CN CORE** — OSI/device/port tables + **subnetting 10 drills** + TCP/UDP + CRC (30 PYQs) |
-| 7 | 16:30–17:00 | Walk (offline) |
-| 8 | 17:00–19:30 | **DS CORE** — complexity tables + array/stack/queue/LL + tree traversals + BFS/DFS + hashing (30 PYQs) |
-| 9 | 19:30–21:00 | **COA sprint** — IEEE 754 + cache mapping + pipeline numericals (20 PYQs) |
-| 10 | 21:00–21:45 | Dinner |
-| 11 | 21:45–23:45 | **Light pass:** TOC DFA/NFA recognition (15Q) → Algo sorting table + MST/SP (15Q) → EngM probability (10Q) → Apt 20 mixed Qs |
-| 12 | 23:45–00:30 | One-pagers + formula card + **pack bag** + route check → **sleep 00:45 — no later.** |
+### 📚 THE INDEX — how to ask me
 
-> **Drop-if-short (never touch Tier-1):** EngM → Algo → TOC → COA-deep. **Compiler = skipped** (5.5% ≈ 4 Qs; leave blank if unknown).
+| You send | I return |
+|:---------|:---------|
+| `Q: <question text or screenshot>` + `Subject: CN` + what confused you | the subtopic, the exact video titles with durations, the PYQ/PQ counts, and the drill to re-attempt |
+
+Worked examples (already verified in the index):
+- **"subnetting"** → `CN → IP Addressing > Subnetting & FLSM Design` → Basics of SubNetting (11m) · SubNetting Example (5m) · Variable Length SubNetting (6m) · SubNetting In CIDR (4m)
+- **"banker"** → `OS → Deadlock > Avoidance & Banker's Algo` → Understanding Bankers Algorithm (11m)
+
+> **Also tell me *how* you missed it:** "never seen it" → concept videos · "knew it but missed" → skip videos, do the **PQ set** then the **PYQ set** for that subtopic.
+
+### 🔥 WED 23 (TODAY) — FINAL STRETCH · MOCK-1 → HARVEST → GAP-FILL
+
+> **Status unchanged since 22 Sept 10 AM:** DL 3.1 ✓ · 3.2 ✓ · 3.3 ✓ · DL 3.4 **9/35 (26%)** · **everything else ZERO.** **~14h to the 09:30 stop.** Method = **V10 question-first**.
+
+| # | Window | What |
+|:--|:-------|:-----|
+| 1 | **now → +2:00** | **🔥 MOCK-1 — full 100Q / 120 min** (KG P2 Test Series → *Complete Paper Full Mock*). Exam conditions: no pauses, no notes, guess-and-move. **This is the gap-discovery engine.** |
+| 2 | +2:00 → +2:40 | **HARVEST** — list every 🟡/❌ with its topic. Split: (a) no-knowledge, (b) knew-it-but-missed. **Send me list (a)** → I return exact videos. |
+| 3 | +2:40 → +5:10 | **GAP-FILL round 1** — biggest weight first (**OS → DBMS → CN → DS → COA → DL**): my video pointers at 2x → **re-attempt those questions** |
+| 4 | +5:10 → +5:40 | Break + dinner |
+| 5 | +5:40 → +8:00 | **GAP-FILL round 2** + **DL 3.4 close** (12 PYQs → **DL ✅**) |
+| 6 | +8:00 → +8:30 | **Aptitude** — formula sheet + 20 mixed Qs |
+| 7 | +8:30 → +9:00 | One-pagers (all gaps) + **pack bag** (call letter + photo + ID + pen) + route check |
+| 8 | — | **Sleep 01:00 — no later.** |
+
+> **If a 2nd mock is possible:** only *after* gap-fill round 1 — a mock before fixing gaps measures the same ignorance twice.
+> **Skip-if-short:** EngM → Algo → TOC → COA-deep. **Compiler = leave blank** (5.5% ≈ 4 Qs).
 
 ### Thu 24 — EXAM DAY
 07:00–09:30 formula/one-pager skim → **09:30 STOP** → docs 10:15 → leave 10:45 → **report 12:30 PM**

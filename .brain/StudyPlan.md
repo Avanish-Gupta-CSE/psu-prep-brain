@@ -25,7 +25,7 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 22 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V9 ENDGAME (~19–26h): Tue 22 = DL 3.4 close + 3.5–3.8 + Aptitude + OS core · Wed 23 = OS✅ + MOCK-1 + DBMS + CN + DS + COA + light pass · Thu 24 = skim → CBT 12:30 PM.** Method: 30% shell / 70% PYQ-mining. Compiler skipped. | 🔥 **ACTIVE (V9 ENDGAME)** |
+| **Phase 7** | 23 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V10 QUESTION-FIRST MODE (~14h): Wed 23 = MOCK-1 (100Q/120m) → harvest gaps → targeted gap-fill via `KG-VIDEO-INDEX.md` → DL 3.4 close → Aptitude → pack bag · Thu 24 = skim → 09:30 STOP → CBT 12:30 PM.** Tooling: 5,075-video granular index + `tools/kg_video_index.py`. | 🔥 **ACTIVE (V10)** |
 | **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
