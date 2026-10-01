@@ -171,10 +171,43 @@ You have four days of data and a strong emotional reaction ("I want to run away"
 
 ## 7. 📋 Actions — do these in order
 
+### 🏠 FLAT-HUNTING — ⚠️ READ THE LEASE RULES **BEFORE** YOU SIGN ANYTHING
+
+**Why this matters:** under the **leased accommodation** facility the **bank pays the landlord directly** (up to the Kolkata Scale-I ceiling, ~₹18k–22k/month, **tax-free**) — vs cash HRA which is only ₹6,133/month **and taxable**. That's a swing of **₹2.16–2.64 LPA**. But leased accommodation comes with **formal requirements**. If you sign a personal lease on your own terms first, you may **lose the facility entirely** or end up paying out of pocket.
+
+**Before committing to any flat, get these answered in writing by HR / the establishment section:**
+- [ ] The **exact ceiling** for a Scale-I officer in Kolkata (₹/month)
+- [ ] Whether the **bank signs the lease** or you sign and claim reimbursement
+- [ ] Required **lease agreement format** + whether **registration** / stamp duty is needed
+- [ ] **Landlord documents** required (PAN, ownership proof, bank details)
+- [ ] Whether the landlord must be on any **empanelled list** or needs a specific agreement clause
+- [ ] **Notice period / lock-in** rules, and what happens on **transfer**
+- [ ] When the facility **starts** (during training, or only after posting to DIT?)
+- [ ] Whether you can claim **temporary accommodation** (hotel/PG) for the training period
+
+> **Rule: do not sign a lease, pay a token, or commit to a broker until you have the lease-facility rules in writing.** Ask first — it takes one email and may save you ₹2+ LPA.
+
+**Flat-hunt strategy (efficient):**
+| When | What |
+| :--- | :--- |
+| **Weeknights** | Only **research + phone calls**: shortlist 6–8 listings, message brokers, fix visit slots |
+| **Sunday (4 Oct — your only full off-day this week)** | **Cluster all visits** into one day, geographically grouped (Salt Lake / Sector-V / New Town are nearest to STC and DIT) |
+| **Target areas** | **Salt Lake Sector-I/II/III · New Town · Sector-V · Beleghata** — minimize commute to both STC and DIT HO-2 |
+| Ask each broker | Metro/bus access · water · power backup · rent + deposit · **"will the landlord sign a bank lease agreement?"** ← ask this on the phone, upfront |
+
+### 🗓️ Week of 1–5 October 2026 (the operative week)
+| Day | Reality | Do |
+| :--- | :--- | :--- |
+| **Thu 1 Oct (today)** | Training 10:45–18:00 | **Tonight: GATE form.** Then HR email for lease rules. Then 45–60 min study. |
+| **Fri 2 Oct** | Training 10:45–18:00 | Finish anything left of the GATE form · 1h study |
+| **Sat 3 Oct** | ⚠️ **1st Saturday = WORKING day** | Evening only · 1h study |
+| **Sun 4 Oct** | ✅ **OFF** | **AM: flat visits** (3–4 in a cluster) · **PM: 4h study block** |
+| **Mon 5 Oct** | Training | ⏰ **GATE 2027 deadline — must already be submitted** |
+
 ### This week (by 5 Oct)
 - [ ] **Fill the GATE 2027 form** (CS; consider adding DA). Verify DigiLocker first. → `gate2027.iitm.ac.in`
 - [ ] Download + read the **revised GATE 2027 CS syllabus** (it changed for 2027)
-- [ ] Request from HR (in writing/email): **leave policy + bond deed copy**
+- [ ] Request from HR (in writing/email): **leave policy + bond deed copy + LEASE FACILITY RULES**
 - [ ] Buy/confirm the GATE CS course access (GO Classes subscription already exists per `.brain/Profile.md`)
 
 ### This month (Oct)
