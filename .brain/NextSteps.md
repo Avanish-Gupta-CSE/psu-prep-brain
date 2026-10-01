@@ -1,52 +1,74 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: September 23, 2026 7:30 PM (🔁 V10 QUESTION-FIRST MODE — `IOCL/KG-VIDEO-INDEX.md` built: 5,075 videos indexed at subtopic level with durations + PYQ counts across all 5 courses. Method = mock → harvest gaps → fix only those gaps. IOCL CBT **tomorrow 12:30 PM**)
+Last updated: October 1, 2026 (🏦 **PHASE 8 ACTIVE — UCO Bank joined 28 Sept, STC induction.** ⚠️ **URGENT: GATE 2027 form closes 5 Oct 2026 (4 days).** Exit pipeline rebuilt: PowerGrid/PSU-ET via GATE + decision gate 31 Mar 2027. Full strategy: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
 
 ---
 
-## ✅ Career Baseline: SECURED (Floor) — Upgrade in Flight
+## ✅ Career Baseline: SECURED — and now EMPLOYED (Floor, in post)
 
-**UCO Bank Software Developer (JMGS-I), Kolkata — selected, appointment letter received 08.07.2026.** This is the **floor**, not the destination. Berkadia LWD completed 31 August 2026.
-**IOCL Engineers/Officers Grade A (CS/IT) = the UPGRADE ceiling** — ₹18.4 LPA CTC, Maharatna PSU, no PSB merger/stake-sale exposure, 22 posts (3 effective OBC-NCL after PwD horizontal). User's stated plan: if IOCL is cracked, exit UCO path.
-Full accept-vs-decline reasoning, compensation model, and risk register:
-[`UCO-BANK-DECISION-AUDIT.md`](UCO-BANK-DECISION-AUDIT.md) — **Verdict: correct decision (as floor).**
+**UCO Bank Software Developer (JMGS-I), Kolkata — JOINED 28 SEPTEMBER 2026.** Berkadia LWD completed 31 August 2026. Currently in **induction at the Staff Training Centre (STC), Salt Lake**; working posting thereafter = **DIT (Dept. of IT), Head Office-2, Salt Lake Sector-1** — not a branch.
+**Positioning:** UCO is the **floor and the funding source**, not the destination. Every remaining exam is an **upgrade attempt from inside a paid officer post**.
+Full accept-vs-decline reasoning: [`UCO-BANK-DECISION-AUDIT.md`](UCO-BANK-DECISION-AUDIT.md) — **Verdict still holds: correct decision (as floor).**
+**New (01 Oct):** containment + structured-exit plan → [`../UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`](../UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md)
 
 Standing rules arising from that audit:
-- **Do not withdraw any pending application.** HAL, IOCL, ISRO, CONCOR all continue.
-- **HARD RULE (updated 03 Sept):** Do NOT exit UCO Bank until the **IOCL appointment letter is physically in hand**. UCO bond = 2 years, ₹2,00,000 penalty. UCO remains the fallback until IOCL is real. Join UCO if required (induction may precede IOCL result), then decide with an appointment letter in hand.
-- **Opt for leased accommodation over cash HRA** at joining (worth ₹2.16-2.64 LPA tax-free vs ₹6,133/mo taxable).
-- **Bond + probation clear ~September 2028** (age 28). Re-evaluate the market then, not before — unless IOCL lands earlier.
+- **Do not withdraw any pending application.** ISRO, CONCOR, CIL, NFL, HLL and every new CS/IT PSU notification continue.
+- **HARD RULE (unchanged):** Do **NOT** resign without an **appointment letter physically in hand.** UCO bond = 2 years, ₹2,00,000 penalty (≈2.3 months of gross — a **price list, not a prison**; also check the signed bond deed for a govt/PSU-transfer waiver).
+- **NOC reality (key relief):** applying and **writing** PSU exams needs **no NOC**. NOC is only needed at **interview / document-verification / joining** stage. **The exam pipeline is open — keep writing exams.**
+- **Opt for leased accommodation over cash HRA** (worth ₹2.16–2.64 LPA tax-free vs ₹6,133/mo taxable).
+- **Bond + probation clear ~September 2028** (age 28).
 - ~~Collect the Berkadia relieving letter (~11 Sept)~~ ✅ **RECEIVED 15 Sept 2026** (relieving letter + service certificate, both dated 03 Sept 2026, relieved w.e.f. close of business 31 Aug 2026). Filed in `Berkadia-Exit-Documents/Letters/`. **ACTION: reply to UCO Bank HR with both PDFs — draft ready at `UCOBank/RELIEVING-LETTER-REPLY-EMAIL.md`, send by 16–17 Sept.**
 
 ---
 
-## 🔥 UCO BANK JOINING — 28 SEPT 2026 (Convergence Point)
+## 🏦 PHASE 8 — IN POST AT UCO BANK (from 28 Sept 2026)
 
 | Item | Detail |
 | :--- | :--- |
-| **Joining date** | **28 September 2026 (Monday)** |
-| **Venue** | UCO Bank Staff Training Centre, Plot No. GE-8, Sector-III, Salt Lake, Kolkata – 700106 |
-| **Reporting** | 09:30 AM |
-| **App ID** | `7241178423` · Post: Software Developer JMGS-I (Specialist Cadre) |
-| **HR ask (10 Sept email)** | Submit **relieving letter of previous organisation** before/at joining → `UCOBank/RELIEVING-LETTER-REPLY-EMAIL.md` |
-| **HR contact** | `hohrd_calcutta@ucobank.in` · 033-4455-7379 (Chief Manager, Admission Room / Recruitment Cell, HRM Dept, HO) |
-| **Induction training** | Begins at STC Kolkata; working posting thereafter: DIT, HO-2, Salt Lake Sector-1 |
+| **Joined** | **28 September 2026 (Mon)** — UCO Bank STC, Plot GE-8, Sector-III, Salt Lake, Kolkata 700106 |
+| **Current phase** | **Induction / STC training** (Week 1 done as of 01 Oct) |
+| **Hours & offs** | **10:00 AM – 6:00/6:30 PM**, 5 days · **2nd & 4th Sat + all Sundays off** · WB public holidays |
+| **Working posting** | **DIT, HO-2, Salt Lake Sector-1** (after training) — enterprise Java/APIs, CBS/Finacle integration, security audits. **Zero public dealing.** |
+| **App ID** | `7241178423` · Software Developer JMGS-I (Specialist Cadre) |
+| **HR contact** | `hohrd_calcutta@ucobank.in` · 033-4455-7379 |
+| **Pay** | Gross ₹86,589/mo (cash-HRA) \| ~₹13.4–14.4 LPA effective (lease + NPS 14%) |
+| **Policy docs to obtain** | Leave policy (probationer) · exam leave · LWP rules · **copy of the signed bond deed** |
+| **Strategy file** | [`UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`](../UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md) |
 
-### ⚠️ Critical Clash: NMDC Steel CBT vs UCO Induction
+### ⚠️ Reported friction (01 Oct) — and how to read it
+- **Hindi-dominant working/social language at STC** → *this is the training-centre batch, not the job.* Bank policy = local language (Bengali) in WB + **English for technical/official documentation**; **DIT work runs in English.** Judge DIT by DIT.
+- **Leave hard to get** → normal during induction; formal instruments (CL/SL/EL, exam leave, LWP) not yet used. **Get the policy in writing.**
+- **Wants out** → valid signal to **build the exit plan**, not to execute an exit today.
 
-| Event | Date | Detail |
+### ❌ Missed: NMDC Steel ET CBT — 01 Oct 2026 (Ranchi)
+Pre-agreed guardrail (15 Sept): *"attend only if induction leave is sanctioned; do not jeopardise probation"*. Leave unavailable in Week 1 → **skipped by design.** Logged and closed.
+
+### 🎯 Containment + Exit — the plan in one block
+| Lever | Detail |
+| :--- | :--- |
+| **Fund it** | Salary funds the exit; every month = ₹86k + NPS toward the plan. **Frame = "funded", not "trapped".** |
+| **Keep the pipeline open** | **Writing PSU exams needs NO NOC** — only interview/DV/joining do. Keep applying and writing. |
+| **Widen the door** | **GATE 2027** (score valid **3 years**) unlocks PowerGrid/NTPC/GAIL/BARC/NBCC/NHPC/SJVN/PFC/REC ET + IIT M.Tech. |
+| **Daily rhythm** | 1h morning + 1h evening on weekdays; 4–5h each on 1st/3rd Sat + Sunday. **Floor 12–15 h/week.** |
+| **Build the moat** | Finacle/CBS + enterprise Java at DIT = rare "banking-domain IT" profile. Leverage inside *and* outside. |
+| **Never** | Resign without an offer in hand. |
+
+### 🗓️ Decision Gates
+| Gate | Date | Decision |
 | :--- | :--- | :--- |
-| UCO joining + induction Week 1 | **28 Sept 2026 (Mon)** | Kolkata STC |
-| **NMDC Steel ET CBT** | **01 Oct 2026 (Thu), 10:30 AM–12:30 PM** | **Oxford Public School, Samlong, Ranchi, Jharkhand** (report 08:30, gate closes 10:15) |
+| **G1** | **5 Oct 2026** | ⚠️ **GATE 2027 form — URGENT** (12 Oct w/ late fee) |
+| **G2** | by 15 Oct 2026 | Obtain leave policy + **bond deed copy** in writing |
+| **G3** | 1 Dec 2026 | Soft review: is the discomfort STC-shaped or job-shaped? |
+| **G4** | 6–21 Feb 2027 | GATE 2027 exam (no NOC needed) |
+| **G5** | 19 Mar 2027 | GATE result → target list locked |
+| **G6** | **31 Mar 2027** | **THE GATE — commit-or-stay with data** |
+| **G7** | 1 Nov 2027 | 13th BPS revision (~15–17%) — re-run the maths |
+| **G8** | ~Sept 2028 | Bond clears — free exit, age 28 |
 
-- Only **3 days** after joining; travel to Ranchi costs ~2 days (Kolkata→Ranchi ~1h flight or ~8–9h train).
-- **Stance (15 Sept):** *observe* — get the induction timetable + leave policy on 28 Sept, then **decide by 29 Sept**. Do **not** withdraw the NMDC candidature (standing rule).
-- **Priority guardrail:** UCO joining is the secured baseline. Do **not** jeopardise probation/bond for a CBT. If leave is unclear, skip NMDC.
-- IOCL CBT 24 Sept remains **before** UCO joining — no clash there.
-- Full analysis: `NMDCSteel/README.md` → "Conflict Analysis".
+> **Realistic exit window: ~Apr–Jul 2027** (PSU ET cycle via GATE 2027) — **~9–10 months from today.**
 
 ---
 

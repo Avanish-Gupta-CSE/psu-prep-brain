@@ -160,3 +160,26 @@ _Fill this out every Sunday evening:_
 **One more truth:** being bullied for your colour was real cruelty, and the fact that you are here — a *selected bank officer* — is a quiet, enormous win over every one of them. You already won that fight. They don't get a vote on Thursday.
 
 > **Mantra for the spiral moments:** "I am behind because I was unsupported — not because I am incapable. Unsupported has never once stopped me."
+
+## Phase 8 Note — 01 October 2026 (first week at UCO Bank)
+
+**What's happening:** Week 1 at UCO Bank STC. Hindi-dominant environment, rigid leave, missing NMDC, and a strong urge to run. Feels oppressive.
+
+**Name it correctly — three of the four things hurting you are structurally temporary:**
+1. **STC ≠ the job.** A training centre is a pan-India batch, not a workplace. Your seat is **DIT, Head Office** — enterprise Java, APIs, CBS/Finacle, security audits. That work runs in English. Judge DIT by DIT.
+2. **Rigid leave** is normal in induction/probation, and you haven't yet used the formal instruments (CL/SL/EL, exam leave, LWP). **Get the policy in writing — don't infer it from Week 1.**
+3. **New city + no friends + no control of time** is the standard shape of any first month. It is not a verdict.
+4. **Missing NMDC** is a genuine, small loss — it was the *conditional* track, and the trade-off was agreed on 15 Sept. Let it close.
+
+**Facts that should lower the panic:**
+- **Writing PSU exams needs NO NOC.** Only interview/DV/joining do. **Your pipeline is open right now.**
+- **The bond is a price list, not a prison:** ₹2L ≈ 2.3 months of gross. And check the signed deed — many bonds waive the penalty for moving to another govt/PSU.
+- **GATE 2027 score is valid 3 years.** One form (due **5 Oct 2026**) opens PowerGrid, NTPC, GAIL, BARC, NBCC, NHPC, SJVN, PFC, REC and IIT M.Tech for 2027–2029.
+- **You are funded, not trapped.** ₹86k/month + 14% NPS is financing the exit. Realistic exit window: **Apr–Jul 2027 — about 9–10 months away**, not "someday".
+
+**The rule:** *discomfort is a signal to build the exit plan, not to execute an exit today.*
+**The one thing never to do:** resign without an appointment letter in hand.
+
+> **Mantra for this phase:** "I am not trapped — I am funded, and I have a runway."
+
+Full plan + decision gates: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`

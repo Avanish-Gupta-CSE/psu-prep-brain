@@ -8,10 +8,10 @@
 - **Completed Events**: MSTC interview (21 May), STPI CBTs (30-31 May), UCO Bank GD (01 Jun) & Interview (17 Jun),
   BSNL SET (05 Jul), NFL MT (11 Jul), Balmer Lawrie (15 Jul), IFFCO CBT 2 (02 Aug), ISP SPMCIL (19 Aug),
   HLL MT (23 Aug), CIL MT (24 Aug), HAL DT CBT (06 Sept — did not make cut, result 09 Sept).
-- **Active Focus Phase**: **IOCL Engineers/Officers (CS/IT) sprint**, exam **24 September 2026** (sole focus from Bareilly home base). HAL closed 09 Sept (did not make cut).
-- **Convergence (Confirmed 15 Sept):** **UCO Bank joining 28 Sept 2026** at STC Salt Lake, Kolkata → Phase 8 begins 2 days after IOCL CBT. **NMDC Steel ET CBT 01 Oct 2026 (Ranchi)** lands inside induction week 1 → conditional attendance, decide by 29 Sept, guardrail = do not risk probation/bond.
-- **Study capacity**: currently **unconstrained** (no employment until UCO Bank induction). This is the highest-leverage
-  window of the whole cycle and must absorb both HAL (06 Sept) and IOCL (24 Sept).
+- **Active Focus Phase**: **Phase 8 — in post at UCO Bank (from 28 Sept 2026)**, while running **Phase 9 (exit pipeline: GATE 2027 + PSU-ET cycle)** in parallel. IOCL CBT completed 24 Sept 2026 (result awaited).
+- **⚠️ Immediate action:** **GATE 2027 registration closes 5 Oct 2026** — see `ExamTracker.md` §0.
+- **Convergence (updated 01 Oct):** UCO induction underway at STC Salt Lake; **NMDC Steel CBT (01 Oct, Ranchi) MISSED** — no induction leave available in Week 1 (pre-agreed trade-off). Decision gates G1–G8 live in `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`.
+- **Study capacity**: **constrained** — 10:00–18:30 weekdays. Sustainable floor **12–15 h/week** (1h morning + 1h evening + 4–5h each on 1st/3rd Sat and Sundays).
 
 ---
 
@@ -25,8 +25,10 @@
 | **Phase 4** | 07 Jun - 31 Jul 2026 | CIL MT / Balmer Lawrie Campaign | Paper-I (Aptitude/Reasoning/GK) + Paper-II (Core CSE) | ✅ COMPLETED |
 | **Phase 5** | 01 Aug - 31 Aug 2026 | August Exam Marathon | IFFCO CBT2, ISP, HLL, CIL + Berkadia exit | ✅ COMPLETED |
 | **Phase 6** | 01 Sep - 06 Sep 2026 | **HAL Design Trainee (CS) CBT** | OS, COA, CN, Digital Logic, DBMS, DSA, TOC, SE + GA/Eng/Reasoning | ❌ **CLOSED 09 SEPT — CBT done 06 Sept, did not make cut** |
-| **Phase 7** | 23 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | **V10 QUESTION-FIRST MODE (~14h): Wed 23 = MOCK-1 (100Q/120m) → harvest gaps → targeted gap-fill via `KG-VIDEO-INDEX.md` → DL 3.4 close → Aptitude → pack bag · Thu 24 = skim → 09:30 STOP → CBT 12:30 PM.** Tooling: 5,075-video granular index + `tools/kg_video_index.py`. | 🔥 **ACTIVE (V10)** |
-| **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | Joining 28 Sept at STC Salt Lake; induction → DIT posting, Finacle/CBS domain ramp-up. **NMDC CBT 01 Oct clashes — decide by 29 Sept.** | 🔥 **STARTS 28 SEPT (CONFIRMED)** |
+| **Phase 7** | 23 Sep - 24 Sep 2026 | **IOCL Engineers/Officers (CS/IT)** | V10 QUESTION-FIRST run (MOCK → harvest → gap-fill via `KG-VIDEO-INDEX.md`). Tooling built: 5,075-video granular index + `tools/kg_video_index.py`. | ✅ **DONE (CBT 24 Sept) — result awaited** |
+| **Phase 8** | **28 Sept 2026 → rolling** | **UCO Bank — in post (containment + capability build)** | Induction at **STC Salt Lake** → **DIT, HO-2** posting. Hours 10:00–18:30, 2nd/4th Sat + Suns off. Rhythm: **1h morning + 1h evening weekdays, 4–5h Sat/Sun (floor 12–15 h/week)**. Build the moat (Finacle/CBS + enterprise Java). Obtain leave policy + **bond deed copy**. | 🏦 **ACTIVE** |
+| **Phase 9** | **Oct 2026 → Jul 2027** | **EXIT PIPELINE — GATE 2027 + PSU ET cycle** | **GATE 2027 form by 5 Oct 2026** (CS primary; DA optional) → exam **6–21 Feb 2027** → result **19 Mar 2027** → **PGCIL/NTPC/GAIL/BARC/NBCC/NHPC/SJVN/PFC/REC ET applications ~Apr–Jul 2027**. Score valid 3 years. Strategy: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` | ⚠️ **GATE FORM URGENT — 5 OCT** |
+| **Phase 8** | 28 Sept 2026 onward | UCO Bank onboarding (Kolkata) | **JOINED 28 Sept.** STC induction → DIT posting. NMDC CBT 01 Oct **missed** (no induction leave). See Phase 8 row above + `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`. | 🏦 **IN POST** |
 
 > **Phases 6 and 7 are run as one stacked campaign, not two separate sprints.**
 > Master plan: [`combined-HAL-then-IOCL-plan.md`](../CoalIndiaLimited-PSU/combined-HAL-then-IOCL-plan.md).

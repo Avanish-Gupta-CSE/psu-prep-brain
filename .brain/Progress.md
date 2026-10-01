@@ -4,16 +4,31 @@
 
 | Field | Value |
 |-------|-------|
-| **Active Phase** | Phase 7: IOCL Engineers/Officers (CS/IT) Sprint (11–24 Sept) → **Phase 8 UCO joining 28 Sept** |
-| **Career Baseline** | **SECURED — UCO Bank SO (JMGS-I), Kolkata.** Berkadia LWD 31 Aug 2026; **relieving letter + service certificate received 15 Sept 2026**. |
-| **Secondary Track** | IOCL CBT (24 Sept) SOLE FOCUS · NMDC CBT (01 Oct, Ranchi — conditional) · ISRO form (by 16 Sept) · CONCOR submitted (15 Sept) · result watch |
+| **Active Phase** | **Phase 8: UCO Bank — IN POST (joined 28 Sept 2026)** · induction at STC Salt Lake → DIT, HO-2 thereafter |
+| **Career Baseline** | **EMPLOYED — UCO Bank SO (JMGS-I), Kolkata.** App ID `7241178423`. Gross ₹86,589/mo · effective ~₹13.4–14.4 LPA. Bond 2 yr / ₹2L (clears ~Sept 2028). |
+| **Secondary Track** | ⚠️ **GATE 2027 form — closes 5 Oct 2026** · PGCIL/PSU-ET via GATE (exit pipeline) · ISRO ICRB (submitted, test date TBA) · CONCOR (submitted) · CIL/NFL/HLL/IFFCO result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
-| **Study Streak** | Active (IOCL Sprint from Bareilly home base, September 2026) |
-| **Last Session** | 23 Sept 2026 19:30 -- 🔁 V10 QUESTION-FIRST MODE + `KG-VIDEO-INDEX.md` built (5,075 videos / 693h / 5,145 PYQs indexed at subtopic level via KG API). Method: mock → harvest gaps → targeted video fix. |
-| **Resume From** | `.brain/NextSteps.md` — today 11:30 AM start: DL 3.2 close → DL 3.3-3.8 → OS start; Mon OS+DBMS complete; Tue CN+DS+Mock-1; Wed COA+Algo+TOC+Compiler+EngMaths+Mock-2; **24 Sept CBT Bareilly 12:30 PM** |
-| **Overall Mood** | Locked in. 95h on the clock, 55h study mapped. UCO floor secured — pure upside play. |
+| **Study Streak** | Reset for Phase 8 — new rhythm: 1h morning + 1h evening weekdays, 4–5h Sat/Sun (**floor 12–15 h/week**) |
+| **Last Session** | 01 Oct 2026 -- Phase 8 logged: UCO joined 28 Sept, STC induction Week 1 done; missed NMDC (no leave); containment + structured-exit strategy written; GATE 2027 flagged urgent |
+| **Resume From** | `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` — **Action 1: fill GATE 2027 form before 5 Oct** (DigiLocker first) · Action 2: get leave policy + bond deed copy from HR |
+| **Overall Mood** | Difficult — Week 1 at UCO feels oppressive (Hindi-dominant STC, rigid leave, urge to exit). **Reframe: induction shock, not the job; discomfort = build the exit plan, don't panic-exit.** Funded, not trapped — realistic exit window Apr–Jul 2027. |
 
 ## Session Log
+
+### Session 81 -- 01 Oct 2026 (🏦 PHASE 8 — In post at UCO Bank; containment + exit strategy built; GATE 2027 urgent)
+- **Type:** Major life-phase update, strategy build, brain-complex sync
+- **What happened:**
+  - **UCO Bank joined 28 Sept 2026**; induction at **STC, Salt Lake** in progress (Week 1 done). Hours **10:00–18:30**, 5 days · **2nd & 4th Sat + Sundays off** · WB public holidays. Working posting thereafter: **DIT, HO-2, Salt Lake Sector-1**.
+  - **❌ Missed NMDC Steel ET CBT (01 Oct, Ranchi)** — no induction leave in Week 1. Pre-agreed guardrail (15 Sept) was *attend only if leave is sanctioned*. Logged as trade-off, not failure.
+  - **Reported friction:** Hindi-dominant working/social language at STC (feels unprofessional/stressful), leave approvals difficult, strong urge to exit. Asked: can we plan to leave for a better PSU?
+  - **Honest read applied:** Hindi + rigid leave + no-friends + no time-control = **induction/Week-1 effect**, not a verdict on the job. **STC ≠ DIT.** DIT work = enterprise Java/APIs/CBS/security — English-dominant. Bank policy = local language in WB + **English for technical documentation**. **Give the real job 2 fair months before judging (gate G3 = 1 Dec).**
+  - **NOC clarification (key relief):** applying and **writing** PSU exams needs **NO NOC** — only interview/DV/joining stage does. **Exam pipeline stays fully open.**
+  - **Bond reframed:** ₹2L ≈ 2.3 months of gross = a **price list, not a prison**; also flagged to verify whether the signed deed waives the penalty for a move to another govt/PSU organisation.
+  - **⚠️ URGENT COLLISION — GATE 2027:** registration closes **5 Oct 2026** (12 Oct with late fee); **DigiLocker verified account mandatory**; exam 6–21 Feb 2027; result **19 Mar 2027**; **score valid 3 YEARS**. Papers: **CS** (primary) + consider **DA** (GATE 2026: 337, AIR 10,944 — better relative rank). **PowerGrid (PGCIL) reported to recruit 2027 via GATE** → primary exit target (status `Inferred`, verify notification).
+  - **Files created/updated:** `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` (NEW — containment + exit + decision gates G1–G8), `ExamTracker.md` (GATE 2027 section 0 + PGCIL 0b + UCO entry → joined), `NextSteps.md` (Phase 8 block), this log.
+- **Decision gates set:** G1 5 Oct 2026 (GATE form) · G2 15 Oct (policy docs + bond deed) · G3 1 Dec (soft review) · G4 6–21 Feb 2027 (GATE exam) · G5 19 Mar (result) · **G6 31 Mar 2027 (commit-or-stay)** · G7 1 Nov 2027 (13th BPS) · G8 ~Sept 2028 (bond clears).
+- **Realistic exit window: Apr–Jul 2027** (PSU ET cycle on GATE 2027) — ~9–10 months away.
+- **Next goals:** **fill the GATE 2027 form before 5 Oct** · request leave policy + bond deed copy from HR · start the 2h/day Phase 8 rhythm (1h morning + 1h evening).
 
 ### Session 80 -- 23 Sept 2026 7:30 PM (🔁 V10 QUESTION-FIRST MODE — full granular video index built)
 - **Type:** Strategy restructure + tooling (major)

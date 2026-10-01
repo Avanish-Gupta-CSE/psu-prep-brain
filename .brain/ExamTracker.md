@@ -1,5 +1,34 @@
 # Exam Tracker
 
+## ⚠️ URGENT — ACTION DEADLINE 5 OCT 2026
+
+### 0. GATE 2027 (IIT Madras) — the widest PSU CS/IT door
+| Field | Details |
+|-------|---------|
+| **Registration opened** | 02 Sept 2026 (GOAPS) |
+| **⚠️ Regular registration closes** | **05 October 2026 (no late fee)** |
+| **Extended registration closes** | 12 October 2026 (+~₹500 late fee) |
+| **MANDATORY** | **Verified DigiLocker account** — create/update BEFORE filling the form |
+| **Fee (approx.)** | ~₹1,800 Gen/OBC regular |
+| **Exam dates** | 06–07 Feb · 13–14 Feb · 20–21 Feb 2027 |
+| **Result** | 19 March 2027 |
+| **Score validity** | **3 years** (usable to 2029 recruitments) |
+| **Papers to take** | **CS** (primary — already prepped Sep 2026 for IOCL) · consider **DA** (GATE 2026: 337, AIR 10,944 — better relative rank) |
+| **Portal** | `gate2027.iitm.ac.in` → GOAPS |
+| **Note** | **Syllabi revised for 2027** — check the updated CS syllabus |
+| **Why it matters** | Unlocks **PowerGrid (user-reported 2027 via GATE)** · NTPC · GAIL ET · BARC OCES · NBCC · NHPC · SJVN · PFC · REC · IIT M.Tech |
+| **Priority** | 🔴 **FILL THE FORM — top action of the week** |
+
+### 0b. PowerGrid (PGCIL) — Executive Trainee via GATE
+| Field | Details |
+|-------|---------|
+| **Route** | ET recruitment **through GATE score** (2027 cycle — user-reported; verify official notification) |
+| **Discipline** | IT/CS has been included in past PGCIL ET cycles — confirm in the 2027 notification |
+| **Status** | `Inferred` — awaiting official notification |
+| **Priority** | ⭐ **PRIMARY EXIT TARGET** once GATE 2027 score is in hand (result 19 Mar 2027) |
+
+---
+
 ## Active / Upcoming Exams (Sorted by Date)
 
 ### 1. IFFCO -- Graduate Engineer Trainee (GET) -- Computer Science
@@ -16,10 +45,15 @@
 ### 2. UCO Bank -- Software Developer in JMGS-I (Specialist Cadre)
 | Field | Details |
 |-------|---------|
-| **Date** | **28 September 2026 (Monday) — CONFIRMED JOINING** (deferred from 20.07.2026) |
+| **Date** | **28 September 2026 (Monday) — JOINED** (deferred from 20.07.2026) |
 | **Reporting Time** | **09:30 AM** |
 | **Venue** | UCO BANK STAFF TRAINING CENTRE, PLOT NO. GE-8, SECTOR-III, SALT LAKE, KOLKATA, WEST BENGAL - 700106 |
-| **Status** | 🔥 **JOINING CONFIRMED 28.09.2026 — RELIEVING LETTER SUBMITTED (email draft ready 15 Sept)** |
+| **Status** | 🏦 **JOINED 28.09.2026 — INDUCTION AT STC IN PROGRESS** (Week 1 done 01 Oct). Hours **10:00–18:30**, 2nd/4th Sat + Sundays off, WB public holidays. Working posting after training: **DIT, HO-2, Salt Lake**. |
+| **Phase 8 strategy** | `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` — containment + exit pipeline + decision gates |
+| **Reported friction (01 Oct)** | Hindi-dominant language at STC · leave hard to approve · urge to exit. **Read as: training-centre + Week-1 effect, not a verdict on the DIT job.** |
+| **Missed** | ❌ NMDC Steel ET CBT 01 Oct (Ranchi) — no induction leave available. Pre-agreed trade-off. |
+| **Policy to obtain** | Leave policy (probationer) · exam leave · LWP · **signed bond deed copy** |
+| **Decision gates** | G2 15 Oct 2026 (policy docs) · G3 1 Dec 2026 (soft review) · **G6 31 Mar 2027 (commit-or-stay)** · bond clears ~Sept 2028 |
 | **Advt / App ID** | `HO/HRM/RECR/2025-26/COM-04` (13.01.2026) \| App ID `7241178423` |
 | **HR Contact** | `hohrd_calcutta@ucobank.in` \| 033-4455-7379 (Chief Manager, Admission Room/Recruitment Cell, HRM Dept, HO) |
 | **HR Requirement** | **Relieving letter of previous organisation** — received from Berkadia 15 Sept; reply draft at `UCOBank/RELIEVING-LETTER-REPLY-EMAIL.md` (send by 16–17 Sept) |
