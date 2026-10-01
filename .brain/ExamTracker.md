@@ -19,13 +19,22 @@
 | **Why it matters** | Unlocks **PowerGrid (user-reported 2027 via GATE)** · NTPC · GAIL ET · BARC OCES · NBCC · NHPC · SJVN · PFC · REC · IIT M.Tech |
 | **Priority** | 🔴 **FILL THE FORM — top action of the week** |
 
-### 0b. PowerGrid (PGCIL) — Executive Trainee via GATE
+### 0b. POWERGRID (PGCIL) — Engineer Trainee 2027 ✅ **CONFIRMED ADVERTISEMENT**
 | Field | Details |
 |-------|---------|
-| **Route** | ET recruitment **through GATE score** (2027 cycle — user-reported; verify official notification) |
-| **Discipline** | IT/CS has been included in past PGCIL ET cycles — confirm in the 2027 notification |
-| **Status** | `Inferred` — awaiting official notification |
-| **Priority** | ⭐ **PRIMARY EXIT TARGET** once GATE 2027 score is in hand (result 19 Mar 2027) |
+| **Advt. No.** | **`CC/03/2026` dated 24.09.2026** (official 9-page detailed advertisement on `powergrid.in` → Career) |
+| **Post** | **Engineer Trainee 2027** — disciplines: **Electrical / Civil / COMPUTER SCIENCE / Electronics** ✅ **CS IS INCLUDED** |
+| **Required GATE paper** | **CS** (per the official table: *Engineer Trainee (Computer Science) → GATE 2027 paper CS*) |
+| **Eligibility** | B.E./B.Tech in **Computer Science** (or related) with **minimum 60% marks**. Final-year students with results by 31.08.2027 also eligible. — **User: CGPA 9.60 → 96%/91% ✅ clears comfortably** |
+| **Compensation — during training (1 yr)** | Pay scale ₹40,000-3%-1,40,000 (IDA) · **approx CTC ₹11.00 lakhs/annum** |
+| **Compensation — after training** | Absorbed as **Engineer in E2 scale** ₹50,000-3%-1,60,000 (IDA) · **approx CTC ₹22.50 lakhs/annum** · + leased accommodation/quarters, PRP, PF, Gratuity, Pension, Group Insurance |
+| **⚠️ Bond** | **₹5,00,000** for Gen/OBC(NCL)/EWS (₹2,50,000 SC/ST/PwBD) — must complete training **AND serve ≥3 years** thereafter (~4-year commitment) |
+| **Process** | 1) Register + appear in **GATE 2027 (CS paper)** → 2) A **separate POWERGRID notification** (vacancies/reservation/selection) → 3) Apply on powergrid.in with GATE 2027 Application No. + Score |
+| **POWERGRID application window** | **March / April 2027 (tentative)** |
+| **Org** | **Maharatna** CPSE, Ministry of Power — one of the world's largest transmission utilities |
+| **Priority** | ⭐⭐⭐ **PRIMARY EXIT TARGET** — unlock is the GATE 2027 form (**due 5 Oct 2026**) |
+
+> **Why this is the headline target:** post-training CTC **~₹22.5L vs UCO's ~₹13.4–14.4L effective (~+₹8L/yr)** and **E2 scale vs JMGS-I (Scale I)** — a full level up, at a Maharatna, in a CS/IT role. Cost: a **₹5L / ~4-year bond** that would run to ~2031. **Decide with eyes open once a GATE score exists.**
 
 ---
 

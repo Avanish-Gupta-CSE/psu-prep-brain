@@ -114,14 +114,16 @@ You have four days of data and a strong emotional reaction ("I want to run away"
 ### Target list this form unlocks
 | Organisation | Route | CS/IT? | Note |
 | :--- | :--- | :---: | :--- |
-| **PGCIL (PowerGrid)** | ET via GATE | ✅ (historically ET in CS/IT) | **User-reported: 2027 recruitment via GATE** — verify the notification when it drops |
+| **PGCIL (PowerGrid)** | ET via GATE | ✅ **CONFIRMED — CS included** | **Advt `CC/03/2026` (24.09.2026)**: ET 2027 in Electrical/Civil/**Computer Science**/Electronics. **GATE paper CS.** Training CTC ~₹11L → **post-training ~₹22.5L, Engineer E2 scale**. Bond ₹5L / training + 3 yrs. App window **Mar–Apr 2027** |
 | **NTPC** | ET via GATE | ✅ | Some cycles include IT |
 | **GAIL** | ET via GATE | ⚠️ (mostly Chem/Instr/Elect/Mech — *Feb 2027 cycle listed*) | Check CS/IT inclusion each cycle |
 | **BARC OCES/DGFS** | GATE-based | ✅ | Tried before (Mar 2026) |
 | **NBCC, NHPC, SJVN, PFC, REC, OIL, NALCO** | ET via GATE | varies | Watch each notification |
 | **IIT M.Tech** | Direct via GATE | ✅ | Highest-paying backup: M.Tech → better PSU/private offers |
 
-> **Marked `Inferred`:** the PowerGrid-2027-via-GATE claim is user-reported; treat as *likely* until the official notification is seen. **The GATE form is worth filling regardless.**
+> **Marked `Confirmed` (01 Oct 2026):** POWERGRID's official detailed advertisement **`CC/03/2026` dated 24.09.2026** lists **Computer Science** among the ET 2027 disciplines, with **GATE 2027 paper CS** as the corresponding paper. **Eligibility: B.E./B.Tech CS with minimum 60% (user: 96%/91% ✅).** Compensation: **₹11L CTC during 1-yr training → ~₹22.5L CTC post-training (Engineer, E2 scale)**. Bond: **₹5L** requiring training completion + 3 years' service. POWERGRID application window: **Mar–Apr 2027 (tentative)**. → **This makes the GATE 2027 form the single highest-value action available this week.**
+>
+> **Honest caveat:** the ₹5L / ~4-year bond is **2.5× UCO's** and would run to roughly **2031** — so treat PGCIL as the *most attractive* target, not an automatic yes. Decide with the score in hand (gate G5/G6).
 
 ---
 
