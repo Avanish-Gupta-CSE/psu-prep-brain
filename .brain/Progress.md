@@ -9,11 +9,23 @@
 | **Secondary Track** | ⚠️ **GATE 2027 form — closes 5 Oct 2026** · PGCIL/PSU-ET via GATE (exit pipeline) · ISRO ICRB (submitted, test date TBA) · CONCOR (submitted) · CIL/NFL/HLL/IFFCO result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Reset for Phase 8 — new rhythm: 1h morning + 1h evening weekdays, 4–5h Sat/Sun (**floor 12–15 h/week**) |
-| **Last Session** | 01 Oct 2026 -- Phase 8 logged: UCO joined 28 Sept, STC induction Week 1 done; missed NMDC (no leave); containment + structured-exit strategy written; GATE 2027 flagged urgent |
+| **Last Session** | 18 Oct 2026 -- Office posting (UCO-Realty build, Java/Spring/Oracle, no AI tools, leave friction, 10am-7pm); user distressed, crying, said "I feel like dying". Safety check + helplines given. |
 | **Resume From** | `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` — **Action 1: fill GATE 2027 form before 5 Oct** (DigiLocker first) · Action 2: get leave policy + bond deed copy from HR |
 | **Overall Mood** | Difficult — Week 1 at UCO feels oppressive (Hindi-dominant STC, rigid leave, urge to exit). **Reframe: induction shock, not the job; discomfort = build the exit plan, don't panic-exit.** Funded, not trapped — realistic exit window Apr–Jul 2027. |
 
 ## Session Log
+
+### Session 82 -- 18 Oct 2026 (🆘 Wellbeing — posting at HO-1, UCO-Realty project; distress)
+- **Reported by user (not yet verified with HR or the project lead):**
+  - Joined the office after STC. Official hours 10:00–17:00, but staying until ~19:00 is expected.
+  - Leave is hard to get: a backup must be found, and some requests are refused.
+  - No help from colleagues. Each project is owned by one person.
+  - Assigned alone to build **UCO-Realty**: React frontend, Java Spring Boot backend, Oracle DB. Has no working knowledge of Spring Boot. Company system has no AI coding assistant.
+  - Must travel to Head Office-1 on his own, with no travel allowance, to gather requirements from the Marketing team.
+  - Says he dislikes the place, misses his old company, and wants to leave. Crying when talking to parents.
+- **Wellbeing:** distressed ("I feel like dying"). Safety question asked. Helplines given: Tele-MANAS 14416 / 1-800-891-4416 and KIRAN 1800-599-0019.
+- **Open, for when he is steady:** written requirements request and travel claim for HO-1 visits · written training/mentor ask for Spring Boot and Oracle · written query on AI-tool policy · leave policy in writing (from G2).
+- **Not decided:** no resignation. Standing rule still holds: no resignation without an appointment letter in hand.
 
 ### Session 81 -- 01 Oct 2026 (🏦 PHASE 8 — In post at UCO Bank; containment + exit strategy built; GATE 2027 urgent)
 - **Type:** Major life-phase update, strategy build, brain-complex sync
