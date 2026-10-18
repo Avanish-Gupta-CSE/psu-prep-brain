@@ -1,5 +1,20 @@
 # Exam Tracker
 
+## ❌ IOCL Engineers/Officers (CS/IT) — RESULT: NOT SELECTED (18 Oct 2026)
+| Field | Details |
+|-------|---------|
+| **Sectional scores** | Section A (Tech): **37.75 / 50.0** · Section B (Aptitude): **10.00 / 50.0** |
+| **Sectional minimum** | 22.5 per section · **Overall minimum 45.00** |
+| **Outcome** | Did not clear the sectional cut-off. OBC cut-off reported around 68 |
+| **Lesson** | Aptitude (10/50) is the biggest gap. Tech is close to the line |
+
+## 🟡 UPCOMING EXAMS (Oct 2026)
+| Exam | Date | Venue | Status |
+|------|------|-------|--------|
+| **NSPCL Sr. Asst. Engineer (IT/ERP)** | **25 Oct 2026** (user-reported; not in the repo's advert) | **Kolkata** (exam city 1, application `2606002174`) | Application submitted 14 Sept 2026. Admit card: confirm |
+| **ISRO ICRB Scientist/Engineer SC (CS)** | **29 Oct 2026** (user-reported; repo says "Oct/Nov 2026, tentative") | Confirm centre (Kolkata / Ranchi / Delhi-NCR) | Application `ICRBS260037880` submitted 16 Sept 2026. Admit card: confirm |
+| **NICL AO / IT Officer** | Form open now (user-reported 18 Oct) | — | **Not yet applied. Check closing date and eligibility** |
+
 ## ⚠️ URGENT — ACTION DEADLINE 5 OCT 2026
 
 ### 0. GATE 2027 (IIT Madras) — the widest PSU CS/IT door

@@ -9,11 +9,21 @@
 | **Secondary Track** | ⚠️ **GATE 2027 form — closes 5 Oct 2026** · PGCIL/PSU-ET via GATE (exit pipeline) · ISRO ICRB (submitted, test date TBA) · CONCOR (submitted) · CIL/NFL/HLL/IFFCO result watch |
 | **MSTC Status** | **WAITLISTED (Reserve Panel, 53.00/100 — Active to July 2027)** |
 | **Study Streak** | Reset for Phase 8 — new rhythm: 1h morning + 1h evening weekdays, 4–5h Sat/Sun (**floor 12–15 h/week**) |
-| **Last Session** | 18 Oct 2026 -- Office posting (UCO-Realty build, Java/Spring/Oracle, no AI tools, leave friction, 10am-7pm); user distressed, crying, said "I feel like dying". Safety check + helplines given. |
+| **Last Session** | 18 Oct 2026 -- Wellbeing check passed (user reports OK). Home in Bareilly (IFFCO). IOCL result: NOT SELECTED (Sec A 37.75/50, Sec B 10/50). Plan set for Java backend (UCO-Realty) + NSPCL 25 Oct (Kolkata) + ISRO 29 Oct + NICL AO form. |
 | **Resume From** | `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` — **Action 1: fill GATE 2027 form before 5 Oct** (DigiLocker first) · Action 2: get leave policy + bond deed copy from HR |
 | **Overall Mood** | Difficult — Week 1 at UCO feels oppressive (Hindi-dominant STC, rigid leave, urge to exit). **Reframe: induction shock, not the job; discomfort = build the exit plan, don't panic-exit.** Funded, not trapped — realistic exit window Apr–Jul 2027. |
 
 ## Session Log
+
+### Session 83 -- 18 Oct 2026 (Reset: IOCL not selected, next-target plan)
+- **Wellbeing:** user reports they are okay. No further safety action needed. Check in again if distress returns.
+- **IOCL 2026 result: NOT SELECTED.** Sec A 37.75/50, Sec B 10.00/50. Sectional min 22.5 each, overall min 45. OBC cut-off around 68. Aptitude is the big gap.
+- **Targets in the window:**
+  - **NSPCL Sr. Asst. Engineer (IT/ERP), 25 Oct, Kolkata.** Exam city 1 is Kolkata (verified in the application). Date is user-reported; not in the advert.
+  - **ISRO ICRB SC (CS), 29 Oct, user-reported.** Repo says "Oct/Nov 2026 (tentative)". Centre to confirm.
+  - **NICL AO / IT Officer:** form open now. Not applied. Check the closing date and eligibility.
+- **Java backend plan (UCO-Realty):** the project's own `Master_Learning_Plan.md` is dated 17–21 Oct and assumes a Kolkata trip, which has already happened. Reuse its sessions 1–9, but re-date them around the three exams.
+- **Not decided:** still no resignation. Standing rule holds.
 
 ### Session 82 -- 18 Oct 2026 (🆘 Wellbeing — posting at HO-1, UCO-Realty project; distress)
 - **Reported by user (not yet verified with HR or the project lead):**

@@ -1,6 +1,6 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: October 18, 2026 (🆘 **WELLBEING FIRST** — user distressed on 18 Oct. Safety check and helplines before anything else. Office posting at HO-1 with UCO-Realty solo build; see Progress Session 82. Earlier: 🏦 **PHASE 8 ACTIVE — UCO Bank joined 28 Sept, STC induction.** ⚠️ **URGENT: GATE 2027 form closes 5 Oct 2026 (4 days).** Exit pipeline rebuilt: PowerGrid/PSU-ET via GATE + decision gate 31 Mar 2027. Full strategy: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`)
+Last updated: October 18, 2026 (� **RESET 18 Oct:** IOCL NOT selected (Sec A 37.75/50, Sec B 10/50). Next: **NSPCL 25 Oct (Kolkata)**, **ISRO 29 Oct**, **NICL AO form open**, and the **UCO-Realty Java plan**. Earlier: �🆘 **WELLBEING FIRST** — user distressed on 18 Oct. Safety check and helplines before anything else. Office posting at HO-1 with UCO-Realty solo build; see Progress Session 82. Earlier: 🏦 **PHASE 8 ACTIVE — UCO Bank joined 28 Sept, STC induction.** ⚠️ **URGENT: GATE 2027 form closes 5 Oct 2026 (4 days).** Exit pipeline rebuilt: PowerGrid/PSU-ET via GATE + decision gate 31 Mar 2027. Full strategy: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`)
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
