@@ -13,6 +13,37 @@ Before answering any user query, the agent must check this file, compare it with
 
 These are jobs where Avanish has already completed significant selection rounds. We are actively monitoring them for results or next round schedules.
 
+### 0. NSPCL -- Senior Assistant Engineer (IT/ERP), E1 Grade
+* **Advt No.**: `01/2026` (NTPC-SAIL Power Company Ltd, New Delhi)
+* **Application No**: `2606002174` (submitted 14 Sept 2026)
+* **Exam**: **Sun 25 Oct 2026, 10:00 AM – 12:00 PM** · **entry 08:30 AM** — 🎫 admit card printed 21 Oct
+* **Roll**: `26011701` · **Centre**: Hiralal Mazumdar Memorial College for Women, Block A 2nd Floor, Jadunath Sarbobhouma Lane, College Para, **Dakshineswar, Kolkata 700035**
+* **Pattern (from admit card)**: **120 MCQs / 120 min — Subject Knowledge 80 + Aptitude 40** · +1 per correct · **−0.25 per wrong** · **separate qualifying cutoff in EACH section**
+* **Implication**: aptitude is **33% of the paper and a standalone gate** — the same mechanism that ended IOCL. Prep split must be ~3:1 subject:aptitude, not 100% subject.
+* **Website**: `nspcl.co.in` → Careers
+* **Folder**: `NSPCL/`
+
+### 0a. NICL -- Administrative Officer (IT Specialist), Scale-I
+* **Advt**: NICL AO Recruitment 2026-27 · **321 posts** (Generalist 200 · Specialist 121, **IT 11**)
+* **Window**: 08 Oct – **28 Oct 2026** · Apply: `ibpsreg.ibps.in/niiclsep26/`
+* **Age**: 21–30 as on 01.10.2026 (OBC +3) · **Qual (IT)**: BE/B.Tech/M.Tech CS/IT or MCA, **≥60%** (55% SC/ST/PwBD)
+* **Pay**: Basic ₹82,485 · **~₹1,14,000/mo gross** (metro) — materially above current UCO gross
+* **Selection**: Phase-I **17 Nov 2026** (Eng 30 · Reasoning 35 · Quant 35) → Phase-II **22 Dec 2026** → Interview
+* **Why it matters**: insurance AO = better WLB than a bank branch; the prelims is pure aptitude, which is exactly the skill that has been costing selections
+* **Status**: 🟢 **DECIDED — APPLY** (form Fri 23 Oct)
+
+### 0b. Cabinet Secretariat -- Deputy Field Officer (Technical)
+* **Advt No.**: `02/2026` · via Employment News **17–23 Oct 2026**
+* **Posts**: 250 total — **CS/IT 112** (GATE CS) · EC 112 · DA 10 · others 16
+* **Eligibility**: BE/B.Tech/M.Sc + **GATE 2024 / 2025 / 2026** in the matching paper · age **≤30 as on 15.11.2026** (OBC +3)
+* **Pay**: **Level-7** (~₹95,000–1,00,000/mo) · New Delhi, all-India transfer liability
+* **Selection**: GATE score shortlist → Interview → **character & antecedent verification** + medical
+* **Fee**: **Nil** · **Offline only, by ordinary post**
+* **Address**: Post Bag No. 001, Lodhi Road Head Post Office, New Delhi-110003 · superscribe the envelope with the post name
+* **Last date to reach**: **15 Nov 2026** (post it by ~10 Nov)
+* **NOC**: required "wherever applicable" — do **not** route through the bank at application stage; be ready to produce it at interview
+* **Honest odds**: GATE 2026 CS **350 / AIR 29,099** against 112 seats → very unlikely shortlist. **File it as a nil-cost option.**
+
 ### 1. MSTC -- Management Trainee (Systems)
 * **Status**: **WAITLISTED (Reserve Panel)** (Active for 1 year, ~July 2026 to July 2027).
 * **Score Breakdown**: CBT `26.50 / 60` (44.17%) + GD **`17.50 / 25`** (70.00%) + Interview **`9.00 / 15`** (60.00%) = **`53.00 / 100`**.
@@ -32,8 +63,8 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Website**: `stpi.in` / `nielit.gov.in`
 
 ### 4. UCO Bank -- Software Developer in JMGS-I
-* **Status**: **Selected** (Appointment Letter received 08.07.2026). Joining in September 2026 (tentative).
-* **Next Event**: Reporting/Joining (September 2026 tentative).
+* **Status**: **JOINED 28 Sept 2026** — in post. Induction at STC Salt Lake; working posting DIT, HO-2.
+* **Next Event**: None on this track (career baseline / floor). Exit plan: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`.
 * **Website**: `ucobank.com/careers`
 
 ### 5. Currency Note Press (CNP) Nashik -- Supervisor (IT) Level-S1
@@ -78,6 +109,16 @@ These are jobs where Avanish has already completed significant selection rounds.
 ## 📝 Category II: Immediate Applications To Fill (ACTIVE)
 
 These are immediate high-priority applications that Avanish must fill now:
+
+### 0. 🆕 Rapid-Scan Finds — 20 Oct 2026 (aggregator sweep; websearch API down → sourced from indgovtjobs.in homepage fetch)
+| Target | Posts | Deadline | Status / Action |
+| :--- | :--- | :--- | :--- |
+| **NICL AO (incl. IT Officer)** | 321 AO posts (Aggregator) | **28 Oct 2026** | 🔴 **DECISION NEEDED + verify on nicl.co.in** — form open, not applied |
+| **Cabinet Secretariat DFO (Technical)** | 250 total — **112 for GATE CS** | **15 Nov 2026 (applications by POST)** | ⭐ **STRONG FIT** — uses GATE 2024–26 score (user: GATE 2026 CS 350), Nil fee, Pay Level-7, New Delhi. Shortlist = GATE score → interview. Draft the postal pack |
+| **NABARD IT Specialist** | 16 | **26 Oct 2026** | 🟡 Verify eligibility + pattern on nabard.org |
+| **ICAR IASRI IT Professional** | 19 | **28 Oct 2026** | 🟡 Govt research IT role — check age/experience fit |
+| **CDAC Technical & Non-Technical** | 899+ | **26 Oct 2026** | 🟡 Filter CS/IT-grade posts on cdac.in |
+| **NSPCL Engineering Executive Trainee — via GATE 2027** | TBD | Feb 2027 window | Reinforces G1/GATE-2027 pipeline (Status: Aggregator-confirmed dates; official portals **Inferred/unchecked**) |
 
 ### 1. HAL (Hindustan Aeronautics Limited) -- Design Trainee (DT) Computer Science
 * **Advt No.**: `HAL/CHRC-TM/RECT-02/2026` (Dated 29.07.2026)
@@ -160,6 +201,7 @@ These are immediate high-priority applications that Avanish must fill now:
 ### 9. ISRO ICRB -- Scientist / Engineer ‘SC’ (Computer Science - Direct CBT)
 * **Advt No.**: `ISRO:ICRB:03(EMC):2026` (Dated 27.08.2026)
 * **Status**: **✅ SUBMITTED 16 SEPT 2026 (11:36 AM)** — App No `ICRBS260037880` — Payment Success (Txn `1609260018555`, ₹750)
+* **Exam**: **Thu 29 Oct 2026 — CONFIRMED (21 Oct)** · city allotted · **admit card pending download**
 * **Post / Code**: Scientist/Engineer SC (CS) — `BE003` (ISRO Centres) + `BE003A` (PRL) — applied for **ISRO and PRL**
 * **Test Cities**: 1. Kolkata (West Bengal) · 2. Ranchi (Jharkhand) · 3. Delhi/NCR (Delhi)
 * **File**: `ISRO/ICRB-SC-CS-Application-ICRBS260037880.pdf` (6 pages)

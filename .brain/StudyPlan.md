@@ -8,8 +8,9 @@
 - **Completed Events**: MSTC interview (21 May), STPI CBTs (30-31 May), UCO Bank GD (01 Jun) & Interview (17 Jun),
   BSNL SET (05 Jul), NFL MT (11 Jul), Balmer Lawrie (15 Jul), IFFCO CBT 2 (02 Aug), ISP SPMCIL (19 Aug),
   HLL MT (23 Aug), CIL MT (24 Aug), HAL DT CBT (06 Sept — did not make cut, result 09 Sept).
-- **Active Focus Phase**: **Phase 8 — in post at UCO Bank (from 28 Sept 2026)**, while running **Phase 9 (exit pipeline: GATE 2027 + PSU-ET cycle)** in parallel. IOCL CBT completed 24 Sept 2026 (result awaited).
-- **⚠️ Immediate action:** **GATE 2027 registration closes 5 Oct 2026** — see `ExamTracker.md` §0.
+- **Active Focus Phase**: **Phase 8 — in post at UCO Bank (from 28 Sept 2026)**, while running **Phase 9 (exit pipeline)** in parallel.
+- **🎯 Plan of record (21 Oct 2026):** [`CAREER-MASTER-PLAN-2026-2028.md`](CAREER-MASTER-PLAN-2026-2028.md). Spine = **Direct recruitment now (NICL/insurance/CDAC, aptitude-led) → GATE 2028 (Feb) as the real ET attempt → bond clears Sept 2028.** GATE 2027 (submitted) is a **rehearsal**, not the target.
+- **⚠️ Immediate action:** none on GATE — **form submitted**. Next: NICL form by 28 Oct, DFO by post by 15 Nov.
 - **Convergence (updated 01 Oct):** UCO induction underway at STC Salt Lake; **NMDC Steel CBT (01 Oct, Ranchi) MISSED** — no induction leave available in Week 1 (pre-agreed trade-off). Decision gates G1–G8 live in `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`.
 - **Study capacity**: **constrained** — 10:00–18:30 weekdays. Sustainable floor **12–15 h/week** (1h morning + 1h evening + 4–5h each on 1st/3rd Sat and Sundays).
 

@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PSU Exit Plan 2026–2029 — Avanish Kumar Gupta</title>
+<meta name="description" content="Evidence-based plan: GATE, PSU CBTs, central govt and corporate — with probabilities, cutoff data and a December 2027 switch deadline.">
+<style>
+:root{
+  --bg:#0f1115;--card:#1a1d24;--card2:#151820;--border:#2a2e3a;
+  --accent:#42b983;--accent2:#3aa0ff;--warn:#f5a623;--danger:#e74c3c;
+  --muted:#8b92a8;--text:#e6e8ef;--dim:#5a6076;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:74px}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--accent2);text-decoration:none}
+a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:50;background:rgba(15,17,21,.94);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);padding:12px 18px;display:flex;flex-wrap:wrap;gap:10px;
+  align-items:center;justify-content:space-between}
+header .brand{font-size:15px;font-weight:700;letter-spacing:.01em}
+header .brand span{color:var(--accent)}
+nav{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px}
+nav a{color:var(--muted)}
+nav a:hover{color:var(--text);text-decoration:none}
+.wrap{max-width:1180px;margin:0 auto;padding:0 18px 80px}
+
+/* hero */
+.hero{padding:56px 0 34px;border-bottom:1px solid var(--border);margin-bottom:34px}
+.eyebrow{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:14px}
+h1{font-size:clamp(30px,5.2vw,46px);line-height:1.1;letter-spacing:-.025em;font-weight:800;margin-bottom:16px}
+h1 em{font-style:normal;color:var(--accent)}
+.lede{font-size:17px;color:var(--muted);max-width:760px;margin-bottom:24px}
+.badges{display:flex;gap:8px;flex-wrap:wrap}
+.badge{font-size:12px;padding:5px 12px;border-radius:999px;border:1px solid var(--border);background:var(--card);color:var(--muted)}
+.badge.live{color:var(--accent);border-color:rgba(66,185,131,.4);background:rgba(66,185,131,.08)}
+.badge.warn{color:var(--warn);border-color:rgba(245,166,35,.4);background:rgba(245,166,35,.08)}
+.badge.danger{color:var(--danger);border-color:rgba(231,76,60,.4);background:rgba(231,76,60,.08)}
+
+/* layout */
+section{margin-bottom:52px;scroll-margin-top:80px}
+h2{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:6px}
+h2 .num{color:var(--dim);margin-right:8px}
+h3{font-size:24px;letter-spacing:-.015em;margin-bottom:10px;font-weight:700}
+.sub{color:var(--muted);font-size:14.5px;margin-bottom:20px;max-width:820px}
+p{margin-bottom:12px;font-size:14.5px;color:#cfd3e0}
+strong{color:#fff}
+
+/* cards */
+.grid{display:grid;gap:14px;grid-template-columns:1fr}
+@media(min-width:760px){.g2{grid-template-columns:1fr 1fr}}
+@media(min-width:980px){.g3{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(4,1fr)}}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px}
+.card .k{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.card .v{font-size:34px;font-weight:800;letter-spacing:-.03em;line-height:1}
+.card .v.g{color:var(--accent)}.card .v.b{color:var(--accent2)}
+.card .v.w{color:var(--warn)}.card .v.r{color:var(--danger)}
+.card .n{font-size:12.5px;color:var(--muted);margin-top:8px}
+.verdict{background:linear-gradient(135deg,rgba(66,185,131,.12),rgba(58,160,255,.07));
+  border:1px solid rgba(66,185,131,.35);border-radius:16px;padding:24px;margin:22px 0}
+.verdict .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:10px}
+.verdict p{font-size:19px;line-height:1.5;color:#fff;margin:0;font-weight:600}
+
+/* tables */
+.tw{overflow-x:auto;border:1px solid var(--border);border-radius:12px;margin:16px 0;background:var(--card)}
+table{width:100%;border-collapse:collapse;font-size:13.5px;min-width:520px}
+th{background:var(--card2);text-align:left;padding:11px 14px;font-size:11px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--muted);font-weight:700;border-bottom:1px solid var(--border);white-space:nowrap}
+td{padding:11px 14px;border-bottom:1px solid rgba(42,46,58,.6);vertical-align:top}
+tr:last-child td{border-bottom:none}
+tbody tr:hover{background:rgba(58,160,255,.04)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.hi{color:var(--accent);font-weight:700}
+.hi2{color:var(--accent2);font-weight:700}
+.warn{color:var(--warn);font-weight:700}
+.bad{color:var(--danger);font-weight:600}
+.dim{color:var(--muted)}
+
+/* bars */
+.bars{display:flex;flex-direction:column;gap:7px;margin:16px 0}
+.bar{display:grid;grid-template-columns:70px 1fr 54px;gap:12px;align-items:center;font-size:13px}
+.bar .lbl{color:var(--muted);font-variant-numeric:tabular-nums}
+.bar .track{background:#0b0d11;border:1px solid var(--border);border-radius:6px;height:22px;overflow:hidden}
+.bar .fill{height:100%;border-radius:5px 0 0 5px;background:linear-gradient(90deg,#2f8f68,#42b983)}
+.bar .fill.b{background:linear-gradient(90deg,#2a6fa8,#3aa0ff)}
+.bar .fill.w{background:linear-gradient(90deg,#a8791a,#f5a623)}
+.bar .fill.r{background:linear-gradient(90deg,#9e3529,#e74c3c)}
+.bar .val{text-align:right;font-variant-numeric:tabular-nums;font-weight:700;color:#fff}
+
+/* timeline */
+.tl{position:relative;padding-left:26px;margin:20px 0}
+.tl::before{content:"";position:absolute;left:7px;top:6px;bottom:6px;width:2px;background:var(--border)}
+.tl .item{position:relative;margin-bottom:20px}
+.tl .item::before{content:"";position:absolute;left:-25px;top:5px;width:12px;height:12px;border-radius:50%;
+  background:var(--bg);border:2px solid var(--accent)}
+.tl .item.warn::before{border-color:var(--warn)}
+.tl .item.danger::before{border-color:var(--danger)}
+.tl .when{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:3px}
+.tl .item.warn .when{color:var(--warn)}.tl .item.danger .when{color:var(--danger)}
+.tl .what{font-size:14.5px;font-weight:600;margin-bottom:2px}
+.tl .desc{font-size:13px;color:var(--muted)}
+
+/* misc */
+.note{border-left:3px solid var(--accent2);background:rgba(58,160,255,.06);padding:14px 16px;border-radius:0 10px 10px 0;margin:16px 0;font-size:14px}
+.note.warnb{border-left-color:var(--warn);background:rgba(245,166,35,.06)}
+.note.dangerb{border-left-color:var(--danger);background:rgba(231,76,60,.06)}
+.note strong{color:#fff}
+ul{margin:10px 0 14px 20px}
+li{font-size:14px;color:#cfd3e0;margin-bottom:7px}
+li::marker{color:var(--accent)}
+code{background:#0b0d11;border:1px solid var(--border);padding:1px 6px;border-radius:5px;font-size:12.5px;color:#9fd6bd;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+footer{border-top:1px solid var(--border);margin-top:60px;padding-top:24px;font-size:12.5px;color:var(--muted)}
+footer p{font-size:12.5px;color:var(--muted)}
+.split{display:grid;gap:16px;grid-template-columns:1fr}
+@media(min-width:900px){.split{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">PSU Exit Plan <span>2026–2029</span></div>
+  <nav>
+    <a href="#verdict">Verdict</a>
+    <a href="#doors">Doors</a>
+    <a href="#gate">GATE truth</a>
+    <a href="#seats">Seat math</a>
+    <a href="#model">Model</a>
+    <a href="#switch">2027 switch</a>
+    <a href="#timing">Timing</a>
+    <a href="#money">Money</a>
+    <a href="#calendar">Calendar</a>
+    <a href="#gates">Gates</a>
+    <a href="tracker/">Tracker →</a>
+  </nav>
+</header>
+
+<div class="wrap">
+
+<div class="hero">
+  <div class="eyebrow">Decision dossier · updated 21 Oct 2026</div>
+  <h1>Get out of the bank.<br>Not by lottery — <em>by arithmetic.</em></h1>
+  <p class="lede">
+    A quantitative plan built from official GATE statistics, POWERGRID's own cutoff PDFs,
+    and 220,000-trial Monte Carlo simulations — covering four exit doors, a hard December 2027
+    switch deadline, and the exact sequence that gets there.
+  </p>
+  <div class="badges">
+    <span class="badge live">Baseline: UCO Bank JMGS-I · secured</span>
+    <span class="badge warn">Deadline: leave by 31 Dec 2027</span>
+    <span class="badge">Bond ₹2,00,000 · non-binding</span>
+    <span class="badge">OBC-NCL · DOB 31 Mar 2000</span>
+  </div>
+</div>
+
+<!-- ============ VERDICT ============ -->
+<section id="verdict">
+  <h2><span class="num">01</span>The verdict</h2>
+  <h3>Three numbers that define the next three years</h3>
+  <p class="sub">Every figure below is a simulated probability, not a target. The point of the plan is to move the first number upward.</p>
+
+  <div class="grid g3">
+    <div class="card">
+      <div class="k">Leave UCO by Dec 2027</div>
+      <div class="v w">32%</div>
+      <div class="n">Realistic effort. Rises to ~50% if the corporate campaign starts by Jan 2027; falls to 9% if it starts in July.</div>
+    </div>
+    <div class="card">
+      <div class="k">PSU ET offer by mid-2029</div>
+      <div class="v b">28%</div>
+      <div class="n">Averaged across GATE and CBT routes. The GATE-only path alone is ~24% inside 24 months.</div>
+    </div>
+    <div class="card">
+      <div class="k">Never move (stay at UCO)</div>
+      <div class="v r">34%</div>
+      <div class="n">In the average case by mid-2029. The single most likely outcome if nothing changes about the current pace.</div>
+    </div>
+  </div>
+
+  <div class="verdict">
+    <div class="tag">Core finding</div>
+    <p>
+      The PSU cannot deliver a 2027 exit — the exam→shortlist→interview→joining chain is seven to ten months by itself.
+      <strong>2027 is a corporate deadline.</strong> The PSU becomes the upgrade that arrives in 2028–29.
+    </p>
+  </div>
+
+  <div class="note">
+    <strong>What changed in this analysis.</strong> The original plan treated GATE as the spine.
+    The data says otherwise: only two Maharatnas take GATE for Computer Science, with a combined
+    ~50–70 seats per year against 211,020 candidates. The GATE <em>syllabus</em> is still the correct
+    curriculum — it is the union of every PSU technical paper — but the GATE <em>rank</em> is not a plan.
+  </div>
+</section>
+
+<!-- ============ DOORS ============ -->
+<section id="doors">
+  <h2><span class="num">02</span>The four doors</h2>
+  <h3>Cost, probability and payoff for each route</h3>
+  <p class="sub">Hours shown are what it takes to become genuinely competitive — not to pass a threshold on paper.</p>
+
+  <div class="tw">
+    <table>
+      <thead>
+        <tr><th>Route</th><th>Organisations</th><th class="num">Hours to viable</th><th class="num">P(success)</th><th>Payoff</th><th>Decision within</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Own-CBT PSU</strong></td>
+          <td>IOCL · HPCL · NTPC · BHEL · ONGC · NLC</td>
+          <td class="num">200–300</td>
+          <td class="num hi">30–40%</td>
+          <td>₹18–22L + township</td>
+          <td>4–6 months</td>
+        </tr>
+        <tr>
+          <td><strong>GATE → PSU</strong></td>
+          <td>POWERGRID · NTPC · Grid-India · DRDO</td>
+          <td class="num">900–1,200</td>
+          <td class="num">25–35%</td>
+          <td>₹22.5L + township</td>
+          <td>16–28 months</td>
+        </tr>
+        <tr>
+          <td><strong>Central govt / insurance</strong></td>
+          <td>NICL · DFO · STPI · CONCOR · ISRO</td>
+          <td class="num">250–350</td>
+          <td class="num">15–25%</td>
+          <td>₹11–17L</td>
+          <td>3–9 months</td>
+        </tr>
+        <tr>
+          <td><strong>Corporate lateral</strong></td>
+          <td>Product / fintech / GCC</td>
+          <td class="num">400–600</td>
+          <td class="num hi2">55–65%</td>
+          <td>₹16–20L</td>
+          <td>6–12 months</td>
+        </tr>
+        <tr>
+          <td><strong>DFO (112 CS seats)</strong></td>
+          <td>Cabinet Secretariat</td>
+          <td class="num">500–700</td>
+          <td class="num hi">45–55%</td>
+          <td>Level 7 · ₹9–10L</td>
+          <td>12–24 months</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note warnb">
+    <strong>The correction that matters.</strong> IOCL, HPCL, BHEL and ONGC do <em>not</em> take GATE for CS — they run their own CBTs.
+    GAIL has no CS discipline at all. The "Maharatna township via GATE" list is two employers long.
+  </div>
+</section>
+
+<!-- ============ GATE TRUTH ============ -->
+<section id="gate">
+  <h2><span class="num">03</span>GATE ground truth</h2>
+  <h3>What the 2026 statistics actually say</h3>
+  <p class="sub">Official data from the GATE 2026 statistical report. A score of 350 is not 35% of anything — the formula pins the qualifying mark at 350 in every year.</p>
+
+  <div class="grid g4">
+    <div class="card"><div class="k">Appeared</div><div class="v">2,11,020</div><div class="n">Largest paper in GATE</div></div>
+    <div class="card"><div class="k">Qualified</div><div class="v">40,661</div><div class="n">19.3% clearance</div></div>
+    <div class="card"><div class="k">General qualifying mark</div><div class="v">30.0</div><div class="n">Score = 350, exactly</div></div>
+    <div class="card"><div class="k">Top-0.1% average</div><div class="v">77.03</div><div class="n">The ceiling of the field</div></div>
+  </div>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">Marks</th><th class="num">Candidates at or above</th><th class="num">Percentile</th><th>What it buys</th></tr></thead>
+      <tbody>
+        <tr><td class="num">30</td><td class="num">29,611</td><td class="num">86.0</td><td class="dim">Listing only — this is where 350 lands</td></tr>
+        <tr><td class="num">40</td><td class="num">10,340</td><td class="num">95.1</td><td class="dim">Nothing</td></tr>
+        <tr><td class="num">50</td><td class="num">3,655</td><td class="num">98.3</td><td>DFO-type large-seat posts</td></tr>
+        <tr><td class="num">60</td><td class="num">1,170</td><td class="num">99.45</td><td>Borderline PSU in a big-vacancy year</td></tr>
+        <tr><td class="num hi">70</td><td class="num hi">295</td><td class="num">99.86</td><td class="hi">Real PSU shortlists</td></tr>
+        <tr><td class="num bad">80</td><td class="num bad">42</td><td class="num">99.98</td><td class="bad">POWERGRID in a two-seat year</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="sub" style="margin-top:18px">
+    <strong>Interpretation.</strong> 350 is the floor, not a base. Every candidate who clears the qualifying mark receives a score at or above it — which means
+    "300-ish without studying" is not a partial result to build from. It is the starting line, and the required percentile is 99.8, not 95.
+  </p>
+</section>
+
+<!-- ============ CUTOFFS ============ -->
+<section id="cutoffs">
+  <h2><span class="num">04</span>Cutoff reality</h2>
+  <h3>POWERGRID's own published numbers</h3>
+  <p class="sub">The cutoff is set by vacancy count, not by talent. Between two consecutive years it moved by 19× in rank terms.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Cycle</th><th class="num">CS posts</th><th class="num">UR cutoff</th><th class="num">OBC-NCL cutoff</th><th class="num">EWS</th><th>Implied AIR</th></tr></thead>
+      <tbody>
+        <tr>
+          <td><strong>GATE 2024</strong></td><td class="num">~37 selected</td>
+          <td class="num">67.88</td><td class="num hi">57.40</td><td class="num">57.12</td><td>~1,100 (OBC)</td>
+        </tr>
+        <tr>
+          <td><strong>GATE 2025</strong></td><td class="num bad">2</td>
+          <td class="num bad">80.26</td><td class="num bad">— no OBC post</td><td class="num">31.83</td><td class="bad">~40 (UR only)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="split">
+    <div class="note">
+      <strong>OBC relief is worth ~10 marks</strong> — but only when an OBC post exists. In 2025 there was none, so OBC candidates had to clear the UR cutoff like everyone else.
+    </div>
+    <div class="note warnb">
+      <strong>A 2024-type year is reachable. A 2025-type year is not.</strong> And which one arrives is entirely outside your control.
+    </div>
+  </div>
+</section>
+
+<!-- ============ SEAT MATH ============ -->
+<section id="seats">
+  <h2><span class="num">05</span>Seat arithmetic</h2>
+  <h3>The free lever nobody was using</h3>
+  <p class="sub">The same score is worthless in a one-seat exam and competitive in a fifteen-seat exam. Choosing where to apply is worth more than three hundred study hours — and costs nothing.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">OBC-NCL seats</th><th>You must be</th><th class="num">Score needed</th><th>At 73% (current)</th><th>Examples</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>The single best OBC candidate in India</td><td class="num bad">84–88%</td><td class="bad">Dead</td><td>STPI · NFL</td></tr>
+        <tr><td class="num">3–5</td><td>Top 5 OBC</td><td class="num warn">78–82%</td><td class="bad">Dead</td><td>NFL-scale</td></tr>
+        <tr><td class="num">6–15</td><td>Top 15 OBC</td><td class="num">72–76%</td><td class="warn">Borderline</td><td>HLL · Grid-India</td></tr>
+        <tr><td class="num hi">15+</td><td>Top 40 OBC</td><td class="num hi">68–72%</td><td class="hi">Competitive</td><td>CIL · DFO · IOCL</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note dangerb">
+    <strong>Both 2026 losses were one-seat exams.</strong> STPI and NFL each had exactly one OBC-NCL vacancy. At 64–66% those were unwinnable regardless of study volume. This is the single most under-priced variable in the whole plan.
+  </div>
+</section>
+
+<!-- ============ HOURS LADDER ============ -->
+<section id="ladder">
+  <h2><span class="num">06</span>Hours → marks</h2>
+  <h3>What effort actually converts into</h3>
+  <p class="sub">Fitted curve, calibrated against the published 2026 distribution. A working professional delivering 650–900 hours landing at 48–56 marks is the honest expectation.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">Effective hours</th><th class="num">Expected marks</th><th class="num">AIR (2026 field)</th><th>Verdict</th></tr></thead>
+      <tbody>
+        <tr><td class="num">300</td><td class="num">40.4</td><td class="num">10,176</td><td class="dim">Nothing</td></tr>
+        <tr><td class="num">500</td><td class="num">45.9</td><td class="num">5,065</td><td class="dim">Nothing</td></tr>
+        <tr><td class="num">700</td><td class="num">50.4</td><td class="num">2,846</td><td>DFO-type only</td></tr>
+        <tr><td class="num">900</td><td class="num">54.2</td><td class="num">1,767</td><td>Borderline big-year PSU</td></tr>
+        <tr><td class="num hi">1,100</td><td class="num hi">57.3</td><td class="num hi">1,191</td><td class="hi">The 2024 OBC cutoff</td></tr>
+        <tr><td class="num">1,400</td><td class="num">60.9</td><td class="num">747</td><td>Real shortlist</td></tr>
+        <tr><td class="num">1,800</td><td class="num">64.4</td><td class="num">478</td><td class="hi">Strong</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ============ HAWK MODEL ============ -->
+<section id="model">
+  <h2><span class="num">07</span>The hawk model</h2>
+  <h3>Prepare broadly, apply constantly, let the score arrive as a receipt</h3>
+  <p class="sub">150,000 trials · 6 exams per year · 75% actually materialise · P(offer | shortlist) = 25% · seat mix weighted to the real record.</p>
+
+  <div class="bars">
+    <div class="bar"><div class="lbl">300 h</div><div class="track"><div class="fill b" style="width:30%"></div></div><div class="val">29.8%</div></div>
+    <div class="bar"><div class="lbl">450 h</div><div class="track"><div class="fill b" style="width:44%"></div></div><div class="val">44.2%</div></div>
+    <div class="bar"><div class="lbl">600 h</div><div class="track"><div class="fill b" style="width:53%"></div></div><div class="val">53.1%</div></div>
+    <div class="bar"><div class="lbl">750 h</div><div class="track"><div class="fill b" style="width:59%"></div></div><div class="val">58.9%</div></div>
+    <div class="bar"><div class="lbl">900 h</div><div class="track"><div class="fill b" style="width:63%"></div></div><div class="val">62.9%</div></div>
+  </div>
+  <p class="sub" style="margin-top:-4px">P(at least one PSU offer inside 24 months). <strong>GATE-only benchmark: 23.7%.</strong></p>
+
+  <div class="split">
+    <div class="card">
+      <div class="k">GATE as a by-product</div>
+      <div class="n" style="margin-top:0">
+        450 h → <strong>44.6</strong> marks (AIR ~5,957)<br>
+        600 h → <strong>48.3</strong> (AIR ~3,745)<br>
+        750 h → <strong>51.4</strong> (AIR ~2,504)<br>
+        900 h → <strong>54.2</strong> (AIR ~1,767)
+      </div>
+    </div>
+    <div class="card">
+      <div class="k">Operating rules</div>
+      <div class="n" style="margin-top:0">
+        <strong>Curriculum:</strong> 100% of topics at 80% depth. Skip TOC proofs, compiler internals, advanced COA — 35% of the paper, 0% of a corporate interview.<br>
+        <strong>Aptitude:</strong> 150 hours, weekly timed block, permanent.<br>
+        <strong>Portfolio:</strong> count OBC-NCL seats before applying.
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 2027 SWITCH ============ -->
+<section id="switch">
+  <h2><span class="num">08</span>The 2027 switch</h2>
+  <h3>Five checkpoints × three scenarios</h3>
+  <p class="sub">220,000 trials. WORST = 210–230 h/yr, search from Jun 2027. AVERAGE = 350–420 h/yr, search from Mar 2027. BEST = 550–620 h/yr, search from Dec 2026.</p>
+
+  <div class="tw">
+    <table>
+      <thead>
+        <tr><th>Scenario</th><th>Checkpoint</th><th class="num">UCO</th><th class="num">Corporate</th><th class="num">Central</th><th class="num">PSU</th></tr>
+      </thead>
+      <tbody>
+        <tr><td rowspan="5" style="vertical-align:middle"><strong class="bad">WORST</strong></td>
+            <td>2027-mid</td><td class="num bad">97.7%</td><td class="num">—</td><td class="num">2.3%</td><td class="num">—</td></tr>
+        <tr><td>2027-end</td><td class="num bad">92.5%</td><td class="num">3.4%</td><td class="num">4.0%</td><td class="num">0.1%</td></tr>
+        <tr><td>2028-mid</td><td class="num bad">74.3%</td><td class="num">18.9%</td><td class="num">6.3%</td><td class="num">0.5%</td></tr>
+        <tr><td>2028-end</td><td class="num bad">71.7%</td><td class="num">18.9%</td><td class="num">7.8%</td><td class="num">1.5%</td></tr>
+        <tr><td>2029-mid</td><td class="num bad">68.4%</td><td class="num">18.6%</td><td class="num">9.8%</td><td class="num">3.2%</td></tr>
+
+        <tr><td rowspan="5" style="vertical-align:middle;border-top:2px solid var(--border)"><strong class="warn">AVERAGE</strong></td>
+            <td>2027-mid</td><td class="num warn">96.0%</td><td class="num">—</td><td class="num">4.0%</td><td class="num">—</td></tr>
+        <tr><td>2027-end</td><td class="num warn">68.4%</td><td class="num">23.3%</td><td class="num">6.9%</td><td class="num">1.4%</td></tr>
+        <tr><td>2028-mid</td><td class="num warn">48.2%</td><td class="num">36.5%</td><td class="num">8.9%</td><td class="num">6.4%</td></tr>
+        <tr><td>2028-end</td><td class="num warn">41.8%</td><td class="num">32.9%</td><td class="num">9.6%</td><td class="num">15.6%</td></tr>
+        <tr><td>2029-mid</td><td class="num warn">34.1%</td><td class="num">28.4%</td><td class="num">10.0%</td><td class="num">27.5%</td></tr>
+
+        <tr><td rowspan="5" style="vertical-align:middle;border-top:2px solid var(--border)"><strong class="hi">BEST</strong></td>
+            <td>2027-mid</td><td class="num hi">82.9%</td><td class="num">11.5%</td><td class="num">5.6%</td><td class="num">—</td></tr>
+        <tr><td>2027-end</td><td class="num">26.7%</td><td class="num hi">55.5%</td><td class="num">7.9%</td><td class="num">10.0%</td></tr>
+        <tr><td>2028-mid</td><td class="num">18.5%</td><td class="num hi">42.7%</td><td class="num">7.3%</td><td class="num">31.4%</td></tr>
+        <tr><td>2028-end</td><td class="num">11.4%</td><td class="num">28.1%</td><td class="num">5.4%</td><td class="num hi">55.1%</td></tr>
+        <tr><td>2029-mid</td><td class="num">6.3%</td><td class="num">16.7%</td><td class="num">3.7%</td><td class="num hi">73.4%</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="grid g3" style="margin-top:18px">
+    <div class="card"><div class="k">Worst · switch by Dec 2027</div><div class="v r">7.5%</div></div>
+    <div class="card"><div class="k">Average · switch by Dec 2027</div><div class="v w">31.6%</div></div>
+    <div class="card"><div class="k">Best · switch by Dec 2027</div><div class="v g">73.3%</div></div>
+  </div>
+</section>
+
+<!-- ============ TIMING ============ -->
+<section id="timing">
+  <h2><span class="num">09</span>The timing curve</h2>
+  <h3>Every month after February costs seven points</h3>
+  <p class="sub">Controlled test: conversion held constant at 50%, only the month the corporate search begins varies. Nothing else in the plan is this sensitive to a date.</p>
+
+  <div class="bars">
+    <div class="bar"><div class="lbl">Oct–Dec 26</div><div class="track"><div class="fill" style="width:50%"></div></div><div class="val">50.1%</div></div>
+    <div class="bar"><div class="lbl">Jan 27</div><div class="track"><div class="fill" style="width:49%"></div></div><div class="val">49.4%</div></div>
+    <div class="bar"><div class="lbl">Feb 27</div><div class="track"><div class="fill w" style="width:45%"></div></div><div class="val">44.9%</div></div>
+    <div class="bar"><div class="lbl">Mar 27</div><div class="track"><div class="fill w" style="width:38%"></div></div><div class="val">37.6%</div></div>
+    <div class="bar"><div class="lbl">Apr 27</div><div class="track"><div class="fill w" style="width:30%"></div></div><div class="val">30.3%</div></div>
+    <div class="bar"><div class="lbl">May 27</div><div class="track"><div class="fill w" style="width:23%"></div></div><div class="val">23.3%</div></div>
+    <div class="bar"><div class="lbl">Jun 27</div><div class="track"><div class="fill r" style="width:16%"></div></div><div class="val">16.0%</div></div>
+    <div class="bar"><div class="lbl">Jul 27</div><div class="track"><div class="fill r" style="width:9%"></div></div><div class="val">8.8%</div></div>
+    <div class="bar"><div class="lbl">Aug 27</div><div class="track"><div class="fill r" style="width:2%"></div></div><div class="val">2.4%</div></div>
+    <div class="bar"><div class="lbl">Sep 27</div><div class="track"><div class="fill r" style="width:0.4%"></div></div><div class="val">0.0%</div></div>
+  </div>
+
+  <div class="note dangerb">
+    <strong>Starting in June instead of March halves the probability. Starting in August makes it structurally impossible.</strong>
+    The corporate campaign cannot begin after GATE 2027 — it has to start alongside it.
+  </div>
+</section>
+
+<!-- ============ PATHS ============ -->
+<section id="paths">
+  <h2><span class="num">10</span>Modal paths</h2>
+  <h3>Where the routes actually lead</h3>
+  <p class="sub">Compressed state sequences from December 2027 to June 2029. The best-case modal path is not PSU-first.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Path</th><th class="num">Worst</th><th class="num">Average</th><th class="num">Best</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Never move</strong> (UCO throughout)</td><td class="num bad">68.5%</td><td class="num warn">34.2%</td><td class="num">6.2%</td></tr>
+        <tr><td>UCO → Corporate</td><td class="num">15.1%</td><td class="num">17.1%</td><td class="num">16.5%</td></tr>
+        <tr><td>UCO → PSU</td><td class="num">2.5%</td><td class="num hi">14.2%</td><td class="num">17.3%</td></tr>
+        <tr><td><strong>UCO → Corporate → PSU</strong></td><td class="num">0.4%</td><td class="num">6.2%</td><td class="num hi">39.3%</td></tr>
+        <tr><td>UCO → Central govt</td><td class="num">6.0%</td><td class="num">5.0%</td><td class="num">2.4%</td></tr>
+        <tr><td>Central govt only</td><td class="num">3.8%</td><td class="num">4.9%</td><td class="num">2.4%</td></tr>
+        <tr><td>PSU directly</td><td class="num">—</td><td class="num">—</td><td class="num">9.8%</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note">
+    <strong>The dominant best-case route is corporate first, PSU second (39.3%).</strong>
+    Earn ₹16–19L from late 2027, then take the township upgrade in the 2028–29 cycle when the package matches
+    — instead of taking a pay cut to wait for it.
+  </div>
+</section>
+
+<!-- ============ MONEY ============ -->
+<section id="money">
+  <h2><span class="num">11</span>Money</h2>
+  <h3>The bond is not a real obstacle</h3>
+  <p class="sub">Gross annual package by route. UCO figures assume normal increments and DA revisions.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Route</th><th class="num">2027</th><th class="num">2028</th><th class="num">2029</th></tr></thead>
+      <tbody>
+        <tr><td><strong>UCO Bank (baseline)</strong></td><td class="num">₹10.4L</td><td class="num">₹11.7L</td><td class="num">₹12.4L</td></tr>
+        <tr><td><strong>Corporate lateral</strong></td><td class="num hi2">₹16–19L</td><td class="num hi2">₹17.5L</td><td class="num hi2">₹19.5L</td></tr>
+        <tr><td><strong>PSU ET</strong></td><td class="num hi">₹17–22L</td><td class="num hi">₹19.5L</td><td class="num hi">₹22L</td></tr>
+        <tr><td><strong>Central govt</strong></td><td class="num">₹11–12.5L</td><td class="num">₹12L</td><td class="num">₹12.8L</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="grid g3">
+    <div class="card"><div class="k">Delta, UCO → corporate</div><div class="v g">₹5.6–8.6L</div><div class="n">Per year, gross</div></div>
+    <div class="card"><div class="k">Bond recovery</div><div class="v g">3–5 mo</div><div class="n">₹2,00,000 ÷ monthly delta</div></div>
+    <div class="card"><div class="k">Cost of a one-year delay</div><div class="v r">₹6–8L</div><div class="n">Plus a year inside the age-capped window</div></div>
+  </div>
+</section>
+
+<!-- ============ AGE WINDOW ============ -->
+<section id="age">
+  <h2><span class="num">12</span>The age window</h2>
+  <h3>Doors close on a fixed calendar</h3>
+  <p class="sub">OBC relaxation of +3 years applied. Date of birth 31 March 2000 — which sits exactly on the common 31-March cutoff, so no fractional advantage.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Organisation</th><th>Last eligible cycle</th><th class="num">Age at close</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr><td><strong>BEL · HPCL</strong></td><td>31 Mar 2028</td><td class="num">28</td><td class="bad">Closes first</td></tr>
+        <tr><td><strong>IOCL · BPCL · GAIL</strong></td><td>31 Mar 2029</td><td class="num">29</td><td class="warn">Closes in the 2029 cycle</td></tr>
+        <tr><td><strong>NTPC · BHEL</strong></td><td>31 Mar 2030</td><td class="num">30</td><td>Open</td></tr>
+        <tr><td><strong>POWERGRID</strong></td><td>31 Mar 2031</td><td class="num">31</td><td>Open</td></tr>
+        <tr><td><strong>ONGC · NICL · DFO · RBI</strong></td><td>31 Mar 2033</td><td class="num">33</td><td class="hi">Wide open</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note warnb">
+    <strong>GATE 2029 is a genuinely live second attempt.</strong> By February 2029 the bond is cleared, probation is over,
+    thirty days of privilege leave are unlocked, and age 28 still clears NTPC (30), POWERGRID (31) and ONGC (33).
+  </div>
+</section>
+
+<!-- ============ CALENDAR ============ -->
+<section id="calendar">
+  <h2><span class="num">13</span>Calendar</h2>
+  <h3>The sequence that hits December 2027</h3>
+  <p class="sub">Hard gates in bold. A missed gate is not a delay — it is a different plan.</p>
+
+  <div class="tl">
+    <div class="item warn">
+      <div class="when">Now – 31 Dec 2026</div>
+      <div class="what">Build the exit assets</div>
+      <div class="desc">150 DSA problems · Spring Boot project depth · resume and LinkedIn rebuilt · weekly 40-question timed aptitude block. <strong>Resume must be interview-ready by 31 Dec 2026.</strong></div>
+    </div>
+    <div class="item">
+      <div class="when">Oct – Nov 2026 · exam calendar</div>
+      <div class="what">NSPCL · ISRO · NICL · DFO</div>
+      <div class="desc">NSPCL 25 Oct (Kolkata, entry 08:30) · ISRO ICRB 29 Oct · NICL AO form closes 28 Oct · DFO postal application by 15 Nov.</div>
+    </div>
+    <div class="item">
+      <div class="when">Jan – Feb 2027</div>
+      <div class="what">GATE 2027 sprint</div>
+      <div class="desc">DSA to 250 problems · two mock interviews. GATE written 7 February 2027.</div>
+    </div>
+    <div class="item warn">
+      <div class="when">1 March 2027</div>
+      <div class="what">Corporate campaign opens</div>
+      <div class="desc">15–20 applications per week, every week. <strong>First ten applications sent by 7 March 2027.</strong></div>
+    </div>
+    <div class="item">
+      <div class="when">Mar – Jun 2027</div>
+      <div class="what">Interview loop</div>
+      <div class="desc">8–15 real interviews. Iterate only on the failing side — applications or conversions. <strong>Ten interviews completed by 30 June 2027.</strong></div>
+    </div>
+    <div class="item">
+      <div class="when">Jul – Sep 2027</div>
+      <div class="what">Offers and negotiation</div>
+      <div class="desc"><strong>Offer in hand by 30 September 2027.</strong></div>
+    </div>
+    <div class="item danger">
+      <div class="when">Oct – Dec 2027</div>
+      <div class="what">Exit and join</div>
+      <div class="desc">Notice period, bond settlement, NOC, relieving letter. <strong>Joined by 31 December 2027.</strong></div>
+    </div>
+    <div class="item">
+      <div class="when">2028 – 2029</div>
+      <div class="what">PSU upgrade season</div>
+      <div class="desc">Keep applying to multi-seat PSU CBTs and GATE 2028/2029. Bond cleared September 2028 · privilege leave unlocked · full mobility.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GATES ============ -->
+<section id="gates">
+  <h2><span class="num">14</span>Decision gates</h2>
+  <h3>Pre-committed, so the call is not made in a bad mood</h3>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Date</th><th>Test</th><th>If failed</th></tr></thead>
+      <tbody>
+        <tr><td><strong>31 Dec 2026</strong></td><td>Resume, LinkedIn, GitHub and 150 DSA problems complete</td><td class="bad">The 2027 switch is already gone — accept 2028 and re-plan</td></tr>
+        <tr><td><strong>7 Mar 2027</strong></td><td>First ten applications sent</td><td>Start the same week regardless of the GATE result</td></tr>
+        <tr><td><strong>19 Mar 2027</strong></td><td>GATE 2027 result</td><td>Below 45 → GATE confirmed as a by-product only, not the strategy</td></tr>
+        <tr><td><strong>30 Jun 2027</strong></td><td>≥ 8 real interviews completed</td><td>Diagnose which side is failing — applications or conversions — and fix only that</td></tr>
+        <tr><td><strong>30 Sep 2027</strong></td><td>≥ 1 offer in hand</td><td>Extend into Q1 2028 and reassess package expectations</td></tr>
+        <tr><td><strong>31 Dec 2027</strong></td><td>Joined, or a dated offer letter</td><td class="bad">Declare the year failed and move to the 2028 PSU cycle with full hours</td></tr>
+        <tr><td><strong>30 Jun 2029</strong></td><td>PSU or central-govt offer</td><td>Remaining doors: NTPC/BHEL to 2030, POWERGRID to 2031, ONGC to 2033</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ============ OPEN ITEMS ============ -->
+<section id="open">
+  <h2><span class="num">15</span>Open items</h2>
+  <h3>The next ten days</h3>
+
+  <div class="grid g2">
+    <div class="card">
+      <div class="k">Immediate</div>
+      <ul style="margin-bottom:0">
+        <li><strong>Thu 22 Oct</strong> — download ISRO admit card, file the leave request the same morning</li>
+        <li><strong>Thu 22 Oct</strong> — HR email on leave policy (CL credit, lapse, LWP and probation)</li>
+        <li><strong>Fri 23 Oct</strong> — submit NICL AO form (IT Specialist, 11 seats)</li>
+        <li><strong>Sun 25 Oct</strong> — NSPCL CBT, Kolkata, entry 08:30</li>
+        <li><strong>Mon 26 Oct</strong> — post DFO application</li>
+        <li><strong>Thu 29 Oct</strong> — ISRO ICRB, Shift 1</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="k">Verification needed</div>
+      <ul style="margin-bottom:0">
+        <li>Is the ₹2,00,000 bond pro-rated by months served?</li>
+        <li>Notice period for JMGS-I during probation</li>
+        <li>Does LWP during probation extend the probation clock?</li>
+        <li>Does LWP extend the bond service obligation?</li>
+        <li>Whether DFO accepts GATE 2027/2028 (current cycle accepts 2024/25/26)</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p><strong>Method.</strong> GATE and POWERGRID figures are from official statistical reports and published cutoff PDFs. Probabilities are Monte Carlo simulations
+  (120,000–220,000 trials per scenario) with stated assumptions: hours delivered are lognormal, marks follow a fitted curve with ±5 noise,
+  vacancy regimes are correlated by a shared hiring-year factor, and P(offer | shortlist) = 0.20–0.25. Every model is reproducible from the source notes.</p>
+  <p style="margin-top:10px"><strong>Source of truth.</strong> <code>.brain/GATE-DECISION-MODEL.md</code> §1–13 · <code>.brain/NextSteps.md</code> §0d–0e · <code>.brain/Progress.md</code> Sessions 87–90.</p>
+  <p style="margin-top:10px" class="dim">Avanish Kumar Gupta · built 21 October 2026 · figures are decision support, not guarantees.</p>
+</footer>
+
+</div>
+</body>
+</html>

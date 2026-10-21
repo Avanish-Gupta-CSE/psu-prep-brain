@@ -1,11 +1,67 @@
 # Next Steps & Handoff (PSU Exam Preparation Reboot & Sprints)
 
-Last updated: October 18, 2026 (� **RESET 18 Oct:** IOCL NOT selected (Sec A 37.75/50, Sec B 10/50). Next: **NSPCL 25 Oct (Kolkata)**, **ISRO 29 Oct**, **NICL AO form open**, and the **UCO-Realty Java plan**. Earlier: �🆘 **WELLBEING FIRST** — user distressed on 18 Oct. Safety check and helplines before anything else. Office posting at HO-1 with UCO-Realty solo build; see Progress Session 82. Earlier: 🏦 **PHASE 8 ACTIVE — UCO Bank joined 28 Sept, STC induction.** ⚠️ **URGENT: GATE 2027 form closes 5 Oct 2026 (4 days).** Exit pipeline rebuilt: PowerGrid/PSU-ET via GATE + decision gate 31 Mar 2027. Full strategy: `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md`)
+Last updated: **October 21, 2026 (travel night)** — 🚕 **Left Bareilly by private cab → IGI Delhi → 22:00 flight to Kolkata (lands ~00:30 Thu 22 Oct).** 🎫 **NSPCL admit card PRINTED — exam Sun 25 Oct, Kolkata.** **ISRO 29 Oct = KOLKATA, SHIFT 1.** ✅ **GATE 2027 SUBMITTED.** 🎯 **Grand plan written: `CAREER-MASTER-PLAN-2026-2028.md`.** Previous: **RESET 18 Oct** — IOCL NOT selected (Sec A 37.75/50, Sec B 10/50).
+
+**🌐 Public dashboard:** https://avanish-gupta-cse.github.io/psu-prep-brain/ — the full plan, cutoffs and probability models, published 21 Oct 2026.
 
 This is the canonical resume-point file for any future login, agent, or chat system. 
 Read this file first to understand the current priority queue and the immediate day-by-day action plan.
 
 ---
+
+## 🚕 §0 — LIVE STATE: 21 Oct 2026 (travel night)
+
+| Item | Status |
+| :--- | :--- |
+| **Where** | Private cab, Bareilly → **IGI Airport Delhi**. Flight **22:00 → Kolkata, lands ~00:30 Thu 22 Oct**. |
+| **Home visit** | Closed. Next home trip only after NSPCL + ISRO are done. |
+| **NSPCL Sr. Asst. Engineer (IT/ERP)** | 🎫 **Sun 25 Oct · 10:00 AM–12:00 PM · ENTRY 08:30** · Roll `26011701` · **Hiralal Mazumdar Memorial College for Women, Dakshineswar, Kolkata 700035**. **120 Q: Subject 80 + Aptitude 40 · −0.25 · separate cutoff in EACH section.** |
+| **ISRO ICRB SC (CS)** | **Thu 29 Oct — CONFIRMED. KOLKATA, SHIFT 1.** Admit card to download 22–23 Oct. **CL to be applied Thu 22 AM.** |
+| **NICL AO (IT Specialist)** | 🟢 **DECIDED — APPLY.** 321 posts (IT: 11) · closes **28 Oct** · Phase-I **17 Nov**, Phase-II **22 Dec** · ~₹1.14 L/mo. Form Fri 23 Oct. |
+| **Cabinet Secretariat DFO (Technical)** | 🟢 **DECIDED — APPLY.** Advt `02/2026` · 250 posts (**112 CS**) · Level-7 · **nil fee** · **by POST, must reach 15 Nov** → Post Bag No. 001, Lodhi Road HO, New Delhi-110003 |
+| **Grand plan** | [`CAREER-MASTER-PLAN-2026-2028.md`](CAREER-MASTER-PLAN-2026-2028.md) — plan of record for the exit. **GATE 2028 = the real attempt, not 2027.** |
+| **Java / UCO Realty** | Only curriculum that exists. No bank-granted study time. Plan = `uco-realty/.brain/Plan_v2_20Oct_to_25Oct.md` + §0b below. |
+
+### §0a — ✅ GATE 2027: SUBMITTED (user-confirmed 21 Oct)
+- **Registration done before the 12 Oct late window.** Gate **G1 ✅ closed.**
+- **✅ Papers registered: CS + DA** (both). Two doors: **CS** for PGCIL/NTPC/IOCL ET; **DA** for Data-Science/AI posts + DFO-DA (10 posts).
+- **⚠️ Still to capture:** Application No. · exam city · admit-card date.
+- **Strategic consequence (see master plan §2):** GATE 2027 is a **rehearsal** (3.5 months out, current AIR 29,099). The **real attempt is GATE 2028 (Feb 2028)** — it lands exactly when the bond clears (Sept 2028) and inside the OBC age window (28 at exam, caps ~29–30).
+
+### §0b — Java rule (settled 21 Oct)
+The bank will not give study hours. Therefore **Java is learned inside the workday, not outside it**:
+1. **30 min at end of workday** — re-read the one file you touched today, out loud, one sentence per annotation.
+2. **Hand-copy 7 core snippets** (already listed in the learning tracker) in the commute/pre-sleep slot. ~3 h total.
+3. **Sat 20-min defence drill** — say out loud: URL → Controller → Service → Repository → Oracle, and why `@Transactional` matters.
+4. **Keep a "don't understand my own code" list.** Ask one specific question per morning. Specific questions read as competence; silence reads as risk.
+5. **The bar is not Spring expertise.** It is: no self-approval, zone isolation, transactions, tests, no secrets in code. That is Plan v2 §4 — ship it and the "he doesn't know Spring" risk largely disappears.
+
+
+### §0e — 🎯 2027 SWITCH DEADLINE (set 21 Oct) → [`GATE-DECISION-MODEL.md`](GATE-DECISION-MODEL.md) §13
+- **User constraint: leave UCO within 2027.** PSU cannot deliver that (exam→interview→joining chain is 7-10 months; P(PSU by Dec 2027) = 0-10%). **2027 is a corporate deadline.**
+- **P(any switch by Dec 2027):** WORST **7.5%** · AVERAGE **31.6%** · BEST **73.3%**.
+- **The timing curve (conversion fixed at 50%):** search starting Dec-26 → 50% · Mar-27 → **38%** · May-27 → 23% · Jul-27 → 9% · Sep-27 → **0%**. **~7 points lost per month of delay after Feb 2027.**
+- **Recommended: Option C (hybrid).** 60% corporate / 40% GATE until Feb 2027, then pivot fully to corporate on 1 Mar 2027. Shared curriculum (DSA/OS/DBMS/CN/Algo) is ~60%; only TOC/COA/DL/compilers are GATE-exclusive.
+- **Hard milestones:** resume + 150 DSA by **31 Dec 2026** · first applications **7 Mar 2027** · 8+ interviews by **30 Jun 2027** · offer by **30 Sep 2027** · joined by **31 Dec 2027**.
+- **Money:** UCO ₹10.4L → corporate ₹16-19L = **+₹5.6-8.6L/yr**; bond ₹2L recovered in **3-5 months**. A one-year delay costs ₹6-8L plus a year inside the age-capped window.
+
+### §0d — 🧮 Strategy verdict, REVISED 21 Oct evening → [`GATE-DECISION-MODEL.md`](GATE-DECISION-MODEL.md) §11
+- **Corrected position:** GATE is **not** a competing track — the GATE syllabus **is** the CBT technical syllabus. It is the curriculum, not the target.
+- **His verified technical band:** STPI 64.0% · NFL Disc 69/100 · HLL 62.5% · CIL 73.5% · IOCL Sec A **37.75/50 (75.5%)**. Median ≈ **72%** — the ceiling, and not enough. He is right: this is breadth, not aptitude alone.
+- **Aptitude still counts (cheap, not optional):** NFL 30/50 (60%) vs IOCL **10/50 (20%)**. IOCL with perfect technical + 20% aptitude = 60/100 → still below cutoff.
+- **The free lever nobody used — seat arithmetic:** 1 OBC seat ⇒ need 84-88%. 6-15 seats ⇒ 72-76%. 15+ ⇒ 68-72%. **Same 73% is dead in a 1-seat exam and competitive in a 15-seat exam.** STPI and NFL both had **1 OBC-NCL seat**.
+- **Hawk model (150k trials, 6 exams/yr, P(offer|shortlist)=25%):** 24-month P(PSU offer) = **29.8%** (300h) · **44.2%** (450h) · **53.1%** (600h) · **58.9%** (750h) · **62.9%** (900h). vs **23.7%** for GATE-only at 650h.
+- **GATE is now a by-product:** same hours → 450h ≈ 44.6 marks (AIR ~5,957) · 600h ≈ 48.3 (~3,745) · 900h ≈ 54.2 (~1,767). Enough for DFO (112 seats), not for PGCIL in a normal year.
+- **Rules:** (1) 100% of GATE topics at **80% depth**, skip TOC proofs / compiler-opt internals / advanced COA. (2) 150h aptitude, weekly timed block. (3) **Count OBC-NCL seats before applying** — 0-2 free only, 3-5 apply, 6+ prioritise. (4) 6-9 applications/yr across 15 portals.
+- **K3 revised:** GATE 2027 < 45 **no longer cancels** the strategy — it only confirms GATE is the receipt, not the product.
+
+### §0c — Leave budget (settled 21 Oct)
+- **12 CL/year = 6 (Jan) + 6 (Jul)** — the only discretionary instrument. **SL 12** (don't plan). **PL ~30 accruing — ⚠️ verify if availed during probation: one email, potentially +30 days.**
+- **Non-working ≈ 88–91 days/yr** (52 Sundays + 24 off-Saturdays + ~12 weekday holidays). **~100 with CL.**
+- **Exams are Sundays.** NSPCL Sun · NICL Sun · GATE Sun · PGCIL/NTPC/IOCL CBTs Sun · **DFO postal = 0 days**. Only ISRO 29 Oct (Thu) costs 1 CL.
+- **Budget:** 5 interviews/DV · 2 weekday CBTs · 2 family · 3 study blocks · **0 for practice exams.**
+- **3-day rule:** a CL must buy a 3–5 day block. Best 2027 block = **Sat 23–Tue 26 Jan (1 CL → 4 days)**. Biggest = **Durga Puja (2 CL → 7–8 days)**.
+- **Capacity without extra leave ≈ 900 h/yr** — the 1,000 h/GATE target is reachable with **zero** additional leave. Full detail: master plan **§12**.
 
 ## ✅ Career Baseline: SECURED — and now EMPLOYED (Floor, in post)
 

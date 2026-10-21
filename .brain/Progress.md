@@ -15,6 +15,94 @@
 
 ## Session Log
 
+### Session 91 -- 21 Oct 2026 -- 🌐 Public dashboard published
+- Built `docs/index.html` (37 KB, 15 sections, self-contained, no CDN) and pushed to GitHub Pages.
+- **Live: https://avanish-gupta-cse.github.io/psu-prep-brain/** — root path was 404 before this; site source is `main` → `/docs`.
+- Content: verdict cards, four-door comparison, GATE 2026 ground truth, POWERGRID cutoff table, seat arithmetic, hours→marks ladder, hawk model, 5-checkpoint x 3-scenario switch table, timing curve, modal paths, money, age window, calendar, decision gates.
+- Theme matches the existing `docs/tracker/` dashboard.
+- Logged the URL in `NextSteps.md` (header) and `GATE-DECISION-MODEL.md` (header).
+
+### Session 90 -- 21 Oct 2026 -- 🎯 2027 switch: full permutation analysis
+- **New user constraint:** must leave UCO within 2027. Re-modelled everything around that deadline.
+- Structurally: **PSU cannot deliver 2027** (exam→shortlist→interview→offer→joining = 7-10 months). 2027 is a **corporate** deadline; PSU is the 2028-29 upgrade.
+- **220,000-trial, 5-checkpoint, 3-scenario simulation** (WORST 210-230 h/yr, AVG 350-420, BEST 550-620).
+- **P(switch out of UCO by Dec 2027): 7.5% / 31.6% / 73.3%.**
+- **Timing curve is the key finding:** with conversion fixed at 50%, search starting Dec-26 → 50%, Mar-27 → 38%, May-27 → 23%, Jul-27 → 9%, Sep-27 → 0%. **~7 points lost per month after Feb 2027.**
+- **Best-case modal path is CORP→PSU (39.3%)** — exit to corporate late 2027, then upgrade to a township PSU in the 2028-29 cycle when the package matches.
+- **Recommended Option C:** 60% corporate / 40% GATE until Feb 2027 (shared DSA/OS/DBMS/CN curriculum ≈ 60%), then full pivot to corporate on 1 Mar 2027.
+- **Milestones set:** 31 Dec 2026 resume+150 DSA · 7 Mar 2027 first applications · 30 Jun 2027 8+ interviews · 30 Sep 2027 offer · 31 Dec 2027 joined.
+- **Money:** +₹5.6-8.6L/yr switching to corporate; bond ₹2L recovered in 3-5 months; one-year delay costs ₹6-8L.
+- **Logged:** `GATE-DECISION-MODEL.md` §13, `NextSteps.md` §0e.
+
+### Session 89 -- 21 Oct 2026 (night) -- 🔭 36-month forward forecast
+- Ran a 180,000-trial, 36-month, three-stream simulation (PSU/CBT, central-govt, corporate) under two calibrations.
+- **BASE (realistic slippage, ~1,020 h by m36):** Mid-2028 **UCO 67%** / PSU 10% / corp 12% / central 10%. End-2028 **UCO 57%** / PSU 21%. Mid-2029 **UCO 46%** / PSU 30% / central 14% / corp 9%.
+- **CALIBRATED (plan runs, ~1,240 h):** Mid-2028 UCO 42% / PSU 30%. End-2028 **PSU 52%**. Mid-2029 **PSU 66%**.
+- **Most probable single state at every checkpoint in the base case is "still at UCO."** The payoff cluster is late 2028 - mid 2029, not 2027.
+- **Real inflection = Sept 2028:** bond ends, probation ends, PL 30 days unlocked. Before that, mobility — not motivation — is the binding constraint.
+- **Window arithmetic:** HPCL age cap closes 31 Mar 2028; IOCL/BPCL/GAIL 31 Mar 2029. The IOCL-class door is 2027 + 2028 cycles only.
+- **Logged:** `GATE-DECISION-MODEL.md` §12 (forward forecast).
+
+### Session 88 -- 21 Oct 2026 (evening) -- 🦅 Recalibration: hawk model, GATE-as-curriculum
+- **User challenged §7 of the model:** CBT failures are *technical breadth*, not aptitude. **Correct** — reviewed the verified record and conceded the error.
+- **Verified technical band:** STPI 64.0% · NFL Disc 69/100 · HLL 62.5% · CIL 73.5% · IOCL Sec A 37.75/50 (75.5%). Median ~72%. This is a stable ceiling, not variance.
+- **Aptitude still counts, but cheaply:** NFL 30/50 (60%) vs IOCL 10/50 (20%). Even perfect technical + 20% aptitude at IOCL = 60/100 < cutoff.
+- **New decisive variable — seat arithmetic:** 1 OBC seat needs 84-88%; 6-15 seats needs 72-76%; 15+ needs 68-72%. **STPI and NFL both had exactly 1 OBC-NCL seat** — unwinnable at 64-66% regardless of study. This is a free lever.
+- **Hawk Monte Carlo (150k trials, 6 exams/yr, 25% offer conversion):** P(PSU offer in 24 mo) = 29.8% (300h) / **44.2% (450h)** / **53.1% (600h)** / 58.9% (750h) / 62.9% (900h). GATE-only benchmark: 23.7%.
+- **GATE reclassified as by-product:** 600h syllabus work -> ~48.3 GATE marks (AIR ~3,745); 900h -> ~54.2 (~1,767). DFO (112 seats) reachable; PGCIL only in a 2024-type vacancy year.
+- **New operating rules:** 100% topics at 80% depth (skip TOC proofs / compiler internals / advanced COA); 150h aptitude as a fixed weekly block; **count OBC-NCL seats before applying**; 6-9 applications/yr.
+- **Verdict:** **Pursue — but pursue preparation, not rank.** GATE = curriculum, CBTs = market, aptitude = cheap fixed cost. K3 (<45) downgraded from kill-switch to confirmation.
+
+### Session 87 -- 21 Oct 2026 (🧮 GATE probability model · verdict: PSU yes, GATE-as-plan no)
+- Built `.brain/GATE-DECISION-MODEL.md` from official sources + a **120,000-trial Monte Carlo** (4 scenarios × 2 cycles × 4 programmes).
+- **Official ground truth:** GATE CS 2026 = 2,11,020 appeared / 40,661 qualified; his 30.03 marks = the **minimum qualifying mark** (score 350), AIR 29,099. 60 marks = 1,170 people; 70 = 295; 80 = 42.
+- **Corrected the door map:** GATE 2027 CS is accepted by **PGCIL, NTPC, Grid-India (15 posts), DRDO (~34)** only. **IOCL, HPCL, BHEL, ONGC use their own CBTs; GAIL has no CS discipline at all.** Total GATE-CS PSU seats ≈ 50-70/yr.
+- **PGCIL's own cutoff PDF read:** 2024 CS — UR **67.88**, **OBC-NCL 57.40**; 2025 CS — **2 posts only**, UR **80.26**, **no OBC post** (so no OBC relief). A 19x rank swing in one year.
+- **Monte Carlo:** P(ET offer by 2029) = 5% (450h) / **24% (650h ~ realistic)** / 51% (900h) / 78% (1,500h). Sensitivity: 400h → 1.9% shortlist; 1,000h → 39%; 1,500h → 58%.
+- **The finding that reorders the plan:** IOCL 2026 = Sec A 37.75/50 (75.5%) + Sec B 10/50 (20%). **~20 marks short, entirely in aptitude.** 200 hours fixes aptitude; 1,100 hours buys only a 25-35% GATE shot.
+- **Verdict:** pursue the PSU goal, **not through GATE**. GATE stays a free option with a hard gate at **19 Mar 2027 (<45 marks ⇒ cancel 2028)**.
+- **New primary track:** 40Q timed aptitude block, weekly, starting Thu 22 Oct. K2 gate = 8 mocks by 31 Dec 2026.
+
+### Session 86 -- 21 Oct 2026 (📋 NSPCL pattern extracted · 96% confirmed · age window mapped)
+- **GATE 2027:** registered for **BOTH CS + DA**. App no. pending. (Dual paper = two ET doors: CS for PGCIL/NTPC/IOCL; DA for DS/AI posts + DFO-DA's 10 seats.)
+- **B.Tech aggregate: 96% (CGPA 9.6).** Clears every 60% bar in the plan. **Eligibility is never the constraint — rank is.**
+- **NSPCL admit card read from disk** (`~/Downloads/Programs/NSPCL_Senior Assistant Engineer (IT_ERP)_2606002174_Admit_Card.pdf`):
+  - Sun 25 Oct · **10:00 AM–12:00 PM** · **entry 08:30 AM** · Roll `26011701`
+  - **Hiralal Mazumdar Memorial College for Women**, Block A 2nd Floor, College Para, **Dakshineswar, Kolkata 700035** — far north; ~45–75 min from Salt Lake. **Leave by 07:00.**
+  - **Pattern: 120 Q / 120 min — Subject Knowledge 80 + Aptitude 40 · −0.25 per wrong · separate qualifying cutoff in EACH section.**
+  - **Consequence:** aptitude is 33% of the paper *and* a standalone gate — the identical mechanism that ended IOCL. Prep split must be ~3:1 subject:aptitude. Previous "pattern unknown" assumption now closed.
+- **Bond:** user states family will cover the ₹2L penalty if a better offer arrives → **treat penalty as non-binding.** Residual constraint = **release process** (notice + NOC + relieving letter), which money does not buy. Goodwill rule stands.
+- **Age window added to master plan §5b:** effective cap = UR limit + 3 (OBC-NCL). **BEL & HPCL close at 31 Mar 2028 · IOCL/BPCL/GAIL at 31 Mar 2029 · NTPC/BHEL at 31 Mar 2030 · POWERGRID (28 ✅) at 31 Mar 2031 · ONGC/NICL/DFO/RBI/NABARD at 31 Mar 2033.**
+  - **Birthday (31 Mar) sits exactly on the most common cutoff date** → always on the boundary → another reason 2028 is the year, not 2029.
+  - GATE score validity 3 yrs (~Mar 2031) coincides with POWERGRID's last eligible cycle.
+  - **Beyond 2033 the door changes shape:** lateral/experienced PSU IT hiring + deputation (higher ceilings, no GATE) — which is why the Java/Oracle/banking profile is a second engine, not a hobby.
+
+### Session 85 -- 21 Oct 2026 (🎯 GRAND PLAN 2026→2028 + NICL/DFO decisions)
+- **Corrected facts:** **GATE 2027 SUBMITTED** (user-confirmed; app no. still to record). **ISRO 29 Oct = KOLKATA, SHIFT 1.** NSPCL admit card printed.
+- **Decisions:** apply **NICL AO — IT Specialist** (closes 28 Oct) and **Cabinet Secretariat DFO (Technical)** (post by 15 Nov). Both verified on the official/aggregator pages today.
+- **New file — the plan of record:** [`CAREER-MASTER-PLAN-2026-2028.md`](CAREER-MASTER-PLAN-2026-2028.md)
+  - **Core finding:** every name on the user's target list (NTPC, IOCL, BPCL, HPCL, ONGC, PGCIL, BHEL, BEL) recruits ETs **through GATE**. There is no side door.
+  - **The arithmetic:** GATE 2026 = **350 / AIR 29,099**; ET shortlists need roughly **AIR < 2,000–3,000**. A ~10x rank rebuild, not a tweak.
+  - **Therefore:** **GATE 2027 (Feb) = rehearsal; GATE 2028 (Feb) = the real attempt.** Feb 2028 lands exactly at bond expiry (Sept 2028) and inside the OBC age window (28 at exam; caps ~29–30).
+  - **Two doors, two skills:** Door A (PSU ET) needs CS depth + rank; Door B (NICL/insurance/CDAC/NABARD/CONCOR) needs **aptitude + English** — the exact skill that produced 10/50 at IOCL. **Run B first (4–6 months), build A underneath (16 months).** Shared prerequisite: aptitude.
+  - **Three tracks / hours:** T1 survive-and-ship 45 min inside office hours · T2 exit ticket 45 min/day + 3 h Sunday · T3 GATE 1.5–2 h/day **from Apr 2027 only**.
+  - **Exit mechanics flagged:** check the signed bond for a **Govt/PSU transfer waiver** (could reduce exit cost to ~zero); NOC needed at interview/DV; relieving letter needed to join; **manager goodwill is part of the exit path** — competence is the cheapest NOC.
+  - **SSC CGL judged a poor fit** (100% aptitude/English/GK, 20 lakh+ candidates) — keep as a Jan decision, not a plan.
+- **Gates:** G0 = 29 Oct (pipeline empties) · G2 = 31 Oct (bond deed + policy in writing) · G3 = 1 Dec · G5 = 31 Mar 2027 (commit-or-rebuild) · G6 = 31 Aug 2027 (GATE 2028 registration) · G7 = 19 Mar 2028 · **G8 = Sept 2028 bond clears**.
+- **This week:** Thu 22 CL for 29 Oct + ISRO admit card · Fri 23 NICL form · Sat 24 NSPCL mock + DFO postal pack · Sun 25 NSPCL · Mon 26 post DFO · Thu 29 ISRO.
+
+### Session 84 -- 21 Oct 2026 (🚕 Travel night: back to Kolkata; NSPCL + ISRO locked; Java rule settled)
+- **Where:** left hometown by private cab → IGI Delhi → **22:00 flight to Kolkata, lands ~00:30 Thu 22 Oct**. Logged from the cab.
+- **Exam state:**
+  - **NSPCL (Sr. Asst. Engineer IT/ERP)** — 🎫 **admit card printed**, exam **Sun 25 Oct, Kolkata**.
+  - **ISRO ICRB SC (CS)** — **29 Oct confirmed** by user; city allotted; admit card still to download.
+  - **NICL AO/IT** — still not applied, closes **28 Oct**.
+- **⚠️ GATE 2027 — flag raised:** no submission evidence anywhere in the repo; both windows closed (5 Oct / 12 Oct). Needs a yes/no from the user. If missed → exit pipeline rebuilt on direct-recruitment IT exams + GATE 2028; exit window slides ~12 months.
+- **Calendar reality (21–29 Oct):** Thu 22 + Fri 23 office, **Sat 24 = 4th Saturday OFF**, **Sun 25 NSPCL**, Mon 26–Wed 28 office, **Thu 29 ISRO**. ~9 usable hours before NSPCL, ~4.5 before ISRO.
+- **Decision — Java is learned inside the workday, not beside it:** 30 min/day re-read the file touched that day + hand-copy 7 snippets in commute + Sat 20-min defence drill + one specific question each morning. Target stays "explain and defend", not "become a Spring expert". Full rule: `NextSteps.md` §0b.
+- **Emotional read:** returning-from-home drop, not a new crisis. 3.5 weeks in post. Standing frame holds — **funded, not trapped**; judge the job at G3 (01 Dec), not tonight. No resignation.
+- **Next goals:** apply CL for 29 Oct on Thu 22 AM · download ISRO admit card · copy NSPCL report time/centre into ExamTracker · NICL decision Fri 23.
+
 ### Session 83 -- 18 Oct 2026 (Reset: IOCL not selected, next-target plan)
 - **Wellbeing:** user reports they are okay. No further safety action needed. Check in again if distress returns.
 - **IOCL 2026 result: NOT SELECTED.** Sec A 37.75/50, Sec B 10.00/50. Sectional min 22.5 each, overall min 45. OBC cut-off around 68. Aptitude is the big gap.
