@@ -15,6 +15,18 @@
 
 ## Session Log
 
+### Session 92 -- 21 Oct 2026 -- 🧱 Stack ramp-up plan (job stabilisation)
+- **New constraint surfaced:** code has been written with AI assistance and cannot yet be fully defended; must now author unaided, on the job, with no extra time.
+- Built `.brain/UCO-STACK-RAMP-UP-PLAN.md` (§0-§14) and published `docs/stack.html` as a separate tab on the dashboard.
+- **Verified the real stack from the repo** (not guessed): Java 17, Spring Boot 3.2.5 (Jakarta EE 10), Spring Data JPA, Spring Security 6, jjwt 0.12.5, Oracle XE 21c + ojdbc11, POI 5.2.5, React 19.2 + TS 6.0 + Vite 8.3, 32 Java files, plain SQL migrations (no Flyway).
+- **Identified 3 beginner-killing gotchas:** `javax.*` vs `jakarta.*`; `WebSecurityConfigurerAdapter` deleted in Security 6; jjwt 0.12 parser API change. Rule: tutorials older than 2023 are obsolete.
+- **12-week plan** starting Mon 26 Oct, one theme + one deliverable per week, ending in "ship and defend a feature" at week 12; GATE taper from week 13.
+- **Method:** 45 min/day *inside the workday* (30 explain-aloud + 10 gap note + 5 journal), Sat defence drill 20 min, Sun review 15 min. **No evenings, no weekends.**
+- **Key technique: reconstruction** — close the file, retype the core method from memory, study only the diff. This is the specific cure for AI dependency.
+- **No-AI unblock protocol** (6 steps, 20-min timebox) + structured question script + 20-question bank for month 1.
+- **Probation evidence pack** (daily journal, weekly 1-pager, monthly 1:1 script) and an 8-dimension 0-5 rubric with day-30/90/180 targets.
+- **Logged:** NextSteps §0f, web tab at `/stack.html`, nav link added to `docs/index.html`.
+
 ### Session 91 -- 21 Oct 2026 -- 🌐 Public dashboard published
 - Built `docs/index.html` (37 KB, 15 sections, self-contained, no CDN) and pushed to GitHub Pages.
 - **Live: https://avanish-gupta-cse.github.io/psu-prep-brain/** — root path was 404 before this; site source is `main` → `/docs`.

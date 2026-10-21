@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stack Ramp-Up — 12-Week Stabilisation Plan</title>
+<meta name="description" content="A 90-day plan to move from AI-assisted code you can't defend, to code you can author, test and explain — entirely inside the workday.">
+<style>
+:root{
+  --bg:#0f1115;--card:#1a1d24;--card2:#151820;--border:#2a2e3a;
+  --accent:#42b983;--accent2:#3aa0ff;--warn:#f5a623;--danger:#e74c3c;
+  --muted:#8b92a8;--text:#e6e8ef;--dim:#5a6076;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:74px}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--accent2);text-decoration:none}
+a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:50;background:rgba(15,17,21,.94);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);padding:12px 18px;display:flex;flex-wrap:wrap;gap:10px;
+  align-items:center;justify-content:space-between}
+header .brand{font-size:15px;font-weight:700}
+header .brand span{color:var(--accent)}
+nav{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px}
+nav a{color:var(--muted)}
+nav a:hover{color:var(--text);text-decoration:none}
+nav a.on{color:var(--accent)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 18px 80px}
+
+.hero{padding:56px 0 34px;border-bottom:1px solid var(--border);margin-bottom:34px}
+.eyebrow{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:14px}
+h1{font-size:clamp(30px,5.2vw,46px);line-height:1.1;letter-spacing:-.025em;font-weight:800;margin-bottom:16px}
+h1 em{font-style:normal;color:var(--accent)}
+.lede{font-size:17px;color:var(--muted);max-width:780px;margin-bottom:24px}
+.badges{display:flex;gap:8px;flex-wrap:wrap}
+.badge{font-size:12px;padding:5px 12px;border-radius:999px;border:1px solid var(--border);background:var(--card);color:var(--muted)}
+.badge.live{color:var(--accent);border-color:rgba(66,185,131,.4);background:rgba(66,185,131,.08)}
+.badge.warn{color:var(--warn);border-color:rgba(245,166,35,.4);background:rgba(245,166,35,.08)}
+.badge.danger{color:var(--danger);border-color:rgba(231,76,60,.4);background:rgba(231,76,60,.08)}
+
+section{margin-bottom:52px;scroll-margin-top:80px}
+h2{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:6px}
+h2 .num{color:var(--dim);margin-right:8px}
+h3{font-size:24px;letter-spacing:-.015em;margin-bottom:10px;font-weight:700}
+.sub{color:var(--muted);font-size:14.5px;margin-bottom:20px;max-width:840px}
+p{margin-bottom:12px;font-size:14.5px;color:#cfd3e0}
+strong{color:#fff}
+
+.grid{display:grid;gap:14px;grid-template-columns:1fr}
+@media(min-width:760px){.g2{grid-template-columns:1fr 1fr}}
+@media(min-width:980px){.g3{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(4,1fr)}}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px}
+.card .k{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.card .v{font-size:32px;font-weight:800;letter-spacing:-.03em;line-height:1}
+.card .v.g{color:var(--accent)}.card .v.b{color:var(--accent2)}
+.card .v.w{color:var(--warn)}.card .v.r{color:var(--danger)}
+.card .n{font-size:12.5px;color:var(--muted);margin-top:8px}
+.verdict{background:linear-gradient(135deg,rgba(66,185,131,.12),rgba(58,160,255,.07));
+  border:1px solid rgba(66,185,131,.35);border-radius:16px;padding:24px;margin:22px 0}
+.verdict .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:10px}
+.verdict p{font-size:19px;line-height:1.5;color:#fff;margin:0;font-weight:600}
+
+.tw{overflow-x:auto;border:1px solid var(--border);border-radius:12px;margin:16px 0;background:var(--card)}
+table{width:100%;border-collapse:collapse;font-size:13.5px;min-width:560px}
+th{background:var(--card2);text-align:left;padding:11px 14px;font-size:11px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--muted);font-weight:700;border-bottom:1px solid var(--border);white-space:nowrap}
+td{padding:11px 14px;border-bottom:1px solid rgba(42,46,58,.6);vertical-align:top}
+tr:last-child td{border-bottom:none}
+tbody tr:hover{background:rgba(58,160,255,.04)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.hi{color:var(--accent);font-weight:700}
+.hi2{color:var(--accent2);font-weight:700}
+.warn{color:var(--warn);font-weight:700}
+.bad{color:var(--danger);font-weight:600}
+.dim{color:var(--muted)}
+
+.note{border-left:3px solid var(--accent2);background:rgba(58,160,255,.06);padding:14px 16px;border-radius:0 10px 10px 0;margin:16px 0;font-size:14px}
+.note.warnb{border-left-color:var(--warn);background:rgba(245,166,35,.06)}
+.note.dangerb{border-left-color:var(--danger);background:rgba(231,76,60,.06)}
+.note.okb{border-left-color:var(--accent);background:rgba(66,185,131,.07)}
+.note strong{color:#fff}
+ul{margin:10px 0 14px 20px}
+li{font-size:14px;color:#cfd3e0;margin-bottom:7px}
+li::marker{color:var(--accent)}
+ol{margin:10px 0 14px 22px}
+ol li::marker{color:var(--accent);font-weight:700}
+code{background:#0b0d11;border:1px solid var(--border);padding:1px 6px;border-radius:5px;font-size:12.5px;color:#9fd6bd;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+pre{background:#0b0d11;border:1px solid var(--border);border-radius:10px;padding:14px;overflow-x:auto;
+  font-size:12.5px;color:#9fd6bd;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;line-height:1.7;margin:14px 0}
+footer{border-top:1px solid var(--border);margin-top:60px;padding-top:24px;font-size:12.5px;color:var(--muted)}
+footer p{font-size:12.5px;color:var(--muted)}
+.tl{position:relative;padding-left:26px;margin:20px 0}
+.tl::before{content:"";position:absolute;left:7px;top:6px;bottom:6px;width:2px;background:var(--border)}
+.tl .item{position:relative;margin-bottom:18px}
+.tl .item::before{content:"";position:absolute;left:-25px;top:5px;width:12px;height:12px;border-radius:50%;
+  background:var(--bg);border:2px solid var(--accent)}
+.tl .item.warn::before{border-color:var(--warn)}
+.tl .item.danger::before{border-color:var(--danger)}
+.tl .when{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:3px}
+.tl .item.warn .when{color:var(--warn)}.tl .item.danger .when{color:var(--danger)}
+.tl .what{font-size:14.5px;font-weight:600;margin-bottom:2px}
+.tl .desc{font-size:13px;color:var(--muted)}
+.pill{display:inline-block;font-size:10.5px;padding:2px 8px;border-radius:999px;border:1px solid var(--border);color:var(--muted);margin-right:4px}
+.pill.h{color:var(--accent);border-color:rgba(66,185,131,.4)}
+.pill.w{color:var(--warn);border-color:rgba(245,166,35,.4)}
+.pill.r{color:var(--danger);border-color:rgba(231,76,60,.4)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">PSU Exit Plan <span>· Stack Ramp</span></div>
+  <nav>
+    <a href="index.html">← Plan</a>
+    <a href="#problem">Problem</a>
+    <a href="#stack">Stack</a>
+    <a href="#gap">Gap</a>
+    <a href="#weeks">12 weeks</a>
+    <a href="#daily">Daily</a>
+    <a href="#drill">Drill</a>
+    <a href="#unblock">No-AI</a>
+    <a href="#questions">Questions</a>
+    <a href="#probation">Probation</a>
+    <a href="#rubric">Rubric</a>
+    <a href="tracker/">Tracker</a>
+  </nav>
+</header>
+
+<div class="wrap">
+
+<div class="hero">
+  <div class="eyebrow">Job stabilisation · active from 26 Oct 2026</div>
+  <h1>The stack is new.<br>That's a <em>90-day</em> problem, not a talent problem.</h1>
+  <p class="lede">
+    You have shipped code written with AI assistance. You now have to explain it, extend it, and write
+    new code without that assistance — inside a bank, with no extra hours and no time to go back to
+    Chapter 1. This is the plan for exactly that.
+  </p>
+  <div class="badges">
+    <span class="badge live">~4 h/week · all inside work hours</span>
+    <span class="badge warn">No evenings · no weekends</span>
+    <span class="badge">Day-90 target: author + defend a feature</span>
+    <span class="badge">32 Java files · Java 17 · Spring Boot 3.2.5</span>
+  </div>
+</div>
+
+<!-- ===== PROBLEM ===== -->
+<section id="problem">
+  <h2><span class="num">01</span>The real problem</h2>
+  <h3>Three things that are actually true</h3>
+
+  <div class="grid g3">
+    <div class="card">
+      <div class="k">"I can't code without AI"</div>
+      <div class="v r" style="font-size:20px;line-height:1.3">True today.<br>False in ~90 days.</div>
+      <div class="n">If the practice is <strong>reconstruction</strong>, not tutorials. You already read this codebase 8 hours a day — that is your practice ground.</div>
+    </div>
+    <div class="card">
+      <div class="k">"The team will find out"</div>
+      <div class="v w" style="font-size:20px;line-height:1.3">They will<br>find out something.</div>
+      <div class="n">The question is whether it comes from you, calmly, or from a production incident. §07 makes it the former.</div>
+    </div>
+    <div class="card">
+      <div class="k">"I have no time to learn"</div>
+      <div class="v g" style="font-size:20px;line-height:1.3">You have<br>40 min a day.</div>
+      <div class="n">Inside the workday, currently spent re-reading. Redirecting that time is the entire plan.</div>
+    </div>
+  </div>
+
+  <div class="verdict">
+    <div class="tag">The thesis</div>
+    <p>You do not need more hours. You need to stop reading code and start reconstructing it.<br>
+    15 deliberate minutes a day beats two hours of tutorials, because the artefact you rebuild is the exact system you must defend tomorrow morning.</p>
+  </div>
+</section>
+
+<!-- ===== STACK ===== -->
+<section id="stack">
+  <h2><span class="num">02</span>The actual stack</h2>
+  <h3>Verified from the codebase, not guessed</h3>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Layer</th><th>Component</th><th>Version</th><th>Where</th></tr></thead>
+      <tbody>
+        <tr><td>Language</td><td><strong>Java</strong></td><td>17</td><td><code>backend/pom.xml</code></td></tr>
+        <tr><td>Framework</td><td><strong>Spring Boot</strong></td><td class="hi">3.2.5 → Jakarta EE 10</td><td>parent</td></tr>
+        <tr><td>Web</td><td>spring-boot-starter-web</td><td>—</td><td>MVC + Tomcat</td></tr>
+        <tr><td>Data</td><td>spring-boot-starter-data-jpa</td><td>Hibernate 6.x</td><td>repositories</td></tr>
+        <tr><td>Security</td><td>spring-boot-starter-security</td><td>6.x</td><td>filter chain</td></tr>
+        <tr><td>Tokens</td><td><strong>jjwt</strong> api / impl / jackson</td><td class="warn">0.12.5</td><td>JWT issue + verify</td></tr>
+        <tr><td>Validation</td><td>spring-boot-starter-validation</td><td>Jakarta 3.0</td><td><code>@Valid</code></td></tr>
+        <tr><td>Database</td><td><strong>Oracle</strong></td><td>XE 21c (Docker)</td><td><code>ojdbc11</code></td></tr>
+        <tr><td>Exports</td><td>Apache POI</td><td>5.2.5</td><td>Excel</td></tr>
+        <tr><td>Migrations</td><td class="warn">Plain SQL — no Flyway</td><td>00–03</td><td><code>db_migrations/</code></td></tr>
+        <tr><td>Frontend</td><td><strong>React</strong> + TypeScript</td><td>19.2 / 6.0</td><td><code>frontend/</code></td></tr>
+        <tr><td>Routing</td><td>react-router-dom</td><td>7.18</td><td>SPA</td></tr>
+        <tr><td>Build</td><td>Vite + oxlint</td><td>8.3 / 1.81</td><td><code>npm run build:uat</code></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3 style="margin-top:34px">The three gotchas that will bite you specifically</h3>
+
+  <div class="grid g3">
+    <div class="card">
+      <div class="k">Gotcha 01</div>
+      <div class="n" style="margin-top:0;font-size:13.5px">
+        <strong style="color:#fff">Jakarta, not javax.</strong><br>
+        Spring Boot 3 uses <code>jakarta.persistence.*</code>. Every tutorial older than 2023 teaches
+        <code>javax.*</code> — which will not compile.
+      </div>
+    </div>
+    <div class="card">
+      <div class="k">Gotcha 02</div>
+      <div class="n" style="margin-top:0;font-size:13.5px">
+        <strong style="color:#fff">No <code>WebSecurityConfigurerAdapter</code>.</strong><br>
+        Deleted in Spring Security 6. You configure a <code>SecurityFilterChain</code> bean instead.
+      </div>
+    </div>
+    <div class="card">
+      <div class="k">Gotcha 03</div>
+      <div class="n" style="margin-top:0;font-size:13.5px">
+        <strong style="color:#fff">jjwt 0.12 changed its API.</strong><br>
+        <code>Jwts.parser().verifyWith(key)</code> replaces <code>setSigningKey</code>. Old examples fail to compile.
+      </div>
+    </div>
+  </div>
+
+  <div class="note warnb">
+    <strong>Rule:</strong> if a tutorial is older than 2023, it is teaching a framework that no longer exists.
+    Check the publish date before you read it.
+  </div>
+</section>
+
+<!-- ===== GAP ===== -->
+<section id="gap">
+  <h2><span class="num">03</span>Skill-gap matrix</h2>
+  <h3>Where you are, and where you need to be</h3>
+  <p class="sub">Mark each row monthly in the ramp journal. Priority order if everything can't be done: <strong>2 → 4 → 5 → 10 → 13 → 6</strong> — those six carry 80% of the "can he be trusted" question.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">#</th><th>Component</th><th>Today</th><th class="num">Day 90</th><th class="num">Day 180</th><th>Proof of mastery</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>Java 17 core</td><td class="warn">Partial</td><td class="num">Solid</td><td class="num">Solid</td><td class="dim">Collections, generics, streams, GC basics</td></tr>
+        <tr><td class="num">2</td><td><strong>Spring Boot lifecycle</strong></td><td class="bad">Beginner</td><td class="num">Working</td><td class="num">Solid</td><td>Trace a request end-to-end from memory</td></tr>
+        <tr><td class="num">3</td><td>Dependency injection</td><td class="bad">Beginner</td><td class="num">Working</td><td class="num">Solid</td><td>Constructor vs field, and why order matters</td></tr>
+        <tr><td class="num">4</td><td><strong>Controllers / REST</strong></td><td class="warn">Partial</td><td class="num">Working</td><td class="num">Solid</td><td>Write a new endpoint unaided</td></tr>
+        <tr><td class="num">5</td><td><strong>Spring Data JPA</strong></td><td class="bad">Beginner</td><td class="num">Working</td><td class="num">Solid</td><td>Derived queries, pagination, N+1 diagnosis</td></tr>
+        <tr><td class="num">6</td><td><strong>Transactions</strong></td><td class="bad">Beginner</td><td class="num">Working</td><td class="num">Solid</td><td>Propagation + rollback rules</td></tr>
+        <tr><td class="num">7</td><td>Oracle SQL</td><td class="hi">Good</td><td class="num">Strong</td><td class="num">Strong</td><td>Window functions, joins, constraints</td></tr>
+        <tr><td class="num">8</td><td>EXPLAIN PLAN / indexing</td><td class="bad">None</td><td class="num">Basic</td><td class="num">Working</td><td>Tune a slow query and prove it</td></tr>
+        <tr><td class="num">9</td><td>PL/SQL</td><td class="bad">None</td><td class="num">Read-only</td><td class="num">Basic</td><td>Read a package and explain it</td></tr>
+        <tr><td class="num">10</td><td><strong>Authn / authz</strong></td><td class="bad">Beginner</td><td class="num">Working</td><td class="num">Solid</td><td>Audit every endpoint for role checks</td></tr>
+        <tr><td class="num">11</td><td>JWT</td><td class="bad">Beginner</td><td class="num">Working</td><td class="num">Solid</td><td>Issue, verify, expire, refresh</td></tr>
+        <tr><td class="num">12</td><td>OWASP / IDOR</td><td class="bad">None</td><td class="num">Basic</td><td class="num">Working</td><td>Find and fix a real vulnerability</td></tr>
+        <tr><td class="num">13</td><td><strong>JUnit 5 + Mockito</strong></td><td class="bad">Weak</td><td class="num">Working</td><td class="num">Solid</td><td>80% coverage on one service</td></tr>
+        <tr><td class="num">14</td><td>Maven</td><td class="bad">Weak</td><td class="num">Basic</td><td class="num">Working</td><td>Profiles, conflicts, packaging</td></tr>
+        <tr><td class="num">15</td><td>React 19 + TS</td><td class="warn">Partial</td><td class="num">Working</td><td class="num">Solid</td><td>Form + table + API, unaided</td></tr>
+        <tr><td class="num">16</td><td>Deploy / logs</td><td class="warn">Partial</td><td class="num">Basic</td><td class="num">Working</td><td>Clean-clone deploy + rollback</td></tr>
+        <tr><td class="num">17</td><td>Banking / CBS</td><td class="bad">None</td><td class="num">Aware</td><td class="num">Basic</td><td>GL, maker-checker, reconciliation</td></tr>
+        <tr><td class="num">18</td><td>Change mgmt / audit</td><td class="bad">None</td><td class="num">Aware</td><td class="num">Basic</td><td>CAB, UAT, VAPT, IS-audit</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ===== 12 WEEKS ===== -->
+<section id="weeks">
+  <h2><span class="num">04</span>The 12 weeks</h2>
+  <h3>One theme, one deliverable, every week</h3>
+  <p class="sub">Starting Monday 26 October 2026. A deliverable is something that exists and can be shown — not "I read about it".</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">Wk</th><th>Dates</th><th>Theme</th><th>Deliverable by Friday</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>26 Oct – 1 Nov</td><td><strong>Terrain map</strong></td><td>One-page diagram: URL → Controller → Service → Repository → Oracle → JSON. Inventory of all 32 files, one line each.</td></tr>
+        <tr><td class="num">2</td><td>2 – 8 Nov</td><td><strong>Framework skeleton</strong></td><td>Explain 5 files aloud, no notes: app class, controller, service, repository, entity.</td></tr>
+        <tr><td class="num">3</td><td>9 – 15 Nov</td><td>Controllers &amp; HTTP</td><td>New <strong>read-only endpoint</strong> written unaided. No AI, no copy-paste.</td></tr>
+        <tr><td class="num">4</td><td>16 – 22 Nov</td><td>Services &amp; transactions</td><td>One service method + a written answer on why <code>@Transactional</code> is or isn't needed.</td></tr>
+        <tr><td class="num">5</td><td>23 – 29 Nov</td><td>JPA &amp; entities</td><td>Map 3 entities to their Oracle tables by hand; verify in a SQL client.</td></tr>
+        <tr><td class="num">6</td><td>30 Nov – 6 Dec</td><td>Oracle &amp; performance</td><td>Tune one slow query. Before/after <code>EXPLAIN PLAN</code> saved.</td></tr>
+        <tr><td class="num">7</td><td>7 – 13 Dec</td><td><strong>Security I — auth</strong></td><td>Written audit: every endpoint × required role × behaviour with no role.</td></tr>
+        <tr><td class="num">8</td><td>14 – 20 Dec</td><td><strong>Security II — flaws</strong></td><td>Two real vulnerabilities fixed: <code>adminList</code> fails-open, <code>submit</code> IDOR.</td></tr>
+        <tr><td class="num">9</td><td>21 – 27 Dec</td><td>Testing</td><td>80% line coverage on one service class, tests written unaided.</td></tr>
+        <tr><td class="num">10</td><td>28 Dec – 3 Jan</td><td>React</td><td>One page: form + validation + table + API call + loading/error states.</td></tr>
+        <tr><td class="num">11</td><td>4 – 10 Jan</td><td>Build &amp; deploy</td><td>Clean-clone deploy: package → jar → run → logs → rollback note.</td></tr>
+        <tr><td class="num">12</td><td>11 – 17 Jan</td><td class="hi"><strong>Own something</strong></td><td class="hi">One small feature end-to-end: design → code → test → one-page note → walkthrough to manager.</td></tr>
+        <tr><td class="num">T</td><td>18 Jan – 14 Feb</td><td>GATE taper</td><td>Maintenance only: 20 min/day reading own code. No new learning.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note okb">
+    <strong>The week-12 test — the only one that matters.</strong>
+    Can you describe a feature you built, and answer five "why" questions about it, without notes,
+    to a senior developer? If yes, you are stabilised. If no, repeat weeks 9–12.
+  </div>
+</section>
+
+<!-- ===== DAILY ===== -->
+<section id="daily">
+  <h2><span class="num">05</span>The daily method</h2>
+  <h3>45 minutes, inside the workday</h3>
+  <p class="sub">No evenings. No weekends. Everything happens between 10:00 and 18:30.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Slot</th><th class="num">Time</th><th>What</th><th>Why</th></tr></thead>
+      <tbody>
+        <tr><td><strong>End of day</strong></td><td class="num">30 min</td><td>The <strong>one file you touched today</strong>. Explain it aloud, sentence by sentence, to an empty room.</td><td>Speaking forces retrieval; reading does not.</td></tr>
+        <tr><td>Last 10</td><td class="num">10 min</td><td>Write down the <strong>one thing you could not explain</strong>.</td><td>Becomes tomorrow's question to a colleague.</td></tr>
+        <tr><td>Last 5</td><td class="num">5 min</td><td>One line in the ramp journal: date · file · gap · question asked.</td><td>Builds the probation evidence pack for free.</td></tr>
+        <tr><td>Saturday</td><td class="num">20 min</td><td><strong>Defence drill</strong>: random file, cold, explain it.</td><td>Simulates the actual risk event.</td></tr>
+        <tr><td>Sunday</td><td class="num">15 min</td><td>Review the week's journal. Unexplained twice = a real gap.</td><td>Prevents silent accumulation.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="sub" style="margin-top:-6px"><strong>Total ≈ 4 hours a week, all inside work hours.</strong> This is the entire cost of the plan.</p>
+
+  <div class="note">
+    <strong>The rule that makes it work: never read a file twice the same way.</strong>
+    If you re-read a file and understand it "because you've seen it before", you have learned nothing.
+    Close it and rewrite the core method from memory. The diff is the lesson.
+  </div>
+</section>
+
+<!-- ===== DRILL ===== -->
+<section id="drill">
+  <h2><span class="num">06</span>The defence drill</h2>
+  <h3>Train the exact thing you're afraid of</h3>
+
+  <h3 style="font-size:17px;margin-top:24px">The five questions — ask them of every file, in order</h3>
+  <div class="grid g2" style="margin-top:14px">
+    <div class="card"><div class="n" style="margin-top:0;font-size:13.5px"><strong style="color:#fff">1. What is this file for?</strong><br>One sentence, no jargon.</div></div>
+    <div class="card"><div class="n" style="margin-top:0;font-size:13.5px"><strong style="color:#fff">2. Who calls it, and what does it call?</strong><br>The neighbours.</div></div>
+    <div class="card"><div class="n" style="margin-top:0;font-size:13.5px"><strong style="color:#fff">3. What breaks if I delete it?</strong><br>The blast radius.</div></div>
+    <div class="card" style="border-color:rgba(66,185,131,.4)"><div class="n" style="margin-top:0;font-size:13.5px"><strong style="color:var(--accent)">4. What is the single most important line, and why?</strong><br>The crux. If you can't answer this, you don't own the file.</div></div>
+  </div>
+  <div class="card" style="margin-top:14px"><div class="n" style="margin-top:0;font-size:13.5px"><strong style="color:#fff">5. What would I change if I owned it?</strong><br>The judgement that separates a junior from an owner.</div></div>
+
+  <h3 style="font-size:17px;margin-top:34px">The reconstruct technique — the AI-dependency cure</h3>
+  <pre>1. Open the file. Read it once, slowly.
+2. CLOSE IT.
+3. In a scratch file, retype the core method from memory.
+4. Diff against the original.
+5. Study ONLY the diff. That is your actual gap.
+6. Next week, repeat. Target: empty diff.</pre>
+
+  <div class="note okb">
+    <strong>This is the highest-leverage 15 minutes in the entire plan.</strong>
+    AI wrote the code; reconstruction is how you take ownership of it. One method per day is enough.
+  </div>
+
+  <h3 style="font-size:17px;margin-top:34px">Exposure management</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Situation</th><th>Do</th><th>Don't</th></tr></thead>
+      <tbody>
+        <tr><td>Asked how something works, and you don't know</td><td><em>"Let me trace it and come back by end of day."</em> Then actually come back.</td><td class="bad">Improvise. One bluff destroys more trust than ten honest "I'll check."</td></tr>
+        <tr><td>Presenting your module</td><td>Volunteer the risks before anyone asks.</td><td class="bad">Wait to be caught.</td></tr>
+        <tr><td>A senior reviews your code</td><td><em>"What would you have done differently?"</em></td><td class="bad">Defend it.</td></tr>
+        <tr><td>You find a bug you introduced</td><td>Say so immediately, with the fix.</td><td class="bad">Fix it quietly and hope.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note">
+    <strong>The bank rewards reliability over brilliance.</strong> A JMGS-I who says "I don't know yet, I'll confirm by 5 pm"
+    and does it is worth more than a genius who guesses. In PSU banking this is not a consolation prize — it is the actual
+    performance criterion.
+  </div>
+</section>
+
+<!-- ===== NO-AI ===== -->
+<section id="unblock">
+  <h2><span class="num">07</span>The no-AI unblock protocol</h2>
+  <h3>What to do when you're stuck and there's no assistant</h3>
+  <p class="sub">Timebox each step to 5 minutes. Total 20. Then ask a human — asking after 20 minutes of real effort is a sign of competence, not weakness.</p>
+
+  <div class="tl">
+    <div class="item"><div class="when">Step 1</div><div class="what">Read the stack trace from the bottom up</div><div class="desc">The root cause is the last <code>Caused by</code>, not the first line.</div></div>
+    <div class="item"><div class="when">Step 2</div><div class="what">Reproduce it in 10 lines</div><div class="desc">Strip everything away until it breaks in isolation.</div></div>
+    <div class="item"><div class="when">Step 3</div><div class="what">Grep the codebase for the same pattern</div><div class="desc">If it works elsewhere, diff the two. Most answers are already in your repo.</div></div>
+    <div class="item"><div class="when">Step 4</div><div class="what">Read the official docs section</div><div class="desc">spring.io/docs, docs.oracle.com. Not a blog, not a video.</div></div>
+    <div class="item"><div class="when">Step 5</div><div class="what">Set a breakpoint</div><div class="desc">Inspect the actual values. Beginners assume; debuggers don't.</div></div>
+    <div class="item warn"><div class="when">Step 6</div><div class="what">Write the question, then ask</div><div class="desc">Use the script below. Never ask "how do I write X" — ask where an existing example lives.</div></div>
+  </div>
+
+  <h3 style="font-size:17px;margin-top:30px">The structured question script</h3>
+  <pre>"I'm looking at X.
+ I expected Y because Z.
+ What I actually see is W.
+ Is my mental model wrong, or is this a known quirk?"</pre>
+  <p class="sub">Three effects: it proves you traced it, it gives the helper the exact failure, and it makes you look like an engineer rather than someone asking for code.</p>
+
+  <div class="note dangerb">
+    <strong>Never ask:</strong> "How do I write X?" → ask <em>"where is an existing example of X in our codebase?"</em><br>
+    <strong>Never ask:</strong> "Why is this broken?" → attach the trace and your hypothesis.
+  </div>
+</section>
+
+<!-- ===== QUESTIONS ===== -->
+<section id="questions">
+  <h2><span class="num">08</span>Question bank</h2>
+  <h3>One per day for the first month</h3>
+  <p class="sub">Each is designed to be genuinely useful and to signal seriousness. Question 18 is the most important one in the list.</p>
+
+  <div class="grid g2">
+    <div class="card">
+      <div class="k">Architecture</div>
+      <ol style="margin-bottom:0;font-size:13px">
+        <li>Which module is the most critical path, and why?</li>
+        <li>What's the one piece of this system nobody wants to touch?</li>
+        <li>Where is the line between what we build and what the vendor owns?</li>
+      </ol>
+    </div>
+    <div class="card">
+      <div class="k">Process</div>
+      <ol start="4" style="margin-bottom:0;font-size:13px">
+        <li>How does a change get from my laptop to production?</li>
+        <li>Who signs off, and in what order?</li>
+        <li>What happens if a release breaks — who rolls it back?</li>
+        <li>Is there a code review step, or does it go straight to UAT?</li>
+      </ol>
+    </div>
+    <div class="card">
+      <div class="k">Data</div>
+      <ol start="8" style="margin-bottom:0;font-size:13px">
+        <li>Which tables are shared with other departments, and which are ours alone?</li>
+        <li>Is there a data-retention or masking rule before I query production?</li>
+        <li>How do I get read-only production access, and what's the approval chain?</li>
+      </ol>
+    </div>
+    <div class="card">
+      <div class="k">Security</div>
+      <ol start="11" style="margin-bottom:0;font-size:13px">
+        <li>Where are secrets stored, and who can read them?</li>
+        <li>Is there a VAPT cycle, and when is the next one?</li>
+        <li>What's the audit-trail requirement for the actions my module performs?</li>
+      </ol>
+    </div>
+    <div class="card">
+      <div class="k">Team</div>
+      <ol start="14" style="margin-bottom:0;font-size:13px">
+        <li>What does a good week look like for you?</li>
+        <li>What's the most common mistake new joiners make here?</li>
+        <li>Who do I go to for Oracle questions vs Spring questions?</li>
+        <li>Is there a design doc or architecture diagram anywhere?</li>
+      </ol>
+    </div>
+    <div class="card" style="border-color:rgba(66,185,131,.4)">
+      <div class="k" style="color:var(--accent)">Growth — the important ones</div>
+      <ol start="18" style="margin-bottom:0;font-size:13px">
+        <li><strong>What would make you confident I can own a module on my own?</strong></li>
+        <li>Which part of this codebase would you want rewritten, if you had a month?</li>
+        <li>What should I read to be useful faster?</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="note okb">
+    <strong>Question 18 tells you the actual promotion criteria</strong> — and it tells your manager that you are
+    thinking about ownership rather than survival.
+  </div>
+</section>
+
+<!-- ===== PROBATION ===== -->
+<section id="probation">
+  <h2><span class="num">09</span>Probation confirmation</h2>
+  <h3>Evidence, collected before it is asked for</h3>
+  <p class="sub">PSU bank probation is confirmed on conduct, attendance, integrity and work quality — not on algorithmic brilliance. But "work quality" needs evidence, and evidence needs to be collected weekly.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Item</th><th>Cadence</th><th>Where</th></tr></thead>
+      <tbody>
+        <tr><td>Ramp journal (file · gap · question)</td><td>Daily</td><td>notebook</td></tr>
+        <tr><td>Weekly 1-page manager update (done / next / blocked)</td><td>Weekly</td><td>email</td></tr>
+        <tr><td>Delivered items log (what shipped, when)</td><td>Weekly</td><td>journal</td></tr>
+        <tr><td>Known-risks list (volunteered, not discovered)</td><td>Monthly</td><td>email to manager</td></tr>
+        <tr><td>Code reviews received and acted on</td><td>Per review</td><td>journal</td></tr>
+        <tr><td>One security/quality fix you found yourself</td><td>By week 8</td><td>repo + note</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3 style="font-size:17px;margin-top:30px">The monthly 15-minute 1:1 script</h3>
+  <div class="note">
+    <em>"Here's what I shipped this month. Here's what I found and fixed. Here's what I still don't understand.
+    Is there anything you'd want me to prioritise differently?"</em>
+  </div>
+  <p class="sub">That single sentence does more for probation than any amount of silent effort, because it converts invisible work into visible judgement.</p>
+</section>
+
+<!-- ===== RISK ===== -->
+<section id="risk">
+  <h2><span class="num">10</span>Risk register</h2>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Risk</th><th class="num">Likelihood</th><th class="num">Impact</th><th>Mitigation</th></tr></thead>
+      <tbody>
+        <tr><td>Asked to explain code, can't</td><td class="num bad">High</td><td class="num">High</td><td>Defence drill + reconstruct technique</td></tr>
+        <tr><td>AI-written flaw reaches production</td><td class="num bad">High</td><td class="num">High</td><td>Weeks 7–8 audit; fix <code>adminList</code> and <code>submit</code></td></tr>
+        <tr><td>Tutorials teach obsolete APIs</td><td class="num bad">High</td><td class="num">Medium</td><td>Gotcha list; check publish date</td></tr>
+        <tr><td>Burnout (job + exam track)</td><td class="num warn">Medium</td><td class="num">High</td><td>45-min cap, no weekend coding, GATE taper week 13</td></tr>
+        <tr><td>Manager forms a low opinion early</td><td class="num">Low</td><td class="num">High</td><td>Weekly 1-page update, monthly 1:1</td></tr>
+        <tr><td>Probation extended</td><td class="num">Low</td><td class="num">High</td><td>Evidence pack</td></tr>
+        <tr><td>Silent gap accumulation</td><td class="num warn">Medium</td><td class="num">Medium</td><td>Sunday 15-min journal review</td></tr>
+        <tr><td>Production data exposure</td><td class="num">Low</td><td class="num bad">Critical</td><td>Never query prod without approval; no bank data on personal devices</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ===== RUBRIC ===== -->
+<section id="rubric">
+  <h2><span class="num">11</span>Measurement rubric</h2>
+  <h3>Score 0–5 on the first of each month</h3>
+  <p class="sub"><strong>Target: 3 by day 90, 4 by day 180.</strong> If the day-90 mean is below 2, do not continue to week 13 — repeat weeks 3–6. A repeated month is cheaper than a probation year.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">#</th><th>Capability</th><th class="num">Day 0</th><th class="num">Day 30</th><th class="num">Day 90</th><th class="num">Day 180</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>Explain any file in my module, cold</td><td class="num">0</td><td class="num">2</td><td class="num hi">4</td><td class="num">5</td></tr>
+        <tr><td class="num">2</td><td>Make a change without AI</td><td class="num">0</td><td class="num">1</td><td class="num hi">3</td><td class="num">4</td></tr>
+        <tr><td class="num">3</td><td>Write a new endpoint without AI</td><td class="num">0</td><td class="num">0</td><td class="num hi">3</td><td class="num">4</td></tr>
+        <tr><td class="num">4</td><td>Read a stack trace, locate the fault</td><td class="num">1</td><td class="num">2</td><td class="num hi">4</td><td class="num">5</td></tr>
+        <tr><td class="num">5</td><td>Write a unit test without AI</td><td class="num">0</td><td class="num">1</td><td class="num hi">3</td><td class="num">4</td></tr>
+        <tr><td class="num">6</td><td>Read an EXPLAIN PLAN and act on it</td><td class="num">0</td><td class="num">0</td><td class="num">2</td><td class="num">4</td></tr>
+        <tr><td class="num">7</td><td>Spot a security flaw in review</td><td class="num">0</td><td class="num">1</td><td class="num hi">3</td><td class="num">4</td></tr>
+        <tr><td class="num">8</td><td>Design a small feature and defend it</td><td class="num">0</td><td class="num">1</td><td class="num hi">3</td><td class="num">4</td></tr>
+        <tr style="background:rgba(66,185,131,.06)"><td class="num"></td><td><strong>Mean</strong></td><td class="num">0.1</td><td class="num">1.0</td><td class="num hi">3.1</td><td class="num hi">4.3</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ===== READING ===== -->
+<section id="reading">
+  <h2><span class="num">12</span>Reading list</h2>
+  <h3>Short, dated, and deliberately narrow</h3>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="num">#</th><th>Resource</th><th>Scope</th><th class="num">Time</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>spring.io/guides — <em>Building a RESTful Web Service</em></td><td>The canonical CRUD</td><td class="num">2 h</td></tr>
+        <tr><td class="num">2</td><td>Spring Boot 3.2 reference — <em>Core Features</em>, <em>External Configuration</em>, <em>Profiles</em></td><td>How the app boots</td><td class="num">3 h</td></tr>
+        <tr><td class="num">3</td><td>Spring Security 6 reference — <em>Authentication</em>, <em>Method Security</em></td><td>The filter chain</td><td class="num">2 h</td></tr>
+        <tr><td class="num">4</td><td>Oracle <em>Concepts</em>, Ch. 3 (Data Access) + Ch. 12 (Indexes)</td><td>How Oracle reads</td><td class="num">3 h</td></tr>
+        <tr><td class="num">5</td><td>Oracle docs — <em>EXPLAIN PLAN</em> + <em>Autotrace</em></td><td>Query tuning</td><td class="num">1 h</td></tr>
+        <tr><td class="num">6</td><td>OWASP Top 10 (2021) — A01, A03, A07 only</td><td>What auditors check</td><td class="num">2 h</td></tr>
+        <tr><td class="num">7</td><td><em>Effective Java</em> (Bloch, 3e) — Items 1, 10, 17, 34, 50</td><td>How seniors think</td><td class="num">4 h</td></tr>
+        <tr><td class="num">8</td><td>React docs — <em>Describing the UI</em>, <em>Adding Interactivity</em>, <em>Managing State</em></td><td>Hooks mental model</td><td class="num">4 h</td></tr>
+        <tr><td class="num">9</td><td>Hibernate 6 user guide — <em>Associations</em>, <em>Fetching</em></td><td>The N+1 problem</td><td class="num">2 h</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note warnb">
+    <strong>Excluded deliberately:</strong> video courses, "complete bootcamp" series, and anything teaching
+    <code>javax.*</code>. They cost 40+ hours and produce reading fluency, not writing ability.
+  </div>
+</section>
+
+<!-- ===== DAY 90 ===== -->
+<section id="day90">
+  <h2><span class="num">13</span>What stabilised looks like</h2>
+
+  <div class="tl">
+    <div class="item">
+      <div class="when">Day 30</div>
+      <div class="what">You can explain every file in your module</div>
+      <div class="desc">Trace any endpoint. Name the three riskiest spots. <span class="pill h">Not yet: authoring</span></div>
+    </div>
+    <div class="item">
+      <div class="when">Day 60</div>
+      <div class="what">You can modify existing code without AI</div>
+      <div class="desc">Read a stack trace down to the line. Pass a code review with only minor comments. <span class="pill w">Not yet: designing</span></div>
+    </div>
+    <div class="item">
+      <div class="when">Day 90</div>
+      <div class="what">You can author a small feature end-to-end</div>
+      <div class="desc">Design it, code it, test it, document it, and defend it under five "why" questions. <span class="pill h">The real goal</span></div>
+    </div>
+    <div class="item">
+      <div class="when">Day 180</div>
+      <div class="what">You own a module</div>
+      <div class="desc">Estimate work, spot flaws in others' code, be the person asked about one subsystem.</div>
+    </div>
+    <div class="item">
+      <div class="when">Day 365</div>
+      <div class="what">You design and mentor</div>
+      <div class="desc">Defend architecture. Guide a newer joiner. The question is no longer "can he do this?" but "when can he start the next thing?"</div>
+    </div>
+  </div>
+
+  <div class="verdict">
+    <div class="tag">What this buys you outside the bank</div>
+    <p>
+      The same 12 weeks produce a second asset for free: Spring Boot 3.2 + Java 17 + JPA + Oracle +
+      Spring Security + JWT + JUnit + React 19 — which is, almost exactly, the most in-demand backend
+      stack in the Indian market.
+      <br><br>
+      The stabilisation plan and the exit plan are the same plan. Competence is the prerequisite for both.
+    </p>
+  </div>
+</section>
+
+<!-- ===== FIRST 7 ===== -->
+<section id="first7">
+  <h2><span class="num">14</span>First seven days</h2>
+  <h3>Concrete, doable, no ambiguity</h3>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th>Day</th><th>Action</th><th class="num">Time</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Mon 26 Oct</strong></td><td><code>docker compose up -d oracle</code> · <code>mvn spring-boot:run</code> · <code>npm run dev</code>. Get it running locally.</td><td class="num">45 min</td></tr>
+        <tr><td><strong>Tue 27</strong></td><td>Open <code>pom.xml</code>. For each dependency, write one line: what it enables.</td><td class="num">30 min</td></tr>
+        <tr><td><strong>Wed 28</strong></td><td>Pick ONE endpoint. Trace URL → Controller → Service → Repository → table. Draw it.</td><td class="num">40 min</td></tr>
+        <tr><td><strong>Thu 29</strong></td><td class="dim">ISRO exam — no ramp work.</td><td class="num">—</td></tr>
+        <tr><td><strong>Fri 30</strong></td><td>Reconstruct one method from memory. Diff. Study the diff.</td><td class="num">20 min</td></tr>
+        <tr><td><strong>Sat 31</strong></td><td>Defence drill on the file you traced Wednesday.</td><td class="num">20 min</td></tr>
+        <tr><td><strong>Sun 1 Nov</strong></td><td>Read the week's journal. List the three biggest gaps.</td><td class="num">15 min</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note okb">
+    <strong>Week 1 deliverable:</strong> one page with the architecture diagram, the dependency list,
+    and the three biggest gaps. That page is the foundation for everything that follows.
+  </div>
+</section>
+
+<footer>
+  <p><strong>One line:</strong> You don't need to become a great programmer. You need to become a programmer
+  who can explain his own code — and that is a 90-day, 45-minutes-a-day problem, not a talent problem.</p>
+  <p style="margin-top:10px"><strong>Source of truth:</strong> <code>.brain/UCO-STACK-RAMP-UP-PLAN.md</code> ·
+  <code>.brain/NextSteps.md</code> §0f · stack verified against <code>uco-realty/backend/pom.xml</code> and
+  <code>frontend/package.json</code> on 21 Oct 2026.</p>
+  <p style="margin-top:10px" class="dim">Avanish Kumar Gupta · active from 26 October 2026 · revise monthly.</p>
+</footer>
+
+</div>
+</body>
+</html>

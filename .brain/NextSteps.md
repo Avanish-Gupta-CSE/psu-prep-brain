@@ -37,6 +37,17 @@ The bank will not give study hours. Therefore **Java is learned inside the workd
 5. **The bar is not Spring expertise.** It is: no self-approval, zone isolation, transactions, tests, no secrets in code. That is Plan v2 §4 — ship it and the "he doesn't know Spring" risk largely disappears.
 
 
+### §0f — 🧱 JOB STABILISATION: stack ramp-up (set 21 Oct) → [`UCO-STACK-RAMP-UP-PLAN.md`](UCO-STACK-RAMP-UP-PLAN.md) · [web](https://avanish-gupta-cse.github.io/psu-prep-brain/stack.html)
+- **The real gap:** code was written with AI assistance and cannot yet be fully defended. Must now author code unaided, at a bank, with **no extra hours**.
+- **Thesis: not more hours — reconstruction.** 15 deliberate min/day beats 2 h of tutorials because the artefact rebuilt is the system defended tomorrow.
+- **Cost: ~4 h/week, all inside 10:00–18:30.** 30 min end-of-day explain-aloud + 10 min gap note + 5 min journal + 20 min Sat drill + 15 min Sun review. **No evenings, no weekends.**
+- **Verified stack:** Java **17** · Spring Boot **3.2.5** (Jakarta, not javax) · Spring Data JPA · Spring Security 6 · **jjwt 0.12.5** · Oracle XE 21c / ojdbc11 · POI 5.2.5 · React **19.2** + TS + Vite 8 · 32 Java files · plain SQL migrations.
+- **Three gotchas:** `jakarta.*` not `javax.*` · no `WebSecurityConfigurerAdapter` in Security 6 · jjwt 0.12 API changed. **Any tutorial older than 2023 teaches a dead framework.**
+- **12 weeks from Mon 26 Oct:** W1 terrain map → W2 framework → W3 endpoint unaided → W4 service/tx → W5 JPA → W6 Oracle/EXPLAIN → W7 **security audit** → W8 **fix adminList fails-open + submit IDOR** → W9 tests → W10 React → W11 deploy → W12 **ship and defend a feature**. W13+ GATE taper.
+- **Day-90 goal:** author a small feature end-to-end — design, code, test, document, and survive five "why" questions.
+- **Rubric target:** 3/5 by day 90, 4/5 by day 180. Below 2 at day 90 → repeat weeks 3-6.
+- **Exposure rule:** never bluff. *"Let me trace it and come back by end of day"* — then do it. The bank rewards reliability over brilliance.
+
 ### §0e — 🎯 2027 SWITCH DEADLINE (set 21 Oct) → [`GATE-DECISION-MODEL.md`](GATE-DECISION-MODEL.md) §13
 - **User constraint: leave UCO within 2027.** PSU cannot deliver that (exam→interview→joining chain is 7-10 months; P(PSU by Dec 2027) = 0-10%). **2027 is a corporate deadline.**
 - **P(any switch by Dec 2027):** WORST **7.5%** · AVERAGE **31.6%** · BEST **73.3%**.
