@@ -41,16 +41,22 @@ These are jobs where Avanish has already completed significant selection rounds.
 * **Status**: 🟢 **DECIDED — APPLY** (form Fri 23 Oct)
 
 ### 0b. Cabinet Secretariat -- Deputy Field Officer (Technical)
-* **Advt No.**: `02/2026` · via Employment News **17–23 Oct 2026**
-* **Posts**: 250 total — **CS/IT 112** (GATE CS) · EC 112 · DA 10 · others 16
-* **Eligibility**: BE/B.Tech/M.Sc + **GATE 2024 / 2025 / 2026** in the matching paper · age **≤30 as on 15.11.2026** (OBC +3)
-* **Pay**: **Level-7** (~₹95,000–1,00,000/mo) · New Delhi, all-India transfer liability
-* **Selection**: GATE score shortlist → Interview → **character & antecedent verification** + medical
-* **Fee**: **Nil** · **Offline only, by ordinary post**
-* **Address**: Post Bag No. 001, Lodhi Road Head Post Office, New Delhi-110003 · superscribe the envelope with the post name
-* **Last date to reach**: **15 Nov 2026** (post it by ~10 Nov)
-* **NOC**: required "wherever applicable" — do **not** route through the bank at application stage; be ready to produce it at interview
-* **Honest odds**: GATE 2026 CS **350 / AIR 29,099** against 112 seats → very unlikely shortlist. **File it as a nil-cost option.**
+* **Advt No.**: `02/2026` · Employment News **17–23 Oct 2026** (pp. 48–49) · **Closing 15.11.2026**
+* **Verified from**: the actual Employment News page image + the prescribed 4-page application form (both recovered 25 Oct; `pdftotext` works on the form, the ad page is a scan).
+* **Grade**: **Level-7, Group 'B', Non-Gazetted** · *"Total initial monthly emoluments including all allowances will be Rs 1,00,000/- (approx) in the case of posting at New Delhi."* · **No bond mentioned.**
+* **Posts**: 250 total — **CS/IT 112 (GATE CS)** · EC 112 · DA 10 · PH 5 · ME 4 · CE 3 · CY 2 · MA 1 · ST 1
+* **Eligibility**: Bachelor's in Engineering/Technology **or** M.Sc in a listed subject + **valid GATE 2024/2025/2026** in the matching paper (must have cleared that year's qualifying cutoff) · age **≤30 as on 15.11.2026** (OBC +3 → 33)
+* **✅ Selection — this is the important part**: *"All the applications received as on the closing date and satisfying the above-mentioned eligibility criteria will be arranged in order of merit **on the basis of valid GATE Score** and the candidates will be **shortlisted (five times the number of vacancies)**... will be called for Interview."*
+  * **No written exam. No aptitude test. No negative marking.** GATE score → shortlist → interview → **character & antecedent verification** + medical.
+  * **CS shortlist = 112 × 5 = 560.**
+* **Terms**: *"the job of this post involves **field postings with All India Transfer liability**. Medical standard... Central Government guidelines applicable to Group 'B' posts."*
+* **Fee**: **Nil** · **Ordinary post only** (no speed post / registered / courier)
+* **Address**: Post Bag No. 001, Lodhi Road Head Post Office, New Delhi-110003 · superscribe the envelope "APPLICATION FOR THE POST OF ______"
+* **Last date to reach**: **15 Nov 2026** → **post by ~8–10 Nov** from Kolkata
+* **⚠️ NOC — resolved, and it does NOT apply**: the ad's Annexure-IV NOC is *"FORM OF CERTIFICATE TO BE SUBMITTED BY **CENTRAL GOVERNMENT CIVILIAN EMPLOYEES SEEKING AGE-RELAXATION**"* — it certifies 3 years' regular service and is the vehicle for age relaxation. He is (a) not a Central Government civilian employee (UCO officers are employees of a body corporate) and (b) not seeking age relaxation (26 vs a 33 limit). **Fill form item 18 honestly, attach no NOC, raise nothing at UCO.**
+* **Honest odds (2026, GATE score 350)**: 560 slots, applicant volume unpublished → pool modelled at 2,500–8,000 CS. Score 350 ≈ 86th percentile of the GATE cohort, ≈74–80th of a self-selected applicant pool; shortlist needs ~88th. **P(shortlist) ≈ 5–15% · P(offer) ≈ 1–4%.** Right on the boundary, not "far outside" (corrected 25 Oct).
+* **The finding**: **~40 marks (GATE score ~500) makes the shortlist near-certain**; at the model's 600h ≈ 48.3 marks this is the **highest-converting door in the entire plan** — 112 seats and 5× shortlisting, versus PGCIL's 2 seats at 60+ marks.
+* **Next cycles**: recurs annually (2025 cycle also 250 posts). GATE score valid 3 years → a GATE 2027 score covers the 2027, 2028 and 2029 cycles. Age window runs to **31 Mar 2033**.
 
 ### 1. MSTC -- Management Trainee (Systems)
 * **Status**: **WAITLISTED (Reserve Panel)** (Active for 1 year, ~July 2026 to July 2027).
