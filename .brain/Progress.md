@@ -15,6 +15,14 @@
 
 ## Session Log
 
+### Session 93 -- 21 Oct 2026 (late night) -- ⚖️ First culture stress test (AGM holiday ping)
+- AGM messaged "Reality project status?" at **8:01 PM on a holiday**. User frustrated, considering a boundary-setting reply tomorrow 10 AM, and grieving Berkadia's culture.
+- **Logged in** `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` dated log with the full analysis.
+- **Correction (same night, user clarification):** the 7:39 / 8:35 PM exchange was **Friday, a working day** — he has **never** replied on an off day. The off-day boundary is already intact and does not need establishing. The only real gap is that status updates carry **no dates**, so they never terminate the conversation.
+- **Fix:** a four-line *terminating* status (done / in progress / blocked / next checkpoint date) at 10 AM, plus three boundary rules: fixed 09:30-18:30 window, reply *time* as the boundary, Friday 17:30 pre-emptive status.
+- **Not a culture verdict yet** — four tests over two weeks: ping frequency, adaptation to 10 AM replies, DIT peer norm, check-in vs blame.
+- **Berkadia grief** reframed as three specific losses (predictability, peers, competence) with three concrete replacements.
+
 ### Session 92 -- 21 Oct 2026 -- 🧱 Stack ramp-up plan (job stabilisation)
 - **New constraint surfaced:** code has been written with AI assistance and cannot yet be fully defended; must now author unaided, on the job, with no extra time.
 - Built `.brain/UCO-STACK-RAMP-UP-PLAN.md` (§0-§14) and published `docs/stack.html` as a separate tab on the dashboard.
