@@ -16,12 +16,20 @@ These are jobs where Avanish has already completed significant selection rounds.
 ### 0. NSPCL -- Senior Assistant Engineer (IT/ERP), E1 Grade
 * **Advt No.**: `01/2026` (NTPC-SAIL Power Company Ltd, New Delhi)
 * **Application No**: `2606002174` (submitted 14 Sept 2026)
-* **Exam**: **Sun 25 Oct 2026, 10:00 AM – 12:00 PM** · **entry 08:30 AM** — 🎫 admit card printed 21 Oct
+* **Exam**: **Sun 25 Oct 2026, 10:00 AM – 12:00 PM** · entry 08:30 AM — ✅ **EXAM TAKEN**
 * **Roll**: `26011701` · **Centre**: Hiralal Mazumdar Memorial College for Women, Block A 2nd Floor, Jadunath Sarbobhouma Lane, College Para, **Dakshineswar, Kolkata 700035**
 * **Pattern (from admit card)**: **120 MCQs / 120 min — Subject Knowledge 80 + Aptitude 40** · +1 per correct · **−0.25 per wrong** · **separate qualifying cutoff in EACH section**
 * **Implication**: aptitude is **33% of the paper and a standalone gate** — the same mechanism that ended IOCL. Prep split must be ~3:1 subject:aptitude, not 100% subject.
+* **✅ VACANCIES (confirmed from Advt 01/2026)**: **Sr. Asst. Engineer (IT) = 2 posts — UR 1 · OBC-NCL 1** · (EWS/SC/ST nil). Whole-company total 17 posts across 6 disciplines.
+  * **Read**: exactly **1 OBC-NCL seat** → he must be the **single highest-scoring OBC candidate in India** for this post. Same one-seat wall as STPI/NFL. Not a lottery, but near-winner-take-all.
+* **✅ SELECTION PROCESS (confirmed, Advt 01/2026)**: Online Selection Test (**SKT + EAT**, must qualify both **separately**) → **shortlist on merit** → **Personal Interview** (must also secure minimum qualifying marks) → **final = 85% test + 15% interview** → document verification → **medical at NSPCL-notified hospital** → offer.
+* **✅ BOND**: **₹5,00,000** (General) / ₹2,50,000 (SC/ST/PwBD) · serve **≥4 years** after joining. OBC not named in the concession → **assume ₹5L**.
+* **⚠️ NOC clause**: candidates with experience in Govt/Semi-Govt/**PSU**/co-op must attach application through proper channel or **produce NOC from present employer at the time of interview**. He is a **UCO Bank (PSU) employee** → if shortlisted, this is a live conflict with probation and the AGM relationship.
+* **⏱️ Expected timeline (2024 precedent, same post)**: test 29.09.2024 → **shortlist 07.10.2024 (8 days)** → **interview 18.10.2024 (21 days)** → **final list 01.11.2024 (33 days)** → offer by email. 2024: **15 shortlisted → 3 selected** for IT/ERP (~5:1).
+* **2026 forecast**: shortlist ~**1–4 Nov 2026** · interview mid-to-late **Nov 2026** · final list **late Nov 2026** · joining **Jan–Mar 2027**.
 * **Website**: `nspcl.co.in` → Careers
-* **Folder**: `NSPCL/`
+* **Folder**: `NSPCL/` · **Revision notes**: `Notes/NSPCL/NSPCL-Technical-Revision.md`
+* **Next NSPCL cycle**: **Advt 02A/2026 — Engineering Executive Trainees 2027 via GATE-2027** (revised from 02/2026 by addendum). Disciplines **Mechanical / Electrical / Electronics / Instrumentation only — ❌ NO CS/IT.** NSPCL does not offer him a GATE-CS route in 2027.
 
 ### 0a. NICL -- Administrative Officer (IT Specialist), Scale-I
 * **Advt**: NICL AO Recruitment 2026-27 · **321 posts** (Generalist 200 · Specialist 121, **IT 11**)

@@ -15,7 +15,7 @@ Read this file first to understand the current priority queue and the immediate 
 | :--- | :--- |
 | **Where** | Private cab, Bareilly → **IGI Airport Delhi**. Flight **22:00 → Kolkata, lands ~00:30 Thu 22 Oct**. |
 | **Home visit** | Closed. Next home trip only after NSPCL + ISRO are done. |
-| **NSPCL Sr. Asst. Engineer (IT/ERP)** | 🎫 **Sun 25 Oct · 10:00 AM–12:00 PM · ENTRY 08:30** · Roll `26011701` · **Hiralal Mazumdar Memorial College for Women, Dakshineswar, Kolkata 700035**. **120 Q: Subject 80 + Aptitude 40 · −0.25 · separate cutoff in EACH section.** |
+| **NSPCL Sr. Asst. Engineer (IT/ERP)** | ✅ **EXAM DONE 25 Oct.** 120 Q: Subject 80 + Aptitude 40 · −0.25 · separate cutoff in EACH section. **2 IT posts = UR 1 + OBC-NCL 1** · final = **85% test + 15% interview** · ₹5L / 4-yr bond. **Result expected ~1–4 Nov** (2024: 8 days to shortlist, 21 to interview). **Watch email only — nothing to submit.** |
 | **ISRO ICRB SC (CS)** | **Thu 29 Oct — CONFIRMED. KOLKATA, SHIFT 1.** Admit card to download 22–23 Oct. **CL to be applied Thu 22 AM.** |
 | **NICL AO (IT Specialist)** | 🟢 **DECIDED — APPLY.** 321 posts (IT: 11) · closes **28 Oct** · Phase-I **17 Nov**, Phase-II **22 Dec** · ~₹1.14 L/mo. Form Fri 23 Oct. |
 | **Cabinet Secretariat DFO (Technical)** | 🟢 **DECIDED — APPLY.** Advt `02/2026` · 250 posts (**112 CS**) · Level-7 · **nil fee** · **by POST, must reach 15 Nov** → Post Bag No. 001, Lodhi Road HO, New Delhi-110003 |

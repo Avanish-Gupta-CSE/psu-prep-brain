@@ -15,6 +15,18 @@
 
 ## Session Log
 
+### Session 94 -- 25 Oct 2026 -- 🎯 NSPCL post-exam: process, seat math, and the NOC fork
+- **NSPCL test written** (Sun 25 Oct, 10:00–12:00, Dakshineswar). Revision sheet built same morning at `Notes/NSPCL/NSPCL-Technical-Revision.md` (570 lines, 10 parts) — committed `c6358cb`.
+- **Recovered the official advertisement (Advt 01/2026) from `nspcl.co.in/page/10`.** The PDF is a CorelDRAW poster with **no text layer** — `pdftotext` returns empty. Read by rendering to PNG (`pdftoppm -r 250 -x 0 -y 3300 -W 1450 -H 1500`) and reading the image. **Method note: NSPCL PDFs will always need this route.**
+- **Confirmed vacancies**: Sr. Asst. Engineer (IT) = **2 posts, UR 1 + OBC-NCL 1**. (EWS/SC/ST nil.) Total company-wide 17 posts across 6 disciplines.
+- **Confirmed selection process**: SKT + EAT with **separate qualifiers** → merit shortlist → **interview (must also clear a minimum)** → **final score = 85% test + 15% interview** → document verification → medical → offer.
+- **Confirmed bond**: ₹5,00,000 General / ₹2,50,000 SC-ST-PwBD, **4-year service**. OBC is not named → assume the ₹5L tier.
+- **Recovered the 2024 precedent for the identical post** from the archived result PDFs: test **29.09.2024** → shortlist **07.10.2024** (8 days) → interview **18.10.2024** (21 days) → final list **01.11.2024** (33 days). **15 shortlisted → 3 selected** (~5:1). NSPCL is unusually fast for a PSU.
+- **2026 forecast**: shortlist ~1–4 Nov · interview ~mid-late Nov · final list ~late Nov · joining Jan–Mar 2027.
+- **The strategic read, stated plainly**: 1 OBC-NCL seat means topping the OBC list nationally — the same one-seat wall as STPI/NFL. **Treat as lottery ticket, not pipeline.** The 2027 corporate deadline (31 Mar) does not move for this.
+- **⚠️ New live fork — the NOC.** Advt requires PSU employees to produce a **present-employer NOC at interview**. That collides with probation (to ~Sept 2028) and with the AGM relationship. **Decision deferred until shortlist is real** — do not raise it at UCO on speculation.
+- **Also closed a 2027 question**: Advt **02A/2026** (revised from 02/2026 by addendum) is NSPCL's **EET-2027 via GATE-2027** — Mechanical/Electrical/Electronics/Instrumentation **only, no CS/IT**. NSPCL gives him no GATE-CS route next year. Removes a line from the 2027 GATE pipeline.
+
 ### Session 93 -- 21 Oct 2026 (late night) -- ⚖️ First culture stress test (AGM holiday ping)
 - AGM messaged "Reality project status?" at **8:01 PM on a holiday**. User frustrated, considering a boundary-setting reply tomorrow 10 AM, and grieving Berkadia's culture.
 - **Logged in** `UCOBank/PHASE-8-TRAINING-AND-EXIT-STRATEGY.md` dated log with the full analysis.
